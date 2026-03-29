@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-29T08:02:51.509517",
+  "timestamp": "2026-03-29T10:02:46.115756",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -10,33 +10,14 @@
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
-      {
-        "title": "美伊开战，为何土耳其狂抛黄金？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846345.html",
-        "source": "虎嗅",
-        "time": "2026-03-29 08:02"
-      }
-    ],
+    "finance": [],
     "industry": [],
     "tech": [
       {
-        "title": "SUPEREV超级电动 x 乐道汽车 x 芝麻信用共创中国汽车订阅的iPhone时刻",
-        "url": "https://36kr.com/p/3743520972554249",
-        "source": "36氪",
-        "time": "2026-03-29 08:02"
-      },
-      {
-        "title": "马斯克的AI创业搭子，全跑光了",
-        "url": "https://36kr.com/p/3743443228246275",
-        "source": "36氪",
-        "time": "2026-03-29 08:02"
-      },
-      {
-        "title": "乔布斯发明了界面，AI正在消灭它",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846331.html",
+        "title": "大模型该去二级市场要钱了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846352.html",
         "source": "虎嗅",
-        "time": "2026-03-29 08:02"
+        "time": "2026-03-29 10:02"
       }
     ],
     "byd": [],
@@ -44,67 +25,85 @@
     "fitness": [],
     "other": [
       {
-        "title": "当汽车订阅从「一家公司的生意」\n变成「一个生态的服务底座」",
-        "url": "https://36kr.com/p/3743520972554249",
+        "title": "资本大佬砸16亿进场，疫苗龙头结束15年无实控人时代？",
+        "url": "https://36kr.com/p/3743799887495431",
         "source": "36氪",
-        "time": "2026-03-29 08:02"
+        "time": "2026-03-29 10:02"
       },
       {
-        "title": "电费只占5%，谁在真正吃掉算力成本？",
-        "url": "https://36kr.com/p/3743467139170568",
+        "title": "沃森生物，有什么吸引点？",
+        "url": "https://36kr.com/p/3743799887495431",
         "source": "36氪",
-        "time": "2026-03-29 08:02"
+        "time": "2026-03-29 10:02"
       },
       {
-        "title": "算力成本拆解，电费之外的核心变量。",
-        "url": "https://36kr.com/p/3743467139170568",
+        "title": "“价格屠夫”奥克斯，失去低价大砍刀",
+        "url": "https://36kr.com/p/3743729468912129",
         "source": "36氪",
-        "time": "2026-03-29 08:02"
+        "time": "2026-03-29 10:02"
+      },
+      {
+        "title": "空调大涨价，低价玩家最受伤。",
+        "url": "https://36kr.com/p/3743729468912129",
+        "source": "36氪",
+        "time": "2026-03-29 10:02"
+      },
+      {
+        "title": "Claude Code过度设计，甚至不该给普通人用？OpenClaw背后的Pi只留了4个工具",
+        "url": "https://36kr.com/p/3743397385044224",
+        "source": "36氪",
+        "time": "2026-03-29 10:02"
+      },
+      {
+        "title": "被中国“淘汰”的车，却在印度“杀疯了”",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846346.html",
+        "source": "虎嗅",
+        "time": "2026-03-29 10:02"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "SUPEREV超级电动 x 乐道汽车 x 芝麻信用共创中国汽车订阅的iPhone时刻",
-      "url": "https://36kr.com/p/3743520972554249",
+      "title": "资本大佬砸16亿进场，疫苗龙头结束15年无实控人时代？",
+      "url": "https://36kr.com/p/3743799887495431",
       "source": "36氪",
-      "time": "2026-03-29 08:02"
+      "time": "2026-03-29 10:02"
     },
     {
-      "title": "当汽车订阅从「一家公司的生意」\n变成「一个生态的服务底座」",
-      "url": "https://36kr.com/p/3743520972554249",
+      "title": "沃森生物，有什么吸引点？",
+      "url": "https://36kr.com/p/3743799887495431",
       "source": "36氪",
-      "time": "2026-03-29 08:02"
+      "time": "2026-03-29 10:02"
     },
     {
-      "title": "电费只占5%，谁在真正吃掉算力成本？",
-      "url": "https://36kr.com/p/3743467139170568",
+      "title": "“价格屠夫”奥克斯，失去低价大砍刀",
+      "url": "https://36kr.com/p/3743729468912129",
       "source": "36氪",
-      "time": "2026-03-29 08:02"
+      "time": "2026-03-29 10:02"
     },
     {
-      "title": "算力成本拆解，电费之外的核心变量。",
-      "url": "https://36kr.com/p/3743467139170568",
+      "title": "空调大涨价，低价玩家最受伤。",
+      "url": "https://36kr.com/p/3743729468912129",
       "source": "36氪",
-      "time": "2026-03-29 08:02"
+      "time": "2026-03-29 10:02"
     },
     {
-      "title": "马斯克的AI创业搭子，全跑光了",
-      "url": "https://36kr.com/p/3743443228246275",
+      "title": "Claude Code过度设计，甚至不该给普通人用？OpenClaw背后的Pi只留了4个工具",
+      "url": "https://36kr.com/p/3743397385044224",
       "source": "36氪",
-      "time": "2026-03-29 08:02"
+      "time": "2026-03-29 10:02"
     },
     {
-      "title": "美伊开战，为何土耳其狂抛黄金？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846345.html",
+      "title": "大模型该去二级市场要钱了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846352.html",
       "source": "虎嗅",
-      "time": "2026-03-29 08:02"
+      "time": "2026-03-29 10:02"
     },
     {
-      "title": "乔布斯发明了界面，AI正在消灭它",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846331.html",
+      "title": "被中国“淘汰”的车，却在印度“杀疯了”",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846346.html",
       "source": "虎嗅",
-      "time": "2026-03-29 08:02"
+      "time": "2026-03-29 10:02"
     }
   ]
 }
