@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-30T10:47:57.156822",
+  "timestamp": "2026-03-30T14:54:16.478409",
   "total": 6,
   "sources": {
     "财联社电报": 0,
@@ -12,86 +12,85 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "AI编程公司Cursor面临AI自动化挑战，营收增长但竞争加剧。",
-        "url": "https://36kr.com/p/3745262728888328",
-        "source": "36氪",
-        "time": "2026-03-30 10:47"
-      },
-      {
-        "title": "AI不会撒谎，但会转述谎言",
-        "url": "https://36kr.com/p/3745260630016005",
-        "source": "36氪",
-        "time": "2026-03-30 10:47"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "明星独角兽Cursor，不稳了？",
-        "url": "https://36kr.com/p/3745262728888328",
+        "title": "“地方附加税”改革提上日程：新在哪，如何开征？",
+        "url": "https://36kr.com/p/3745255530397696",
         "source": "36氪",
-        "time": "2026-03-30 10:47"
+        "time": "2026-03-30 14:53"
       },
       {
-        "title": "这是一个关于我们如何被自己对答案的信任所劫持的故事。",
-        "url": "https://36kr.com/p/3745260630016005",
+        "title": "全行业都狂卷 Harness，Anthropic 还在加码，Codex 负责人却说它正在退场",
+        "url": "https://36kr.com/p/3745269787770881",
         "source": "36氪",
-        "time": "2026-03-30 10:47"
+        "time": "2026-03-30 14:53"
       },
       {
-        "title": "猪肉价格暴跌让羽毛球涨价？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846537.html",
-        "source": "虎嗅",
-        "time": "2026-03-30 10:47"
+        "title": "有人强化有人削弱：Harness 正在被模型能力反向吞噬？",
+        "url": "https://36kr.com/p/3745269787770881",
+        "source": "36氪",
+        "time": "2026-03-30 14:53"
       },
       {
-        "title": "街头New Money整出了自己的拉夫劳伦",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846607.html",
+        "title": "Agent浪潮下，巨头的思考与应对",
+        "url": "https://36kr.com/p/3745271360504064",
+        "source": "36氪",
+        "time": "2026-03-30 14:53"
+      },
+      {
+        "title": "巨头下场造芯 CPU“三国时代”到来",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846576.html",
         "source": "虎嗅",
-        "time": "2026-03-30 10:47"
+        "time": "2026-03-30 14:53"
+      },
+      {
+        "title": "Kimi没有DeepSeek的命",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846656.html",
+        "source": "虎嗅",
+        "time": "2026-03-30 14:53"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "明星独角兽Cursor，不稳了？",
-      "url": "https://36kr.com/p/3745262728888328",
+      "title": "“地方附加税”改革提上日程：新在哪，如何开征？",
+      "url": "https://36kr.com/p/3745255530397696",
       "source": "36氪",
-      "time": "2026-03-30 10:47"
+      "time": "2026-03-30 14:53"
     },
     {
-      "title": "AI编程公司Cursor面临AI自动化挑战，营收增长但竞争加剧。",
-      "url": "https://36kr.com/p/3745262728888328",
+      "title": "全行业都狂卷 Harness，Anthropic 还在加码，Codex 负责人却说它正在退场",
+      "url": "https://36kr.com/p/3745269787770881",
       "source": "36氪",
-      "time": "2026-03-30 10:47"
+      "time": "2026-03-30 14:53"
     },
     {
-      "title": "AI不会撒谎，但会转述谎言",
-      "url": "https://36kr.com/p/3745260630016005",
+      "title": "有人强化有人削弱：Harness 正在被模型能力反向吞噬？",
+      "url": "https://36kr.com/p/3745269787770881",
       "source": "36氪",
-      "time": "2026-03-30 10:47"
+      "time": "2026-03-30 14:53"
     },
     {
-      "title": "这是一个关于我们如何被自己对答案的信任所劫持的故事。",
-      "url": "https://36kr.com/p/3745260630016005",
+      "title": "Agent浪潮下，巨头的思考与应对",
+      "url": "https://36kr.com/p/3745271360504064",
       "source": "36氪",
-      "time": "2026-03-30 10:47"
+      "time": "2026-03-30 14:53"
     },
     {
-      "title": "猪肉价格暴跌让羽毛球涨价？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846537.html",
+      "title": "巨头下场造芯 CPU“三国时代”到来",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846576.html",
       "source": "虎嗅",
-      "time": "2026-03-30 10:47"
+      "time": "2026-03-30 14:53"
     },
     {
-      "title": "街头New Money整出了自己的拉夫劳伦",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846607.html",
+      "title": "Kimi没有DeepSeek的命",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846656.html",
       "source": "虎嗅",
-      "time": "2026-03-30 10:47"
+      "time": "2026-03-30 14:53"
     }
   ]
 }
