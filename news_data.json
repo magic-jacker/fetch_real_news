@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-03-30T06:17:26.210175",
-  "total": 5,
+  "timestamp": "2026-03-30T10:47:57.156822",
+  "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 4,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
@@ -14,28 +14,16 @@
     "industry": [],
     "tech": [
       {
-        "title": "智能硬件混战，这家公司为何给端侧AI算法精准“减肥”？｜探厂「友杰智新」",
-        "url": "https://36kr.com/p/3744990447649032",
+        "title": "AI编程公司Cursor面临AI自动化挑战，营收增长但竞争加剧。",
+        "url": "https://36kr.com/p/3745262728888328",
         "source": "36氪",
-        "time": "2026-03-30 06:16"
+        "time": "2026-03-30 10:47"
       },
       {
-        "title": "苹果即将推出全新 iPhone 相机功能？",
-        "url": "https://36kr.com/p/3710875832562051",
+        "title": "AI不会撒谎，但会转述谎言",
+        "url": "https://36kr.com/p/3745260630016005",
         "source": "36氪",
-        "time": "2026-03-30 06:16"
-      },
-      {
-        "title": "苹果向来擅长把成熟技术做出更出色的体验。",
-        "url": "https://36kr.com/p/3710875832562051",
-        "source": "36氪",
-        "time": "2026-03-30 06:16"
-      },
-      {
-        "title": "AI 时代的反常识：赚钱很快，但用户留存很差",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846506.html",
-        "source": "虎嗅",
-        "time": "2026-03-30 06:17"
+        "time": "2026-03-30 10:47"
       }
     ],
     "byd": [],
@@ -43,43 +31,67 @@
     "fitness": [],
     "other": [
       {
-        "title": "“极小模型”的暴力美学。",
-        "url": "https://36kr.com/p/3744990447649032",
+        "title": "明星独角兽Cursor，不稳了？",
+        "url": "https://36kr.com/p/3745262728888328",
         "source": "36氪",
-        "time": "2026-03-30 06:16"
+        "time": "2026-03-30 10:47"
+      },
+      {
+        "title": "这是一个关于我们如何被自己对答案的信任所劫持的故事。",
+        "url": "https://36kr.com/p/3745260630016005",
+        "source": "36氪",
+        "time": "2026-03-30 10:47"
+      },
+      {
+        "title": "猪肉价格暴跌让羽毛球涨价？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846537.html",
+        "source": "虎嗅",
+        "time": "2026-03-30 10:47"
+      },
+      {
+        "title": "街头New Money整出了自己的拉夫劳伦",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846607.html",
+        "source": "虎嗅",
+        "time": "2026-03-30 10:47"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "智能硬件混战，这家公司为何给端侧AI算法精准“减肥”？｜探厂「友杰智新」",
-      "url": "https://36kr.com/p/3744990447649032",
+      "title": "明星独角兽Cursor，不稳了？",
+      "url": "https://36kr.com/p/3745262728888328",
       "source": "36氪",
-      "time": "2026-03-30 06:16"
+      "time": "2026-03-30 10:47"
     },
     {
-      "title": "“极小模型”的暴力美学。",
-      "url": "https://36kr.com/p/3744990447649032",
+      "title": "AI编程公司Cursor面临AI自动化挑战，营收增长但竞争加剧。",
+      "url": "https://36kr.com/p/3745262728888328",
       "source": "36氪",
-      "time": "2026-03-30 06:16"
+      "time": "2026-03-30 10:47"
     },
     {
-      "title": "苹果即将推出全新 iPhone 相机功能？",
-      "url": "https://36kr.com/p/3710875832562051",
+      "title": "AI不会撒谎，但会转述谎言",
+      "url": "https://36kr.com/p/3745260630016005",
       "source": "36氪",
-      "time": "2026-03-30 06:16"
+      "time": "2026-03-30 10:47"
     },
     {
-      "title": "苹果向来擅长把成熟技术做出更出色的体验。",
-      "url": "https://36kr.com/p/3710875832562051",
+      "title": "这是一个关于我们如何被自己对答案的信任所劫持的故事。",
+      "url": "https://36kr.com/p/3745260630016005",
       "source": "36氪",
-      "time": "2026-03-30 06:16"
+      "time": "2026-03-30 10:47"
     },
     {
-      "title": "AI 时代的反常识：赚钱很快，但用户留存很差",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846506.html",
+      "title": "猪肉价格暴跌让羽毛球涨价？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846537.html",
       "source": "虎嗅",
-      "time": "2026-03-30 06:17"
+      "time": "2026-03-30 10:47"
+    },
+    {
+      "title": "街头New Money整出了自己的拉夫劳伦",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846607.html",
+      "source": "虎嗅",
+      "time": "2026-03-30 10:47"
     }
   ]
 }
