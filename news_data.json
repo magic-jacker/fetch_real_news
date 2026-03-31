@@ -1,97 +1,109 @@
 {
-  "timestamp": "2026-03-31T10:14:20.115279",
-  "total": 6,
+  "timestamp": "2026-03-31T14:49:38.857626",
+  "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [],
-    "tech": [
+    "industry": [
       {
-        "title": "氪星晚报｜B站官宣将下线猜你喜欢算法；北京前沿脑机接口研究院正式成立；​国行版苹果AI突然上线后又被撤回，苹果回应：正在积极推进落地中国",
-        "url": "https://36kr.com/p/3746654452187648",
+        "title": "四家机器人厂商，一起投了一家数据公司丨涌现新项目",
+        "url": "https://36kr.com/p/3746889894461960",
         "source": "36氪",
-        "time": "2026-03-31 10:13"
+        "time": "2026-03-31 14:49"
+      },
+      {
+        "title": "中国高端手机的影像竞争，从拼参数到拼系统性专业能力。",
+        "url": "https://36kr.com/p/3746862709686786",
+        "source": "36氪",
+        "time": "2026-03-31 14:49"
       }
     ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "星巴克称复苏已初显成效，CEO表示门店体验呈现初步向好势头",
-        "url": "https://36kr.com/p/3746654452187648",
+        "title": "资方包括灵初智能、穹彻智能、浙江人形、智平方。",
+        "url": "https://36kr.com/p/3746889894461960",
         "source": "36氪",
-        "time": "2026-03-31 10:13"
+        "time": "2026-03-31 14:49"
       },
       {
-        "title": "欧洲电商平台Bol，急需中国卖家",
-        "url": "https://36kr.com/p/3746522727186947",
+        "title": "vivo发布X300系列两款机型，主打专业影像和均衡参数丨最前线",
+        "url": "https://36kr.com/p/3746862709686786",
         "source": "36氪",
-        "time": "2026-03-31 10:13"
+        "time": "2026-03-31 14:49"
       },
       {
-        "title": "清华、智谱团队提出Vision2Web：基于Agent验证评估视觉网站开发",
-        "url": "https://36kr.com/p/3746494938317319",
+        "title": "炸裂：疑似Claude Code原生源码被扒光泄露？连开发手写注释都有",
+        "url": "https://36kr.com/p/3746797496877829",
         "source": "36氪",
-        "time": "2026-03-31 10:13"
+        "time": "2026-03-31 14:49"
       },
       {
-        "title": "孙立平：欧洲为什么总是坐在小孩那桌？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846881.html",
+        "title": "4500万会员，没解决呷哺呷哺的“死穴”",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4847007.html",
         "source": "虎嗅",
-        "time": "2026-03-31 10:13"
+        "time": "2026-03-31 14:49"
       },
       {
-        "title": "国际化，泡泡玛特仅剩的共识？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846933.html",
+        "title": "张雪机车夺冠，以及还在被低估的中国制造业",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4847000.html",
         "source": "虎嗅",
-        "time": "2026-03-31 10:13"
+        "time": "2026-03-31 14:49"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "氪星晚报｜B站官宣将下线猜你喜欢算法；北京前沿脑机接口研究院正式成立；​国行版苹果AI突然上线后又被撤回，苹果回应：正在积极推进落地中国",
-      "url": "https://36kr.com/p/3746654452187648",
+      "title": "四家机器人厂商，一起投了一家数据公司丨涌现新项目",
+      "url": "https://36kr.com/p/3746889894461960",
       "source": "36氪",
-      "time": "2026-03-31 10:13"
+      "time": "2026-03-31 14:49"
     },
     {
-      "title": "星巴克称复苏已初显成效，CEO表示门店体验呈现初步向好势头",
-      "url": "https://36kr.com/p/3746654452187648",
+      "title": "资方包括灵初智能、穹彻智能、浙江人形、智平方。",
+      "url": "https://36kr.com/p/3746889894461960",
       "source": "36氪",
-      "time": "2026-03-31 10:13"
+      "time": "2026-03-31 14:49"
     },
     {
-      "title": "欧洲电商平台Bol，急需中国卖家",
-      "url": "https://36kr.com/p/3746522727186947",
+      "title": "vivo发布X300系列两款机型，主打专业影像和均衡参数丨最前线",
+      "url": "https://36kr.com/p/3746862709686786",
       "source": "36氪",
-      "time": "2026-03-31 10:13"
+      "time": "2026-03-31 14:49"
     },
     {
-      "title": "清华、智谱团队提出Vision2Web：基于Agent验证评估视觉网站开发",
-      "url": "https://36kr.com/p/3746494938317319",
+      "title": "中国高端手机的影像竞争，从拼参数到拼系统性专业能力。",
+      "url": "https://36kr.com/p/3746862709686786",
       "source": "36氪",
-      "time": "2026-03-31 10:13"
+      "time": "2026-03-31 14:49"
     },
     {
-      "title": "孙立平：欧洲为什么总是坐在小孩那桌？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846881.html",
+      "title": "炸裂：疑似Claude Code原生源码被扒光泄露？连开发手写注释都有",
+      "url": "https://36kr.com/p/3746797496877829",
+      "source": "36氪",
+      "time": "2026-03-31 14:49"
+    },
+    {
+      "title": "4500万会员，没解决呷哺呷哺的“死穴”",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4847007.html",
       "source": "虎嗅",
-      "time": "2026-03-31 10:13"
+      "time": "2026-03-31 14:49"
     },
     {
-      "title": "国际化，泡泡玛特仅剩的共识？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846933.html",
+      "title": "张雪机车夺冠，以及还在被低估的中国制造业",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4847000.html",
       "source": "虎嗅",
-      "time": "2026-03-31 10:13"
+      "time": "2026-03-31 14:49"
     }
   ]
 }
