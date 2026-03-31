@@ -1,96 +1,97 @@
 {
-  "timestamp": "2026-03-30T22:07:01.264197",
+  "timestamp": "2026-03-31T00:02:00.956562",
   "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 4,
+    "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "为什么说人工智能永远不会拥有意识",
+        "url": "https://36kr.com/p/3710818279829896",
+        "source": "36氪",
+        "time": "2026-03-31 00:01"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "“地方附加税”改革提上日程：新在哪，如何开征？",
-        "url": "https://36kr.com/p/3745255530397696",
+        "title": "电池企业EnerVenue完成3亿美元新融资，将在华建首条吉瓦级生产线｜36氪独家",
+        "url": "https://36kr.com/p/3745335802790147",
         "source": "36氪",
-        "time": "2026-03-30 22:06"
+        "time": "2026-03-31 00:01"
       },
       {
-        "title": "全行业都狂卷 Harness，Anthropic 还在加码，Codex 负责人却说它正在退场",
-        "url": "https://36kr.com/p/3745269787770881",
+        "title": "镍氢电池迈向大规模生产",
+        "url": "https://36kr.com/p/3745335802790147",
         "source": "36氪",
-        "time": "2026-03-30 22:06"
+        "time": "2026-03-31 00:01"
       },
       {
-        "title": "有人强化有人削弱：Harness 正在被模型能力反向吞噬？",
-        "url": "https://36kr.com/p/3745269787770881",
+        "title": "从《大势》看《格局》， 系统解析当今世界格局",
+        "url": "https://36kr.com/p/3744963455090949",
         "source": "36氪",
-        "time": "2026-03-30 22:06"
+        "time": "2026-03-31 00:01"
       },
       {
-        "title": "Agent浪潮下，巨头的思考与应对",
-        "url": "https://36kr.com/p/3745271360504064",
+        "title": "牛弹琴新书《大势》《格局》解析世界格局演变",
+        "url": "https://36kr.com/p/3744963455090949",
         "source": "36氪",
-        "time": "2026-03-30 22:06"
+        "time": "2026-03-31 00:01"
       },
       {
-        "title": "巨头下场造芯 CPU“三国时代”到来",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846576.html",
+        "title": "环保上市公司5年复盘：市值的滑落与财务的阵痛",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846750.html",
         "source": "虎嗅",
-        "time": "2026-03-30 22:06"
-      },
-      {
-        "title": "Kimi没有DeepSeek的命",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846656.html",
-        "source": "虎嗅",
-        "time": "2026-03-30 22:06"
+        "time": "2026-03-31 00:02"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "“地方附加税”改革提上日程：新在哪，如何开征？",
-      "url": "https://36kr.com/p/3745255530397696",
+      "title": "电池企业EnerVenue完成3亿美元新融资，将在华建首条吉瓦级生产线｜36氪独家",
+      "url": "https://36kr.com/p/3745335802790147",
       "source": "36氪",
-      "time": "2026-03-30 22:06"
+      "time": "2026-03-31 00:01"
     },
     {
-      "title": "全行业都狂卷 Harness，Anthropic 还在加码，Codex 负责人却说它正在退场",
-      "url": "https://36kr.com/p/3745269787770881",
+      "title": "镍氢电池迈向大规模生产",
+      "url": "https://36kr.com/p/3745335802790147",
       "source": "36氪",
-      "time": "2026-03-30 22:06"
+      "time": "2026-03-31 00:01"
     },
     {
-      "title": "有人强化有人削弱：Harness 正在被模型能力反向吞噬？",
-      "url": "https://36kr.com/p/3745269787770881",
+      "title": "从《大势》看《格局》， 系统解析当今世界格局",
+      "url": "https://36kr.com/p/3744963455090949",
       "source": "36氪",
-      "time": "2026-03-30 22:06"
+      "time": "2026-03-31 00:01"
     },
     {
-      "title": "Agent浪潮下，巨头的思考与应对",
-      "url": "https://36kr.com/p/3745271360504064",
+      "title": "牛弹琴新书《大势》《格局》解析世界格局演变",
+      "url": "https://36kr.com/p/3744963455090949",
       "source": "36氪",
-      "time": "2026-03-30 22:06"
+      "time": "2026-03-31 00:01"
     },
     {
-      "title": "巨头下场造芯 CPU“三国时代”到来",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846576.html",
+      "title": "为什么说人工智能永远不会拥有意识",
+      "url": "https://36kr.com/p/3710818279829896",
+      "source": "36氪",
+      "time": "2026-03-31 00:01"
+    },
+    {
+      "title": "环保上市公司5年复盘：市值的滑落与财务的阵痛",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846750.html",
       "source": "虎嗅",
-      "time": "2026-03-30 22:06"
-    },
-    {
-      "title": "Kimi没有DeepSeek的命",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4846656.html",
-      "source": "虎嗅",
-      "time": "2026-03-30 22:06"
+      "time": "2026-03-31 00:02"
     }
   ]
 }
