@@ -1,98 +1,97 @@
 {
-  "timestamp": "2026-04-02T09:39:53.700637",
+  "timestamp": "2026-04-02T12:04:18.373591",
   "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 4,
+    "36氪": 5,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
-    "industry": [
+    "finance": [
       {
-        "title": "SEMICON展会见闻：未来2年半导体的趋势解读",
-        "url": "https://36kr.com/p/3749398587064834",
-        "source": "36氪",
-        "time": "2026-04-02 09:39"
+        "title": "冲击IPO的XREAL真的在努力省钱了，但依然亏4.5亿",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4847609.html",
+        "source": "虎嗅",
+        "time": "2026-04-02 12:04"
       }
     ],
-    "tech": [
-      {
-        "title": "Harness火热，是因为AI终于能管AI了",
-        "url": "https://36kr.com/p/3749182427628037",
-        "source": "36氪",
-        "time": "2026-04-02 09:39"
-      }
-    ],
+    "industry": [],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "铜师傅想学泡泡玛特，为什么资本不买账？",
-        "url": "https://36kr.com/p/3749293890585094",
+        "title": "东鹏饮料年营收209亿：净利44亿，派发现金分红14亿",
+        "url": "https://36kr.com/p/3749527542219264",
         "source": "36氪",
-        "time": "2026-04-02 09:39"
+        "time": "2026-04-02 12:04"
       },
       {
-        "title": "一曲新词酒一杯，喝到Harness我就醉",
-        "url": "https://36kr.com/p/3749182427628037",
+        "title": "东鹏饮料2025年第四季度营收40.3亿，净利6.54亿，扣非后净利为6.44亿元。",
+        "url": "https://36kr.com/p/3749527542219264",
         "source": "36氪",
-        "time": "2026-04-02 09:39"
+        "time": "2026-04-02 12:04"
       },
       {
-        "title": "霸王茶姬收到一个危险信号",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4847553.html",
-        "source": "虎嗅",
-        "time": "2026-04-02 09:39"
+        "title": "建议所有 MaaS厂商开通疯狂星期四套餐",
+        "url": "https://36kr.com/p/3749526503011074",
+        "source": "36氪",
+        "time": "2026-04-02 12:04"
       },
       {
-        "title": "590亿美元的幻梦，女版巴菲特如何跌下神坛？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4847475.html",
+        "title": "V 我五十，助我智能飞升。",
+        "url": "https://36kr.com/p/3749526503011074",
+        "source": "36氪",
+        "time": "2026-04-02 12:04"
+      },
+      {
+        "title": "你以为正确的休息方式，其实是错的",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4847630.html",
         "source": "虎嗅",
-        "time": "2026-04-02 09:39"
+        "time": "2026-04-02 12:04"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "铜师傅想学泡泡玛特，为什么资本不买账？",
-      "url": "https://36kr.com/p/3749293890585094",
+      "title": "东鹏饮料年营收209亿：净利44亿，派发现金分红14亿",
+      "url": "https://36kr.com/p/3749527542219264",
       "source": "36氪",
-      "time": "2026-04-02 09:39"
+      "time": "2026-04-02 12:04"
     },
     {
-      "title": "一曲新词酒一杯，喝到Harness我就醉",
-      "url": "https://36kr.com/p/3749182427628037",
+      "title": "东鹏饮料2025年第四季度营收40.3亿，净利6.54亿，扣非后净利为6.44亿元。",
+      "url": "https://36kr.com/p/3749527542219264",
       "source": "36氪",
-      "time": "2026-04-02 09:39"
+      "time": "2026-04-02 12:04"
     },
     {
-      "title": "Harness火热，是因为AI终于能管AI了",
-      "url": "https://36kr.com/p/3749182427628037",
+      "title": "建议所有 MaaS厂商开通疯狂星期四套餐",
+      "url": "https://36kr.com/p/3749526503011074",
       "source": "36氪",
-      "time": "2026-04-02 09:39"
+      "time": "2026-04-02 12:04"
     },
     {
-      "title": "SEMICON展会见闻：未来2年半导体的趋势解读",
-      "url": "https://36kr.com/p/3749398587064834",
+      "title": "V 我五十，助我智能飞升。",
+      "url": "https://36kr.com/p/3749526503011074",
       "source": "36氪",
-      "time": "2026-04-02 09:39"
+      "time": "2026-04-02 12:04"
     },
     {
-      "title": "霸王茶姬收到一个危险信号",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4847553.html",
+      "title": "冲击IPO的XREAL真的在努力省钱了，但依然亏4.5亿",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4847609.html",
       "source": "虎嗅",
-      "time": "2026-04-02 09:39"
+      "time": "2026-04-02 12:04"
     },
     {
-      "title": "590亿美元的幻梦，女版巴菲特如何跌下神坛？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4847475.html",
+      "title": "你以为正确的休息方式，其实是错的",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4847630.html",
       "source": "虎嗅",
-      "time": "2026-04-02 09:39"
+      "time": "2026-04-02 12:04"
     }
   ]
 }
