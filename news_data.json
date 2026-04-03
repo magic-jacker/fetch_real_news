@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-03T08:36:30.752128",
-  "total": 7,
+  "timestamp": "2026-04-03T11:26:21.845721",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -12,98 +12,37 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "AI时代的省钱哲学：如何把每一个Token花在刀刃上",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4847757.html",
-        "source": "虎嗅",
-        "time": "2026-04-03 08:36"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "北京市朝阳区推出300套毕业生租赁住房",
-        "url": "https://36kr.com/p/3750828410471172",
-        "source": "36氪",
-        "time": "2026-04-03 08:36"
-      },
-      {
-        "title": "北京朝阳推300套毕业生住房，提供免押金及1-3个月免租优惠。",
-        "url": "https://36kr.com/p/3750828410471172",
-        "source": "36氪",
-        "time": "2026-04-03 08:36"
-      },
-      {
-        "title": "罗技“狗”营销频频翻车，这鼠标我是非买不可吗？",
-        "url": "https://36kr.com/p/3750574154314248",
-        "source": "36氪",
-        "time": "2026-04-03 08:36"
-      },
-      {
-        "title": "银行圈薪酬大反转？员工涨薪、高管降薪，背后真相太扎心…",
-        "url": "https://36kr.com/p/3750579635700230",
-        "source": "36氪",
-        "time": "2026-04-03 08:36"
-      },
-      {
-        "title": "“涨200，加20万存款任务”。",
-        "url": "https://36kr.com/p/3750579635700230",
-        "source": "36氪",
-        "time": "2026-04-03 08:36"
-      },
-      {
-        "title": "万里之外这种液体“断供”之后，韩国人去抢购垃圾袋了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4847793.html",
+        "title": "耐克急需向臃肿库存开刀",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4847933.html",
         "source": "虎嗅",
-        "time": "2026-04-03 08:36"
+        "time": "2026-04-03 11:26"
+      },
+      {
+        "title": "张雪背后的那个人，让F1估值狂涨500%",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4847864.html",
+        "source": "虎嗅",
+        "time": "2026-04-03 11:26"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "北京市朝阳区推出300套毕业生租赁住房",
-      "url": "https://36kr.com/p/3750828410471172",
-      "source": "36氪",
-      "time": "2026-04-03 08:36"
-    },
-    {
-      "title": "北京朝阳推300套毕业生住房，提供免押金及1-3个月免租优惠。",
-      "url": "https://36kr.com/p/3750828410471172",
-      "source": "36氪",
-      "time": "2026-04-03 08:36"
-    },
-    {
-      "title": "罗技“狗”营销频频翻车，这鼠标我是非买不可吗？",
-      "url": "https://36kr.com/p/3750574154314248",
-      "source": "36氪",
-      "time": "2026-04-03 08:36"
-    },
-    {
-      "title": "银行圈薪酬大反转？员工涨薪、高管降薪，背后真相太扎心…",
-      "url": "https://36kr.com/p/3750579635700230",
-      "source": "36氪",
-      "time": "2026-04-03 08:36"
-    },
-    {
-      "title": "“涨200，加20万存款任务”。",
-      "url": "https://36kr.com/p/3750579635700230",
-      "source": "36氪",
-      "time": "2026-04-03 08:36"
-    },
-    {
-      "title": "万里之外这种液体“断供”之后，韩国人去抢购垃圾袋了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4847793.html",
+      "title": "耐克急需向臃肿库存开刀",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4847933.html",
       "source": "虎嗅",
-      "time": "2026-04-03 08:36"
+      "time": "2026-04-03 11:26"
     },
     {
-      "title": "AI时代的省钱哲学：如何把每一个Token花在刀刃上",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4847757.html",
+      "title": "张雪背后的那个人，让F1估值狂涨500%",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4847864.html",
       "source": "虎嗅",
-      "time": "2026-04-03 08:36"
+      "time": "2026-04-03 11:26"
     }
   ]
 }
