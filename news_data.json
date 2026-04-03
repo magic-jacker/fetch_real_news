@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-02T23:57:54.351288",
+  "timestamp": "2026-04-03T05:52:05.977445",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -10,27 +10,14 @@
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
-      {
-        "title": "冲击IPO的XREAL真的在努力省钱了，但依然亏4.5亿",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4847609.html",
-        "source": "虎嗅",
-        "time": "2026-04-02 23:57"
-      }
-    ],
+    "finance": [],
     "industry": [],
     "tech": [
       {
-        "title": "2026年 AI 困局 多数企业栽在这九大坑",
-        "url": "https://36kr.com/p/3728086488677256",
-        "source": "36氪",
-        "time": "2026-04-02 23:57"
-      },
-      {
-        "title": "Gartner预测2026年AI九大趋势",
-        "url": "https://36kr.com/p/3728086488677256",
-        "source": "36氪",
-        "time": "2026-04-02 23:57"
+        "title": "AI时代的省钱哲学：如何把每一个Token花在刀刃上",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4847757.html",
+        "source": "虎嗅",
+        "time": "2026-04-03 05:51"
       }
     ],
     "byd": [],
@@ -38,73 +25,85 @@
     "fitness": [],
     "other": [
       {
-        "title": "比起年轻人，40岁、50岁甚至60岁的人更适合创业",
-        "url": "https://36kr.com/p/3711460760957065",
+        "title": "36氪首发丨前赛默飞员工创业黑灯实验室，实现国内100%交付，获近亿融资",
+        "url": "https://36kr.com/p/3750417621795588",
         "source": "36氪",
-        "time": "2026-04-02 23:57"
+        "time": "2026-04-03 05:51"
       },
       {
-        "title": "把靠岁月挣来的本事，真正用起来。",
-        "url": "https://36kr.com/p/3711460760957065",
+        "title": "实现实验室“完全无人化”与“完全闭环”。",
+        "url": "https://36kr.com/p/3750417621795588",
         "source": "36氪",
-        "time": "2026-04-02 23:57"
+        "time": "2026-04-03 05:51"
       },
       {
-        "title": "撕掉行业「皇帝新衣」，优必选具身人形收入涨了2203.7%",
-        "url": "https://36kr.com/p/3749718642328325",
+        "title": "下坠的中产，正在批量逃离“陪读天堂”",
+        "url": "https://36kr.com/p/3750563261580033",
         "source": "36氪",
-        "time": "2026-04-02 23:57"
+        "time": "2026-04-03 05:51"
       },
       {
-        "title": "石油从来不是美元霸权的基石",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4847673.html",
+        "title": "一场通往“教育乌托邦”的跨国围城。",
+        "url": "https://36kr.com/p/3750563261580033",
+        "source": "36氪",
+        "time": "2026-04-03 05:51"
+      },
+      {
+        "title": "董宇辉欠丈母娘们一次郑重道歉",
+        "url": "https://36kr.com/p/3750555023749892",
+        "source": "36氪",
+        "time": "2026-04-03 05:51"
+      },
+      {
+        "title": "味多美不招北京人：一块面包里的用工经济学",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4847747.html",
         "source": "虎嗅",
-        "time": "2026-04-02 23:57"
+        "time": "2026-04-03 05:51"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "2026年 AI 困局 多数企业栽在这九大坑",
-      "url": "https://36kr.com/p/3728086488677256",
+      "title": "36氪首发丨前赛默飞员工创业黑灯实验室，实现国内100%交付，获近亿融资",
+      "url": "https://36kr.com/p/3750417621795588",
       "source": "36氪",
-      "time": "2026-04-02 23:57"
+      "time": "2026-04-03 05:51"
     },
     {
-      "title": "Gartner预测2026年AI九大趋势",
-      "url": "https://36kr.com/p/3728086488677256",
+      "title": "实现实验室“完全无人化”与“完全闭环”。",
+      "url": "https://36kr.com/p/3750417621795588",
       "source": "36氪",
-      "time": "2026-04-02 23:57"
+      "time": "2026-04-03 05:51"
     },
     {
-      "title": "比起年轻人，40岁、50岁甚至60岁的人更适合创业",
-      "url": "https://36kr.com/p/3711460760957065",
+      "title": "下坠的中产，正在批量逃离“陪读天堂”",
+      "url": "https://36kr.com/p/3750563261580033",
       "source": "36氪",
-      "time": "2026-04-02 23:57"
+      "time": "2026-04-03 05:51"
     },
     {
-      "title": "把靠岁月挣来的本事，真正用起来。",
-      "url": "https://36kr.com/p/3711460760957065",
+      "title": "一场通往“教育乌托邦”的跨国围城。",
+      "url": "https://36kr.com/p/3750563261580033",
       "source": "36氪",
-      "time": "2026-04-02 23:57"
+      "time": "2026-04-03 05:51"
     },
     {
-      "title": "撕掉行业「皇帝新衣」，优必选具身人形收入涨了2203.7%",
-      "url": "https://36kr.com/p/3749718642328325",
+      "title": "董宇辉欠丈母娘们一次郑重道歉",
+      "url": "https://36kr.com/p/3750555023749892",
       "source": "36氪",
-      "time": "2026-04-02 23:57"
+      "time": "2026-04-03 05:51"
     },
     {
-      "title": "冲击IPO的XREAL真的在努力省钱了，但依然亏4.5亿",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4847609.html",
+      "title": "味多美不招北京人：一块面包里的用工经济学",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4847747.html",
       "source": "虎嗅",
-      "time": "2026-04-02 23:57"
+      "time": "2026-04-03 05:51"
     },
     {
-      "title": "石油从来不是美元霸权的基石",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4847673.html",
+      "title": "AI时代的省钱哲学：如何把每一个Token花在刀刃上",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4847757.html",
       "source": "虎嗅",
-      "time": "2026-04-02 23:57"
+      "time": "2026-04-03 05:51"
     }
   ]
 }
