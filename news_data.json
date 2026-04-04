@@ -1,33 +1,39 @@
 {
-  "timestamp": "2026-04-04T05:12:09.073949",
-  "total": 6,
+  "timestamp": "2026-04-04T07:55:37.539042",
+  "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
+    "finance": [],
+    "industry": [
       {
-        "title": "一年卖25亿的网红牙膏，要IPO了",
-        "url": "https://36kr.com/p/3751895796597253",
+        "title": "一群00后极客和这家机器人公司共处72小时",
+        "url": "https://36kr.com/p/3752115857638145",
         "source": "36氪",
-        "time": "2026-04-04 05:11"
+        "time": "2026-04-04 07:55"
       }
     ],
-    "industry": [],
-    "tech": [
+    "tech": [],
+    "byd": [
       {
-        "title": "大厂“牛马”，被迫用AI",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4848066.html",
-        "source": "虎嗅",
-        "time": "2026-04-04 05:11"
+        "title": "1000亿，武汉国资赚翻了",
+        "url": "https://36kr.com/p/3752157975085576",
+        "source": "36氪",
+        "time": "2026-04-04 07:55"
+      },
+      {
+        "title": "1000亿，武汉国资赚翻了。",
+        "url": "https://36kr.com/p/3752157975085576",
+        "source": "36氪",
+        "time": "2026-04-04 07:55"
       }
     ],
-    "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
@@ -35,64 +41,70 @@
         "title": "“不到500元买下春天”，Color Walk火了！",
         "url": "https://36kr.com/p/3751906920612360",
         "source": "36氪",
-        "time": "2026-04-04 05:11"
+        "time": "2026-04-04 07:55"
       },
       {
         "title": "今天你Color Walk了吗？",
         "url": "https://36kr.com/p/3751906920612360",
         "source": "36氪",
-        "time": "2026-04-04 05:11"
+        "time": "2026-04-04 07:55"
       },
       {
-        "title": "小镇青年借着短视频的风口，赢麻了。",
-        "url": "https://36kr.com/p/3751895796597253",
-        "source": "36氪",
-        "time": "2026-04-04 05:11"
+        "title": "有线耳机这么好用，不翻红才怪",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4848079.html",
+        "source": "虎嗅",
+        "time": "2026-04-04 07:55"
       },
       {
-        "title": "偿债压力严峻，百亿新希望乳业赴港上市",
-        "url": "https://36kr.com/p/3751279321514504",
-        "source": "36氪",
-        "time": "2026-04-04 05:11"
+        "title": "谁在批量制造“假洋牌”？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4848122.html",
+        "source": "虎嗅",
+        "time": "2026-04-04 07:55"
       }
     ]
   },
   "raw_news": [
     {
+      "title": "1000亿，武汉国资赚翻了",
+      "url": "https://36kr.com/p/3752157975085576",
+      "source": "36氪",
+      "time": "2026-04-04 07:55"
+    },
+    {
+      "title": "1000亿，武汉国资赚翻了。",
+      "url": "https://36kr.com/p/3752157975085576",
+      "source": "36氪",
+      "time": "2026-04-04 07:55"
+    },
+    {
+      "title": "一群00后极客和这家机器人公司共处72小时",
+      "url": "https://36kr.com/p/3752115857638145",
+      "source": "36氪",
+      "time": "2026-04-04 07:55"
+    },
+    {
       "title": "“不到500元买下春天”，Color Walk火了！",
       "url": "https://36kr.com/p/3751906920612360",
       "source": "36氪",
-      "time": "2026-04-04 05:11"
+      "time": "2026-04-04 07:55"
     },
     {
       "title": "今天你Color Walk了吗？",
       "url": "https://36kr.com/p/3751906920612360",
       "source": "36氪",
-      "time": "2026-04-04 05:11"
+      "time": "2026-04-04 07:55"
     },
     {
-      "title": "一年卖25亿的网红牙膏，要IPO了",
-      "url": "https://36kr.com/p/3751895796597253",
-      "source": "36氪",
-      "time": "2026-04-04 05:11"
-    },
-    {
-      "title": "小镇青年借着短视频的风口，赢麻了。",
-      "url": "https://36kr.com/p/3751895796597253",
-      "source": "36氪",
-      "time": "2026-04-04 05:11"
-    },
-    {
-      "title": "偿债压力严峻，百亿新希望乳业赴港上市",
-      "url": "https://36kr.com/p/3751279321514504",
-      "source": "36氪",
-      "time": "2026-04-04 05:11"
-    },
-    {
-      "title": "大厂“牛马”，被迫用AI",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4848066.html",
+      "title": "有线耳机这么好用，不翻红才怪",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4848079.html",
       "source": "虎嗅",
-      "time": "2026-04-04 05:11"
+      "time": "2026-04-04 07:55"
+    },
+    {
+      "title": "谁在批量制造“假洋牌”？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4848122.html",
+      "source": "虎嗅",
+      "time": "2026-04-04 07:55"
     }
   ]
 }
