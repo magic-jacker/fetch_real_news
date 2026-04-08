@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-08T10:18:09.364738",
+  "timestamp": "2026-04-08T14:58:09.708999",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -12,31 +12,31 @@
   "categories": {
     "finance": [
       {
-        "title": "SpaceX上市倒计时：史上最贵IPO来袭，这一次散户也站在了牌桌上",
-        "url": "https://36kr.com/p/3757875674366465",
+        "title": "“假洋牌”优思益代工厂IPO，仙乐健康还能讲好保健品故事吗？",
+        "url": "https://36kr.com/p/3758066453512965",
         "source": "36氪",
-        "time": "2026-04-08 10:17"
-      },
-      {
-        "title": "SpaceX启动IPO，散户配额达30%，估值冲击2万亿美元。",
-        "url": "https://36kr.com/p/3757875674366465",
-        "source": "36氪",
-        "time": "2026-04-08 10:17"
+        "time": "2026-04-08 14:58"
       }
     ],
     "industry": [],
     "tech": [
       {
-        "title": "Cursor 3以智能体控制台取代传统代码编辑器，AI编程工具迎来重大变革。",
-        "url": "https://36kr.com/p/3757888158384899",
+        "title": "对话小米辅助驾驶团队：两年三阶，一场以体验为终点的技术马拉松",
+        "url": "https://36kr.com/p/3758221627982600",
         "source": "36氪",
-        "time": "2026-04-08 10:17"
+        "time": "2026-04-08 14:58"
       },
       {
-        "title": "小米摄像头卖200，他们卖超两千，凭什么？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4848457.html",
+        "title": "科学家要失业了？GPT-5仅用18分钟解出黑洞方程，效率碾压人类数月",
+        "url": "https://36kr.com/p/3758096847635204",
+        "source": "36氪",
+        "time": "2026-04-08 14:58"
+      },
+      {
+        "title": "五菱抱紧华为，能否复刻“神车”叙事",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4848656.html",
         "source": "虎嗅",
-        "time": "2026-04-08 10:17"
+        "time": "2026-04-08 14:58"
       }
     ],
     "byd": [],
@@ -44,67 +44,67 @@
     "fitness": [],
     "other": [
       {
-        "title": "Cursor 3 发布：IDE 不重要了，智能体控制台上位，VS Code 这一套开始失效",
-        "url": "https://36kr.com/p/3757888158384899",
+        "title": "今天在何处聚焦资源，明天便可能在哪里赢得市场。",
+        "url": "https://36kr.com/p/3758221627982600",
         "source": "36氪",
-        "time": "2026-04-08 10:17"
+        "time": "2026-04-08 14:58"
       },
       {
-        "title": "酒店疯狂省钱，批发商疯狂“渡劫”",
-        "url": "https://36kr.com/p/3757892739072512",
+        "title": "海外业务能否撑起未来？",
+        "url": "https://36kr.com/p/3758066453512965",
         "source": "36氪",
-        "time": "2026-04-08 10:17"
+        "time": "2026-04-08 14:58"
       },
       {
-        "title": "霍尔木兹海峡彻底恢复通行了吗？是美国妥协了，还是伊朗妥协了？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4848783.html",
+        "title": "特朗普要把研究员逼疯了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4848862.html",
         "source": "虎嗅",
-        "time": "2026-04-08 10:17"
+        "time": "2026-04-08 14:58"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "SpaceX上市倒计时：史上最贵IPO来袭，这一次散户也站在了牌桌上",
-      "url": "https://36kr.com/p/3757875674366465",
+      "title": "对话小米辅助驾驶团队：两年三阶，一场以体验为终点的技术马拉松",
+      "url": "https://36kr.com/p/3758221627982600",
       "source": "36氪",
-      "time": "2026-04-08 10:17"
+      "time": "2026-04-08 14:58"
     },
     {
-      "title": "SpaceX启动IPO，散户配额达30%，估值冲击2万亿美元。",
-      "url": "https://36kr.com/p/3757875674366465",
+      "title": "今天在何处聚焦资源，明天便可能在哪里赢得市场。",
+      "url": "https://36kr.com/p/3758221627982600",
       "source": "36氪",
-      "time": "2026-04-08 10:17"
+      "time": "2026-04-08 14:58"
     },
     {
-      "title": "Cursor 3 发布：IDE 不重要了，智能体控制台上位，VS Code 这一套开始失效",
-      "url": "https://36kr.com/p/3757888158384899",
+      "title": "“假洋牌”优思益代工厂IPO，仙乐健康还能讲好保健品故事吗？",
+      "url": "https://36kr.com/p/3758066453512965",
       "source": "36氪",
-      "time": "2026-04-08 10:17"
+      "time": "2026-04-08 14:58"
     },
     {
-      "title": "Cursor 3以智能体控制台取代传统代码编辑器，AI编程工具迎来重大变革。",
-      "url": "https://36kr.com/p/3757888158384899",
+      "title": "海外业务能否撑起未来？",
+      "url": "https://36kr.com/p/3758066453512965",
       "source": "36氪",
-      "time": "2026-04-08 10:17"
+      "time": "2026-04-08 14:58"
     },
     {
-      "title": "酒店疯狂省钱，批发商疯狂“渡劫”",
-      "url": "https://36kr.com/p/3757892739072512",
+      "title": "科学家要失业了？GPT-5仅用18分钟解出黑洞方程，效率碾压人类数月",
+      "url": "https://36kr.com/p/3758096847635204",
       "source": "36氪",
-      "time": "2026-04-08 10:17"
+      "time": "2026-04-08 14:58"
     },
     {
-      "title": "霍尔木兹海峡彻底恢复通行了吗？是美国妥协了，还是伊朗妥协了？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4848783.html",
+      "title": "五菱抱紧华为，能否复刻“神车”叙事",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4848656.html",
       "source": "虎嗅",
-      "time": "2026-04-08 10:17"
+      "time": "2026-04-08 14:58"
     },
     {
-      "title": "小米摄像头卖200，他们卖超两千，凭什么？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4848457.html",
+      "title": "特朗普要把研究员逼疯了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4848862.html",
       "source": "虎嗅",
-      "time": "2026-04-08 10:17"
+      "time": "2026-04-08 14:58"
     }
   ]
 }
