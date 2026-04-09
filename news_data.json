@@ -1,35 +1,30 @@
 {
-  "timestamp": "2026-04-09T10:00:14.568768",
-  "total": 6,
+  "timestamp": "2026-04-09T12:11:40.721031",
+  "total": 5,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 5,
+    "36氪": 4,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [],
+    "industry": [
+      {
+        "title": "闪充与换电，新能源汽车的补能暗战",
+        "url": "https://36kr.com/p/3759435413520899",
+        "source": "36氪",
+        "time": "2026-04-09 12:11"
+      }
+    ],
     "tech": [
       {
-        "title": "普洛斯携手华为：基建+技术融合，打造多元协同的二次曲线",
-        "url": "https://36kr.com/p/3759392975700482",
-        "source": "36氪",
-        "time": "2026-04-09 09:59"
-      },
-      {
-        "title": "对话Edgewell全球AI转型负责人付咏（Sylvia Fu）：以「中国速度」激活全球，用AI重塑消费品巨头的未来",
-        "url": "https://36kr.com/p/3759285853159940",
-        "source": "36氪",
-        "time": "2026-04-09 09:59"
-      },
-      {
-        "title": "AI时代没有旁观者，只有先行者和追随者。",
-        "url": "https://36kr.com/p/3759285853159940",
-        "source": "36氪",
-        "time": "2026-04-09 09:59"
+        "title": "Meta 憋了 9 个月的大招揭晓了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849194.html",
+        "source": "虎嗅",
+        "time": "2026-04-09 12:11"
       }
     ],
     "byd": [],
@@ -37,61 +32,55 @@
     "fitness": [],
     "other": [
       {
-        "title": "“基建+技术”融合的模式，正令实体资产的数字潜能被激活。",
-        "url": "https://36kr.com/p/3759392975700482",
+        "title": "3年亏出3000万美元，蜗牛游戏再次处于退市边缘",
+        "url": "https://36kr.com/p/3759435214537475",
         "source": "36氪",
-        "time": "2026-04-09 09:59"
+        "time": "2026-04-09 12:11"
       },
       {
-        "title": "电子烟巨头悦刻、思摩尔的暴利生意更难做了",
-        "url": "https://36kr.com/p/3759264253784834",
+        "title": "全球资金Risk off，钱都去哪了？",
+        "url": "https://36kr.com/p/3759430481609225",
         "source": "36氪",
-        "time": "2026-04-09 09:59"
+        "time": "2026-04-09 12:11"
       },
       {
-        "title": "又一个千万人口城市，要来了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849088.html",
+        "title": "美伊“停火”闹剧，以及特朗普的四个终极选项",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849214.html",
         "source": "虎嗅",
-        "time": "2026-04-09 09:59"
+        "time": "2026-04-09 12:11"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "普洛斯携手华为：基建+技术融合，打造多元协同的二次曲线",
-      "url": "https://36kr.com/p/3759392975700482",
+      "title": "闪充与换电，新能源汽车的补能暗战",
+      "url": "https://36kr.com/p/3759435413520899",
       "source": "36氪",
-      "time": "2026-04-09 09:59"
+      "time": "2026-04-09 12:11"
     },
     {
-      "title": "“基建+技术”融合的模式，正令实体资产的数字潜能被激活。",
-      "url": "https://36kr.com/p/3759392975700482",
+      "title": "3年亏出3000万美元，蜗牛游戏再次处于退市边缘",
+      "url": "https://36kr.com/p/3759435214537475",
       "source": "36氪",
-      "time": "2026-04-09 09:59"
+      "time": "2026-04-09 12:11"
     },
     {
-      "title": "对话Edgewell全球AI转型负责人付咏（Sylvia Fu）：以「中国速度」激活全球，用AI重塑消费品巨头的未来",
-      "url": "https://36kr.com/p/3759285853159940",
+      "title": "全球资金Risk off，钱都去哪了？",
+      "url": "https://36kr.com/p/3759430481609225",
       "source": "36氪",
-      "time": "2026-04-09 09:59"
+      "time": "2026-04-09 12:11"
     },
     {
-      "title": "AI时代没有旁观者，只有先行者和追随者。",
-      "url": "https://36kr.com/p/3759285853159940",
-      "source": "36氪",
-      "time": "2026-04-09 09:59"
-    },
-    {
-      "title": "电子烟巨头悦刻、思摩尔的暴利生意更难做了",
-      "url": "https://36kr.com/p/3759264253784834",
-      "source": "36氪",
-      "time": "2026-04-09 09:59"
-    },
-    {
-      "title": "又一个千万人口城市，要来了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849088.html",
+      "title": "美伊“停火”闹剧，以及特朗普的四个终极选项",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849214.html",
       "source": "虎嗅",
-      "time": "2026-04-09 09:59"
+      "time": "2026-04-09 12:11"
+    },
+    {
+      "title": "Meta 憋了 9 个月的大招揭晓了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849194.html",
+      "source": "虎嗅",
+      "time": "2026-04-09 12:11"
     }
   ]
 }
