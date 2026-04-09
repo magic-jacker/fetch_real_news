@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-09T05:58:52.147631",
-  "total": 7,
+  "timestamp": "2026-04-09T10:00:14.568768",
+  "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -14,16 +14,22 @@
     "industry": [],
     "tech": [
       {
-        "title": "一个真正面向普通用户的AI Agent Harness！",
-        "url": "https://36kr.com/p/3759069398090241",
+        "title": "普洛斯携手华为：基建+技术融合，打造多元协同的二次曲线",
+        "url": "https://36kr.com/p/3759392975700482",
         "source": "36氪",
-        "time": "2026-04-09 05:58"
+        "time": "2026-04-09 09:59"
       },
       {
-        "title": "1.24亿抢科学家后，大厂盯上13岁AI产品经理",
-        "url": "https://36kr.com/p/3759065487770113",
+        "title": "对话Edgewell全球AI转型负责人付咏（Sylvia Fu）：以「中国速度」激活全球，用AI重塑消费品巨头的未来",
+        "url": "https://36kr.com/p/3759285853159940",
         "source": "36氪",
-        "time": "2026-04-09 05:58"
+        "time": "2026-04-09 09:59"
+      },
+      {
+        "title": "AI时代没有旁观者，只有先行者和追随者。",
+        "url": "https://36kr.com/p/3759285853159940",
+        "source": "36氪",
+        "time": "2026-04-09 09:59"
       }
     ],
     "byd": [],
@@ -31,79 +37,61 @@
     "fitness": [],
     "other": [
       {
-        "title": "帮普通人「驯服」Agent，这支硅谷初创团队冲上了X全球热搜",
-        "url": "https://36kr.com/p/3759069398090241",
+        "title": "“基建+技术”融合的模式，正令实体资产的数字潜能被激活。",
+        "url": "https://36kr.com/p/3759392975700482",
         "source": "36氪",
-        "time": "2026-04-09 05:58"
+        "time": "2026-04-09 09:59"
       },
       {
-        "title": "年薪1.24亿！打工人的天花板来了",
-        "url": "https://36kr.com/p/3759065487770113",
+        "title": "电子烟巨头悦刻、思摩尔的暴利生意更难做了",
+        "url": "https://36kr.com/p/3759264253784834",
         "source": "36氪",
-        "time": "2026-04-09 05:58"
+        "time": "2026-04-09 09:59"
       },
       {
-        "title": "给DeepSeek的最后一封催更信",
-        "url": "https://36kr.com/p/3759059471892994",
-        "source": "36氪",
-        "time": "2026-04-09 05:58"
-      },
-      {
-        "title": "留给零食很忙、好想来的加盟商不多了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849055.html",
+        "title": "又一个千万人口城市，要来了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849088.html",
         "source": "虎嗅",
-        "time": "2026-04-09 05:58"
-      },
-      {
-        "title": "不到20人的团队，凭什么估值200亿美元？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849039.html",
-        "source": "虎嗅",
-        "time": "2026-04-09 05:58"
+        "time": "2026-04-09 09:59"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "帮普通人「驯服」Agent，这支硅谷初创团队冲上了X全球热搜",
-      "url": "https://36kr.com/p/3759069398090241",
+      "title": "普洛斯携手华为：基建+技术融合，打造多元协同的二次曲线",
+      "url": "https://36kr.com/p/3759392975700482",
       "source": "36氪",
-      "time": "2026-04-09 05:58"
+      "time": "2026-04-09 09:59"
     },
     {
-      "title": "一个真正面向普通用户的AI Agent Harness！",
-      "url": "https://36kr.com/p/3759069398090241",
+      "title": "“基建+技术”融合的模式，正令实体资产的数字潜能被激活。",
+      "url": "https://36kr.com/p/3759392975700482",
       "source": "36氪",
-      "time": "2026-04-09 05:58"
+      "time": "2026-04-09 09:59"
     },
     {
-      "title": "1.24亿抢科学家后，大厂盯上13岁AI产品经理",
-      "url": "https://36kr.com/p/3759065487770113",
+      "title": "对话Edgewell全球AI转型负责人付咏（Sylvia Fu）：以「中国速度」激活全球，用AI重塑消费品巨头的未来",
+      "url": "https://36kr.com/p/3759285853159940",
       "source": "36氪",
-      "time": "2026-04-09 05:58"
+      "time": "2026-04-09 09:59"
     },
     {
-      "title": "年薪1.24亿！打工人的天花板来了",
-      "url": "https://36kr.com/p/3759065487770113",
+      "title": "AI时代没有旁观者，只有先行者和追随者。",
+      "url": "https://36kr.com/p/3759285853159940",
       "source": "36氪",
-      "time": "2026-04-09 05:58"
+      "time": "2026-04-09 09:59"
     },
     {
-      "title": "给DeepSeek的最后一封催更信",
-      "url": "https://36kr.com/p/3759059471892994",
+      "title": "电子烟巨头悦刻、思摩尔的暴利生意更难做了",
+      "url": "https://36kr.com/p/3759264253784834",
       "source": "36氪",
-      "time": "2026-04-09 05:58"
+      "time": "2026-04-09 09:59"
     },
     {
-      "title": "留给零食很忙、好想来的加盟商不多了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849055.html",
+      "title": "又一个千万人口城市，要来了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849088.html",
       "source": "虎嗅",
-      "time": "2026-04-09 05:58"
-    },
-    {
-      "title": "不到20人的团队，凭什么估值200亿美元？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849039.html",
-      "source": "虎嗅",
-      "time": "2026-04-09 05:58"
+      "time": "2026-04-09 09:59"
     }
   ]
 }
