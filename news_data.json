@@ -1,86 +1,85 @@
 {
-  "timestamp": "2026-04-10T10:17:19.838571",
+  "timestamp": "2026-04-10T14:33:23.566493",
   "total": 5,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 4,
+    "36氪": 3,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [
       {
-        "title": "地平线机器人百万年薪难留人，余凯亲手把兄弟们送走了",
-        "url": "https://36kr.com/p/3760796282761737",
+        "title": "苹果把PC和安卓厂商逼到了墙角",
+        "url": "https://36kr.com/p/3760926124818944",
         "source": "36氪",
-        "time": "2026-04-10 10:17"
+        "time": "2026-04-10 14:32"
       }
     ],
-    "tech": [
-      {
-        "title": "OpenAI老股滞销了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849444.html",
-        "source": "虎嗅",
-        "time": "2026-04-10 10:17"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "跌过一轮之后，科技七姐妹又变得香了",
-        "url": "https://36kr.com/p/3760805709841159",
+        "title": "美白赛道“卷”进四个战场",
+        "url": "https://36kr.com/p/3760949072478721",
         "source": "36氪",
-        "time": "2026-04-10 10:17"
+        "time": "2026-04-10 14:32"
       },
       {
-        "title": "一行代码，Claude养虾成本降85%，最强Opus做大脑，Sonnet疯狂搬砖",
-        "url": "https://36kr.com/p/3760679704560133",
+        "title": "中东战火下氦气价格暴涨，华特气体一个月股价涨超40%，去年净利下滑26%",
+        "url": "https://36kr.com/p/3760945287824132",
         "source": "36氪",
-        "time": "2026-04-10 10:17"
+        "time": "2026-04-10 14:32"
       },
       {
-        "title": "Anthropic深夜发布Claude「顾问策略」，让Opus 4.6退居幕后当军师，Sonnet/Haiku当苦力。实测性能翻倍，成本暴降85%，全网直呼：这就是我们要的「龙虾」完全体！",
-        "url": "https://36kr.com/p/3760679704560133",
-        "source": "36氪",
-        "time": "2026-04-10 10:17"
+        "title": "从日本翻身看：这次谁能扛住高油价？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849506.html",
+        "source": "虎嗅",
+        "time": "2026-04-10 14:33"
+      },
+      {
+        "title": "给DeepSeek的最后一封催更信",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849547.html",
+        "source": "虎嗅",
+        "time": "2026-04-10 14:33"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "地平线机器人百万年薪难留人，余凯亲手把兄弟们送走了",
-      "url": "https://36kr.com/p/3760796282761737",
+      "title": "美白赛道“卷”进四个战场",
+      "url": "https://36kr.com/p/3760949072478721",
       "source": "36氪",
-      "time": "2026-04-10 10:17"
+      "time": "2026-04-10 14:32"
     },
     {
-      "title": "跌过一轮之后，科技七姐妹又变得香了",
-      "url": "https://36kr.com/p/3760805709841159",
+      "title": "中东战火下氦气价格暴涨，华特气体一个月股价涨超40%，去年净利下滑26%",
+      "url": "https://36kr.com/p/3760945287824132",
       "source": "36氪",
-      "time": "2026-04-10 10:17"
+      "time": "2026-04-10 14:32"
     },
     {
-      "title": "一行代码，Claude养虾成本降85%，最强Opus做大脑，Sonnet疯狂搬砖",
-      "url": "https://36kr.com/p/3760679704560133",
+      "title": "苹果把PC和安卓厂商逼到了墙角",
+      "url": "https://36kr.com/p/3760926124818944",
       "source": "36氪",
-      "time": "2026-04-10 10:17"
+      "time": "2026-04-10 14:32"
     },
     {
-      "title": "Anthropic深夜发布Claude「顾问策略」，让Opus 4.6退居幕后当军师，Sonnet/Haiku当苦力。实测性能翻倍，成本暴降85%，全网直呼：这就是我们要的「龙虾」完全体！",
-      "url": "https://36kr.com/p/3760679704560133",
-      "source": "36氪",
-      "time": "2026-04-10 10:17"
-    },
-    {
-      "title": "OpenAI老股滞销了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849444.html",
+      "title": "从日本翻身看：这次谁能扛住高油价？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849506.html",
       "source": "虎嗅",
-      "time": "2026-04-10 10:17"
+      "time": "2026-04-10 14:33"
+    },
+    {
+      "title": "给DeepSeek的最后一封催更信",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849547.html",
+      "source": "虎嗅",
+      "time": "2026-04-10 14:33"
     }
   ]
 }
