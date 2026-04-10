@@ -1,42 +1,30 @@
 {
-  "timestamp": "2026-04-10T06:23:04.542181",
-  "total": 7,
+  "timestamp": "2026-04-10T10:17:19.838571",
+  "total": 5,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 5,
+    "36氪": 4,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [
       {
-        "title": "谷歌CEO：我们每年花1800亿美元，内存比芯片更稀缺，2027年AI才真正渗透进企业",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849369.html",
-        "source": "虎嗅",
-        "time": "2026-04-10 06:22"
+        "title": "地平线机器人百万年薪难留人，余凯亲手把兄弟们送走了",
+        "url": "https://36kr.com/p/3760796282761737",
+        "source": "36氪",
+        "time": "2026-04-10 10:17"
       }
     ],
     "tech": [
       {
-        "title": "国产AI大爆发：智谱市值冲破4300亿港元，神秘模型登顶文生视频榜",
-        "url": "https://36kr.com/p/3760381235135241",
-        "source": "36氪",
-        "time": "2026-04-10 06:22"
-      },
-      {
-        "title": "腾讯云的下半场，汤道生的关键选择",
-        "url": "https://36kr.com/p/3760408891654664",
-        "source": "36氪",
-        "time": "2026-04-10 06:22"
-      },
-      {
-        "title": "腾讯云的这次转向，也是整个行业的转向。",
-        "url": "https://36kr.com/p/3760408891654664",
-        "source": "36氪",
-        "time": "2026-04-10 06:22"
+        "title": "OpenAI老股滞销了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849444.html",
+        "source": "虎嗅",
+        "time": "2026-04-10 10:17"
       }
     ],
     "byd": [],
@@ -44,67 +32,55 @@
     "fitness": [],
     "other": [
       {
-        "title": "和特朗普做石油生意的印度男人，竟然是亚洲首富？",
-        "url": "https://36kr.com/p/3760457044280069",
+        "title": "跌过一轮之后，科技七姐妹又变得香了",
+        "url": "https://36kr.com/p/3760805709841159",
         "source": "36氪",
-        "time": "2026-04-10 06:22"
+        "time": "2026-04-10 10:17"
       },
       {
-        "title": "很多人都没听说过这个印度男人。",
-        "url": "https://36kr.com/p/3760457044280069",
+        "title": "一行代码，Claude养虾成本降85%，最强Opus做大脑，Sonnet疯狂搬砖",
+        "url": "https://36kr.com/p/3760679704560133",
         "source": "36氪",
-        "time": "2026-04-10 06:22"
+        "time": "2026-04-10 10:17"
       },
       {
-        "title": "那些35岁以上的码农们，都干啥去了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849339.html",
-        "source": "虎嗅",
-        "time": "2026-04-10 06:22"
+        "title": "Anthropic深夜发布Claude「顾问策略」，让Opus 4.6退居幕后当军师，Sonnet/Haiku当苦力。实测性能翻倍，成本暴降85%，全网直呼：这就是我们要的「龙虾」完全体！",
+        "url": "https://36kr.com/p/3760679704560133",
+        "source": "36氪",
+        "time": "2026-04-10 10:17"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "国产AI大爆发：智谱市值冲破4300亿港元，神秘模型登顶文生视频榜",
-      "url": "https://36kr.com/p/3760381235135241",
+      "title": "地平线机器人百万年薪难留人，余凯亲手把兄弟们送走了",
+      "url": "https://36kr.com/p/3760796282761737",
       "source": "36氪",
-      "time": "2026-04-10 06:22"
+      "time": "2026-04-10 10:17"
     },
     {
-      "title": "腾讯云的下半场，汤道生的关键选择",
-      "url": "https://36kr.com/p/3760408891654664",
+      "title": "跌过一轮之后，科技七姐妹又变得香了",
+      "url": "https://36kr.com/p/3760805709841159",
       "source": "36氪",
-      "time": "2026-04-10 06:22"
+      "time": "2026-04-10 10:17"
     },
     {
-      "title": "腾讯云的这次转向，也是整个行业的转向。",
-      "url": "https://36kr.com/p/3760408891654664",
+      "title": "一行代码，Claude养虾成本降85%，最强Opus做大脑，Sonnet疯狂搬砖",
+      "url": "https://36kr.com/p/3760679704560133",
       "source": "36氪",
-      "time": "2026-04-10 06:22"
+      "time": "2026-04-10 10:17"
     },
     {
-      "title": "和特朗普做石油生意的印度男人，竟然是亚洲首富？",
-      "url": "https://36kr.com/p/3760457044280069",
+      "title": "Anthropic深夜发布Claude「顾问策略」，让Opus 4.6退居幕后当军师，Sonnet/Haiku当苦力。实测性能翻倍，成本暴降85%，全网直呼：这就是我们要的「龙虾」完全体！",
+      "url": "https://36kr.com/p/3760679704560133",
       "source": "36氪",
-      "time": "2026-04-10 06:22"
+      "time": "2026-04-10 10:17"
     },
     {
-      "title": "很多人都没听说过这个印度男人。",
-      "url": "https://36kr.com/p/3760457044280069",
-      "source": "36氪",
-      "time": "2026-04-10 06:22"
-    },
-    {
-      "title": "那些35岁以上的码农们，都干啥去了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849339.html",
+      "title": "OpenAI老股滞销了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849444.html",
       "source": "虎嗅",
-      "time": "2026-04-10 06:22"
-    },
-    {
-      "title": "谷歌CEO：我们每年花1800亿美元，内存比芯片更稀缺，2027年AI才真正渗透进企业",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849369.html",
-      "source": "虎嗅",
-      "time": "2026-04-10 06:22"
+      "time": "2026-04-10 10:17"
     }
   ]
 }
