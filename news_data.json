@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-04-10T23:53:35.150680",
-  "total": 6,
+  "timestamp": "2026-04-11T05:19:05.926551",
+  "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 4,
+    "36氪": 5,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
@@ -12,85 +12,98 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "奥特曼的AI基建牌桌还稳吗？",
+        "url": "https://36kr.com/p/3761898643829510",
+        "source": "36氪",
+        "time": "2026-04-11 05:18"
+      },
+      {
+        "title": "当一家马桶公司，都成为了AI概念股",
+        "url": "https://36kr.com/p/3761885175542537",
+        "source": "36氪",
+        "time": "2026-04-11 05:18"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "再也读不进书了？神经科学提供了一套解决方案",
-        "url": "https://36kr.com/p/3722529084226178",
+        "title": "星际之门三高管同时出走，奥特曼屋漏偏逢连夜雨",
+        "url": "https://36kr.com/p/3761898643829510",
         "source": "36氪",
-        "time": "2026-04-10 23:53"
+        "time": "2026-04-11 05:18"
       },
       {
-        "title": "读不进书的背后，是大脑发生了变化。",
-        "url": "https://36kr.com/p/3722529084226178",
+        "title": "四十年来最严重供需失衡。",
+        "url": "https://36kr.com/p/3761885175542537",
         "source": "36氪",
-        "time": "2026-04-10 23:53"
+        "time": "2026-04-11 05:18"
       },
       {
-        "title": "美白赛道“卷”进四个战场",
-        "url": "https://36kr.com/p/3760949072478721",
+        "title": "那个“爱马仕”，想拯救“智障”小龙虾",
+        "url": "https://36kr.com/p/3761883183530502",
         "source": "36氪",
-        "time": "2026-04-10 23:53"
+        "time": "2026-04-11 05:18"
       },
       {
-        "title": "中东战火下氦气价格暴涨，华特气体一个月股价涨超40%，去年净利下滑26%",
-        "url": "https://36kr.com/p/3760945287824132",
-        "source": "36氪",
-        "time": "2026-04-10 23:53"
-      },
-      {
-        "title": "从日本翻身看：这次谁能扛住高油价？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849506.html",
+        "title": "9系厮杀正酣：蔚来ES9凭什么抢增程的饭碗",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849307.html",
         "source": "虎嗅",
-        "time": "2026-04-10 23:53"
+        "time": "2026-04-11 05:18"
       },
       {
-        "title": "给DeepSeek的最后一封催更信",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849547.html",
+        "title": "Rocket Lab：SpaceX最危险的对手？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849565.html",
         "source": "虎嗅",
-        "time": "2026-04-10 23:53"
+        "time": "2026-04-11 05:18"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "再也读不进书了？神经科学提供了一套解决方案",
-      "url": "https://36kr.com/p/3722529084226178",
+      "title": "星际之门三高管同时出走，奥特曼屋漏偏逢连夜雨",
+      "url": "https://36kr.com/p/3761898643829510",
       "source": "36氪",
-      "time": "2026-04-10 23:53"
+      "time": "2026-04-11 05:18"
     },
     {
-      "title": "读不进书的背后，是大脑发生了变化。",
-      "url": "https://36kr.com/p/3722529084226178",
+      "title": "奥特曼的AI基建牌桌还稳吗？",
+      "url": "https://36kr.com/p/3761898643829510",
       "source": "36氪",
-      "time": "2026-04-10 23:53"
+      "time": "2026-04-11 05:18"
     },
     {
-      "title": "美白赛道“卷”进四个战场",
-      "url": "https://36kr.com/p/3760949072478721",
+      "title": "当一家马桶公司，都成为了AI概念股",
+      "url": "https://36kr.com/p/3761885175542537",
       "source": "36氪",
-      "time": "2026-04-10 23:53"
+      "time": "2026-04-11 05:18"
     },
     {
-      "title": "中东战火下氦气价格暴涨，华特气体一个月股价涨超40%，去年净利下滑26%",
-      "url": "https://36kr.com/p/3760945287824132",
+      "title": "四十年来最严重供需失衡。",
+      "url": "https://36kr.com/p/3761885175542537",
       "source": "36氪",
-      "time": "2026-04-10 23:53"
+      "time": "2026-04-11 05:18"
     },
     {
-      "title": "从日本翻身看：这次谁能扛住高油价？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849506.html",
+      "title": "那个“爱马仕”，想拯救“智障”小龙虾",
+      "url": "https://36kr.com/p/3761883183530502",
+      "source": "36氪",
+      "time": "2026-04-11 05:18"
+    },
+    {
+      "title": "9系厮杀正酣：蔚来ES9凭什么抢增程的饭碗",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849307.html",
       "source": "虎嗅",
-      "time": "2026-04-10 23:53"
+      "time": "2026-04-11 05:18"
     },
     {
-      "title": "给DeepSeek的最后一封催更信",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849547.html",
+      "title": "Rocket Lab：SpaceX最危险的对手？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849565.html",
       "source": "虎嗅",
-      "time": "2026-04-10 23:53"
+      "time": "2026-04-11 05:18"
     }
   ]
 }
