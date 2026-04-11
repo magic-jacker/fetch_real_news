@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-11T05:19:05.926551",
+  "timestamp": "2026-04-11T07:57:13.043925",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -14,16 +14,34 @@
     "industry": [],
     "tech": [
       {
-        "title": "奥特曼的AI基建牌桌还稳吗？",
-        "url": "https://36kr.com/p/3761898643829510",
+        "title": "拿下豪华种子轮，一家明星AI公司宣布倒闭",
+        "url": "https://36kr.com/p/3762088319484419",
         "source": "36氪",
-        "time": "2026-04-11 05:18"
+        "time": "2026-04-11 07:56"
       },
       {
-        "title": "当一家马桶公司，都成为了AI概念股",
-        "url": "https://36kr.com/p/3761885175542537",
+        "title": "AI洗牌潮，99%创业项目将消亡。",
+        "url": "https://36kr.com/p/3762088319484419",
         "source": "36氪",
-        "time": "2026-04-11 05:18"
+        "time": "2026-04-11 07:56"
+      },
+      {
+        "title": "北京慕思睡眠乐园盛大启幕，以六根文化+AI 构建智慧睡眠新概念",
+        "url": "https://36kr.com/p/3762081191183110",
+        "source": "36氪",
+        "time": "2026-04-11 07:56"
+      },
+      {
+        "title": "慕思北京睡眠乐园开放，打造AI健康睡眠体验新地标。",
+        "url": "https://36kr.com/p/3762081191183110",
+        "source": "36氪",
+        "time": "2026-04-11 07:56"
+      },
+      {
+        "title": "美国民众，开始仇视AI。",
+        "url": "https://36kr.com/p/3762027785224707",
+        "source": "36氪",
+        "time": "2026-04-11 07:56"
       }
     ],
     "byd": [],
@@ -31,79 +49,61 @@
     "fitness": [],
     "other": [
       {
-        "title": "星际之门三高管同时出走，奥特曼屋漏偏逢连夜雨",
-        "url": "https://36kr.com/p/3761898643829510",
-        "source": "36氪",
-        "time": "2026-04-11 05:18"
-      },
-      {
-        "title": "四十年来最严重供需失衡。",
-        "url": "https://36kr.com/p/3761885175542537",
-        "source": "36氪",
-        "time": "2026-04-11 05:18"
-      },
-      {
-        "title": "那个“爱马仕”，想拯救“智障”小龙虾",
-        "url": "https://36kr.com/p/3761883183530502",
-        "source": "36氪",
-        "time": "2026-04-11 05:18"
-      },
-      {
-        "title": "9系厮杀正酣：蔚来ES9凭什么抢增程的饭碗",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849307.html",
+        "title": "李嘉诚400亿“世纪回归”，地产见底了吗？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849644.html",
         "source": "虎嗅",
-        "time": "2026-04-11 05:18"
+        "time": "2026-04-11 07:56"
       },
       {
-        "title": "Rocket Lab：SpaceX最危险的对手？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849565.html",
+        "title": "这是《星际穿越》之后最好的科幻片吗？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849170.html",
         "source": "虎嗅",
-        "time": "2026-04-11 05:18"
+        "time": "2026-04-11 07:56"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "星际之门三高管同时出走，奥特曼屋漏偏逢连夜雨",
-      "url": "https://36kr.com/p/3761898643829510",
+      "title": "拿下豪华种子轮，一家明星AI公司宣布倒闭",
+      "url": "https://36kr.com/p/3762088319484419",
       "source": "36氪",
-      "time": "2026-04-11 05:18"
+      "time": "2026-04-11 07:56"
     },
     {
-      "title": "奥特曼的AI基建牌桌还稳吗？",
-      "url": "https://36kr.com/p/3761898643829510",
+      "title": "AI洗牌潮，99%创业项目将消亡。",
+      "url": "https://36kr.com/p/3762088319484419",
       "source": "36氪",
-      "time": "2026-04-11 05:18"
+      "time": "2026-04-11 07:56"
     },
     {
-      "title": "当一家马桶公司，都成为了AI概念股",
-      "url": "https://36kr.com/p/3761885175542537",
+      "title": "北京慕思睡眠乐园盛大启幕，以六根文化+AI 构建智慧睡眠新概念",
+      "url": "https://36kr.com/p/3762081191183110",
       "source": "36氪",
-      "time": "2026-04-11 05:18"
+      "time": "2026-04-11 07:56"
     },
     {
-      "title": "四十年来最严重供需失衡。",
-      "url": "https://36kr.com/p/3761885175542537",
+      "title": "慕思北京睡眠乐园开放，打造AI健康睡眠体验新地标。",
+      "url": "https://36kr.com/p/3762081191183110",
       "source": "36氪",
-      "time": "2026-04-11 05:18"
+      "time": "2026-04-11 07:56"
     },
     {
-      "title": "那个“爱马仕”，想拯救“智障”小龙虾",
-      "url": "https://36kr.com/p/3761883183530502",
+      "title": "美国民众，开始仇视AI。",
+      "url": "https://36kr.com/p/3762027785224707",
       "source": "36氪",
-      "time": "2026-04-11 05:18"
+      "time": "2026-04-11 07:56"
     },
     {
-      "title": "9系厮杀正酣：蔚来ES9凭什么抢增程的饭碗",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849307.html",
+      "title": "李嘉诚400亿“世纪回归”，地产见底了吗？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849644.html",
       "source": "虎嗅",
-      "time": "2026-04-11 05:18"
+      "time": "2026-04-11 07:56"
     },
     {
-      "title": "Rocket Lab：SpaceX最危险的对手？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849565.html",
+      "title": "这是《星际穿越》之后最好的科幻片吗？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4849170.html",
       "source": "虎嗅",
-      "time": "2026-04-11 05:18"
+      "time": "2026-04-11 07:56"
     }
   ]
 }
