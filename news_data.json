@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-14T06:16:07.338296",
+  "timestamp": "2026-04-14T10:48:51.456419",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -10,14 +10,7 @@
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
-      {
-        "title": "数千家各色度假酒店正在布局“黄金走廊”",
-        "url": "https://36kr.com/p/3765962507121415",
-        "source": "36氪",
-        "time": "2026-04-14 06:15"
-      }
-    ],
+    "finance": [],
     "industry": [],
     "tech": [],
     "byd": [],
@@ -25,85 +18,91 @@
     "fitness": [],
     "other": [
       {
-        "title": "度假酒店掘金的六个“南”题",
-        "url": "https://36kr.com/p/3765962507121415",
+        "title": "大疆汪滔如何克服中年「意义危机」",
+        "url": "https://36kr.com/p/3766477991395840",
         "source": "36氪",
-        "time": "2026-04-14 06:15"
+        "time": "2026-04-14 10:48"
       },
       {
-        "title": "深圳一新盘数百人抢房！保安喷辣椒水赶人，涉事企业被监管约谈并道歉",
-        "url": "https://36kr.com/p/3766152412430857",
+        "title": "从征服世界，到战胜自己",
+        "url": "https://36kr.com/p/3766477991395840",
         "source": "36氪",
-        "time": "2026-04-14 06:15"
+        "time": "2026-04-14 10:48"
       },
       {
-        "title": "深圳新盘开盘保安喷辣椒水，涉事保安被拘，开发商致歉整改。",
-        "url": "https://36kr.com/p/3766152412430857",
+        "title": "投资具身智能，美团赚翻了。",
+        "url": "https://36kr.com/p/3766471516865030",
         "source": "36氪",
-        "time": "2026-04-14 06:15"
+        "time": "2026-04-14 10:48"
       },
       {
-        "title": "11名员工，9亿年利润，揭秘地球上人效比最高的公司",
-        "url": "https://36kr.com/p/3766127265366530",
+        "title": "张勇回归海底捞CEO100天，向4名员工道歉",
+        "url": "https://36kr.com/p/3766321904288512",
         "source": "36氪",
-        "time": "2026-04-14 06:15"
+        "time": "2026-04-14 10:48"
       },
       {
-        "title": "敢给员工多放假的公司，后来怎么样了？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850295.html",
+        "title": "要先学会改变“家文化”？",
+        "url": "https://36kr.com/p/3766321904288512",
+        "source": "36氪",
+        "time": "2026-04-14 10:48"
+      },
+      {
+        "title": "钉钉、飞书集体转向CLI，MCP已死、GUI要出局了？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850260.html",
         "source": "虎嗅",
-        "time": "2026-04-14 06:15"
+        "time": "2026-04-14 10:48"
       },
       {
-        "title": "高市早苗拿到了跟蒋介石一样的一副牌",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850253.html",
+        "title": "许家印当庭认罪，家族还有多少资产没追回？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850457.html",
         "source": "虎嗅",
-        "time": "2026-04-14 06:15"
+        "time": "2026-04-14 10:48"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "度假酒店掘金的六个“南”题",
-      "url": "https://36kr.com/p/3765962507121415",
+      "title": "大疆汪滔如何克服中年「意义危机」",
+      "url": "https://36kr.com/p/3766477991395840",
       "source": "36氪",
-      "time": "2026-04-14 06:15"
+      "time": "2026-04-14 10:48"
     },
     {
-      "title": "数千家各色度假酒店正在布局“黄金走廊”",
-      "url": "https://36kr.com/p/3765962507121415",
+      "title": "从征服世界，到战胜自己",
+      "url": "https://36kr.com/p/3766477991395840",
       "source": "36氪",
-      "time": "2026-04-14 06:15"
+      "time": "2026-04-14 10:48"
     },
     {
-      "title": "深圳一新盘数百人抢房！保安喷辣椒水赶人，涉事企业被监管约谈并道歉",
-      "url": "https://36kr.com/p/3766152412430857",
+      "title": "投资具身智能，美团赚翻了。",
+      "url": "https://36kr.com/p/3766471516865030",
       "source": "36氪",
-      "time": "2026-04-14 06:15"
+      "time": "2026-04-14 10:48"
     },
     {
-      "title": "深圳新盘开盘保安喷辣椒水，涉事保安被拘，开发商致歉整改。",
-      "url": "https://36kr.com/p/3766152412430857",
+      "title": "张勇回归海底捞CEO100天，向4名员工道歉",
+      "url": "https://36kr.com/p/3766321904288512",
       "source": "36氪",
-      "time": "2026-04-14 06:15"
+      "time": "2026-04-14 10:48"
     },
     {
-      "title": "11名员工，9亿年利润，揭秘地球上人效比最高的公司",
-      "url": "https://36kr.com/p/3766127265366530",
+      "title": "要先学会改变“家文化”？",
+      "url": "https://36kr.com/p/3766321904288512",
       "source": "36氪",
-      "time": "2026-04-14 06:15"
+      "time": "2026-04-14 10:48"
     },
     {
-      "title": "敢给员工多放假的公司，后来怎么样了？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850295.html",
+      "title": "钉钉、飞书集体转向CLI，MCP已死、GUI要出局了？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850260.html",
       "source": "虎嗅",
-      "time": "2026-04-14 06:15"
+      "time": "2026-04-14 10:48"
     },
     {
-      "title": "高市早苗拿到了跟蒋介石一样的一副牌",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850253.html",
+      "title": "许家印当庭认罪，家族还有多少资产没追回？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850457.html",
       "source": "虎嗅",
-      "time": "2026-04-14 06:15"
+      "time": "2026-04-14 10:48"
     }
   ]
 }
