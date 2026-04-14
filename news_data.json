@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-04-14T10:48:51.456419",
-  "total": 7,
+  "timestamp": "2026-04-14T15:51:25.912165",
+  "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 5,
+    "36氪": 4,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
@@ -12,97 +12,86 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "微软想给所有 Windows 电脑预装龙虾",
+        "url": "https://36kr.com/p/3766613357543936",
+        "source": "36氪",
+        "time": "2026-04-14 15:50"
+      },
+      {
+        "title": "AI电荒突围：谁能替代重燃？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850509.html",
+        "source": "虎嗅",
+        "time": "2026-04-14 15:51"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "大疆汪滔如何克服中年「意义危机」",
-        "url": "https://36kr.com/p/3766477991395840",
+        "title": "网易互娱架构调整，市场负责人王怡调任海外",
+        "url": "https://36kr.com/p/3766722584822537",
         "source": "36氪",
-        "time": "2026-04-14 10:48"
+        "time": "2026-04-14 15:50"
       },
       {
-        "title": "从征服世界，到战胜自己",
-        "url": "https://36kr.com/p/3766477991395840",
+        "title": "网易否认王怡离职，称其调任海外，市场中心更名。",
+        "url": "https://36kr.com/p/3766722584822537",
         "source": "36氪",
-        "time": "2026-04-14 10:48"
+        "time": "2026-04-14 15:50"
       },
       {
-        "title": "投资具身智能，美团赚翻了。",
-        "url": "https://36kr.com/p/3766471516865030",
+        "title": "后端是 Copilot 哟",
+        "url": "https://36kr.com/p/3766613357543936",
         "source": "36氪",
-        "time": "2026-04-14 10:48"
+        "time": "2026-04-14 15:50"
       },
       {
-        "title": "张勇回归海底捞CEO100天，向4名员工道歉",
-        "url": "https://36kr.com/p/3766321904288512",
-        "source": "36氪",
-        "time": "2026-04-14 10:48"
-      },
-      {
-        "title": "要先学会改变“家文化”？",
-        "url": "https://36kr.com/p/3766321904288512",
-        "source": "36氪",
-        "time": "2026-04-14 10:48"
-      },
-      {
-        "title": "钉钉、飞书集体转向CLI，MCP已死、GUI要出局了？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850260.html",
+        "title": "游戏股暴跌，能关注了吗？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850499.html",
         "source": "虎嗅",
-        "time": "2026-04-14 10:48"
-      },
-      {
-        "title": "许家印当庭认罪，家族还有多少资产没追回？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850457.html",
-        "source": "虎嗅",
-        "time": "2026-04-14 10:48"
+        "time": "2026-04-14 15:51"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "大疆汪滔如何克服中年「意义危机」",
-      "url": "https://36kr.com/p/3766477991395840",
+      "title": "网易互娱架构调整，市场负责人王怡调任海外",
+      "url": "https://36kr.com/p/3766722584822537",
       "source": "36氪",
-      "time": "2026-04-14 10:48"
+      "time": "2026-04-14 15:50"
     },
     {
-      "title": "从征服世界，到战胜自己",
-      "url": "https://36kr.com/p/3766477991395840",
+      "title": "网易否认王怡离职，称其调任海外，市场中心更名。",
+      "url": "https://36kr.com/p/3766722584822537",
       "source": "36氪",
-      "time": "2026-04-14 10:48"
+      "time": "2026-04-14 15:50"
     },
     {
-      "title": "投资具身智能，美团赚翻了。",
-      "url": "https://36kr.com/p/3766471516865030",
+      "title": "微软想给所有 Windows 电脑预装龙虾",
+      "url": "https://36kr.com/p/3766613357543936",
       "source": "36氪",
-      "time": "2026-04-14 10:48"
+      "time": "2026-04-14 15:50"
     },
     {
-      "title": "张勇回归海底捞CEO100天，向4名员工道歉",
-      "url": "https://36kr.com/p/3766321904288512",
+      "title": "后端是 Copilot 哟",
+      "url": "https://36kr.com/p/3766613357543936",
       "source": "36氪",
-      "time": "2026-04-14 10:48"
+      "time": "2026-04-14 15:50"
     },
     {
-      "title": "要先学会改变“家文化”？",
-      "url": "https://36kr.com/p/3766321904288512",
-      "source": "36氪",
-      "time": "2026-04-14 10:48"
-    },
-    {
-      "title": "钉钉、飞书集体转向CLI，MCP已死、GUI要出局了？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850260.html",
+      "title": "游戏股暴跌，能关注了吗？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850499.html",
       "source": "虎嗅",
-      "time": "2026-04-14 10:48"
+      "time": "2026-04-14 15:51"
     },
     {
-      "title": "许家印当庭认罪，家族还有多少资产没追回？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850457.html",
+      "title": "AI电荒突围：谁能替代重燃？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850509.html",
       "source": "虎嗅",
-      "time": "2026-04-14 10:48"
+      "time": "2026-04-14 15:51"
     }
   ]
 }
