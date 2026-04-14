@@ -1,98 +1,109 @@
 {
-  "timestamp": "2026-04-13T23:06:19.595240",
-  "total": 6,
+  "timestamp": "2026-04-14T06:16:07.338296",
+  "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 4,
+    "36氪": 5,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
-    "industry": [
+    "finance": [
       {
-        "title": "荣耀做了个“养虾本”，预制5大主虾，要重新定义AI PC｜最前线",
-        "url": "https://36kr.com/p/3765331768967686",
+        "title": "数千家各色度假酒店正在布局“黄金走廊”",
+        "url": "https://36kr.com/p/3765962507121415",
         "source": "36氪",
-        "time": "2026-04-13 23:05"
+        "time": "2026-04-14 06:15"
       }
     ],
-    "tech": [
-      {
-        "title": "奥特曼豪宅48小时遇袭两次，反AI怒火烧向全球",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850093.html",
-        "source": "虎嗅",
-        "time": "2026-04-13 23:05"
-      }
-    ],
+    "industry": [],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "比OpenClaw省一半Token。",
-        "url": "https://36kr.com/p/3765331768967686",
+        "title": "度假酒店掘金的六个“南”题",
+        "url": "https://36kr.com/p/3765962507121415",
         "source": "36氪",
-        "time": "2026-04-13 23:05"
+        "time": "2026-04-14 06:15"
       },
       {
-        "title": "B站似乎终于学会在不破坏社区氛围的前提下赚钱了。",
-        "url": "https://36kr.com/p/3765190844662277",
+        "title": "深圳一新盘数百人抢房！保安喷辣椒水赶人，涉事企业被监管约谈并道歉",
+        "url": "https://36kr.com/p/3766152412430857",
         "source": "36氪",
-        "time": "2026-04-13 23:05"
+        "time": "2026-04-14 06:15"
       },
       {
-        "title": "没想到，无人机让光纤价格史诗级上涨",
-        "url": "https://36kr.com/p/3765153541767945",
+        "title": "深圳新盘开盘保安喷辣椒水，涉事保安被拘，开发商致歉整改。",
+        "url": "https://36kr.com/p/3766152412430857",
         "source": "36氪",
-        "time": "2026-04-13 23:05"
+        "time": "2026-04-14 06:15"
       },
       {
-        "title": "奥特曼两遭袭击，发长文难挽信任危机",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850179.html",
+        "title": "11名员工，9亿年利润，揭秘地球上人效比最高的公司",
+        "url": "https://36kr.com/p/3766127265366530",
+        "source": "36氪",
+        "time": "2026-04-14 06:15"
+      },
+      {
+        "title": "敢给员工多放假的公司，后来怎么样了？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850295.html",
         "source": "虎嗅",
-        "time": "2026-04-13 23:05"
+        "time": "2026-04-14 06:15"
+      },
+      {
+        "title": "高市早苗拿到了跟蒋介石一样的一副牌",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850253.html",
+        "source": "虎嗅",
+        "time": "2026-04-14 06:15"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "荣耀做了个“养虾本”，预制5大主虾，要重新定义AI PC｜最前线",
-      "url": "https://36kr.com/p/3765331768967686",
+      "title": "度假酒店掘金的六个“南”题",
+      "url": "https://36kr.com/p/3765962507121415",
       "source": "36氪",
-      "time": "2026-04-13 23:05"
+      "time": "2026-04-14 06:15"
     },
     {
-      "title": "比OpenClaw省一半Token。",
-      "url": "https://36kr.com/p/3765331768967686",
+      "title": "数千家各色度假酒店正在布局“黄金走廊”",
+      "url": "https://36kr.com/p/3765962507121415",
       "source": "36氪",
-      "time": "2026-04-13 23:05"
+      "time": "2026-04-14 06:15"
     },
     {
-      "title": "B站似乎终于学会在不破坏社区氛围的前提下赚钱了。",
-      "url": "https://36kr.com/p/3765190844662277",
+      "title": "深圳一新盘数百人抢房！保安喷辣椒水赶人，涉事企业被监管约谈并道歉",
+      "url": "https://36kr.com/p/3766152412430857",
       "source": "36氪",
-      "time": "2026-04-13 23:05"
+      "time": "2026-04-14 06:15"
     },
     {
-      "title": "没想到，无人机让光纤价格史诗级上涨",
-      "url": "https://36kr.com/p/3765153541767945",
+      "title": "深圳新盘开盘保安喷辣椒水，涉事保安被拘，开发商致歉整改。",
+      "url": "https://36kr.com/p/3766152412430857",
       "source": "36氪",
-      "time": "2026-04-13 23:05"
+      "time": "2026-04-14 06:15"
     },
     {
-      "title": "奥特曼两遭袭击，发长文难挽信任危机",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850179.html",
+      "title": "11名员工，9亿年利润，揭秘地球上人效比最高的公司",
+      "url": "https://36kr.com/p/3766127265366530",
+      "source": "36氪",
+      "time": "2026-04-14 06:15"
+    },
+    {
+      "title": "敢给员工多放假的公司，后来怎么样了？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850295.html",
       "source": "虎嗅",
-      "time": "2026-04-13 23:05"
+      "time": "2026-04-14 06:15"
     },
     {
-      "title": "奥特曼豪宅48小时遇袭两次，反AI怒火烧向全球",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850093.html",
+      "title": "高市早苗拿到了跟蒋介石一样的一副牌",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850253.html",
       "source": "虎嗅",
-      "time": "2026-04-13 23:05"
+      "time": "2026-04-14 06:15"
     }
   ]
 }
