@@ -1,97 +1,97 @@
 {
-  "timestamp": "2026-04-15T06:12:42.724212",
+  "timestamp": "2026-04-15T10:44:23.619857",
   "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 4,
+    "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [
+    "industry": [],
+    "tech": [
       {
-        "title": "刚刚，李飞飞最新成果发布，手机也能跑亿级粒子的 3D 世界了",
-        "url": "https://36kr.com/p/3767557281268483",
+        "title": "阿里AI背上“GMV”",
+        "url": "https://36kr.com/p/3767826973995520",
         "source": "36氪",
-        "time": "2026-04-15 06:12"
+        "time": "2026-04-15 10:43"
       },
       {
-        "title": "外国籍的中国医药大佬，越来越多",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850680.html",
-        "source": "虎嗅",
-        "time": "2026-04-15 06:12"
+        "title": "吴泳铭想给阿里AI多装几个钱袋子。",
+        "url": "https://36kr.com/p/3767826973995520",
+        "source": "36氪",
+        "time": "2026-04-15 10:43"
       }
     ],
-    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "西安发布住房租赁市场管理办法 规范租赁行为",
-        "url": "https://36kr.com/p/3767687618953993",
+        "title": "因用过期食材、健康证造假致歉一年后，华莱士再被曝吃出破损灯具",
+        "url": "https://36kr.com/p/3767786897158663",
         "source": "36氪",
-        "time": "2026-04-15 06:12"
+        "time": "2026-04-15 10:43"
       },
       {
-        "title": "西安规范住房租赁市场办法出台，2026年6月实施。",
-        "url": "https://36kr.com/p/3767687618953993",
+        "title": "当“利润变薄”和“监管缺位”同时发生，品控就很容易成为被牺牲的选项。",
+        "url": "https://36kr.com/p/3767786897158663",
         "source": "36氪",
-        "time": "2026-04-15 06:12"
+        "time": "2026-04-15 10:43"
       },
       {
-        "title": "年薪240万，香港抢人了",
-        "url": "https://36kr.com/p/3767557074125575",
+        "title": "你等的DeepSeek，早已变了",
+        "url": "https://36kr.com/p/3767856815534849",
         "source": "36氪",
-        "time": "2026-04-15 06:12"
+        "time": "2026-04-15 10:43"
       },
       {
-        "title": "五一出境游，彻底凉了？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850607.html",
+        "title": "给孩子买的 Switch，我还是低估了它的威力",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850761.html",
         "source": "虎嗅",
-        "time": "2026-04-15 06:12"
+        "time": "2026-04-15 10:44"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "西安发布住房租赁市场管理办法 规范租赁行为",
-      "url": "https://36kr.com/p/3767687618953993",
+      "title": "阿里AI背上“GMV”",
+      "url": "https://36kr.com/p/3767826973995520",
       "source": "36氪",
-      "time": "2026-04-15 06:12"
+      "time": "2026-04-15 10:43"
     },
     {
-      "title": "西安规范住房租赁市场办法出台，2026年6月实施。",
-      "url": "https://36kr.com/p/3767687618953993",
+      "title": "吴泳铭想给阿里AI多装几个钱袋子。",
+      "url": "https://36kr.com/p/3767826973995520",
       "source": "36氪",
-      "time": "2026-04-15 06:12"
+      "time": "2026-04-15 10:43"
     },
     {
-      "title": "刚刚，李飞飞最新成果发布，手机也能跑亿级粒子的 3D 世界了",
-      "url": "https://36kr.com/p/3767557281268483",
+      "title": "因用过期食材、健康证造假致歉一年后，华莱士再被曝吃出破损灯具",
+      "url": "https://36kr.com/p/3767786897158663",
       "source": "36氪",
-      "time": "2026-04-15 06:12"
+      "time": "2026-04-15 10:43"
     },
     {
-      "title": "年薪240万，香港抢人了",
-      "url": "https://36kr.com/p/3767557074125575",
+      "title": "当“利润变薄”和“监管缺位”同时发生，品控就很容易成为被牺牲的选项。",
+      "url": "https://36kr.com/p/3767786897158663",
       "source": "36氪",
-      "time": "2026-04-15 06:12"
+      "time": "2026-04-15 10:43"
     },
     {
-      "title": "外国籍的中国医药大佬，越来越多",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850680.html",
+      "title": "你等的DeepSeek，早已变了",
+      "url": "https://36kr.com/p/3767856815534849",
+      "source": "36氪",
+      "time": "2026-04-15 10:43"
+    },
+    {
+      "title": "给孩子买的 Switch，我还是低估了它的威力",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850761.html",
       "source": "虎嗅",
-      "time": "2026-04-15 06:12"
-    },
-    {
-      "title": "五一出境游，彻底凉了？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850607.html",
-      "source": "虎嗅",
-      "time": "2026-04-15 06:12"
+      "time": "2026-04-15 10:44"
     }
   ]
 }
