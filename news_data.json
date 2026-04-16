@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-04-16T06:25:29.913963",
-  "total": 7,
+  "timestamp": "2026-04-16T10:46:18.869840",
+  "total": 5,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 5,
+    "36氪": 3,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
@@ -14,96 +14,73 @@
     "industry": [],
     "tech": [
       {
-        "title": "快轮到腾讯给林松涛打分了",
-        "url": "https://36kr.com/p/3768214876963586",
+        "title": "上市首日市值冲破1600亿，华为系新贵却被华为告了",
+        "url": "https://36kr.com/p/3769299931415040",
         "source": "36氪",
-        "time": "2026-04-16 06:25"
+        "time": "2026-04-16 10:46"
+      },
+      {
+        "title": "苹果把Siri员工送进AI「补习班」，黄仁勋的暴论开始应验了",
+        "url": "https://36kr.com/p/3769299851510528",
+        "source": "36氪",
+        "time": "2026-04-16 10:46"
+      },
+      {
+        "title": "苹果把Siri员工送进AI“补习班”，黄仁勋的暴论开始应验了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4851116.html",
+        "source": "虎嗅",
+        "time": "2026-04-16 10:46"
       }
     ],
-    "byd": [],
+    "byd": [
+      {
+        "title": "宁王飘了，日赚2.3亿，回应比亚迪“闪充”：跟我学的，构不成挑战",
+        "url": "https://36kr.com/p/3769300040286980",
+        "source": "36氪",
+        "time": "2026-04-16 10:46"
+      }
+    ],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "林松涛的倒计时：一枚棋子的三年计划",
-        "url": "https://36kr.com/p/3768214876963586",
-        "source": "36氪",
-        "time": "2026-04-16 06:25"
-      },
-      {
-        "title": "车企跌倒宁王吃饱，一季度狂赚207亿，超部分车厂全年净利",
-        "url": "https://36kr.com/p/3768687347237384",
-        "source": "36氪",
-        "time": "2026-04-16 06:25"
-      },
-      {
-        "title": "手握万亿资产，宁德时代赚疯了。",
-        "url": "https://36kr.com/p/3768687347237384",
-        "source": "36氪",
-        "time": "2026-04-16 06:25"
-      },
-      {
-        "title": "2026年，智驾正从汽车“尝鲜配置”变为“保值资产”",
-        "url": "https://36kr.com/p/3768115458507273",
-        "source": "36氪",
-        "time": "2026-04-16 06:25"
-      },
-      {
-        "title": "一个东北网约车司机大哥教我的事",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4851053.html",
+        "title": "当降本内卷到达极限：中国制造出海，路在何方？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4851085.html",
         "source": "虎嗅",
-        "time": "2026-04-16 06:25"
-      },
-      {
-        "title": "格力和海信吵架，吵出了一场大国资源暗战",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850977.html",
-        "source": "虎嗅",
-        "time": "2026-04-16 06:25"
+        "time": "2026-04-16 10:46"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "林松涛的倒计时：一枚棋子的三年计划",
-      "url": "https://36kr.com/p/3768214876963586",
+      "title": "宁王飘了，日赚2.3亿，回应比亚迪“闪充”：跟我学的，构不成挑战",
+      "url": "https://36kr.com/p/3769300040286980",
       "source": "36氪",
-      "time": "2026-04-16 06:25"
+      "time": "2026-04-16 10:46"
     },
     {
-      "title": "快轮到腾讯给林松涛打分了",
-      "url": "https://36kr.com/p/3768214876963586",
+      "title": "上市首日市值冲破1600亿，华为系新贵却被华为告了",
+      "url": "https://36kr.com/p/3769299931415040",
       "source": "36氪",
-      "time": "2026-04-16 06:25"
+      "time": "2026-04-16 10:46"
     },
     {
-      "title": "车企跌倒宁王吃饱，一季度狂赚207亿，超部分车厂全年净利",
-      "url": "https://36kr.com/p/3768687347237384",
+      "title": "苹果把Siri员工送进AI「补习班」，黄仁勋的暴论开始应验了",
+      "url": "https://36kr.com/p/3769299851510528",
       "source": "36氪",
-      "time": "2026-04-16 06:25"
+      "time": "2026-04-16 10:46"
     },
     {
-      "title": "手握万亿资产，宁德时代赚疯了。",
-      "url": "https://36kr.com/p/3768687347237384",
-      "source": "36氪",
-      "time": "2026-04-16 06:25"
-    },
-    {
-      "title": "2026年，智驾正从汽车“尝鲜配置”变为“保值资产”",
-      "url": "https://36kr.com/p/3768115458507273",
-      "source": "36氪",
-      "time": "2026-04-16 06:25"
-    },
-    {
-      "title": "一个东北网约车司机大哥教我的事",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4851053.html",
+      "title": "苹果把Siri员工送进AI“补习班”，黄仁勋的暴论开始应验了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4851116.html",
       "source": "虎嗅",
-      "time": "2026-04-16 06:25"
+      "time": "2026-04-16 10:46"
     },
     {
-      "title": "格力和海信吵架，吵出了一场大国资源暗战",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4850977.html",
+      "title": "当降本内卷到达极限：中国制造出海，路在何方？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4851085.html",
       "source": "虎嗅",
-      "time": "2026-04-16 06:25"
+      "time": "2026-04-16 10:46"
     }
   ]
 }
