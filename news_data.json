@@ -1,37 +1,30 @@
 {
-  "timestamp": "2026-04-18T00:06:38.433296",
-  "total": 4,
+  "timestamp": "2026-04-18T05:56:13.463604",
+  "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 3,
+    "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [
       {
-        "title": "一年暴涨15倍，A股新股王能当多久？",
-        "url": "https://36kr.com/p/3770858642637314",
+        "title": "突发：OpenAI连失大将，Sora之父离职，IPO前夜风波不断",
+        "url": "https://36kr.com/p/3771701475394308",
         "source": "36氪",
-        "time": "2026-04-18 00:06"
+        "time": "2026-04-18 05:55"
       }
     ],
-    "industry": [
-      {
-        "title": "手机市场洗牌：华为苹果笑看涨价，小米跌出前五",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4851597.html",
-        "source": "虎嗅",
-        "time": "2026-04-18 00:06"
-      }
-    ],
+    "industry": [],
     "tech": [
       {
-        "title": "“有了AI，人们却过得越来越累了”",
-        "url": "https://36kr.com/p/3770863566009094",
-        "source": "36氪",
-        "time": "2026-04-18 00:06"
+        "title": "为什么“高价值任务”成了所有AI Labs 的T0级战略？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4851697.html",
+        "source": "虎嗅",
+        "time": "2026-04-18 05:56"
       }
     ],
     "byd": [],
@@ -39,37 +32,79 @@
     "fitness": [],
     "other": [
       {
-        "title": "外航猛开5条中国线，签租10架C909",
-        "url": "https://36kr.com/p/3770858604151553",
+        "title": "奥尔特曼的“双面人生”拖累上市！",
+        "url": "https://36kr.com/p/3771701475394308",
         "source": "36氪",
-        "time": "2026-04-18 00:06"
+        "time": "2026-04-18 05:55"
+      },
+      {
+        "title": "从代码编写工具到能操作电脑的助手。",
+        "url": "https://36kr.com/p/3771691809321734",
+        "source": "36氪",
+        "time": "2026-04-18 05:55"
+      },
+      {
+        "title": "设计行业的“棺材板”，要被Claude Design盖上了",
+        "url": "https://36kr.com/p/3771690585223689",
+        "source": "36氪",
+        "time": "2026-04-18 05:55"
+      },
+      {
+        "title": "从设计到Coding的活它都要干",
+        "url": "https://36kr.com/p/3771690585223689",
+        "source": "36氪",
+        "time": "2026-04-18 05:55"
+      },
+      {
+        "title": "为啥卡戴珊之母成了全球年轻人的财神？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4851543.html",
+        "source": "虎嗅",
+        "time": "2026-04-18 05:56"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "“有了AI，人们却过得越来越累了”",
-      "url": "https://36kr.com/p/3770863566009094",
+      "title": "突发：OpenAI连失大将，Sora之父离职，IPO前夜风波不断",
+      "url": "https://36kr.com/p/3771701475394308",
       "source": "36氪",
-      "time": "2026-04-18 00:06"
+      "time": "2026-04-18 05:55"
     },
     {
-      "title": "一年暴涨15倍，A股新股王能当多久？",
-      "url": "https://36kr.com/p/3770858642637314",
+      "title": "奥尔特曼的“双面人生”拖累上市！",
+      "url": "https://36kr.com/p/3771701475394308",
       "source": "36氪",
-      "time": "2026-04-18 00:06"
+      "time": "2026-04-18 05:55"
     },
     {
-      "title": "外航猛开5条中国线，签租10架C909",
-      "url": "https://36kr.com/p/3770858604151553",
+      "title": "从代码编写工具到能操作电脑的助手。",
+      "url": "https://36kr.com/p/3771691809321734",
       "source": "36氪",
-      "time": "2026-04-18 00:06"
+      "time": "2026-04-18 05:55"
     },
     {
-      "title": "手机市场洗牌：华为苹果笑看涨价，小米跌出前五",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4851597.html",
+      "title": "设计行业的“棺材板”，要被Claude Design盖上了",
+      "url": "https://36kr.com/p/3771690585223689",
+      "source": "36氪",
+      "time": "2026-04-18 05:55"
+    },
+    {
+      "title": "从设计到Coding的活它都要干",
+      "url": "https://36kr.com/p/3771690585223689",
+      "source": "36氪",
+      "time": "2026-04-18 05:55"
+    },
+    {
+      "title": "为啥卡戴珊之母成了全球年轻人的财神？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4851543.html",
       "source": "虎嗅",
-      "time": "2026-04-18 00:06"
+      "time": "2026-04-18 05:56"
+    },
+    {
+      "title": "为什么“高价值任务”成了所有AI Labs 的T0级战略？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4851697.html",
+      "source": "虎嗅",
+      "time": "2026-04-18 05:56"
     }
   ]
 }
