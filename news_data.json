@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-18T08:07:53.905829",
+  "timestamp": "2026-04-18T10:27:35.599151",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -11,20 +11,19 @@
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "AI芯片初创公司，进入“斩杀线”",
-        "url": "https://36kr.com/p/3771770656359173",
-        "source": "36氪",
-        "time": "2026-04-18 08:07"
-      }
-    ],
+    "industry": [],
     "tech": [
+      {
+        "title": "为了AI数据中心，马斯克和孟菲斯居民撕两年了",
+        "url": "https://36kr.com/p/3772082486739719",
+        "source": "36氪",
+        "time": "2026-04-18 10:27"
+      },
       {
         "title": "如果DeepSeek选择华为，黄仁勋说的“灾难”到底是什么？",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4851690.html",
         "source": "虎嗅",
-        "time": "2026-04-18 08:07"
+        "time": "2026-04-18 10:27"
       }
     ],
     "byd": [],
@@ -32,79 +31,79 @@
     "fitness": [],
     "other": [
       {
+        "title": "不仅排毒气，还和当地人抢饮用水？",
+        "url": "https://36kr.com/p/3772082486739719",
+        "source": "36氪",
+        "time": "2026-04-18 10:27"
+      },
+      {
         "title": "“豆包股”首次回购，字节员工笑麻了",
         "url": "https://36kr.com/p/3771731122389769",
         "source": "36氪",
-        "time": "2026-04-18 08:07"
+        "time": "2026-04-18 10:27"
       },
       {
         "title": "Anthropic 要亲手杀死 Figma 了吗？",
         "url": "https://36kr.com/p/3771736819647233",
         "source": "36氪",
-        "time": "2026-04-18 08:07"
+        "time": "2026-04-18 10:27"
       },
       {
         "title": "从卖模型到做产品，Anthropic 这一步走得比所有人预想的都快。",
         "url": "https://36kr.com/p/3771736819647233",
         "source": "36氪",
-        "time": "2026-04-18 08:07"
+        "time": "2026-04-18 10:27"
       },
       {
-        "title": "99进25，这场淘汰赛，谁能活到最后？",
-        "url": "https://36kr.com/p/3771770656359173",
-        "source": "36氪",
-        "time": "2026-04-18 08:07"
-      },
-      {
-        "title": "欧尔班给匈牙利带来了什么，又带走了什么？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4851727.html",
+        "title": "新鲜零食：为什么越强调新鲜，越难做大",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4851740.html",
         "source": "虎嗅",
-        "time": "2026-04-18 08:07"
+        "time": "2026-04-18 10:27"
       }
     ]
   },
   "raw_news": [
     {
+      "title": "为了AI数据中心，马斯克和孟菲斯居民撕两年了",
+      "url": "https://36kr.com/p/3772082486739719",
+      "source": "36氪",
+      "time": "2026-04-18 10:27"
+    },
+    {
+      "title": "不仅排毒气，还和当地人抢饮用水？",
+      "url": "https://36kr.com/p/3772082486739719",
+      "source": "36氪",
+      "time": "2026-04-18 10:27"
+    },
+    {
       "title": "“豆包股”首次回购，字节员工笑麻了",
       "url": "https://36kr.com/p/3771731122389769",
       "source": "36氪",
-      "time": "2026-04-18 08:07"
+      "time": "2026-04-18 10:27"
     },
     {
       "title": "Anthropic 要亲手杀死 Figma 了吗？",
       "url": "https://36kr.com/p/3771736819647233",
       "source": "36氪",
-      "time": "2026-04-18 08:07"
+      "time": "2026-04-18 10:27"
     },
     {
       "title": "从卖模型到做产品，Anthropic 这一步走得比所有人预想的都快。",
       "url": "https://36kr.com/p/3771736819647233",
       "source": "36氪",
-      "time": "2026-04-18 08:07"
-    },
-    {
-      "title": "AI芯片初创公司，进入“斩杀线”",
-      "url": "https://36kr.com/p/3771770656359173",
-      "source": "36氪",
-      "time": "2026-04-18 08:07"
-    },
-    {
-      "title": "99进25，这场淘汰赛，谁能活到最后？",
-      "url": "https://36kr.com/p/3771770656359173",
-      "source": "36氪",
-      "time": "2026-04-18 08:07"
+      "time": "2026-04-18 10:27"
     },
     {
       "title": "如果DeepSeek选择华为，黄仁勋说的“灾难”到底是什么？",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4851690.html",
       "source": "虎嗅",
-      "time": "2026-04-18 08:07"
+      "time": "2026-04-18 10:27"
     },
     {
-      "title": "欧尔班给匈牙利带来了什么，又带走了什么？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4851727.html",
+      "title": "新鲜零食：为什么越强调新鲜，越难做大",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4851740.html",
       "source": "虎嗅",
-      "time": "2026-04-18 08:07"
+      "time": "2026-04-18 10:27"
     }
   ]
 }
