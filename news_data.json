@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-20T19:44:24.409434",
-  "total": 7,
+  "timestamp": "2026-04-20T22:09:57.660716",
+  "total": 5,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -10,27 +10,20 @@
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
-      {
-        "title": "一切为了IPO，OpenAI三位高管同日离职",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4852224.html",
-        "source": "虎嗅",
-        "time": "2026-04-20 19:44"
-      }
-    ],
+    "finance": [],
     "industry": [],
     "tech": [
       {
         "title": "氪星晚报 ｜华为发布首款鸿蒙AI眼镜；天齐锂业：一季度净利润同比预增1530.31%—1818.01%",
         "url": "https://36kr.com/p/3775059219792648",
         "source": "36氪",
-        "time": "2026-04-20 19:44"
+        "time": "2026-04-20 22:09"
       },
       {
         "title": "春招会“国综之变”：音综分化、AI落地、老综求新",
         "url": "https://36kr.com/p/3775182507508230",
         "source": "36氪",
-        "time": "2026-04-20 19:44"
+        "time": "2026-04-20 22:09"
       }
     ],
     "byd": [],
@@ -41,25 +34,19 @@
         "title": "OPPO海外市场再下两国，Find X9 Ultra系列首次出海",
         "url": "https://36kr.com/p/3775059219792648",
         "source": "36氪",
-        "time": "2026-04-20 19:44"
+        "time": "2026-04-20 22:09"
       },
       {
         "title": "一个CLAUDE.md霸榜GitHub第一，蒸馏自Karpathy，6万码农抄作业",
         "url": "https://36kr.com/p/3774954488349441",
         "source": "36氪",
-        "time": "2026-04-20 19:44"
+        "time": "2026-04-20 22:09"
       },
       {
         "title": "80%的代码，不用自己写了",
         "url": "https://36kr.com/p/3774954488349441",
         "source": "36氪",
-        "time": "2026-04-20 19:44"
-      },
-      {
-        "title": "打破SpaceX垄断，美国又一款大火箭实现复用，国内必将超越！| 0420",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4852235.html",
-        "source": "虎嗅",
-        "time": "2026-04-20 19:44"
+        "time": "2026-04-20 22:09"
       }
     ]
   },
@@ -68,43 +55,31 @@
       "title": "氪星晚报 ｜华为发布首款鸿蒙AI眼镜；天齐锂业：一季度净利润同比预增1530.31%—1818.01%",
       "url": "https://36kr.com/p/3775059219792648",
       "source": "36氪",
-      "time": "2026-04-20 19:44"
+      "time": "2026-04-20 22:09"
     },
     {
       "title": "OPPO海外市场再下两国，Find X9 Ultra系列首次出海",
       "url": "https://36kr.com/p/3775059219792648",
       "source": "36氪",
-      "time": "2026-04-20 19:44"
+      "time": "2026-04-20 22:09"
     },
     {
       "title": "一个CLAUDE.md霸榜GitHub第一，蒸馏自Karpathy，6万码农抄作业",
       "url": "https://36kr.com/p/3774954488349441",
       "source": "36氪",
-      "time": "2026-04-20 19:44"
+      "time": "2026-04-20 22:09"
     },
     {
       "title": "80%的代码，不用自己写了",
       "url": "https://36kr.com/p/3774954488349441",
       "source": "36氪",
-      "time": "2026-04-20 19:44"
+      "time": "2026-04-20 22:09"
     },
     {
       "title": "春招会“国综之变”：音综分化、AI落地、老综求新",
       "url": "https://36kr.com/p/3775182507508230",
       "source": "36氪",
-      "time": "2026-04-20 19:44"
-    },
-    {
-      "title": "一切为了IPO，OpenAI三位高管同日离职",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4852224.html",
-      "source": "虎嗅",
-      "time": "2026-04-20 19:44"
-    },
-    {
-      "title": "打破SpaceX垄断，美国又一款大火箭实现复用，国内必将超越！| 0420",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4852235.html",
-      "source": "虎嗅",
-      "time": "2026-04-20 19:44"
+      "time": "2026-04-20 22:09"
     }
   ]
 }
