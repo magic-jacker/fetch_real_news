@@ -1,29 +1,36 @@
 {
-  "timestamp": "2026-04-20T11:56:53.082498",
-  "total": 5,
+  "timestamp": "2026-04-20T15:59:05.184194",
+  "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 4,
+    "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
+    "finance": [
+      {
+        "title": "一切为了IPO，OpenAI三位高管同日离职",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4852224.html",
+        "source": "虎嗅",
+        "time": "2026-04-20 15:59"
+      }
+    ],
     "industry": [],
     "tech": [
       {
-        "title": "A轮美团、A+轮阿里、A++轮字节、B轮小米。",
-        "url": "https://36kr.com/p/3774953431024135",
+        "title": "氪星晚报 ｜华为发布首款鸿蒙AI眼镜；天齐锂业：一季度净利润同比预增1530.31%—1818.01%",
+        "url": "https://36kr.com/p/3775059219792648",
         "source": "36氪",
-        "time": "2026-04-20 11:56"
+        "time": "2026-04-20 15:58"
       },
       {
-        "title": "打工人开始集体造假？当老板押注“AI提效”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4852173.html",
-        "source": "虎嗅",
-        "time": "2026-04-20 11:56"
+        "title": "春招会“国综之变”：音综分化、AI落地、老综求新",
+        "url": "https://36kr.com/p/3775182507508230",
+        "source": "36氪",
+        "time": "2026-04-20 15:58"
       }
     ],
     "byd": [],
@@ -31,55 +38,73 @@
     "fitness": [],
     "other": [
       {
-        "title": "上闲鱼买“前任”，25元一个",
-        "url": "https://36kr.com/p/3774965511865095",
+        "title": "OPPO海外市场再下两国，Find X9 Ultra系列首次出海",
+        "url": "https://36kr.com/p/3775059219792648",
         "source": "36氪",
-        "time": "2026-04-20 11:56"
+        "time": "2026-04-20 15:58"
       },
       {
-        "title": "远程部署Skill需让渡电脑操控权限，风险极大！",
-        "url": "https://36kr.com/p/3774965511865095",
+        "title": "一个CLAUDE.md霸榜GitHub第一，蒸馏自Karpathy，6万码农抄作业",
+        "url": "https://36kr.com/p/3774954488349441",
         "source": "36氪",
-        "time": "2026-04-20 11:56"
+        "time": "2026-04-20 15:58"
       },
       {
-        "title": "国产“具身大脑”再融20亿，集齐互联网四巨头",
-        "url": "https://36kr.com/p/3774953431024135",
+        "title": "80%的代码，不用自己写了",
+        "url": "https://36kr.com/p/3774954488349441",
         "source": "36氪",
-        "time": "2026-04-20 11:56"
+        "time": "2026-04-20 15:58"
+      },
+      {
+        "title": "打破SpaceX垄断，美国又一款大火箭实现复用，国内必将超越！| 0420",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4852235.html",
+        "source": "虎嗅",
+        "time": "2026-04-20 15:59"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "上闲鱼买“前任”，25元一个",
-      "url": "https://36kr.com/p/3774965511865095",
+      "title": "氪星晚报 ｜华为发布首款鸿蒙AI眼镜；天齐锂业：一季度净利润同比预增1530.31%—1818.01%",
+      "url": "https://36kr.com/p/3775059219792648",
       "source": "36氪",
-      "time": "2026-04-20 11:56"
+      "time": "2026-04-20 15:58"
     },
     {
-      "title": "远程部署Skill需让渡电脑操控权限，风险极大！",
-      "url": "https://36kr.com/p/3774965511865095",
+      "title": "OPPO海外市场再下两国，Find X9 Ultra系列首次出海",
+      "url": "https://36kr.com/p/3775059219792648",
       "source": "36氪",
-      "time": "2026-04-20 11:56"
+      "time": "2026-04-20 15:58"
     },
     {
-      "title": "国产“具身大脑”再融20亿，集齐互联网四巨头",
-      "url": "https://36kr.com/p/3774953431024135",
+      "title": "一个CLAUDE.md霸榜GitHub第一，蒸馏自Karpathy，6万码农抄作业",
+      "url": "https://36kr.com/p/3774954488349441",
       "source": "36氪",
-      "time": "2026-04-20 11:56"
+      "time": "2026-04-20 15:58"
     },
     {
-      "title": "A轮美团、A+轮阿里、A++轮字节、B轮小米。",
-      "url": "https://36kr.com/p/3774953431024135",
+      "title": "80%的代码，不用自己写了",
+      "url": "https://36kr.com/p/3774954488349441",
       "source": "36氪",
-      "time": "2026-04-20 11:56"
+      "time": "2026-04-20 15:58"
     },
     {
-      "title": "打工人开始集体造假？当老板押注“AI提效”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4852173.html",
+      "title": "春招会“国综之变”：音综分化、AI落地、老综求新",
+      "url": "https://36kr.com/p/3775182507508230",
+      "source": "36氪",
+      "time": "2026-04-20 15:58"
+    },
+    {
+      "title": "一切为了IPO，OpenAI三位高管同日离职",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4852224.html",
       "source": "虎嗅",
-      "time": "2026-04-20 11:56"
+      "time": "2026-04-20 15:59"
+    },
+    {
+      "title": "打破SpaceX垄断，美国又一款大火箭实现复用，国内必将超越！| 0420",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4852235.html",
+      "source": "虎嗅",
+      "time": "2026-04-20 15:59"
     }
   ]
 }
