@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-20T22:09:57.660716",
-  "total": 5,
+  "timestamp": "2026-04-21T06:12:16.877286",
+  "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -11,19 +11,38 @@
   },
   "categories": {
     "finance": [],
-    "industry": [],
-    "tech": [
+    "industry": [
       {
-        "title": "氪星晚报 ｜华为发布首款鸿蒙AI眼镜；天齐锂业：一季度净利润同比预增1530.31%—1818.01%",
-        "url": "https://36kr.com/p/3775059219792648",
+        "title": "苹果为什么在AI时代，选了一个造芯片的人当CEO？",
+        "url": "https://36kr.com/p/3775993067221762",
         "source": "36氪",
-        "time": "2026-04-20 22:09"
+        "time": "2026-04-21 06:12"
       },
       {
-        "title": "春招会“国综之变”：音综分化、AI落地、老综求新",
-        "url": "https://36kr.com/p/3775182507508230",
+        "title": "苹果任命硬件工程师John Ternus为新CEO，押注端侧AI与芯片战略。",
+        "url": "https://36kr.com/p/3775993067221762",
         "source": "36氪",
-        "time": "2026-04-20 22:09"
+        "time": "2026-04-21 06:12"
+      }
+    ],
+    "tech": [
+      {
+        "title": "爱奇艺高调官宣百人AI艺人库，为何吃了个瘪？",
+        "url": "https://36kr.com/p/3775989609411074",
+        "source": "36氪",
+        "time": "2026-04-21 06:12"
+      },
+      {
+        "title": "AI替代真人表演的边界在哪？",
+        "url": "https://36kr.com/p/3775989609411074",
+        "source": "36氪",
+        "time": "2026-04-21 06:12"
+      },
+      {
+        "title": "苹果换帅，不是在找下一个乔布斯",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4852411.html",
+        "source": "虎嗅",
+        "time": "2026-04-21 06:12"
       }
     ],
     "byd": [],
@@ -31,55 +50,61 @@
     "fitness": [],
     "other": [
       {
-        "title": "OPPO海外市场再下两国，Find X9 Ultra系列首次出海",
-        "url": "https://36kr.com/p/3775059219792648",
+        "title": "美团VS淘宝闪购，在医疗赛道正面硬刚，底牌全亮了",
+        "url": "https://36kr.com/p/3775955998454536",
         "source": "36氪",
-        "time": "2026-04-20 22:09"
+        "time": "2026-04-21 06:12"
       },
       {
-        "title": "一个CLAUDE.md霸榜GitHub第一，蒸馏自Karpathy，6万码农抄作业",
-        "url": "https://36kr.com/p/3774954488349441",
-        "source": "36氪",
-        "time": "2026-04-20 22:09"
-      },
-      {
-        "title": "80%的代码，不用自己写了",
-        "url": "https://36kr.com/p/3774954488349441",
-        "source": "36氪",
-        "time": "2026-04-20 22:09"
+        "title": "降配的中式外卖正在吃掉打工人",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4852062.html",
+        "source": "虎嗅",
+        "time": "2026-04-21 06:12"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "氪星晚报 ｜华为发布首款鸿蒙AI眼镜；天齐锂业：一季度净利润同比预增1530.31%—1818.01%",
-      "url": "https://36kr.com/p/3775059219792648",
+      "title": "苹果为什么在AI时代，选了一个造芯片的人当CEO？",
+      "url": "https://36kr.com/p/3775993067221762",
       "source": "36氪",
-      "time": "2026-04-20 22:09"
+      "time": "2026-04-21 06:12"
     },
     {
-      "title": "OPPO海外市场再下两国，Find X9 Ultra系列首次出海",
-      "url": "https://36kr.com/p/3775059219792648",
+      "title": "苹果任命硬件工程师John Ternus为新CEO，押注端侧AI与芯片战略。",
+      "url": "https://36kr.com/p/3775993067221762",
       "source": "36氪",
-      "time": "2026-04-20 22:09"
+      "time": "2026-04-21 06:12"
     },
     {
-      "title": "一个CLAUDE.md霸榜GitHub第一，蒸馏自Karpathy，6万码农抄作业",
-      "url": "https://36kr.com/p/3774954488349441",
+      "title": "爱奇艺高调官宣百人AI艺人库，为何吃了个瘪？",
+      "url": "https://36kr.com/p/3775989609411074",
       "source": "36氪",
-      "time": "2026-04-20 22:09"
+      "time": "2026-04-21 06:12"
     },
     {
-      "title": "80%的代码，不用自己写了",
-      "url": "https://36kr.com/p/3774954488349441",
+      "title": "AI替代真人表演的边界在哪？",
+      "url": "https://36kr.com/p/3775989609411074",
       "source": "36氪",
-      "time": "2026-04-20 22:09"
+      "time": "2026-04-21 06:12"
     },
     {
-      "title": "春招会“国综之变”：音综分化、AI落地、老综求新",
-      "url": "https://36kr.com/p/3775182507508230",
+      "title": "美团VS淘宝闪购，在医疗赛道正面硬刚，底牌全亮了",
+      "url": "https://36kr.com/p/3775955998454536",
       "source": "36氪",
-      "time": "2026-04-20 22:09"
+      "time": "2026-04-21 06:12"
+    },
+    {
+      "title": "苹果换帅，不是在找下一个乔布斯",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4852411.html",
+      "source": "虎嗅",
+      "time": "2026-04-21 06:12"
+    },
+    {
+      "title": "降配的中式外卖正在吃掉打工人",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4852062.html",
+      "source": "虎嗅",
+      "time": "2026-04-21 06:12"
     }
   ]
 }
