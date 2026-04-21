@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-21T10:51:32.265565",
+  "timestamp": "2026-04-21T15:55:20.941950",
   "total": 5,
   "sources": {
     "财联社电报": 0,
@@ -11,75 +11,75 @@
   },
   "categories": {
     "finance": [],
-    "industry": [
+    "industry": [],
+    "tech": [
       {
-        "title": "印度锂电池“赢学”，终于玩崩了",
-        "url": "https://36kr.com/p/3776385104691717",
+        "title": "Anthropic逼急谷歌，布林下场亲自督战，组“追杀队”围剿Claude",
+        "url": "https://36kr.com/p/3776448239550982",
         "source": "36氪",
-        "time": "2026-04-21 10:51"
+        "time": "2026-04-21 15:55"
+      },
+      {
+        "title": "谷歌再次进入「红色警报」状态！联合创始人谢尔盖·布林亲自挂帅，组建秘密攻坚队「追杀」Anthropic。",
+        "url": "https://36kr.com/p/3776448239550982",
+        "source": "36氪",
+        "time": "2026-04-21 15:55"
       }
     ],
-    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "多晶硅艰难去产能，谁能笑到最后？",
-        "url": "https://36kr.com/p/3776393808232963",
+        "title": "智界要打翻盘仗：V9给了年均12万辆指引｜36氪独家",
+        "url": "https://36kr.com/p/3776741071571200",
         "source": "36氪",
-        "time": "2026-04-21 10:51"
+        "time": "2026-04-21 15:55"
       },
       {
-        "title": "世界杯还没踢，耐克赞助的球衣先翻车了",
-        "url": "https://36kr.com/p/3776385192280577",
+        "title": "在香港卖车，还是借香港卖向世界？",
+        "url": "https://36kr.com/p/3776520843085832",
         "source": "36氪",
-        "time": "2026-04-21 10:51"
+        "time": "2026-04-21 15:55"
       },
       {
-        "title": "电池供应链，靠建不靠骗。",
-        "url": "https://36kr.com/p/3776385104691717",
-        "source": "36氪",
-        "time": "2026-04-21 10:51"
-      },
-      {
-        "title": "中国的大学老师，到底能挣多少钱？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4852414.html",
+        "title": "浦发银行，被错杀了吗？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4852492.html",
         "source": "虎嗅",
-        "time": "2026-04-21 10:51"
+        "time": "2026-04-21 15:55"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "多晶硅艰难去产能，谁能笑到最后？",
-      "url": "https://36kr.com/p/3776393808232963",
+      "title": "智界要打翻盘仗：V9给了年均12万辆指引｜36氪独家",
+      "url": "https://36kr.com/p/3776741071571200",
       "source": "36氪",
-      "time": "2026-04-21 10:51"
+      "time": "2026-04-21 15:55"
     },
     {
-      "title": "世界杯还没踢，耐克赞助的球衣先翻车了",
-      "url": "https://36kr.com/p/3776385192280577",
+      "title": "Anthropic逼急谷歌，布林下场亲自督战，组“追杀队”围剿Claude",
+      "url": "https://36kr.com/p/3776448239550982",
       "source": "36氪",
-      "time": "2026-04-21 10:51"
+      "time": "2026-04-21 15:55"
     },
     {
-      "title": "印度锂电池“赢学”，终于玩崩了",
-      "url": "https://36kr.com/p/3776385104691717",
+      "title": "谷歌再次进入「红色警报」状态！联合创始人谢尔盖·布林亲自挂帅，组建秘密攻坚队「追杀」Anthropic。",
+      "url": "https://36kr.com/p/3776448239550982",
       "source": "36氪",
-      "time": "2026-04-21 10:51"
+      "time": "2026-04-21 15:55"
     },
     {
-      "title": "电池供应链，靠建不靠骗。",
-      "url": "https://36kr.com/p/3776385104691717",
+      "title": "在香港卖车，还是借香港卖向世界？",
+      "url": "https://36kr.com/p/3776520843085832",
       "source": "36氪",
-      "time": "2026-04-21 10:51"
+      "time": "2026-04-21 15:55"
     },
     {
-      "title": "中国的大学老师，到底能挣多少钱？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4852414.html",
+      "title": "浦发银行，被错杀了吗？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4852492.html",
       "source": "虎嗅",
-      "time": "2026-04-21 10:51"
+      "time": "2026-04-21 15:55"
     }
   ]
 }
