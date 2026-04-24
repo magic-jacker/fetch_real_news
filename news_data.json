@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-23T22:31:39.641228",
+  "timestamp": "2026-04-24T06:23:06.933328",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -11,99 +11,101 @@
   },
   "categories": {
     "finance": [],
-    "industry": [],
-    "tech": [
+    "industry": [
       {
-        "title": "携手Gucci，谷歌智能眼镜找到了自己的“缪斯”",
-        "url": "https://36kr.com/p/3779347296408833",
+        "title": "融了2000万美金，这家2000万美金ARR的AI公司，推出“视频版Photoshop”「Buzzy」",
+        "url": "https://36kr.com/p/3780352721851397",
         "source": "36氪",
-        "time": "2026-04-23 22:31"
+        "time": "2026-04-24 06:23"
+      },
+      {
+        "title": "废旧手机怎么突然值钱了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853406.html",
+        "source": "虎嗅",
+        "time": "2026-04-24 06:23"
       }
     ],
-    "byd": [],
+    "tech": [
+      {
+        "title": "DeepSeek是中国AI跻身全球一流的起点，但不会是终点。",
+        "url": "https://36kr.com/p/3780375304312072",
+        "source": "36氪",
+        "time": "2026-04-24 06:23"
+      }
+    ],
+    "byd": [
+      {
+        "title": "面对日益繁杂的供应链事务与持续波动的市场环境，汉高消费品牌（Henkel Consumer Brands）的首席供应链官 Dirk Holbach 与我们一起，探讨了如何搭建具备灵活适配能力的供应链体系。",
+        "url": "https://36kr.com/p/3780407696028419",
+        "source": "36氪",
+        "time": "2026-04-24 06:23"
+      }
+    ],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "美国百年太妃糖易手，Roca乐家被全资收购",
-        "url": "https://36kr.com/p/3779468716938499",
+        "title": "在持续动荡中引领供应链",
+        "url": "https://36kr.com/p/3780407696028419",
         "source": "36氪",
-        "time": "2026-04-23 22:31"
+        "time": "2026-04-24 06:23"
       },
       {
-        "title": "从美国本土制造商向全球品牌零食集团转型。",
-        "url": "https://36kr.com/p/3779468716938499",
+        "title": "DeepSeek V4终于发布，但它留下的5道主观题还没有答案",
+        "url": "https://36kr.com/p/3780375304312072",
         "source": "36氪",
-        "time": "2026-04-23 22:31"
+        "time": "2026-04-24 06:23"
       },
       {
-        "title": "RMC-6236太“毒”了",
-        "url": "https://36kr.com/p/3779355122062340",
-        "source": "36氪",
-        "time": "2026-04-23 22:31"
-      },
-      {
-        "title": "谁会是me better？",
-        "url": "https://36kr.com/p/3779355122062340",
-        "source": "36氪",
-        "time": "2026-04-23 22:31"
-      },
-      {
-        "title": "那个最危险的工作岗位，终于不用人扛了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853058.html",
+        "title": "女孩挪用1700万打赏主播，钱为什么几乎不可能要回？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853356.html",
         "source": "虎嗅",
-        "time": "2026-04-23 22:31"
-      },
-      {
-        "title": "光模块龙头，配不配万亿市值？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853166.html",
-        "source": "虎嗅",
-        "time": "2026-04-23 22:31"
+        "time": "2026-04-24 06:23"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "美国百年太妃糖易手，Roca乐家被全资收购",
-      "url": "https://36kr.com/p/3779468716938499",
+      "title": "在持续动荡中引领供应链",
+      "url": "https://36kr.com/p/3780407696028419",
       "source": "36氪",
-      "time": "2026-04-23 22:31"
+      "time": "2026-04-24 06:23"
     },
     {
-      "title": "从美国本土制造商向全球品牌零食集团转型。",
-      "url": "https://36kr.com/p/3779468716938499",
+      "title": "面对日益繁杂的供应链事务与持续波动的市场环境，汉高消费品牌（Henkel Consumer Brands）的首席供应链官 Dirk Holbach 与我们一起，探讨了如何搭建具备灵活适配能力的供应链体系。",
+      "url": "https://36kr.com/p/3780407696028419",
       "source": "36氪",
-      "time": "2026-04-23 22:31"
+      "time": "2026-04-24 06:23"
     },
     {
-      "title": "RMC-6236太“毒”了",
-      "url": "https://36kr.com/p/3779355122062340",
+      "title": "DeepSeek V4终于发布，但它留下的5道主观题还没有答案",
+      "url": "https://36kr.com/p/3780375304312072",
       "source": "36氪",
-      "time": "2026-04-23 22:31"
+      "time": "2026-04-24 06:23"
     },
     {
-      "title": "谁会是me better？",
-      "url": "https://36kr.com/p/3779355122062340",
+      "title": "DeepSeek是中国AI跻身全球一流的起点，但不会是终点。",
+      "url": "https://36kr.com/p/3780375304312072",
       "source": "36氪",
-      "time": "2026-04-23 22:31"
+      "time": "2026-04-24 06:23"
     },
     {
-      "title": "携手Gucci，谷歌智能眼镜找到了自己的“缪斯”",
-      "url": "https://36kr.com/p/3779347296408833",
+      "title": "融了2000万美金，这家2000万美金ARR的AI公司，推出“视频版Photoshop”「Buzzy」",
+      "url": "https://36kr.com/p/3780352721851397",
       "source": "36氪",
-      "time": "2026-04-23 22:31"
+      "time": "2026-04-24 06:23"
     },
     {
-      "title": "那个最危险的工作岗位，终于不用人扛了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853058.html",
+      "title": "女孩挪用1700万打赏主播，钱为什么几乎不可能要回？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853356.html",
       "source": "虎嗅",
-      "time": "2026-04-23 22:31"
+      "time": "2026-04-24 06:23"
     },
     {
-      "title": "光模块龙头，配不配万亿市值？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853166.html",
+      "title": "废旧手机怎么突然值钱了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853406.html",
       "source": "虎嗅",
-      "time": "2026-04-23 22:31"
+      "time": "2026-04-24 06:23"
     }
   ]
 }
