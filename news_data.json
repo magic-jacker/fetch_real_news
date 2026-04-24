@@ -1,111 +1,85 @@
 {
-  "timestamp": "2026-04-24T06:23:06.933328",
-  "total": 7,
+  "timestamp": "2026-04-24T10:53:19.309394",
+  "total": 5,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "融了2000万美金，这家2000万美金ARR的AI公司，推出“视频版Photoshop”「Buzzy」",
-        "url": "https://36kr.com/p/3780352721851397",
-        "source": "36氪",
-        "time": "2026-04-24 06:23"
-      },
-      {
-        "title": "废旧手机怎么突然值钱了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853406.html",
-        "source": "虎嗅",
-        "time": "2026-04-24 06:23"
-      }
-    ],
+    "industry": [],
     "tech": [
       {
-        "title": "DeepSeek是中国AI跻身全球一流的起点，但不会是终点。",
-        "url": "https://36kr.com/p/3780375304312072",
+        "title": "AI，救不了失宠的影视行业",
+        "url": "https://36kr.com/p/3780532669570048",
         "source": "36氪",
-        "time": "2026-04-24 06:23"
-      }
-    ],
-    "byd": [
+        "time": "2026-04-24 10:52"
+      },
       {
-        "title": "面对日益繁杂的供应链事务与持续波动的市场环境，汉高消费品牌（Henkel Consumer Brands）的首席供应链官 Dirk Holbach 与我们一起，探讨了如何搭建具备灵活适配能力的供应链体系。",
-        "url": "https://36kr.com/p/3780407696028419",
+        "title": "长视频的AI十字路口。",
+        "url": "https://36kr.com/p/3780532669570048",
         "source": "36氪",
-        "time": "2026-04-24 06:23"
+        "time": "2026-04-24 10:52"
       }
     ],
+    "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "在持续动荡中引领供应链",
-        "url": "https://36kr.com/p/3780407696028419",
+        "title": "产值19倍于传统影院，西影“无界XR影院”在宁波爆棚！",
+        "url": "https://36kr.com/p/3780666208623621",
         "source": "36氪",
-        "time": "2026-04-24 06:23"
+        "time": "2026-04-24 10:52"
       },
       {
-        "title": "DeepSeek V4终于发布，但它留下的5道主观题还没有答案",
-        "url": "https://36kr.com/p/3780375304312072",
+        "title": "这可能是中国文娱产业界当前最关心的数据！",
+        "url": "https://36kr.com/p/3780666208623621",
         "source": "36氪",
-        "time": "2026-04-24 06:23"
+        "time": "2026-04-24 10:52"
       },
       {
-        "title": "女孩挪用1700万打赏主播，钱为什么几乎不可能要回？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853356.html",
-        "source": "虎嗅",
-        "time": "2026-04-24 06:23"
+        "title": "财报“美颜”下的天能动力：铅酸见顶，百亿锂电不赢",
+        "url": "https://36kr.com/p/3780532586224643",
+        "source": "36氪",
+        "time": "2026-04-24 10:52"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "在持续动荡中引领供应链",
-      "url": "https://36kr.com/p/3780407696028419",
+      "title": "产值19倍于传统影院，西影“无界XR影院”在宁波爆棚！",
+      "url": "https://36kr.com/p/3780666208623621",
       "source": "36氪",
-      "time": "2026-04-24 06:23"
+      "time": "2026-04-24 10:52"
     },
     {
-      "title": "面对日益繁杂的供应链事务与持续波动的市场环境，汉高消费品牌（Henkel Consumer Brands）的首席供应链官 Dirk Holbach 与我们一起，探讨了如何搭建具备灵活适配能力的供应链体系。",
-      "url": "https://36kr.com/p/3780407696028419",
+      "title": "这可能是中国文娱产业界当前最关心的数据！",
+      "url": "https://36kr.com/p/3780666208623621",
       "source": "36氪",
-      "time": "2026-04-24 06:23"
+      "time": "2026-04-24 10:52"
     },
     {
-      "title": "DeepSeek V4终于发布，但它留下的5道主观题还没有答案",
-      "url": "https://36kr.com/p/3780375304312072",
+      "title": "AI，救不了失宠的影视行业",
+      "url": "https://36kr.com/p/3780532669570048",
       "source": "36氪",
-      "time": "2026-04-24 06:23"
+      "time": "2026-04-24 10:52"
     },
     {
-      "title": "DeepSeek是中国AI跻身全球一流的起点，但不会是终点。",
-      "url": "https://36kr.com/p/3780375304312072",
+      "title": "长视频的AI十字路口。",
+      "url": "https://36kr.com/p/3780532669570048",
       "source": "36氪",
-      "time": "2026-04-24 06:23"
+      "time": "2026-04-24 10:52"
     },
     {
-      "title": "融了2000万美金，这家2000万美金ARR的AI公司，推出“视频版Photoshop”「Buzzy」",
-      "url": "https://36kr.com/p/3780352721851397",
+      "title": "财报“美颜”下的天能动力：铅酸见顶，百亿锂电不赢",
+      "url": "https://36kr.com/p/3780532586224643",
       "source": "36氪",
-      "time": "2026-04-24 06:23"
-    },
-    {
-      "title": "女孩挪用1700万打赏主播，钱为什么几乎不可能要回？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853356.html",
-      "source": "虎嗅",
-      "time": "2026-04-24 06:23"
-    },
-    {
-      "title": "废旧手机怎么突然值钱了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853406.html",
-      "source": "虎嗅",
-      "time": "2026-04-24 06:23"
+      "time": "2026-04-24 10:52"
     }
   ]
 }
