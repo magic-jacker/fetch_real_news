@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-26T02:30:37.176327",
-  "total": 7,
+  "timestamp": "2026-04-26T05:28:50.640128",
+  "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -10,100 +10,89 @@
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
-    "industry": [
+    "finance": [
       {
-        "title": "ARM发展史：退一步海阔天空",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853830.html",
-        "source": "虎嗅",
-        "time": "2026-04-26 02:30"
+        "title": "顶级985校友，正在排队IPO",
+        "url": "https://36kr.com/p/3783038559296769",
+        "source": "36氪",
+        "time": "2026-04-26 05:28"
+      },
+      {
+        "title": "下一批“清华系”IPO，已经在路上了。",
+        "url": "https://36kr.com/p/3783038559296769",
+        "source": "36氪",
+        "time": "2026-04-26 05:28"
       }
     ],
-    "tech": [],
+    "industry": [],
+    "tech": [
+      {
+        "title": "GPT image-2爆火后，设计师的天塌了吗？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853826.html",
+        "source": "虎嗅",
+        "time": "2026-04-26 05:28"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "业绩“双降”！360亿“血王”，遭遇至暗时刻",
-        "url": "https://36kr.com/p/3782989080211973",
+        "title": "800亿买卫星，贝索斯杠上马斯克",
+        "url": "https://36kr.com/p/3783058099051521",
         "source": "36氪",
-        "time": "2026-04-26 02:30"
+        "time": "2026-04-26 05:28"
       },
       {
-        "title": "三大核心业务同步承压。",
-        "url": "https://36kr.com/p/3782989080211973",
+        "title": "收购完成后，直接对马斯克的Starlink（星链）展开竞争。",
+        "url": "https://36kr.com/p/3783058099051521",
         "source": "36氪",
-        "time": "2026-04-26 02:30"
+        "time": "2026-04-26 05:28"
       },
       {
-        "title": "不爱“茅台”，年轻人需要的是属于自己的“老村长”",
-        "url": "https://36kr.com/p/3782064628030473",
+        "title": "“700台机器没日没夜打”，有年轻人靠它“月赚10万”",
+        "url": "https://36kr.com/p/3783121067859205",
         "source": "36氪",
-        "time": "2026-04-26 02:30"
-      },
-      {
-        "title": "散酒铺子正在城市的毛细血管里悄然复苏。",
-        "url": "https://36kr.com/p/3782064628030473",
-        "source": "36氪",
-        "time": "2026-04-26 02:30"
-      },
-      {
-        "title": "36氪首发 | 全球唯二、中国唯一造出微米级磁悬浮魔毯，已大规模量产",
-        "url": "https://36kr.com/p/3782960065108996",
-        "source": "36氪",
-        "time": "2026-04-26 02:30"
-      },
-      {
-        "title": "曾毓群一声咳嗽，李斌欲言又止",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853827.html",
-        "source": "虎嗅",
-        "time": "2026-04-26 02:30"
+        "time": "2026-04-26 05:28"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "业绩“双降”！360亿“血王”，遭遇至暗时刻",
-      "url": "https://36kr.com/p/3782989080211973",
+      "title": "顶级985校友，正在排队IPO",
+      "url": "https://36kr.com/p/3783038559296769",
       "source": "36氪",
-      "time": "2026-04-26 02:30"
+      "time": "2026-04-26 05:28"
     },
     {
-      "title": "三大核心业务同步承压。",
-      "url": "https://36kr.com/p/3782989080211973",
+      "title": "下一批“清华系”IPO，已经在路上了。",
+      "url": "https://36kr.com/p/3783038559296769",
       "source": "36氪",
-      "time": "2026-04-26 02:30"
+      "time": "2026-04-26 05:28"
     },
     {
-      "title": "不爱“茅台”，年轻人需要的是属于自己的“老村长”",
-      "url": "https://36kr.com/p/3782064628030473",
+      "title": "800亿买卫星，贝索斯杠上马斯克",
+      "url": "https://36kr.com/p/3783058099051521",
       "source": "36氪",
-      "time": "2026-04-26 02:30"
+      "time": "2026-04-26 05:28"
     },
     {
-      "title": "散酒铺子正在城市的毛细血管里悄然复苏。",
-      "url": "https://36kr.com/p/3782064628030473",
+      "title": "收购完成后，直接对马斯克的Starlink（星链）展开竞争。",
+      "url": "https://36kr.com/p/3783058099051521",
       "source": "36氪",
-      "time": "2026-04-26 02:30"
+      "time": "2026-04-26 05:28"
     },
     {
-      "title": "36氪首发 | 全球唯二、中国唯一造出微米级磁悬浮魔毯，已大规模量产",
-      "url": "https://36kr.com/p/3782960065108996",
+      "title": "“700台机器没日没夜打”，有年轻人靠它“月赚10万”",
+      "url": "https://36kr.com/p/3783121067859205",
       "source": "36氪",
-      "time": "2026-04-26 02:30"
+      "time": "2026-04-26 05:28"
     },
     {
-      "title": "曾毓群一声咳嗽，李斌欲言又止",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853827.html",
+      "title": "GPT image-2爆火后，设计师的天塌了吗？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853826.html",
       "source": "虎嗅",
-      "time": "2026-04-26 02:30"
-    },
-    {
-      "title": "ARM发展史：退一步海阔天空",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853830.html",
-      "source": "虎嗅",
-      "time": "2026-04-26 02:30"
+      "time": "2026-04-26 05:28"
     }
   ]
 }
