@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-25T23:58:56.909123",
+  "timestamp": "2026-04-26T02:30:37.176327",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -10,102 +10,100 @@
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
-      {
-        "title": "疯狂涨价！AI风口下的“黄金材料”",
-        "url": "https://36kr.com/p/3782062374051074",
-        "source": "36氪",
-        "time": "2026-04-25 23:58"
-      }
-    ],
+    "finance": [],
     "industry": [
       {
-        "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
-        "url": "https://36kr.com/p/3782137908403457",
-        "source": "36氪",
-        "time": "2026-04-25 23:58"
-      }
-    ],
-    "tech": [
-      {
-        "title": "日更7.5万首，播放不足3%：AI音乐沦为“虚假繁荣”？",
-        "url": "https://36kr.com/p/3782037279513605",
-        "source": "36氪",
-        "time": "2026-04-25 23:58"
-      },
-      {
-        "title": "只需10分钟，AI就能“养废”你的大脑",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853759.html",
+        "title": "ARM发展史：退一步海阔天空",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853830.html",
         "source": "虎嗅",
-        "time": "2026-04-25 23:58"
+        "time": "2026-04-26 02:30"
       }
     ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "工业场景中，具身智能与现有自动化方案将更多形成互补关系。",
-        "url": "https://36kr.com/p/3782137908403457",
+        "title": "业绩“双降”！360亿“血王”，遭遇至暗时刻",
+        "url": "https://36kr.com/p/3782989080211973",
         "source": "36氪",
-        "time": "2026-04-25 23:58"
+        "time": "2026-04-26 02:30"
       },
       {
-        "title": "产能紧张到“有价无市”",
-        "url": "https://36kr.com/p/3782062374051074",
+        "title": "三大核心业务同步承压。",
+        "url": "https://36kr.com/p/3782989080211973",
         "source": "36氪",
-        "time": "2026-04-25 23:58"
+        "time": "2026-04-26 02:30"
       },
       {
-        "title": "省到骨子里的李斌，正在给乐道疯狂氪金",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853770.html",
+        "title": "不爱“茅台”，年轻人需要的是属于自己的“老村长”",
+        "url": "https://36kr.com/p/3782064628030473",
+        "source": "36氪",
+        "time": "2026-04-26 02:30"
+      },
+      {
+        "title": "散酒铺子正在城市的毛细血管里悄然复苏。",
+        "url": "https://36kr.com/p/3782064628030473",
+        "source": "36氪",
+        "time": "2026-04-26 02:30"
+      },
+      {
+        "title": "36氪首发 | 全球唯二、中国唯一造出微米级磁悬浮魔毯，已大规模量产",
+        "url": "https://36kr.com/p/3782960065108996",
+        "source": "36氪",
+        "time": "2026-04-26 02:30"
+      },
+      {
+        "title": "曾毓群一声咳嗽，李斌欲言又止",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853827.html",
         "source": "虎嗅",
-        "time": "2026-04-25 23:58"
+        "time": "2026-04-26 02:30"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
-      "url": "https://36kr.com/p/3782137908403457",
+      "title": "业绩“双降”！360亿“血王”，遭遇至暗时刻",
+      "url": "https://36kr.com/p/3782989080211973",
       "source": "36氪",
-      "time": "2026-04-25 23:58"
+      "time": "2026-04-26 02:30"
     },
     {
-      "title": "工业场景中，具身智能与现有自动化方案将更多形成互补关系。",
-      "url": "https://36kr.com/p/3782137908403457",
+      "title": "三大核心业务同步承压。",
+      "url": "https://36kr.com/p/3782989080211973",
       "source": "36氪",
-      "time": "2026-04-25 23:58"
+      "time": "2026-04-26 02:30"
     },
     {
-      "title": "疯狂涨价！AI风口下的“黄金材料”",
-      "url": "https://36kr.com/p/3782062374051074",
+      "title": "不爱“茅台”，年轻人需要的是属于自己的“老村长”",
+      "url": "https://36kr.com/p/3782064628030473",
       "source": "36氪",
-      "time": "2026-04-25 23:58"
+      "time": "2026-04-26 02:30"
     },
     {
-      "title": "产能紧张到“有价无市”",
-      "url": "https://36kr.com/p/3782062374051074",
+      "title": "散酒铺子正在城市的毛细血管里悄然复苏。",
+      "url": "https://36kr.com/p/3782064628030473",
       "source": "36氪",
-      "time": "2026-04-25 23:58"
+      "time": "2026-04-26 02:30"
     },
     {
-      "title": "日更7.5万首，播放不足3%：AI音乐沦为“虚假繁荣”？",
-      "url": "https://36kr.com/p/3782037279513605",
+      "title": "36氪首发 | 全球唯二、中国唯一造出微米级磁悬浮魔毯，已大规模量产",
+      "url": "https://36kr.com/p/3782960065108996",
       "source": "36氪",
-      "time": "2026-04-25 23:58"
+      "time": "2026-04-26 02:30"
     },
     {
-      "title": "只需10分钟，AI就能“养废”你的大脑",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853759.html",
+      "title": "曾毓群一声咳嗽，李斌欲言又止",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853827.html",
       "source": "虎嗅",
-      "time": "2026-04-25 23:58"
+      "time": "2026-04-26 02:30"
     },
     {
-      "title": "省到骨子里的李斌，正在给乐道疯狂氪金",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853770.html",
+      "title": "ARM发展史：退一步海阔天空",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853830.html",
       "source": "虎嗅",
-      "time": "2026-04-25 23:58"
+      "time": "2026-04-26 02:30"
     }
   ]
 }
