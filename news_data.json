@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-26T05:28:50.640128",
-  "total": 6,
+  "timestamp": "2026-04-26T07:09:39.913723",
+  "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -15,22 +15,28 @@
         "title": "顶级985校友，正在排队IPO",
         "url": "https://36kr.com/p/3783038559296769",
         "source": "36氪",
-        "time": "2026-04-26 05:28"
+        "time": "2026-04-26 07:09"
       },
       {
         "title": "下一批“清华系”IPO，已经在路上了。",
         "url": "https://36kr.com/p/3783038559296769",
         "source": "36氪",
-        "time": "2026-04-26 05:28"
+        "time": "2026-04-26 07:09"
       }
     ],
     "industry": [],
     "tech": [
       {
-        "title": "GPT image-2爆火后，设计师的天塌了吗？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853826.html",
-        "source": "虎嗅",
-        "time": "2026-04-26 05:28"
+        "title": "欧莱雅BRANDSTORM 2026中国总决赛落幕，AI成美妆创新核心议题｜最前线",
+        "url": "https://36kr.com/p/3783249100397570",
+        "source": "36氪",
+        "time": "2026-04-26 07:09"
+      },
+      {
+        "title": "欧莱雅与英伟达的合作已从数字营销延伸至研发创新核心环节。",
+        "url": "https://36kr.com/p/3783249100397570",
+        "source": "36氪",
+        "time": "2026-04-26 07:09"
       }
     ],
     "byd": [],
@@ -41,58 +47,64 @@
         "title": "800亿买卫星，贝索斯杠上马斯克",
         "url": "https://36kr.com/p/3783058099051521",
         "source": "36氪",
-        "time": "2026-04-26 05:28"
+        "time": "2026-04-26 07:09"
       },
       {
-        "title": "收购完成后，直接对马斯克的Starlink（星链）展开竞争。",
-        "url": "https://36kr.com/p/3783058099051521",
-        "source": "36氪",
-        "time": "2026-04-26 05:28"
+        "title": "经典记录| 史蒂夫·乔布斯：1995年“遗失的访谈”| 图解2万字",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853856.html",
+        "source": "虎嗅",
+        "time": "2026-04-26 07:09"
       },
       {
-        "title": "“700台机器没日没夜打”，有年轻人靠它“月赚10万”",
-        "url": "https://36kr.com/p/3783121067859205",
-        "source": "36氪",
-        "time": "2026-04-26 05:28"
+        "title": "中国电车是燃煤车？美国财长精心包装的“话术”",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853858.html",
+        "source": "虎嗅",
+        "time": "2026-04-26 07:09"
       }
     ]
   },
   "raw_news": [
     {
+      "title": "欧莱雅BRANDSTORM 2026中国总决赛落幕，AI成美妆创新核心议题｜最前线",
+      "url": "https://36kr.com/p/3783249100397570",
+      "source": "36氪",
+      "time": "2026-04-26 07:09"
+    },
+    {
+      "title": "欧莱雅与英伟达的合作已从数字营销延伸至研发创新核心环节。",
+      "url": "https://36kr.com/p/3783249100397570",
+      "source": "36氪",
+      "time": "2026-04-26 07:09"
+    },
+    {
       "title": "顶级985校友，正在排队IPO",
       "url": "https://36kr.com/p/3783038559296769",
       "source": "36氪",
-      "time": "2026-04-26 05:28"
+      "time": "2026-04-26 07:09"
     },
     {
       "title": "下一批“清华系”IPO，已经在路上了。",
       "url": "https://36kr.com/p/3783038559296769",
       "source": "36氪",
-      "time": "2026-04-26 05:28"
+      "time": "2026-04-26 07:09"
     },
     {
       "title": "800亿买卫星，贝索斯杠上马斯克",
       "url": "https://36kr.com/p/3783058099051521",
       "source": "36氪",
-      "time": "2026-04-26 05:28"
+      "time": "2026-04-26 07:09"
     },
     {
-      "title": "收购完成后，直接对马斯克的Starlink（星链）展开竞争。",
-      "url": "https://36kr.com/p/3783058099051521",
-      "source": "36氪",
-      "time": "2026-04-26 05:28"
-    },
-    {
-      "title": "“700台机器没日没夜打”，有年轻人靠它“月赚10万”",
-      "url": "https://36kr.com/p/3783121067859205",
-      "source": "36氪",
-      "time": "2026-04-26 05:28"
-    },
-    {
-      "title": "GPT image-2爆火后，设计师的天塌了吗？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853826.html",
+      "title": "经典记录| 史蒂夫·乔布斯：1995年“遗失的访谈”| 图解2万字",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853856.html",
       "source": "虎嗅",
-      "time": "2026-04-26 05:28"
+      "time": "2026-04-26 07:09"
+    },
+    {
+      "title": "中国电车是燃煤车？美国财长精心包装的“话术”",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4853858.html",
+      "source": "虎嗅",
+      "time": "2026-04-26 07:09"
     }
   ]
 }
