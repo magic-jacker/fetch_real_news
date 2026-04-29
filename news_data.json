@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-29T04:51:13.068150",
+  "timestamp": "2026-04-29T07:14:11.350101",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -10,100 +10,101 @@
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
+    "finance": [],
+    "industry": [
       {
-        "title": "探秘全球最大私人金库：黄金东移潮、战争、衰退危机与“Plan B”",
-        "url": "https://36kr.com/p/3784749876933120",
+        "title": "一张员工在厕所玩手机的照片，被发进了几百人的工作群。",
+        "url": "https://36kr.com/p/3787443568450568",
         "source": "36氪",
-        "time": "2026-04-29 04:51"
+        "time": "2026-04-29 07:14"
       }
     ],
-    "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "被Anthropic超车的OpenAI，正在远离微软、靠近亚马逊",
+        "url": "https://36kr.com/p/3787391989226499",
+        "source": "36氪",
+        "time": "2026-04-29 07:14"
+      },
+      {
+        "title": "美国市场上，两个巨头和两个超级AI独角兽的竞争格局正在发生微妙的变化",
+        "url": "https://36kr.com/p/3787391989226499",
+        "source": "36氪",
+        "time": "2026-04-29 07:14"
+      },
+      {
+        "title": "AI时代与“打字机盛世”的终结",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4854707.html",
+        "source": "虎嗅",
+        "time": "2026-04-29 07:14"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "全球财富大迁徙背后的真相",
-        "url": "https://36kr.com/p/3784749876933120",
+        "title": "公司怎么样，看怎么管理就知道了",
+        "url": "https://36kr.com/p/3787443568450568",
         "source": "36氪",
-        "time": "2026-04-29 04:51"
+        "time": "2026-04-29 07:14"
       },
       {
-        "title": "和Anthropic CEO一起发过Nature，他用Claude Code复活三年烂尾代码",
-        "url": "https://36kr.com/p/3787353669721351",
+        "title": "400亿，潮汕中专生去敲钟了",
+        "url": "https://36kr.com/p/3787403901984006",
         "source": "36氪",
-        "time": "2026-04-29 04:51"
+        "time": "2026-04-29 07:14"
       },
       {
-        "title": "把Claude Code当实习生带，比招人好使",
-        "url": "https://36kr.com/p/3787353669721351",
-        "source": "36氪",
-        "time": "2026-04-29 04:51"
-      },
-      {
-        "title": "威马“白菜价”甩卖资产，量产10万台计划再生变？",
-        "url": "https://36kr.com/p/3786465778151942",
-        "source": "36氪",
-        "time": "2026-04-29 04:51"
-      },
-      {
-        "title": "“33枚蛋挞的热量能上5次珠峰”，甜点刺客把中产骗哭了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4854634.html",
+        "title": "追觅造车，绕开20万元以下市场",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4854603.html",
         "source": "虎嗅",
-        "time": "2026-04-29 04:51"
-      },
-      {
-        "title": "第一批没结婚的韩国中女，已经开始“领养”闺蜜了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4854617.html",
-        "source": "虎嗅",
-        "time": "2026-04-29 04:51"
+        "time": "2026-04-29 07:14"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "探秘全球最大私人金库：黄金东移潮、战争、衰退危机与“Plan B”",
-      "url": "https://36kr.com/p/3784749876933120",
+      "title": "被Anthropic超车的OpenAI，正在远离微软、靠近亚马逊",
+      "url": "https://36kr.com/p/3787391989226499",
       "source": "36氪",
-      "time": "2026-04-29 04:51"
+      "time": "2026-04-29 07:14"
     },
     {
-      "title": "全球财富大迁徙背后的真相",
-      "url": "https://36kr.com/p/3784749876933120",
+      "title": "美国市场上，两个巨头和两个超级AI独角兽的竞争格局正在发生微妙的变化",
+      "url": "https://36kr.com/p/3787391989226499",
       "source": "36氪",
-      "time": "2026-04-29 04:51"
+      "time": "2026-04-29 07:14"
     },
     {
-      "title": "和Anthropic CEO一起发过Nature，他用Claude Code复活三年烂尾代码",
-      "url": "https://36kr.com/p/3787353669721351",
+      "title": "公司怎么样，看怎么管理就知道了",
+      "url": "https://36kr.com/p/3787443568450568",
       "source": "36氪",
-      "time": "2026-04-29 04:51"
+      "time": "2026-04-29 07:14"
     },
     {
-      "title": "把Claude Code当实习生带，比招人好使",
-      "url": "https://36kr.com/p/3787353669721351",
+      "title": "一张员工在厕所玩手机的照片，被发进了几百人的工作群。",
+      "url": "https://36kr.com/p/3787443568450568",
       "source": "36氪",
-      "time": "2026-04-29 04:51"
+      "time": "2026-04-29 07:14"
     },
     {
-      "title": "威马“白菜价”甩卖资产，量产10万台计划再生变？",
-      "url": "https://36kr.com/p/3786465778151942",
+      "title": "400亿，潮汕中专生去敲钟了",
+      "url": "https://36kr.com/p/3787403901984006",
       "source": "36氪",
-      "time": "2026-04-29 04:51"
+      "time": "2026-04-29 07:14"
     },
     {
-      "title": "“33枚蛋挞的热量能上5次珠峰”，甜点刺客把中产骗哭了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4854634.html",
+      "title": "追觅造车，绕开20万元以下市场",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4854603.html",
       "source": "虎嗅",
-      "time": "2026-04-29 04:51"
+      "time": "2026-04-29 07:14"
     },
     {
-      "title": "第一批没结婚的韩国中女，已经开始“领养”闺蜜了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4854617.html",
+      "title": "AI时代与“打字机盛世”的终结",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4854707.html",
       "source": "虎嗅",
-      "time": "2026-04-29 04:51"
+      "time": "2026-04-29 07:14"
     }
   ]
 }
