@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-29T07:14:11.350101",
+  "timestamp": "2026-04-29T09:30:52.801484",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -11,32 +11,25 @@
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "一张员工在厕所玩手机的照片，被发进了几百人的工作群。",
-        "url": "https://36kr.com/p/3787443568450568",
-        "source": "36氪",
-        "time": "2026-04-29 07:14"
-      }
-    ],
+    "industry": [],
     "tech": [
       {
-        "title": "被Anthropic超车的OpenAI，正在远离微软、靠近亚马逊",
-        "url": "https://36kr.com/p/3787391989226499",
+        "title": "ChatGPT 拎包入住云计算一哥，你的下一任好同事可能是 AI",
+        "url": "https://36kr.com/p/3787649261034759",
         "source": "36氪",
-        "time": "2026-04-29 07:14"
+        "time": "2026-04-29 09:30"
       },
       {
-        "title": "美国市场上，两个巨头和两个超级AI独角兽的竞争格局正在发生微妙的变化",
-        "url": "https://36kr.com/p/3787391989226499",
+        "title": "云计算一哥开了一场发布会，把 SaaS 转型的那些事全说透了",
+        "url": "https://36kr.com/p/3787649261034759",
         "source": "36氪",
-        "time": "2026-04-29 07:14"
+        "time": "2026-04-29 09:30"
       },
       {
-        "title": "AI时代与“打字机盛世”的终结",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4854707.html",
+        "title": "追觅首谈造车：与小米同期启动，不必烧上千亿",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4854603.html",
         "source": "虎嗅",
-        "time": "2026-04-29 07:14"
+        "time": "2026-04-29 09:30"
       }
     ],
     "byd": [],
@@ -44,67 +37,73 @@
     "fitness": [],
     "other": [
       {
-        "title": "公司怎么样，看怎么管理就知道了",
-        "url": "https://36kr.com/p/3787443568450568",
+        "title": "不用替段永平担心泡泡玛特",
+        "url": "https://36kr.com/p/3787628678257920",
         "source": "36氪",
-        "time": "2026-04-29 07:14"
+        "time": "2026-04-29 09:30"
       },
       {
-        "title": "400亿，潮汕中专生去敲钟了",
-        "url": "https://36kr.com/p/3787403901984006",
+        "title": "龙虾闯入零售连锁：海康云眸Claw，如何当好「数字员工」？",
+        "url": "https://36kr.com/p/3787677830733061",
         "source": "36氪",
-        "time": "2026-04-29 07:14"
+        "time": "2026-04-29 09:30"
       },
       {
-        "title": "追觅造车，绕开20万元以下市场",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4854603.html",
+        "title": "零售连锁行业的管理方式，开始出现新的形态。",
+        "url": "https://36kr.com/p/3787677830733061",
+        "source": "36氪",
+        "time": "2026-04-29 09:30"
+      },
+      {
+        "title": "阿联酋单飞背后的“暗战”，藏着各国押注中国的真实算盘",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4854736.html",
         "source": "虎嗅",
-        "time": "2026-04-29 07:14"
+        "time": "2026-04-29 09:30"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "被Anthropic超车的OpenAI，正在远离微软、靠近亚马逊",
-      "url": "https://36kr.com/p/3787391989226499",
+      "title": "不用替段永平担心泡泡玛特",
+      "url": "https://36kr.com/p/3787628678257920",
       "source": "36氪",
-      "time": "2026-04-29 07:14"
+      "time": "2026-04-29 09:30"
     },
     {
-      "title": "美国市场上，两个巨头和两个超级AI独角兽的竞争格局正在发生微妙的变化",
-      "url": "https://36kr.com/p/3787391989226499",
+      "title": "ChatGPT 拎包入住云计算一哥，你的下一任好同事可能是 AI",
+      "url": "https://36kr.com/p/3787649261034759",
       "source": "36氪",
-      "time": "2026-04-29 07:14"
+      "time": "2026-04-29 09:30"
     },
     {
-      "title": "公司怎么样，看怎么管理就知道了",
-      "url": "https://36kr.com/p/3787443568450568",
+      "title": "云计算一哥开了一场发布会，把 SaaS 转型的那些事全说透了",
+      "url": "https://36kr.com/p/3787649261034759",
       "source": "36氪",
-      "time": "2026-04-29 07:14"
+      "time": "2026-04-29 09:30"
     },
     {
-      "title": "一张员工在厕所玩手机的照片，被发进了几百人的工作群。",
-      "url": "https://36kr.com/p/3787443568450568",
+      "title": "龙虾闯入零售连锁：海康云眸Claw，如何当好「数字员工」？",
+      "url": "https://36kr.com/p/3787677830733061",
       "source": "36氪",
-      "time": "2026-04-29 07:14"
+      "time": "2026-04-29 09:30"
     },
     {
-      "title": "400亿，潮汕中专生去敲钟了",
-      "url": "https://36kr.com/p/3787403901984006",
+      "title": "零售连锁行业的管理方式，开始出现新的形态。",
+      "url": "https://36kr.com/p/3787677830733061",
       "source": "36氪",
-      "time": "2026-04-29 07:14"
+      "time": "2026-04-29 09:30"
     },
     {
-      "title": "追觅造车，绕开20万元以下市场",
+      "title": "阿联酋单飞背后的“暗战”，藏着各国押注中国的真实算盘",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4854736.html",
+      "source": "虎嗅",
+      "time": "2026-04-29 09:30"
+    },
+    {
+      "title": "追觅首谈造车：与小米同期启动，不必烧上千亿",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4854603.html",
       "source": "虎嗅",
-      "time": "2026-04-29 07:14"
-    },
-    {
-      "title": "AI时代与“打字机盛世”的终结",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4854707.html",
-      "source": "虎嗅",
-      "time": "2026-04-29 07:14"
+      "time": "2026-04-29 09:30"
     }
   ]
 }
