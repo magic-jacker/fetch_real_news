@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-02T04:31:19.877375",
+  "timestamp": "2026-05-02T06:54:01.400297",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -11,99 +11,99 @@
   },
   "categories": {
     "finance": [],
-    "industry": [
+    "industry": [],
+    "tech": [
       {
-        "title": "你下半年的新手机要涨200元，但不是因为关税——是AI在抢你的内存条",
-        "url": "https://36kr.com/p/3791556962972417",
+        "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+        "url": "https://36kr.com/p/3791662444911617",
         "source": "36氪",
-        "time": "2026-05-02 04:31"
+        "time": "2026-05-02 06:53"
+      },
+      {
+        "title": "苹果内部运行定制版Claude模型",
+        "url": "https://36kr.com/p/3791662444911617",
+        "source": "36氪",
+        "time": "2026-05-02 06:53"
+      },
+      {
+        "title": "那个在OpenAI修中文的人",
+        "url": "https://36kr.com/p/3791622190854916",
+        "source": "36氪",
+        "time": "2026-05-02 06:53"
+      },
+      {
+        "title": "陈博远是GPT Image 2训练和能力展示里真正站到前台的人之一。",
+        "url": "https://36kr.com/p/3791622190854916",
+        "source": "36氪",
+        "time": "2026-05-02 06:53"
       }
     ],
-    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "9.35万, 威马破产大甩卖",
-        "url": "https://36kr.com/p/3791546608049152",
+        "title": "五一吃喝玩乐变贵了？错——是你买的东西变了",
+        "url": "https://36kr.com/p/3791582409732617",
         "source": "36氪",
-        "time": "2026-05-02 04:31"
+        "time": "2026-05-02 06:53"
       },
       {
-        "title": "谁是威马的“白衣骑士”？",
-        "url": "https://36kr.com/p/3791546608049152",
-        "source": "36氪",
-        "time": "2026-05-02 04:31"
-      },
-      {
-        "title": "续集没翻车 ，但这次“女魔头”也顶不住了",
-        "url": "https://36kr.com/p/3791555958922504",
-        "source": "36氪",
-        "time": "2026-05-02 04:31"
-      },
-      {
-        "title": "当时尚大刊也被降本增效，女魔头该怎么办？",
-        "url": "https://36kr.com/p/3791555958922504",
-        "source": "36氪",
-        "time": "2026-05-02 04:31"
-      },
-      {
-        "title": "单店越赚越少，瑞幸的利润到底被谁“吃掉”了？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855397.html",
+        "title": "内存成本上升，库克不想再回答了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855464.html",
         "source": "虎嗅",
-        "time": "2026-05-02 04:31"
+        "time": "2026-05-02 06:54"
       },
       {
         "title": "我在黑人区做规划：美式“政治正确”的傲慢与偏见",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855457.html",
         "source": "虎嗅",
-        "time": "2026-05-02 04:31"
+        "time": "2026-05-02 06:54"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "你下半年的新手机要涨200元，但不是因为关税——是AI在抢你的内存条",
-      "url": "https://36kr.com/p/3791556962972417",
+      "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+      "url": "https://36kr.com/p/3791662444911617",
       "source": "36氪",
-      "time": "2026-05-02 04:31"
+      "time": "2026-05-02 06:53"
     },
     {
-      "title": "9.35万, 威马破产大甩卖",
-      "url": "https://36kr.com/p/3791546608049152",
+      "title": "苹果内部运行定制版Claude模型",
+      "url": "https://36kr.com/p/3791662444911617",
       "source": "36氪",
-      "time": "2026-05-02 04:31"
+      "time": "2026-05-02 06:53"
     },
     {
-      "title": "谁是威马的“白衣骑士”？",
-      "url": "https://36kr.com/p/3791546608049152",
+      "title": "那个在OpenAI修中文的人",
+      "url": "https://36kr.com/p/3791622190854916",
       "source": "36氪",
-      "time": "2026-05-02 04:31"
+      "time": "2026-05-02 06:53"
     },
     {
-      "title": "续集没翻车 ，但这次“女魔头”也顶不住了",
-      "url": "https://36kr.com/p/3791555958922504",
+      "title": "陈博远是GPT Image 2训练和能力展示里真正站到前台的人之一。",
+      "url": "https://36kr.com/p/3791622190854916",
       "source": "36氪",
-      "time": "2026-05-02 04:31"
+      "time": "2026-05-02 06:53"
     },
     {
-      "title": "当时尚大刊也被降本增效，女魔头该怎么办？",
-      "url": "https://36kr.com/p/3791555958922504",
+      "title": "五一吃喝玩乐变贵了？错——是你买的东西变了",
+      "url": "https://36kr.com/p/3791582409732617",
       "source": "36氪",
-      "time": "2026-05-02 04:31"
+      "time": "2026-05-02 06:53"
     },
     {
-      "title": "单店越赚越少，瑞幸的利润到底被谁“吃掉”了？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855397.html",
+      "title": "内存成本上升，库克不想再回答了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855464.html",
       "source": "虎嗅",
-      "time": "2026-05-02 04:31"
+      "time": "2026-05-02 06:54"
     },
     {
       "title": "我在黑人区做规划：美式“政治正确”的傲慢与偏见",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855457.html",
       "source": "虎嗅",
-      "time": "2026-05-02 04:31"
+      "time": "2026-05-02 06:54"
     }
   ]
 }
