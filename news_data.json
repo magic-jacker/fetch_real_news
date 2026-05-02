@@ -1,109 +1,73 @@
 {
-  "timestamp": "2026-05-02T06:54:01.400297",
-  "total": 7,
+  "timestamp": "2026-05-02T08:15:25.799320",
+  "total": 4,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 5,
+    "36氪": 4,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
-    "industry": [],
-    "tech": [
+    "finance": [
       {
-        "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
-        "url": "https://36kr.com/p/3791662444911617",
+        "title": "又一算力独角兽，冲击IPO",
+        "url": "https://36kr.com/p/3791796527602951",
         "source": "36氪",
-        "time": "2026-05-02 06:53"
-      },
-      {
-        "title": "苹果内部运行定制版Claude模型",
-        "url": "https://36kr.com/p/3791662444911617",
-        "source": "36氪",
-        "time": "2026-05-02 06:53"
-      },
-      {
-        "title": "那个在OpenAI修中文的人",
-        "url": "https://36kr.com/p/3791622190854916",
-        "source": "36氪",
-        "time": "2026-05-02 06:53"
-      },
-      {
-        "title": "陈博远是GPT Image 2训练和能力展示里真正站到前台的人之一。",
-        "url": "https://36kr.com/p/3791622190854916",
-        "source": "36氪",
-        "time": "2026-05-02 06:53"
+        "time": "2026-05-02 08:15"
       }
     ],
+    "industry": [],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "五一吃喝玩乐变贵了？错——是你买的东西变了",
-        "url": "https://36kr.com/p/3791582409732617",
+        "title": "茶颜悦色 , 装不下去了",
+        "url": "https://36kr.com/p/3791800373664772",
         "source": "36氪",
-        "time": "2026-05-02 06:53"
+        "time": "2026-05-02 08:15"
       },
       {
-        "title": "内存成本上升，库克不想再回答了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855464.html",
-        "source": "虎嗅",
-        "time": "2026-05-02 06:54"
+        "title": "时过境迁，品牌光环正在减弱。",
+        "url": "https://36kr.com/p/3791800373664772",
+        "source": "36氪",
+        "time": "2026-05-02 08:15"
       },
       {
-        "title": "我在黑人区做规划：美式“政治正确”的傲慢与偏见",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855457.html",
-        "source": "虎嗅",
-        "time": "2026-05-02 06:54"
+        "title": "估值已站上500亿元门槛。",
+        "url": "https://36kr.com/p/3791796527602951",
+        "source": "36氪",
+        "time": "2026-05-02 08:15"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
-      "url": "https://36kr.com/p/3791662444911617",
+      "title": "茶颜悦色 , 装不下去了",
+      "url": "https://36kr.com/p/3791800373664772",
       "source": "36氪",
-      "time": "2026-05-02 06:53"
+      "time": "2026-05-02 08:15"
     },
     {
-      "title": "苹果内部运行定制版Claude模型",
-      "url": "https://36kr.com/p/3791662444911617",
+      "title": "时过境迁，品牌光环正在减弱。",
+      "url": "https://36kr.com/p/3791800373664772",
       "source": "36氪",
-      "time": "2026-05-02 06:53"
+      "time": "2026-05-02 08:15"
     },
     {
-      "title": "那个在OpenAI修中文的人",
-      "url": "https://36kr.com/p/3791622190854916",
+      "title": "又一算力独角兽，冲击IPO",
+      "url": "https://36kr.com/p/3791796527602951",
       "source": "36氪",
-      "time": "2026-05-02 06:53"
+      "time": "2026-05-02 08:15"
     },
     {
-      "title": "陈博远是GPT Image 2训练和能力展示里真正站到前台的人之一。",
-      "url": "https://36kr.com/p/3791622190854916",
+      "title": "估值已站上500亿元门槛。",
+      "url": "https://36kr.com/p/3791796527602951",
       "source": "36氪",
-      "time": "2026-05-02 06:53"
-    },
-    {
-      "title": "五一吃喝玩乐变贵了？错——是你买的东西变了",
-      "url": "https://36kr.com/p/3791582409732617",
-      "source": "36氪",
-      "time": "2026-05-02 06:53"
-    },
-    {
-      "title": "内存成本上升，库克不想再回答了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855464.html",
-      "source": "虎嗅",
-      "time": "2026-05-02 06:54"
-    },
-    {
-      "title": "我在黑人区做规划：美式“政治正确”的傲慢与偏见",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855457.html",
-      "source": "虎嗅",
-      "time": "2026-05-02 06:54"
+      "time": "2026-05-02 08:15"
     }
   ]
 }
