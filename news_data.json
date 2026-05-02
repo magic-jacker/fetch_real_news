@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-02T01:22:23.654522",
+  "timestamp": "2026-05-02T04:31:19.877375",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -11,99 +11,99 @@
   },
   "categories": {
     "finance": [],
-    "industry": [],
-    "tech": [
+    "industry": [
       {
-        "title": "AI时代有自己的“手势舞”",
-        "url": "https://36kr.com/p/3790774863884802",
+        "title": "你下半年的新手机要涨200元，但不是因为关税——是AI在抢你的内存条",
+        "url": "https://36kr.com/p/3791556962972417",
         "source": "36氪",
-        "time": "2026-05-02 01:22"
+        "time": "2026-05-02 04:31"
       }
     ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "极简的框架、超低的门槛和极强的复制性，掀起共创狂欢",
-        "url": "https://36kr.com/p/3790774863884802",
+        "title": "9.35万, 威马破产大甩卖",
+        "url": "https://36kr.com/p/3791546608049152",
         "source": "36氪",
-        "time": "2026-05-02 01:22"
+        "time": "2026-05-02 04:31"
       },
       {
-        "title": "你是单纯怕被拒绝，还是患上了「拒绝敏感性焦虑症」？",
-        "url": "https://36kr.com/p/3746880772932358",
+        "title": "谁是威马的“白衣骑士”？",
+        "url": "https://36kr.com/p/3791546608049152",
         "source": "36氪",
-        "time": "2026-05-02 01:22"
+        "time": "2026-05-02 04:31"
       },
       {
-        "title": "过度担心被他人拒绝，就有可能是“拒绝敏感性焦虑症”。",
-        "url": "https://36kr.com/p/3746880772932358",
+        "title": "续集没翻车 ，但这次“女魔头”也顶不住了",
+        "url": "https://36kr.com/p/3791555958922504",
         "source": "36氪",
-        "time": "2026-05-02 01:22"
+        "time": "2026-05-02 04:31"
       },
       {
-        "title": "追觅造车，从“火箭”开始",
-        "url": "https://36kr.com/p/3790587098832137",
+        "title": "当时尚大刊也被降本增效，女魔头该怎么办？",
+        "url": "https://36kr.com/p/3791555958922504",
         "source": "36氪",
-        "time": "2026-05-02 01:22"
+        "time": "2026-05-02 04:31"
       },
       {
-        "title": "现在的05后去夜店，为什么只玩抓手指啊？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4852501.html",
+        "title": "单店越赚越少，瑞幸的利润到底被谁“吃掉”了？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855397.html",
         "source": "虎嗅",
-        "time": "2026-05-02 01:22"
+        "time": "2026-05-02 04:31"
       },
       {
-        "title": "昨夜，五粮液彻底改变了市场对白酒的信任框架",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855421.html",
+        "title": "我在黑人区做规划：美式“政治正确”的傲慢与偏见",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855457.html",
         "source": "虎嗅",
-        "time": "2026-05-02 01:22"
+        "time": "2026-05-02 04:31"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "AI时代有自己的“手势舞”",
-      "url": "https://36kr.com/p/3790774863884802",
+      "title": "你下半年的新手机要涨200元，但不是因为关税——是AI在抢你的内存条",
+      "url": "https://36kr.com/p/3791556962972417",
       "source": "36氪",
-      "time": "2026-05-02 01:22"
+      "time": "2026-05-02 04:31"
     },
     {
-      "title": "极简的框架、超低的门槛和极强的复制性，掀起共创狂欢",
-      "url": "https://36kr.com/p/3790774863884802",
+      "title": "9.35万, 威马破产大甩卖",
+      "url": "https://36kr.com/p/3791546608049152",
       "source": "36氪",
-      "time": "2026-05-02 01:22"
+      "time": "2026-05-02 04:31"
     },
     {
-      "title": "你是单纯怕被拒绝，还是患上了「拒绝敏感性焦虑症」？",
-      "url": "https://36kr.com/p/3746880772932358",
+      "title": "谁是威马的“白衣骑士”？",
+      "url": "https://36kr.com/p/3791546608049152",
       "source": "36氪",
-      "time": "2026-05-02 01:22"
+      "time": "2026-05-02 04:31"
     },
     {
-      "title": "过度担心被他人拒绝，就有可能是“拒绝敏感性焦虑症”。",
-      "url": "https://36kr.com/p/3746880772932358",
+      "title": "续集没翻车 ，但这次“女魔头”也顶不住了",
+      "url": "https://36kr.com/p/3791555958922504",
       "source": "36氪",
-      "time": "2026-05-02 01:22"
+      "time": "2026-05-02 04:31"
     },
     {
-      "title": "追觅造车，从“火箭”开始",
-      "url": "https://36kr.com/p/3790587098832137",
+      "title": "当时尚大刊也被降本增效，女魔头该怎么办？",
+      "url": "https://36kr.com/p/3791555958922504",
       "source": "36氪",
-      "time": "2026-05-02 01:22"
+      "time": "2026-05-02 04:31"
     },
     {
-      "title": "现在的05后去夜店，为什么只玩抓手指啊？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4852501.html",
+      "title": "单店越赚越少，瑞幸的利润到底被谁“吃掉”了？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855397.html",
       "source": "虎嗅",
-      "time": "2026-05-02 01:22"
+      "time": "2026-05-02 04:31"
     },
     {
-      "title": "昨夜，五粮液彻底改变了市场对白酒的信任框架",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855421.html",
+      "title": "我在黑人区做规划：美式“政治正确”的傲慢与偏见",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855457.html",
       "source": "虎嗅",
-      "time": "2026-05-02 01:22"
+      "time": "2026-05-02 04:31"
     }
   ]
 }
