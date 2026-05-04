@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-05-04T09:35:29.475400",
+  "timestamp": "2026-05-04T11:29:40.276172",
   "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
@@ -17,13 +17,7 @@
         "title": "最后致命一击，来自AI。",
         "url": "https://36kr.com/p/3794644097424645",
         "source": "36氪",
-        "time": "2026-05-04 09:35"
-      },
-      {
-        "title": "Anthropic搞了个全是AI的闲鱼群，大模型在里面互割起了韭菜",
-        "url": "https://36kr.com/p/3794465919704322",
-        "source": "36氪",
-        "time": "2026-05-04 09:35"
+        "time": "2026-05-04 11:29"
       }
     ],
     "byd": [],
@@ -31,79 +25,85 @@
     "fitness": [],
     "other": [
       {
+        "title": "豆包将在免费模式外新增付费订阅，推出三档月包/年包价格｜最前线",
+        "url": "https://36kr.com/p/3794799114476809",
+        "source": "36氪",
+        "time": "2026-05-04 11:29"
+      },
+      {
+        "title": "相关方案细节目前还在测试阶段，正式上线时会通过官方渠道发布完整信息。",
+        "url": "https://36kr.com/p/3794799114476809",
+        "source": "36氪",
+        "time": "2026-05-04 11:29"
+      },
+      {
         "title": "“今日头条鼻祖”BuzzFeed要破产了",
         "url": "https://36kr.com/p/3794644097424645",
         "source": "36氪",
-        "time": "2026-05-04 09:35"
+        "time": "2026-05-04 11:29"
       },
       {
         "title": "这个五一，年轻人“反向旅行”挤爆县城",
         "url": "https://36kr.com/p/3794459672534272",
         "source": "36氪",
-        "time": "2026-05-04 09:35"
+        "time": "2026-05-04 11:29"
       },
       {
-        "title": "不是消费降级， 是花钱花明白了。",
-        "url": "https://36kr.com/p/3794459672534272",
-        "source": "36氪",
-        "time": "2026-05-04 09:35"
-      },
-      {
-        "title": "美国在中东放火，烧了自家农民的化肥袋子",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855652.html",
+        "title": "千亿消费大白马，双双失速了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855661.html",
         "source": "虎嗅",
-        "time": "2026-05-04 09:35"
+        "time": "2026-05-04 11:29"
       },
       {
-        "title": "我所经历的学术霸凌：他一句话，就能毁掉你的学术生涯",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855635.html",
+        "title": "黑石、KKR也“中招”了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855653.html",
         "source": "虎嗅",
-        "time": "2026-05-04 09:35"
+        "time": "2026-05-04 11:29"
       }
     ]
   },
   "raw_news": [
     {
+      "title": "豆包将在免费模式外新增付费订阅，推出三档月包/年包价格｜最前线",
+      "url": "https://36kr.com/p/3794799114476809",
+      "source": "36氪",
+      "time": "2026-05-04 11:29"
+    },
+    {
+      "title": "相关方案细节目前还在测试阶段，正式上线时会通过官方渠道发布完整信息。",
+      "url": "https://36kr.com/p/3794799114476809",
+      "source": "36氪",
+      "time": "2026-05-04 11:29"
+    },
+    {
       "title": "“今日头条鼻祖”BuzzFeed要破产了",
       "url": "https://36kr.com/p/3794644097424645",
       "source": "36氪",
-      "time": "2026-05-04 09:35"
+      "time": "2026-05-04 11:29"
     },
     {
       "title": "最后致命一击，来自AI。",
       "url": "https://36kr.com/p/3794644097424645",
       "source": "36氪",
-      "time": "2026-05-04 09:35"
+      "time": "2026-05-04 11:29"
     },
     {
       "title": "这个五一，年轻人“反向旅行”挤爆县城",
       "url": "https://36kr.com/p/3794459672534272",
       "source": "36氪",
-      "time": "2026-05-04 09:35"
+      "time": "2026-05-04 11:29"
     },
     {
-      "title": "不是消费降级， 是花钱花明白了。",
-      "url": "https://36kr.com/p/3794459672534272",
-      "source": "36氪",
-      "time": "2026-05-04 09:35"
-    },
-    {
-      "title": "Anthropic搞了个全是AI的闲鱼群，大模型在里面互割起了韭菜",
-      "url": "https://36kr.com/p/3794465919704322",
-      "source": "36氪",
-      "time": "2026-05-04 09:35"
-    },
-    {
-      "title": "美国在中东放火，烧了自家农民的化肥袋子",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855652.html",
+      "title": "千亿消费大白马，双双失速了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855661.html",
       "source": "虎嗅",
-      "time": "2026-05-04 09:35"
+      "time": "2026-05-04 11:29"
     },
     {
-      "title": "我所经历的学术霸凌：他一句话，就能毁掉你的学术生涯",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855635.html",
+      "title": "黑石、KKR也“中招”了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855653.html",
       "source": "虎嗅",
-      "time": "2026-05-04 09:35"
+      "time": "2026-05-04 11:29"
     }
   ]
 }
