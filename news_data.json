@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-05-04T07:29:33.164943",
+  "timestamp": "2026-05-04T09:35:29.475400",
   "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
@@ -14,16 +14,16 @@
     "industry": [],
     "tech": [
       {
+        "title": "最后致命一击，来自AI。",
+        "url": "https://36kr.com/p/3794644097424645",
+        "source": "36氪",
+        "time": "2026-05-04 09:35"
+      },
+      {
         "title": "Anthropic搞了个全是AI的闲鱼群，大模型在里面互割起了韭菜",
         "url": "https://36kr.com/p/3794465919704322",
         "source": "36氪",
-        "time": "2026-05-04 07:29"
-      },
-      {
-        "title": "​AI时代的算力代差，是最高昂的智商税。",
-        "url": "https://36kr.com/p/3794465919704322",
-        "source": "36氪",
-        "time": "2026-05-04 07:29"
+        "time": "2026-05-04 09:35"
       }
     ],
     "byd": [],
@@ -31,79 +31,79 @@
     "fitness": [],
     "other": [
       {
+        "title": "“今日头条鼻祖”BuzzFeed要破产了",
+        "url": "https://36kr.com/p/3794644097424645",
+        "source": "36氪",
+        "time": "2026-05-04 09:35"
+      },
+      {
         "title": "这个五一，年轻人“反向旅行”挤爆县城",
         "url": "https://36kr.com/p/3794459672534272",
         "source": "36氪",
-        "time": "2026-05-04 07:29"
+        "time": "2026-05-04 09:35"
       },
       {
         "title": "不是消费降级， 是花钱花明白了。",
         "url": "https://36kr.com/p/3794459672534272",
         "source": "36氪",
-        "time": "2026-05-04 07:29"
+        "time": "2026-05-04 09:35"
       },
       {
-        "title": "1.5亿钓鱼佬，终于拿起了国产高级钓竿",
-        "url": "https://36kr.com/p/3794463409216513",
-        "source": "36氪",
-        "time": "2026-05-04 07:29"
-      },
-      {
-        "title": "杨立昆的反共识判断：大语言模型路线错了，JEPA世界模型才是通往AGI唯一解",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855636.html",
+        "title": "美国在中东放火，烧了自家农民的化肥袋子",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855652.html",
         "source": "虎嗅",
-        "time": "2026-05-04 07:29"
+        "time": "2026-05-04 09:35"
       },
       {
         "title": "我所经历的学术霸凌：他一句话，就能毁掉你的学术生涯",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855635.html",
         "source": "虎嗅",
-        "time": "2026-05-04 07:29"
+        "time": "2026-05-04 09:35"
       }
     ]
   },
   "raw_news": [
     {
+      "title": "“今日头条鼻祖”BuzzFeed要破产了",
+      "url": "https://36kr.com/p/3794644097424645",
+      "source": "36氪",
+      "time": "2026-05-04 09:35"
+    },
+    {
+      "title": "最后致命一击，来自AI。",
+      "url": "https://36kr.com/p/3794644097424645",
+      "source": "36氪",
+      "time": "2026-05-04 09:35"
+    },
+    {
       "title": "这个五一，年轻人“反向旅行”挤爆县城",
       "url": "https://36kr.com/p/3794459672534272",
       "source": "36氪",
-      "time": "2026-05-04 07:29"
+      "time": "2026-05-04 09:35"
     },
     {
       "title": "不是消费降级， 是花钱花明白了。",
       "url": "https://36kr.com/p/3794459672534272",
       "source": "36氪",
-      "time": "2026-05-04 07:29"
+      "time": "2026-05-04 09:35"
     },
     {
       "title": "Anthropic搞了个全是AI的闲鱼群，大模型在里面互割起了韭菜",
       "url": "https://36kr.com/p/3794465919704322",
       "source": "36氪",
-      "time": "2026-05-04 07:29"
+      "time": "2026-05-04 09:35"
     },
     {
-      "title": "​AI时代的算力代差，是最高昂的智商税。",
-      "url": "https://36kr.com/p/3794465919704322",
-      "source": "36氪",
-      "time": "2026-05-04 07:29"
-    },
-    {
-      "title": "1.5亿钓鱼佬，终于拿起了国产高级钓竿",
-      "url": "https://36kr.com/p/3794463409216513",
-      "source": "36氪",
-      "time": "2026-05-04 07:29"
-    },
-    {
-      "title": "杨立昆的反共识判断：大语言模型路线错了，JEPA世界模型才是通往AGI唯一解",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855636.html",
+      "title": "美国在中东放火，烧了自家农民的化肥袋子",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855652.html",
       "source": "虎嗅",
-      "time": "2026-05-04 07:29"
+      "time": "2026-05-04 09:35"
     },
     {
       "title": "我所经历的学术霸凌：他一句话，就能毁掉你的学术生涯",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855635.html",
       "source": "虎嗅",
-      "time": "2026-05-04 07:29"
+      "time": "2026-05-04 09:35"
     }
   ]
 }
