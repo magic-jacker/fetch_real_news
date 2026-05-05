@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-05-05T01:24:26.583276",
-  "total": 6,
+  "timestamp": "2026-05-05T04:31:23.228498",
+  "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 4,
+    "36氪": 5,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
@@ -14,10 +14,16 @@
     "industry": [],
     "tech": [
       {
-        "title": "字节腾讯扎堆入局AI恋陪，女性向游戏要变天？",
-        "url": "https://36kr.com/p/3795122931817730",
+        "title": "AI圈总得有人站出来做“恶人”",
+        "url": "https://36kr.com/p/3794920946561542",
         "source": "36氪",
-        "time": "2026-05-05 01:24"
+        "time": "2026-05-05 04:31"
+      },
+      {
+        "title": "被AI抢走工作的人，在忙什么？",
+        "url": "https://36kr.com/p/3794846793282057",
+        "source": "36氪",
+        "time": "2026-05-05 04:31"
       }
     ],
     "byd": [],
@@ -25,73 +31,79 @@
     "fitness": [],
     "other": [
       {
-        "title": "打造全球超大型数据中心，到底有多难？",
-        "url": "https://36kr.com/p/3752282250805762",
+        "title": "豆包为什么选择了 “最low”的变现方式？",
+        "url": "https://36kr.com/p/3794920946561542",
         "source": "36氪",
-        "time": "2026-05-05 01:24"
+        "time": "2026-05-05 04:31"
       },
       {
-        "title": "目前的共识是：规模必须足够大。",
-        "url": "https://36kr.com/p/3752282250805762",
+        "title": "第一批挤爆广东的韩国人，优越感被彻底击碎",
+        "url": "https://36kr.com/p/3794553561472004",
         "source": "36氪",
-        "time": "2026-05-05 01:24"
+        "time": "2026-05-05 04:31"
       },
       {
-        "title": "五月，适合想清楚一件事｜幕启",
-        "url": "https://36kr.com/p/3794961189821698",
+        "title": "用生活方式征服游客，才是真正的降维打击。",
+        "url": "https://36kr.com/p/3794553561472004",
         "source": "36氪",
-        "time": "2026-05-05 01:24"
+        "time": "2026-05-05 04:31"
       },
       {
-        "title": "回答：都是农夫山泉体系，为啥茶π不如东方树叶？也回答“为啥你的大单品求而不得”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855683.html",
+        "title": "豆包要推付费版了，有件事比值不值更重要",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855700.html",
         "source": "虎嗅",
-        "time": "2026-05-05 01:24"
+        "time": "2026-05-05 04:31"
       },
       {
-        "title": "硅谷的命门，掌握在日本老师傅手里",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855687.html",
+        "title": "程维再次激进，滴滴会否再陷亏损泥潭？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855703.html",
         "source": "虎嗅",
-        "time": "2026-05-05 01:24"
+        "time": "2026-05-05 04:31"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "字节腾讯扎堆入局AI恋陪，女性向游戏要变天？",
-      "url": "https://36kr.com/p/3795122931817730",
+      "title": "豆包为什么选择了 “最low”的变现方式？",
+      "url": "https://36kr.com/p/3794920946561542",
       "source": "36氪",
-      "time": "2026-05-05 01:24"
+      "time": "2026-05-05 04:31"
     },
     {
-      "title": "打造全球超大型数据中心，到底有多难？",
-      "url": "https://36kr.com/p/3752282250805762",
+      "title": "AI圈总得有人站出来做“恶人”",
+      "url": "https://36kr.com/p/3794920946561542",
       "source": "36氪",
-      "time": "2026-05-05 01:24"
+      "time": "2026-05-05 04:31"
     },
     {
-      "title": "目前的共识是：规模必须足够大。",
-      "url": "https://36kr.com/p/3752282250805762",
+      "title": "第一批挤爆广东的韩国人，优越感被彻底击碎",
+      "url": "https://36kr.com/p/3794553561472004",
       "source": "36氪",
-      "time": "2026-05-05 01:24"
+      "time": "2026-05-05 04:31"
     },
     {
-      "title": "五月，适合想清楚一件事｜幕启",
-      "url": "https://36kr.com/p/3794961189821698",
+      "title": "用生活方式征服游客，才是真正的降维打击。",
+      "url": "https://36kr.com/p/3794553561472004",
       "source": "36氪",
-      "time": "2026-05-05 01:24"
+      "time": "2026-05-05 04:31"
     },
     {
-      "title": "回答：都是农夫山泉体系，为啥茶π不如东方树叶？也回答“为啥你的大单品求而不得”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855683.html",
+      "title": "被AI抢走工作的人，在忙什么？",
+      "url": "https://36kr.com/p/3794846793282057",
+      "source": "36氪",
+      "time": "2026-05-05 04:31"
+    },
+    {
+      "title": "豆包要推付费版了，有件事比值不值更重要",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855700.html",
       "source": "虎嗅",
-      "time": "2026-05-05 01:24"
+      "time": "2026-05-05 04:31"
     },
     {
-      "title": "硅谷的命门，掌握在日本老师傅手里",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855687.html",
+      "title": "程维再次激进，滴滴会否再陷亏损泥潭？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855703.html",
       "source": "虎嗅",
-      "time": "2026-05-05 01:24"
+      "time": "2026-05-05 04:31"
     }
   ]
 }
