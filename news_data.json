@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-05-04T23:40:45.586998",
-  "total": 7,
+  "timestamp": "2026-05-05T01:24:26.583276",
+  "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 5,
+    "36氪": 4,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
@@ -14,16 +14,10 @@
     "industry": [],
     "tech": [
       {
-        "title": "最后致命一击，来自AI。",
-        "url": "https://36kr.com/p/3794644097424645",
+        "title": "字节腾讯扎堆入局AI恋陪，女性向游戏要变天？",
+        "url": "https://36kr.com/p/3795122931817730",
         "source": "36氪",
-        "time": "2026-05-04 23:40"
-      },
-      {
-        "title": "被AI抢走工作的人，在忙什么？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855671.html",
-        "source": "虎嗅",
-        "time": "2026-05-04 23:40"
+        "time": "2026-05-05 01:24"
       }
     ],
     "byd": [],
@@ -31,79 +25,73 @@
     "fitness": [],
     "other": [
       {
+        "title": "打造全球超大型数据中心，到底有多难？",
+        "url": "https://36kr.com/p/3752282250805762",
+        "source": "36氪",
+        "time": "2026-05-05 01:24"
+      },
+      {
+        "title": "目前的共识是：规模必须足够大。",
+        "url": "https://36kr.com/p/3752282250805762",
+        "source": "36氪",
+        "time": "2026-05-05 01:24"
+      },
+      {
         "title": "五月，适合想清楚一件事｜幕启",
         "url": "https://36kr.com/p/3794961189821698",
         "source": "36氪",
-        "time": "2026-05-04 23:40"
+        "time": "2026-05-05 01:24"
       },
       {
-        "title": "豆包将在免费模式外新增付费订阅，推出三档月包/年包价格｜最前线",
-        "url": "https://36kr.com/p/3794799114476809",
-        "source": "36氪",
-        "time": "2026-05-04 23:40"
-      },
-      {
-        "title": "相关方案细节目前还在测试阶段，正式上线时会通过官方渠道发布完整信息。",
-        "url": "https://36kr.com/p/3794799114476809",
-        "source": "36氪",
-        "time": "2026-05-04 23:40"
-      },
-      {
-        "title": "“今日头条鼻祖”BuzzFeed要破产了",
-        "url": "https://36kr.com/p/3794644097424645",
-        "source": "36氪",
-        "time": "2026-05-04 23:40"
-      },
-      {
-        "title": "千亿消费大白马，双双失速了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855661.html",
+        "title": "回答：都是农夫山泉体系，为啥茶π不如东方树叶？也回答“为啥你的大单品求而不得”",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855683.html",
         "source": "虎嗅",
-        "time": "2026-05-04 23:40"
+        "time": "2026-05-05 01:24"
+      },
+      {
+        "title": "硅谷的命门，掌握在日本老师傅手里",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855687.html",
+        "source": "虎嗅",
+        "time": "2026-05-05 01:24"
       }
     ]
   },
   "raw_news": [
     {
+      "title": "字节腾讯扎堆入局AI恋陪，女性向游戏要变天？",
+      "url": "https://36kr.com/p/3795122931817730",
+      "source": "36氪",
+      "time": "2026-05-05 01:24"
+    },
+    {
+      "title": "打造全球超大型数据中心，到底有多难？",
+      "url": "https://36kr.com/p/3752282250805762",
+      "source": "36氪",
+      "time": "2026-05-05 01:24"
+    },
+    {
+      "title": "目前的共识是：规模必须足够大。",
+      "url": "https://36kr.com/p/3752282250805762",
+      "source": "36氪",
+      "time": "2026-05-05 01:24"
+    },
+    {
       "title": "五月，适合想清楚一件事｜幕启",
       "url": "https://36kr.com/p/3794961189821698",
       "source": "36氪",
-      "time": "2026-05-04 23:40"
+      "time": "2026-05-05 01:24"
     },
     {
-      "title": "豆包将在免费模式外新增付费订阅，推出三档月包/年包价格｜最前线",
-      "url": "https://36kr.com/p/3794799114476809",
-      "source": "36氪",
-      "time": "2026-05-04 23:40"
-    },
-    {
-      "title": "相关方案细节目前还在测试阶段，正式上线时会通过官方渠道发布完整信息。",
-      "url": "https://36kr.com/p/3794799114476809",
-      "source": "36氪",
-      "time": "2026-05-04 23:40"
-    },
-    {
-      "title": "“今日头条鼻祖”BuzzFeed要破产了",
-      "url": "https://36kr.com/p/3794644097424645",
-      "source": "36氪",
-      "time": "2026-05-04 23:40"
-    },
-    {
-      "title": "最后致命一击，来自AI。",
-      "url": "https://36kr.com/p/3794644097424645",
-      "source": "36氪",
-      "time": "2026-05-04 23:40"
-    },
-    {
-      "title": "被AI抢走工作的人，在忙什么？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855671.html",
+      "title": "回答：都是农夫山泉体系，为啥茶π不如东方树叶？也回答“为啥你的大单品求而不得”",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855683.html",
       "source": "虎嗅",
-      "time": "2026-05-04 23:40"
+      "time": "2026-05-05 01:24"
     },
     {
-      "title": "千亿消费大白马，双双失速了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855661.html",
+      "title": "硅谷的命门，掌握在日本老师傅手里",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855687.html",
       "source": "虎嗅",
-      "time": "2026-05-04 23:40"
+      "time": "2026-05-05 01:24"
     }
   ]
 }
