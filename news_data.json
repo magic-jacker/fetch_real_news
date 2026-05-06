@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-06T11:41:19.492386",
+  "timestamp": "2026-05-06T13:22:29.435373",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -10,21 +10,38 @@
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
-      {
-        "title": "中芯国际2020年IPO融资建厂，2026年并购重组整合产能，反映中国半导体从追赶迈向整合。",
-        "url": "https://36kr.com/p/3797463758533378",
-        "source": "36氪",
-        "time": "2026-05-06 11:41"
-      }
-    ],
+    "finance": [],
     "industry": [],
     "tech": [
       {
-        "title": "AI在偷偷选“自己人”，这是2026最离谱的求职歧视",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4856033.html",
-        "source": "虎嗅",
-        "time": "2026-05-06 11:41"
+        "title": "Claude彻底起飞，狂揽亚马逊5GW算力+250亿刀，贝索斯赚麻了",
+        "url": "https://36kr.com/p/3797755925798148",
+        "source": "36氪",
+        "time": "2026-05-06 13:22"
+      },
+      {
+        "title": "1000亿美元砸向AWS算力，5座核电站级别的能耗，营收狂飙至300亿——Anthropic和亚马逊刚刚签下了AI史上最疯狂的「军火合同」。",
+        "url": "https://36kr.com/p/3797755925798148",
+        "source": "36氪",
+        "time": "2026-05-06 13:22"
+      },
+      {
+        "title": "AI自己造AI，概率60%，2028年底前，Anthropic联创坐不住了",
+        "url": "https://36kr.com/p/3797756582747395",
+        "source": "36氪",
+        "time": "2026-05-06 13:22"
+      },
+      {
+        "title": "Anthropic联合创始人Jack Clark读完数百份公开数据，得出一个让他自己也坐不住的结论：2028年底前，AI自己造AI的概率是60%。支撑他这一判断的，是编程、科研复现、模型训练优化等多条能力曲线：每一条都在向右上方飞，没有减速迹象。",
+        "url": "https://36kr.com/p/3797756582747395",
+        "source": "36氪",
+        "time": "2026-05-06 13:22"
+      },
+      {
+        "title": "刷榜AI全挂了，Meta斯坦福地狱级测试，GPT/Claude/Gemini交出0分",
+        "url": "https://36kr.com/p/3797755297733636",
+        "source": "36氪",
+        "time": "2026-05-06 13:22"
       }
     ],
     "byd": [],
@@ -32,79 +49,61 @@
     "fitness": [],
     "other": [
       {
-        "title": "五年前回A为补产能，五年后并购为补什么？中芯国际两次资本动作的代际差异",
-        "url": "https://36kr.com/p/3797463758533378",
-        "source": "36氪",
-        "time": "2026-05-06 11:41"
-      },
-      {
-        "title": "受够了大几十的外卖就给几片烂菜叶，12块9还能无限续的“蔬菜火锅”终于给北漂吃爽了？",
-        "url": "https://36kr.com/p/3797454206229505",
-        "source": "36氪",
-        "time": "2026-05-06 11:41"
-      },
-      {
-        "title": "“第一次在火锅吃到这么多蔬菜”",
-        "url": "https://36kr.com/p/3797454206229505",
-        "source": "36氪",
-        "time": "2026-05-06 11:41"
-      },
-      {
-        "title": "挪威车市观察：燃油车几近退场，中国品牌跻身主流战场",
-        "url": "https://36kr.com/p/3797435753329408",
-        "source": "36氪",
-        "time": "2026-05-06 11:41"
-      },
-      {
-        "title": "​茶圈凭什么看不起传统商超市场？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855954.html",
+        "title": "6月，被天气定价的投资主线",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4856064.html",
         "source": "虎嗅",
-        "time": "2026-05-06 11:41"
+        "time": "2026-05-06 13:22"
+      },
+      {
+        "title": "世界杯版权费有没有泡沫？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4856049.html",
+        "source": "虎嗅",
+        "time": "2026-05-06 13:22"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "五年前回A为补产能，五年后并购为补什么？中芯国际两次资本动作的代际差异",
-      "url": "https://36kr.com/p/3797463758533378",
+      "title": "Claude彻底起飞，狂揽亚马逊5GW算力+250亿刀，贝索斯赚麻了",
+      "url": "https://36kr.com/p/3797755925798148",
       "source": "36氪",
-      "time": "2026-05-06 11:41"
+      "time": "2026-05-06 13:22"
     },
     {
-      "title": "中芯国际2020年IPO融资建厂，2026年并购重组整合产能，反映中国半导体从追赶迈向整合。",
-      "url": "https://36kr.com/p/3797463758533378",
+      "title": "1000亿美元砸向AWS算力，5座核电站级别的能耗，营收狂飙至300亿——Anthropic和亚马逊刚刚签下了AI史上最疯狂的「军火合同」。",
+      "url": "https://36kr.com/p/3797755925798148",
       "source": "36氪",
-      "time": "2026-05-06 11:41"
+      "time": "2026-05-06 13:22"
     },
     {
-      "title": "受够了大几十的外卖就给几片烂菜叶，12块9还能无限续的“蔬菜火锅”终于给北漂吃爽了？",
-      "url": "https://36kr.com/p/3797454206229505",
+      "title": "AI自己造AI，概率60%，2028年底前，Anthropic联创坐不住了",
+      "url": "https://36kr.com/p/3797756582747395",
       "source": "36氪",
-      "time": "2026-05-06 11:41"
+      "time": "2026-05-06 13:22"
     },
     {
-      "title": "“第一次在火锅吃到这么多蔬菜”",
-      "url": "https://36kr.com/p/3797454206229505",
+      "title": "Anthropic联合创始人Jack Clark读完数百份公开数据，得出一个让他自己也坐不住的结论：2028年底前，AI自己造AI的概率是60%。支撑他这一判断的，是编程、科研复现、模型训练优化等多条能力曲线：每一条都在向右上方飞，没有减速迹象。",
+      "url": "https://36kr.com/p/3797756582747395",
       "source": "36氪",
-      "time": "2026-05-06 11:41"
+      "time": "2026-05-06 13:22"
     },
     {
-      "title": "挪威车市观察：燃油车几近退场，中国品牌跻身主流战场",
-      "url": "https://36kr.com/p/3797435753329408",
+      "title": "刷榜AI全挂了，Meta斯坦福地狱级测试，GPT/Claude/Gemini交出0分",
+      "url": "https://36kr.com/p/3797755297733636",
       "source": "36氪",
-      "time": "2026-05-06 11:41"
+      "time": "2026-05-06 13:22"
     },
     {
-      "title": "AI在偷偷选“自己人”，这是2026最离谱的求职歧视",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4856033.html",
+      "title": "6月，被天气定价的投资主线",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4856064.html",
       "source": "虎嗅",
-      "time": "2026-05-06 11:41"
+      "time": "2026-05-06 13:22"
     },
     {
-      "title": "​茶圈凭什么看不起传统商超市场？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4855954.html",
+      "title": "世界杯版权费有没有泡沫？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4856049.html",
       "source": "虎嗅",
-      "time": "2026-05-06 11:41"
+      "time": "2026-05-06 13:22"
     }
   ]
 }
