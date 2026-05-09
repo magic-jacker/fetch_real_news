@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-08T23:43:07.043940",
+  "timestamp": "2026-05-09T01:27:44.873550",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -11,37 +11,38 @@
   },
   "categories": {
     "finance": [],
-    "industry": [],
+    "industry": [
+      {
+        "title": "美国人狂买电动车，特朗普也拦不住",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4856724.html",
+        "source": "虎嗅",
+        "time": "2026-05-09 01:27"
+      }
+    ],
     "tech": [
       {
-        "title": "2026年AI基础设施路线图：五大前沿阵地",
-        "url": "https://36kr.com/p/3761091774366217",
+        "title": "解散xAI ，马斯克想用造火箭的方法，重造AI公司",
+        "url": "https://36kr.com/p/3801373275382023",
         "source": "36氪",
-        "time": "2026-05-08 23:43"
+        "time": "2026-05-09 01:27"
       },
       {
-        "title": "第一代AI基础设施公司开发出了智能的“大脑”。而下一代基础设施将把这些智能引擎释放到现实世界中。",
-        "url": "https://36kr.com/p/3761091774366217",
+        "title": "Grok败给了ChatGPT，马斯克决定重开一局。他要用造火箭的方法，重做AI公司。",
+        "url": "https://36kr.com/p/3801373275382023",
         "source": "36氪",
-        "time": "2026-05-08 23:43"
+        "time": "2026-05-09 01:27"
       },
       {
-        "title": "80%的钱流向AI，但谁来买单？",
-        "url": "https://36kr.com/p/3800508365533954",
+        "title": "“横漂”消亡史：有人用AI，500块买走他们的脸",
+        "url": "https://36kr.com/p/3801339042176768",
         "source": "36氪",
-        "time": "2026-05-08 23:43"
+        "time": "2026-05-09 01:27"
       },
       {
-        "title": "Apple Watch纳入“教育优惠”，苹果不止为了促销",
-        "url": "https://36kr.com/p/3800498563374082",
-        "source": "36氪",
-        "time": "2026-05-08 23:43"
-      },
-      {
-        "title": "AI消灭不了科层制，扁平化远非公司神药",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4856450.html",
+        "title": "让AI成为员工“助手”而非“对手”，关键看领导这项能力",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4856782.html",
         "source": "虎嗅",
-        "time": "2026-05-08 23:43"
+        "time": "2026-05-09 01:27"
       }
     ],
     "byd": [],
@@ -49,61 +50,61 @@
     "fitness": [],
     "other": [
       {
-        "title": "教育优惠与其说是促销，更像是企业责任。",
-        "url": "https://36kr.com/p/3800498563374082",
+        "title": "起风之前，每个人都曾真实地留下过属于他们的那一秒。",
+        "url": "https://36kr.com/p/3801339042176768",
         "source": "36氪",
-        "time": "2026-05-08 23:43"
+        "time": "2026-05-09 01:27"
       },
       {
-        "title": "海力士管理层，你们背叛了资产阶级",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4856702.html",
-        "source": "虎嗅",
-        "time": "2026-05-08 23:43"
+        "title": "9点1氪丨DeepSeek拟募资最高500亿；“全国销冠”被刑拘，泰康人寿回应；OPPO就母亲节文案致歉",
+        "url": "https://36kr.com/p/3801348046151428",
+        "source": "36氪",
+        "time": "2026-05-09 01:27"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "2026年AI基础设施路线图：五大前沿阵地",
-      "url": "https://36kr.com/p/3761091774366217",
+      "title": "解散xAI ，马斯克想用造火箭的方法，重造AI公司",
+      "url": "https://36kr.com/p/3801373275382023",
       "source": "36氪",
-      "time": "2026-05-08 23:43"
+      "time": "2026-05-09 01:27"
     },
     {
-      "title": "第一代AI基础设施公司开发出了智能的“大脑”。而下一代基础设施将把这些智能引擎释放到现实世界中。",
-      "url": "https://36kr.com/p/3761091774366217",
+      "title": "Grok败给了ChatGPT，马斯克决定重开一局。他要用造火箭的方法，重做AI公司。",
+      "url": "https://36kr.com/p/3801373275382023",
       "source": "36氪",
-      "time": "2026-05-08 23:43"
+      "time": "2026-05-09 01:27"
     },
     {
-      "title": "80%的钱流向AI，但谁来买单？",
-      "url": "https://36kr.com/p/3800508365533954",
+      "title": "“横漂”消亡史：有人用AI，500块买走他们的脸",
+      "url": "https://36kr.com/p/3801339042176768",
       "source": "36氪",
-      "time": "2026-05-08 23:43"
+      "time": "2026-05-09 01:27"
     },
     {
-      "title": "Apple Watch纳入“教育优惠”，苹果不止为了促销",
-      "url": "https://36kr.com/p/3800498563374082",
+      "title": "起风之前，每个人都曾真实地留下过属于他们的那一秒。",
+      "url": "https://36kr.com/p/3801339042176768",
       "source": "36氪",
-      "time": "2026-05-08 23:43"
+      "time": "2026-05-09 01:27"
     },
     {
-      "title": "教育优惠与其说是促销，更像是企业责任。",
-      "url": "https://36kr.com/p/3800498563374082",
+      "title": "9点1氪丨DeepSeek拟募资最高500亿；“全国销冠”被刑拘，泰康人寿回应；OPPO就母亲节文案致歉",
+      "url": "https://36kr.com/p/3801348046151428",
       "source": "36氪",
-      "time": "2026-05-08 23:43"
+      "time": "2026-05-09 01:27"
     },
     {
-      "title": "海力士管理层，你们背叛了资产阶级",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4856702.html",
+      "title": "让AI成为员工“助手”而非“对手”，关键看领导这项能力",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4856782.html",
       "source": "虎嗅",
-      "time": "2026-05-08 23:43"
+      "time": "2026-05-09 01:27"
     },
     {
-      "title": "AI消灭不了科层制，扁平化远非公司神药",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4856450.html",
+      "title": "美国人狂买电动车，特朗普也拦不住",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4856724.html",
       "source": "虎嗅",
-      "time": "2026-05-08 23:43"
+      "time": "2026-05-09 01:27"
     }
   ]
 }
