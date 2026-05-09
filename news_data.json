@@ -1,48 +1,36 @@
 {
-  "timestamp": "2026-05-09T01:27:44.873550",
-  "total": 7,
+  "timestamp": "2026-05-09T04:43:21.255673",
+  "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 5,
+    "36氪": 4,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
-    "industry": [
+    "finance": [
       {
-        "title": "美国人狂买电动车，特朗普也拦不住",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4856724.html",
-        "source": "虎嗅",
-        "time": "2026-05-09 01:27"
+        "title": "周大福和老铺黄金，都想做奢侈品生意",
+        "url": "https://36kr.com/p/3801521399602697",
+        "source": "36氪",
+        "time": "2026-05-09 04:43"
       }
     ],
+    "industry": [],
     "tech": [
       {
-        "title": "解散xAI ，马斯克想用造火箭的方法，重造AI公司",
-        "url": "https://36kr.com/p/3801373275382023",
+        "title": "苹果和英特尔，分手六年后，又“在一起”了",
+        "url": "https://36kr.com/p/3801467993939465",
         "source": "36氪",
-        "time": "2026-05-09 01:27"
+        "time": "2026-05-09 04:43"
       },
       {
-        "title": "Grok败给了ChatGPT，马斯克决定重开一局。他要用造火箭的方法，重做AI公司。",
-        "url": "https://36kr.com/p/3801373275382023",
-        "source": "36氪",
-        "time": "2026-05-09 01:27"
-      },
-      {
-        "title": "“横漂”消亡史：有人用AI，500块买走他们的脸",
-        "url": "https://36kr.com/p/3801339042176768",
-        "source": "36氪",
-        "time": "2026-05-09 01:27"
-      },
-      {
-        "title": "让AI成为员工“助手”而非“对手”，关键看领导这项能力",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4856782.html",
+        "title": "小米“9系”的最大悬念",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4856719.html",
         "source": "虎嗅",
-        "time": "2026-05-09 01:27"
+        "time": "2026-05-09 04:43"
       }
     ],
     "byd": [],
@@ -50,61 +38,61 @@
     "fitness": [],
     "other": [
       {
-        "title": "起风之前，每个人都曾真实地留下过属于他们的那一秒。",
-        "url": "https://36kr.com/p/3801339042176768",
+        "title": "当「微度假」成为实体商业新趋势，我们该向泰国商场学什么",
+        "url": "https://36kr.com/p/3801474770689792",
         "source": "36氪",
-        "time": "2026-05-09 01:27"
+        "time": "2026-05-09 04:43"
       },
       {
-        "title": "9点1氪丨DeepSeek拟募资最高500亿；“全国销冠”被刑拘，泰康人寿回应；OPPO就母亲节文案致歉",
-        "url": "https://36kr.com/p/3801348046151428",
+        "title": "把消费者也当作游客来宠。",
+        "url": "https://36kr.com/p/3801474770689792",
         "source": "36氪",
-        "time": "2026-05-09 01:27"
+        "time": "2026-05-09 04:43"
+      },
+      {
+        "title": "日本车企在中国，正加速走向消亡",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4856542.html",
+        "source": "虎嗅",
+        "time": "2026-05-09 04:43"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "解散xAI ，马斯克想用造火箭的方法，重造AI公司",
-      "url": "https://36kr.com/p/3801373275382023",
+      "title": "苹果和英特尔，分手六年后，又“在一起”了",
+      "url": "https://36kr.com/p/3801467993939465",
       "source": "36氪",
-      "time": "2026-05-09 01:27"
+      "time": "2026-05-09 04:43"
     },
     {
-      "title": "Grok败给了ChatGPT，马斯克决定重开一局。他要用造火箭的方法，重做AI公司。",
-      "url": "https://36kr.com/p/3801373275382023",
+      "title": "周大福和老铺黄金，都想做奢侈品生意",
+      "url": "https://36kr.com/p/3801521399602697",
       "source": "36氪",
-      "time": "2026-05-09 01:27"
+      "time": "2026-05-09 04:43"
     },
     {
-      "title": "“横漂”消亡史：有人用AI，500块买走他们的脸",
-      "url": "https://36kr.com/p/3801339042176768",
+      "title": "当「微度假」成为实体商业新趋势，我们该向泰国商场学什么",
+      "url": "https://36kr.com/p/3801474770689792",
       "source": "36氪",
-      "time": "2026-05-09 01:27"
+      "time": "2026-05-09 04:43"
     },
     {
-      "title": "起风之前，每个人都曾真实地留下过属于他们的那一秒。",
-      "url": "https://36kr.com/p/3801339042176768",
+      "title": "把消费者也当作游客来宠。",
+      "url": "https://36kr.com/p/3801474770689792",
       "source": "36氪",
-      "time": "2026-05-09 01:27"
+      "time": "2026-05-09 04:43"
     },
     {
-      "title": "9点1氪丨DeepSeek拟募资最高500亿；“全国销冠”被刑拘，泰康人寿回应；OPPO就母亲节文案致歉",
-      "url": "https://36kr.com/p/3801348046151428",
-      "source": "36氪",
-      "time": "2026-05-09 01:27"
-    },
-    {
-      "title": "让AI成为员工“助手”而非“对手”，关键看领导这项能力",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4856782.html",
+      "title": "小米“9系”的最大悬念",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4856719.html",
       "source": "虎嗅",
-      "time": "2026-05-09 01:27"
+      "time": "2026-05-09 04:43"
     },
     {
-      "title": "美国人狂买电动车，特朗普也拦不住",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4856724.html",
+      "title": "日本车企在中国，正加速走向消亡",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4856542.html",
       "source": "虎嗅",
-      "time": "2026-05-09 01:27"
+      "time": "2026-05-09 04:43"
     }
   ]
 }
