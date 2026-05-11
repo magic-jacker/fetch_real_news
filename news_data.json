@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-11T05:45:55.252467",
+  "timestamp": "2026-05-11T08:51:31.392396",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -10,20 +10,27 @@
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
+    "finance": [
+      {
+        "title": "海外科技QDII投资路径分化：四只热门基金背后的资产配置与风险博弈",
+        "url": "https://36kr.com/p/3804560620052738",
+        "source": "36氪",
+        "time": "2026-05-11 08:51"
+      },
+      {
+        "title": "海外科技QDII投资路径分化：四只热门基金资产配置大不同",
+        "url": "https://36kr.com/p/3804560620052738",
+        "source": "36氪",
+        "time": "2026-05-11 08:51"
+      }
+    ],
     "industry": [],
     "tech": [
       {
-        "title": "大模型下半场：印奇向左，杨植麟向右",
-        "url": "https://36kr.com/p/3804360855854592",
-        "source": "36氪",
-        "time": "2026-05-11 05:45"
-      },
-      {
-        "title": "三天，三家公司，超百亿美元：中国AI大模型的融资决战周",
-        "url": "https://36kr.com/p/3801518218845961",
-        "source": "36氪",
-        "time": "2026-05-11 05:45"
+        "title": "“AI弃子”CPU逆风翻盘：英特尔、AMD与Arm意料之外的一场胜利",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4857349.html",
+        "source": "虎嗅",
+        "time": "2026-05-11 08:51"
       }
     ],
     "byd": [],
@@ -31,79 +38,73 @@
     "fitness": [],
     "other": [
       {
-        "title": "Kimi与DeepSeek到底谁更值钱？",
-        "url": "https://36kr.com/p/3801988019036422",
+        "title": "研发3年转向3次，超40人，沐瞳搜打撤“左右摇摆”",
+        "url": "https://36kr.com/p/3804360789024514",
         "source": "36氪",
-        "time": "2026-05-11 05:45"
+        "time": "2026-05-11 08:51"
       },
       {
-        "title": "杨植麟拼商业，梁文锋拼国运",
-        "url": "https://36kr.com/p/3801988019036422",
+        "title": "一条充满挑战的机会之路",
+        "url": "https://36kr.com/p/3804360789024514",
         "source": "36氪",
-        "time": "2026-05-11 05:45"
+        "time": "2026-05-11 08:51"
       },
       {
-        "title": "同一个夜晚，两笔融资，两条截然不同的路。",
-        "url": "https://36kr.com/p/3804360855854592",
+        "title": "她起码可以将宝贵的流量引向真正需要关注的地方。",
+        "url": "https://36kr.com/p/3804491370012419",
         "source": "36氪",
-        "time": "2026-05-11 05:45"
+        "time": "2026-05-11 08:51"
       },
       {
-        "title": "极地邮轮疫情，为何吓坏全世界？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4857245.html",
+        "title": "在曼谷，250泰铢可以买到她们的一个小时",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4857320.html",
         "source": "虎嗅",
-        "time": "2026-05-11 05:45"
-      },
-      {
-        "title": "施耐德、森马和钉钉：Agent该如何扛起企业KPI？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4856916.html",
-        "source": "虎嗅",
-        "time": "2026-05-11 05:45"
+        "time": "2026-05-11 08:51"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "Kimi与DeepSeek到底谁更值钱？",
-      "url": "https://36kr.com/p/3801988019036422",
+      "title": "研发3年转向3次，超40人，沐瞳搜打撤“左右摇摆”",
+      "url": "https://36kr.com/p/3804360789024514",
       "source": "36氪",
-      "time": "2026-05-11 05:45"
+      "time": "2026-05-11 08:51"
     },
     {
-      "title": "杨植麟拼商业，梁文锋拼国运",
-      "url": "https://36kr.com/p/3801988019036422",
+      "title": "一条充满挑战的机会之路",
+      "url": "https://36kr.com/p/3804360789024514",
       "source": "36氪",
-      "time": "2026-05-11 05:45"
+      "time": "2026-05-11 08:51"
     },
     {
-      "title": "大模型下半场：印奇向左，杨植麟向右",
-      "url": "https://36kr.com/p/3804360855854592",
+      "title": "她起码可以将宝贵的流量引向真正需要关注的地方。",
+      "url": "https://36kr.com/p/3804491370012419",
       "source": "36氪",
-      "time": "2026-05-11 05:45"
+      "time": "2026-05-11 08:51"
     },
     {
-      "title": "同一个夜晚，两笔融资，两条截然不同的路。",
-      "url": "https://36kr.com/p/3804360855854592",
+      "title": "海外科技QDII投资路径分化：四只热门基金背后的资产配置与风险博弈",
+      "url": "https://36kr.com/p/3804560620052738",
       "source": "36氪",
-      "time": "2026-05-11 05:45"
+      "time": "2026-05-11 08:51"
     },
     {
-      "title": "三天，三家公司，超百亿美元：中国AI大模型的融资决战周",
-      "url": "https://36kr.com/p/3801518218845961",
+      "title": "海外科技QDII投资路径分化：四只热门基金资产配置大不同",
+      "url": "https://36kr.com/p/3804560620052738",
       "source": "36氪",
-      "time": "2026-05-11 05:45"
+      "time": "2026-05-11 08:51"
     },
     {
-      "title": "极地邮轮疫情，为何吓坏全世界？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4857245.html",
+      "title": "“AI弃子”CPU逆风翻盘：英特尔、AMD与Arm意料之外的一场胜利",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4857349.html",
       "source": "虎嗅",
-      "time": "2026-05-11 05:45"
+      "time": "2026-05-11 08:51"
     },
     {
-      "title": "施耐德、森马和钉钉：Agent该如何扛起企业KPI？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4856916.html",
+      "title": "在曼谷，250泰铢可以买到她们的一个小时",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4857320.html",
       "source": "虎嗅",
-      "time": "2026-05-11 05:45"
+      "time": "2026-05-11 08:51"
     }
   ]
 }
