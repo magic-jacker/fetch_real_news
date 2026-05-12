@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-12T05:01:53.957213",
-  "total": 5,
+  "timestamp": "2026-05-12T08:06:15.517884",
+  "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -12,74 +12,97 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "龙虾盒子C端狂奔，一家深圳公司要做AI Agent时代的「入口与安全基座」",
-        "url": "https://36kr.com/p/3805835553562120",
-        "source": "36氪",
-        "time": "2026-05-12 05:01"
-      },
-      {
-        "title": "AI 智能体时代端云一体的安全基础设施。",
-        "url": "https://36kr.com/p/3805835553562120",
-        "source": "36氪",
-        "time": "2026-05-12 05:01"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "中纪委点名，国资做LP，亏了200亿",
-        "url": "https://36kr.com/p/3805768984076034",
+        "title": "做视频的「Cursor」，Anijam重写动画创作流程丨涌现新项目",
+        "url": "https://36kr.com/p/3805993155468804",
         "source": "36氪",
-        "time": "2026-05-12 05:01"
+        "time": "2026-05-12 08:05"
       },
       {
-        "title": "钱花完了，竞争力在哪里？",
-        "url": "https://36kr.com/p/3805768984076034",
+        "title": "视频创作正在从操作工具，变成一场人与Agent之间的对话。",
+        "url": "https://36kr.com/p/3805993155468804",
         "source": "36氪",
-        "time": "2026-05-12 05:01"
+        "time": "2026-05-12 08:05"
       },
       {
-        "title": "Markdown要凉…卡帕西也站HTML了",
-        "url": "https://36kr.com/p/3805777601519112",
+        "title": "一字涨停，知名牛散屠文斌家族举牌可川科技",
+        "url": "https://36kr.com/p/3805920877927936",
         "source": "36氪",
-        "time": "2026-05-12 05:01"
+        "time": "2026-05-12 08:05"
+      },
+      {
+        "title": "A9神话到负债百万，Meme玩家5年沉浮录",
+        "url": "https://36kr.com/p/3805898392510215",
+        "source": "36氪",
+        "time": "2026-05-12 08:05"
+      },
+      {
+        "title": "靠TRUMP赚了接近一个亿，结果全赔在Meme抄底上。",
+        "url": "https://36kr.com/p/3805898392510215",
+        "source": "36氪",
+        "time": "2026-05-12 08:05"
+      },
+      {
+        "title": "随特朗普访华的高管们都怎么飞北京",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4857620.html",
+        "source": "虎嗅",
+        "time": "2026-05-12 08:06"
+      },
+      {
+        "title": "汽车内卷的尽头是“上天”？对话广汽高域CEO苏庆鹏",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4857013.html",
+        "source": "虎嗅",
+        "time": "2026-05-12 08:06"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "龙虾盒子C端狂奔，一家深圳公司要做AI Agent时代的「入口与安全基座」",
-      "url": "https://36kr.com/p/3805835553562120",
+      "title": "做视频的「Cursor」，Anijam重写动画创作流程丨涌现新项目",
+      "url": "https://36kr.com/p/3805993155468804",
       "source": "36氪",
-      "time": "2026-05-12 05:01"
+      "time": "2026-05-12 08:05"
     },
     {
-      "title": "AI 智能体时代端云一体的安全基础设施。",
-      "url": "https://36kr.com/p/3805835553562120",
+      "title": "视频创作正在从操作工具，变成一场人与Agent之间的对话。",
+      "url": "https://36kr.com/p/3805993155468804",
       "source": "36氪",
-      "time": "2026-05-12 05:01"
+      "time": "2026-05-12 08:05"
     },
     {
-      "title": "中纪委点名，国资做LP，亏了200亿",
-      "url": "https://36kr.com/p/3805768984076034",
+      "title": "一字涨停，知名牛散屠文斌家族举牌可川科技",
+      "url": "https://36kr.com/p/3805920877927936",
       "source": "36氪",
-      "time": "2026-05-12 05:01"
+      "time": "2026-05-12 08:05"
     },
     {
-      "title": "钱花完了，竞争力在哪里？",
-      "url": "https://36kr.com/p/3805768984076034",
+      "title": "A9神话到负债百万，Meme玩家5年沉浮录",
+      "url": "https://36kr.com/p/3805898392510215",
       "source": "36氪",
-      "time": "2026-05-12 05:01"
+      "time": "2026-05-12 08:05"
     },
     {
-      "title": "Markdown要凉…卡帕西也站HTML了",
-      "url": "https://36kr.com/p/3805777601519112",
+      "title": "靠TRUMP赚了接近一个亿，结果全赔在Meme抄底上。",
+      "url": "https://36kr.com/p/3805898392510215",
       "source": "36氪",
-      "time": "2026-05-12 05:01"
+      "time": "2026-05-12 08:05"
+    },
+    {
+      "title": "随特朗普访华的高管们都怎么飞北京",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4857620.html",
+      "source": "虎嗅",
+      "time": "2026-05-12 08:06"
+    },
+    {
+      "title": "汽车内卷的尽头是“上天”？对话广汽高域CEO苏庆鹏",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4857013.html",
+      "source": "虎嗅",
+      "time": "2026-05-12 08:06"
     }
   ]
 }
