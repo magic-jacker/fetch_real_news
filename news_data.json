@@ -1,108 +1,110 @@
 {
-  "timestamp": "2026-05-12T08:06:15.517884",
+  "timestamp": "2026-05-12T10:44:25.210401",
   "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [],
-    "tech": [],
+    "industry": [
+      {
+        "title": "葛仙村NPC“小黄鱼”公开道歉后，游客反而更爱他？",
+        "url": "https://36kr.com/p/3806059216461314",
+        "source": "36氪",
+        "time": "2026-05-12 10:44"
+      }
+    ],
+    "tech": [
+      {
+        "title": "只有 30 万像素的「AI 桌宠」卖爆了，凭什么？",
+        "url": "https://36kr.com/p/3806113176608260",
+        "source": "36氪",
+        "time": "2026-05-12 10:44"
+      },
+      {
+        "title": "借一百年后的钱，造看不懂的AI",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4857638.html",
+        "source": "虎嗅",
+        "time": "2026-05-12 10:44"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "做视频的「Cursor」，Anijam重写动画创作流程丨涌现新项目",
-        "url": "https://36kr.com/p/3805993155468804",
+        "title": "“心血管龙头”信立泰再次跌停，核心产品发布临床进展带崩股价？",
+        "url": "https://36kr.com/p/3806042998267656",
         "source": "36氪",
-        "time": "2026-05-12 08:05"
+        "time": "2026-05-12 10:44"
       },
       {
-        "title": "视频创作正在从操作工具，变成一场人与Agent之间的对话。",
-        "url": "https://36kr.com/p/3805993155468804",
+        "title": "老牌仿制药企转型创新药",
+        "url": "https://36kr.com/p/3806042998267656",
         "source": "36氪",
-        "time": "2026-05-12 08:05"
+        "time": "2026-05-12 10:44"
       },
       {
-        "title": "一字涨停，知名牛散屠文斌家族举牌可川科技",
-        "url": "https://36kr.com/p/3805920877927936",
+        "title": "一场由道歉引发的景区体验“革命”",
+        "url": "https://36kr.com/p/3806059216461314",
         "source": "36氪",
-        "time": "2026-05-12 08:05"
-      },
-      {
-        "title": "A9神话到负债百万，Meme玩家5年沉浮录",
-        "url": "https://36kr.com/p/3805898392510215",
-        "source": "36氪",
-        "time": "2026-05-12 08:05"
-      },
-      {
-        "title": "靠TRUMP赚了接近一个亿，结果全赔在Meme抄底上。",
-        "url": "https://36kr.com/p/3805898392510215",
-        "source": "36氪",
-        "time": "2026-05-12 08:05"
+        "time": "2026-05-12 10:44"
       },
       {
         "title": "随特朗普访华的高管们都怎么飞北京",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4857620.html",
         "source": "虎嗅",
-        "time": "2026-05-12 08:06"
-      },
-      {
-        "title": "汽车内卷的尽头是“上天”？对话广汽高域CEO苏庆鹏",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4857013.html",
-        "source": "虎嗅",
-        "time": "2026-05-12 08:06"
+        "time": "2026-05-12 10:44"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "做视频的「Cursor」，Anijam重写动画创作流程丨涌现新项目",
-      "url": "https://36kr.com/p/3805993155468804",
+      "title": "“心血管龙头”信立泰再次跌停，核心产品发布临床进展带崩股价？",
+      "url": "https://36kr.com/p/3806042998267656",
       "source": "36氪",
-      "time": "2026-05-12 08:05"
+      "time": "2026-05-12 10:44"
     },
     {
-      "title": "视频创作正在从操作工具，变成一场人与Agent之间的对话。",
-      "url": "https://36kr.com/p/3805993155468804",
+      "title": "老牌仿制药企转型创新药",
+      "url": "https://36kr.com/p/3806042998267656",
       "source": "36氪",
-      "time": "2026-05-12 08:05"
+      "time": "2026-05-12 10:44"
     },
     {
-      "title": "一字涨停，知名牛散屠文斌家族举牌可川科技",
-      "url": "https://36kr.com/p/3805920877927936",
+      "title": "葛仙村NPC“小黄鱼”公开道歉后，游客反而更爱他？",
+      "url": "https://36kr.com/p/3806059216461314",
       "source": "36氪",
-      "time": "2026-05-12 08:05"
+      "time": "2026-05-12 10:44"
     },
     {
-      "title": "A9神话到负债百万，Meme玩家5年沉浮录",
-      "url": "https://36kr.com/p/3805898392510215",
+      "title": "一场由道歉引发的景区体验“革命”",
+      "url": "https://36kr.com/p/3806059216461314",
       "source": "36氪",
-      "time": "2026-05-12 08:05"
+      "time": "2026-05-12 10:44"
     },
     {
-      "title": "靠TRUMP赚了接近一个亿，结果全赔在Meme抄底上。",
-      "url": "https://36kr.com/p/3805898392510215",
+      "title": "只有 30 万像素的「AI 桌宠」卖爆了，凭什么？",
+      "url": "https://36kr.com/p/3806113176608260",
       "source": "36氪",
-      "time": "2026-05-12 08:05"
+      "time": "2026-05-12 10:44"
+    },
+    {
+      "title": "借一百年后的钱，造看不懂的AI",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4857638.html",
+      "source": "虎嗅",
+      "time": "2026-05-12 10:44"
     },
     {
       "title": "随特朗普访华的高管们都怎么飞北京",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4857620.html",
       "source": "虎嗅",
-      "time": "2026-05-12 08:06"
-    },
-    {
-      "title": "汽车内卷的尽头是“上天”？对话广汽高域CEO苏庆鹏",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4857013.html",
-      "source": "虎嗅",
-      "time": "2026-05-12 08:06"
+      "time": "2026-05-12 10:44"
     }
   ]
 }
