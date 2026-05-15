@@ -1,85 +1,97 @@
 {
-  "timestamp": "2026-05-15T01:49:01.645641",
-  "total": 5,
+  "timestamp": "2026-05-15T05:42:48.720581",
+  "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 4,
+    "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
-    "industry": [
+    "finance": [
       {
-        "title": "AI云业务300亿元的 ARR 给了资本市场一粒定心丸。",
-        "url": "https://36kr.com/p/3807527591058948",
-        "source": "36氪",
-        "time": "2026-05-15 01:48"
-      }
-    ],
-    "tech": [
-      {
-        "title": "AI 泡沫 连硅谷都开始承认",
-        "url": "https://36kr.com/p/3777487935033860",
-        "source": "36氪",
-        "time": "2026-05-15 01:48"
-      },
-      {
-        "title": "连最狂热的参与者都承认AI可能是泡沫，但他们依然选择继续押注。",
-        "url": "https://36kr.com/p/3777487935033860",
-        "source": "36氪",
-        "time": "2026-05-15 01:48"
-      },
-      {
-        "title": "阿里巴巴等来收获期，外卖大战已无大波澜",
-        "url": "https://36kr.com/p/3807527591058948",
-        "source": "36氪",
-        "time": "2026-05-15 01:48"
-      },
-      {
-        "title": "突发：多款被禁售英伟达显卡重新上架京东官方自营店",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4858511.html",
+        "title": "警惕全球“最大”芯片IPO的暴雷风险",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4858596.html",
         "source": "虎嗅",
-        "time": "2026-05-15 01:49"
+        "time": "2026-05-15 05:42"
       }
     ],
+    "industry": [],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "黄仁勋访华，他看中的“空心光纤”落地了吗？",
+        "url": "https://36kr.com/p/3810002524937732",
+        "source": "36氪",
+        "time": "2026-05-15 05:42"
+      },
+      {
+        "title": "一个字节黑马APP，引爆大厂新战争",
+        "url": "https://36kr.com/p/3810030001364488",
+        "source": "36氪",
+        "time": "2026-05-15 05:42"
+      },
+      {
+        "title": "互联网大厂，猛攻到店团购。",
+        "url": "https://36kr.com/p/3810030001364488",
+        "source": "36氪",
+        "time": "2026-05-15 05:42"
+      },
+      {
+        "title": "谁是下一个“省级国资酒店”头牌？",
+        "url": "https://36kr.com/p/3809214730018824",
+        "source": "36氪",
+        "time": "2026-05-15 05:42"
+      },
+      {
+        "title": "淡季的国内酒店，卷到没有底线了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4858515.html",
+        "source": "虎嗅",
+        "time": "2026-05-15 05:42"
+      }
+    ]
   },
   "raw_news": [
     {
-      "title": "AI 泡沫 连硅谷都开始承认",
-      "url": "https://36kr.com/p/3777487935033860",
+      "title": "黄仁勋访华，他看中的“空心光纤”落地了吗？",
+      "url": "https://36kr.com/p/3810002524937732",
       "source": "36氪",
-      "time": "2026-05-15 01:48"
+      "time": "2026-05-15 05:42"
     },
     {
-      "title": "连最狂热的参与者都承认AI可能是泡沫，但他们依然选择继续押注。",
-      "url": "https://36kr.com/p/3777487935033860",
+      "title": "一个字节黑马APP，引爆大厂新战争",
+      "url": "https://36kr.com/p/3810030001364488",
       "source": "36氪",
-      "time": "2026-05-15 01:48"
+      "time": "2026-05-15 05:42"
     },
     {
-      "title": "阿里巴巴等来收获期，外卖大战已无大波澜",
-      "url": "https://36kr.com/p/3807527591058948",
+      "title": "互联网大厂，猛攻到店团购。",
+      "url": "https://36kr.com/p/3810030001364488",
       "source": "36氪",
-      "time": "2026-05-15 01:48"
+      "time": "2026-05-15 05:42"
     },
     {
-      "title": "AI云业务300亿元的 ARR 给了资本市场一粒定心丸。",
-      "url": "https://36kr.com/p/3807527591058948",
+      "title": "谁是下一个“省级国资酒店”头牌？",
+      "url": "https://36kr.com/p/3809214730018824",
       "source": "36氪",
-      "time": "2026-05-15 01:48"
+      "time": "2026-05-15 05:42"
     },
     {
-      "title": "突发：多款被禁售英伟达显卡重新上架京东官方自营店",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4858511.html",
+      "title": "警惕全球“最大”芯片IPO的暴雷风险",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4858596.html",
       "source": "虎嗅",
-      "time": "2026-05-15 01:49"
+      "time": "2026-05-15 05:42"
+    },
+    {
+      "title": "淡季的国内酒店，卷到没有底线了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4858515.html",
+      "source": "虎嗅",
+      "time": "2026-05-15 05:42"
     }
   ]
 }
