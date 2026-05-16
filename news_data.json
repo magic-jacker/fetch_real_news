@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-16T07:08:54.565129",
+  "timestamp": "2026-05-16T09:09:01.284184",
   "total": 6,
   "sources": {
     "财联社电报": 0,
@@ -14,22 +14,10 @@
     "industry": [],
     "tech": [
       {
-        "title": "突发：OpenAI大规模重组，总裁Brockman夺权挂帅",
-        "url": "https://36kr.com/p/3811615591292680",
+        "title": "AI购物越好用，淘宝越危险",
+        "url": "https://36kr.com/p/3811327498280456",
         "source": "36氪",
-        "time": "2026-05-16 07:08"
-      },
-      {
-        "title": "ChatGPT、Codex和API三大王牌紧急合并。",
-        "url": "https://36kr.com/p/3811615591292680",
-        "source": "36氪",
-        "time": "2026-05-16 07:08"
-      },
-      {
-        "title": "中国AI，或许正在重演丰田逆袭底特律的剧本",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4858843.html",
-        "source": "虎嗅",
-        "time": "2026-05-16 07:08"
+        "time": "2026-05-16 09:08"
       }
     ],
     "byd": [],
@@ -37,61 +25,73 @@
     "fitness": [],
     "other": [
       {
+        "title": "到了30岁，还能自称年轻人吗？",
+        "url": "https://36kr.com/p/3810685631307529",
+        "source": "36氪",
+        "time": "2026-05-16 09:08"
+      },
+      {
+        "title": "30岁的年轻人更在乎如何“拓展生命体验的边界”，去兑现18岁时的愿望。",
+        "url": "https://36kr.com/p/3810685631307529",
+        "source": "36氪",
+        "time": "2026-05-16 09:08"
+      },
+      {
         "title": "Claude为什么早晨8:30催你睡觉？",
         "url": "https://36kr.com/p/3811413738594050",
         "source": "36氪",
-        "time": "2026-05-16 07:08"
+        "time": "2026-05-16 09:08"
       },
       {
         "title": "Anthropic员工承认这是「角色习惯」，但没人能解释它为什么这样做。",
         "url": "https://36kr.com/p/3811413738594050",
         "source": "36氪",
-        "time": "2026-05-16 07:08"
+        "time": "2026-05-16 09:08"
       },
       {
-        "title": "Image 2 × Seedance 2.0王炸组合：4套刷屏外网的玩法，提示词全在这了",
-        "url": "https://36kr.com/p/3811398798237187",
-        "source": "36氪",
-        "time": "2026-05-16 07:08"
+        "title": "史上最贵世界杯，全球游客去不起了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4858884.html",
+        "source": "虎嗅",
+        "time": "2026-05-16 09:09"
       }
     ]
   },
   "raw_news": [
     {
+      "title": "到了30岁，还能自称年轻人吗？",
+      "url": "https://36kr.com/p/3810685631307529",
+      "source": "36氪",
+      "time": "2026-05-16 09:08"
+    },
+    {
+      "title": "30岁的年轻人更在乎如何“拓展生命体验的边界”，去兑现18岁时的愿望。",
+      "url": "https://36kr.com/p/3810685631307529",
+      "source": "36氪",
+      "time": "2026-05-16 09:08"
+    },
+    {
+      "title": "AI购物越好用，淘宝越危险",
+      "url": "https://36kr.com/p/3811327498280456",
+      "source": "36氪",
+      "time": "2026-05-16 09:08"
+    },
+    {
       "title": "Claude为什么早晨8:30催你睡觉？",
       "url": "https://36kr.com/p/3811413738594050",
       "source": "36氪",
-      "time": "2026-05-16 07:08"
+      "time": "2026-05-16 09:08"
     },
     {
       "title": "Anthropic员工承认这是「角色习惯」，但没人能解释它为什么这样做。",
       "url": "https://36kr.com/p/3811413738594050",
       "source": "36氪",
-      "time": "2026-05-16 07:08"
+      "time": "2026-05-16 09:08"
     },
     {
-      "title": "突发：OpenAI大规模重组，总裁Brockman夺权挂帅",
-      "url": "https://36kr.com/p/3811615591292680",
-      "source": "36氪",
-      "time": "2026-05-16 07:08"
-    },
-    {
-      "title": "ChatGPT、Codex和API三大王牌紧急合并。",
-      "url": "https://36kr.com/p/3811615591292680",
-      "source": "36氪",
-      "time": "2026-05-16 07:08"
-    },
-    {
-      "title": "Image 2 × Seedance 2.0王炸组合：4套刷屏外网的玩法，提示词全在这了",
-      "url": "https://36kr.com/p/3811398798237187",
-      "source": "36氪",
-      "time": "2026-05-16 07:08"
-    },
-    {
-      "title": "中国AI，或许正在重演丰田逆袭底特律的剧本",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4858843.html",
+      "title": "史上最贵世界杯，全球游客去不起了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4858884.html",
       "source": "虎嗅",
-      "time": "2026-05-16 07:08"
+      "time": "2026-05-16 09:09"
     }
   ]
 }
