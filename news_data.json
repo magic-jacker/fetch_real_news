@@ -1,97 +1,85 @@
 {
-  "timestamp": "2026-05-17T05:37:05.303954",
-  "total": 6,
+  "timestamp": "2026-05-17T08:04:19.355908",
+  "total": 5,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 5,
+    "36氪": 4,
     "钛媒体": 0,
     "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
+    "finance": [],
+    "industry": [],
+    "tech": [
       {
-        "title": "从麦当劳到星巴克，外资餐饮正在被中资“接管”。",
-        "url": "https://36kr.com/p/3812816225459713",
+        "title": "AI围攻菜市场：算法驱赶“烟火气”",
+        "url": "https://36kr.com/p/3812960335388680",
         "source": "36氪",
-        "time": "2026-05-17 05:36"
+        "time": "2026-05-17 08:04"
       },
       {
-        "title": "史上最大IPO来袭，SpaceX加速驶入纳斯达克",
-        "url": "https://36kr.com/p/3812789087264519",
-        "source": "36氪",
-        "time": "2026-05-17 05:36"
+        "title": "Anthropic CEO访谈：Claude新功能几乎完全由AI自主开发",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4859015.html",
+        "source": "虎嗅",
+        "time": "2026-05-17 08:04"
       }
     ],
-    "industry": [],
-    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "28亿，肯德基也要被卖了？",
-        "url": "https://36kr.com/p/3812816225459713",
+        "title": "又一部“打工妹”逆袭成为女富豪的爽文剧本。",
+        "url": "https://36kr.com/p/3813040859258373",
         "source": "36氪",
-        "time": "2026-05-17 05:36"
+        "time": "2026-05-17 08:04"
       },
       {
-        "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
-        "url": "https://36kr.com/p/3812800346742274",
+        "title": "巨头们不再是和菜贩子在脏乱差的泥地里肉搏的莽夫，它们退到了云端，在用算法编纂兵法。",
+        "url": "https://36kr.com/p/3812960335388680",
         "source": "36氪",
-        "time": "2026-05-17 05:36"
+        "time": "2026-05-17 08:04"
       },
       {
-        "title": "4个skill，跑通整套科研流程",
-        "url": "https://36kr.com/p/3812800346742274",
+        "title": "李寒穷的雅戈尔“守业之战”",
+        "url": "https://36kr.com/p/3812747385135362",
         "source": "36氪",
-        "time": "2026-05-17 05:36"
-      },
-      {
-        "title": "Netflix那些事儿：优爱腾要学起来没那么容易",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4858984.html",
-        "source": "虎嗅",
-        "time": "2026-05-17 05:37"
+        "time": "2026-05-17 08:04"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "28亿，肯德基也要被卖了？",
-      "url": "https://36kr.com/p/3812816225459713",
+      "title": "又一部“打工妹”逆袭成为女富豪的爽文剧本。",
+      "url": "https://36kr.com/p/3813040859258373",
       "source": "36氪",
-      "time": "2026-05-17 05:36"
+      "time": "2026-05-17 08:04"
     },
     {
-      "title": "从麦当劳到星巴克，外资餐饮正在被中资“接管”。",
-      "url": "https://36kr.com/p/3812816225459713",
+      "title": "AI围攻菜市场：算法驱赶“烟火气”",
+      "url": "https://36kr.com/p/3812960335388680",
       "source": "36氪",
-      "time": "2026-05-17 05:36"
+      "time": "2026-05-17 08:04"
     },
     {
-      "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
-      "url": "https://36kr.com/p/3812800346742274",
+      "title": "巨头们不再是和菜贩子在脏乱差的泥地里肉搏的莽夫，它们退到了云端，在用算法编纂兵法。",
+      "url": "https://36kr.com/p/3812960335388680",
       "source": "36氪",
-      "time": "2026-05-17 05:36"
+      "time": "2026-05-17 08:04"
     },
     {
-      "title": "4个skill，跑通整套科研流程",
-      "url": "https://36kr.com/p/3812800346742274",
+      "title": "李寒穷的雅戈尔“守业之战”",
+      "url": "https://36kr.com/p/3812747385135362",
       "source": "36氪",
-      "time": "2026-05-17 05:36"
+      "time": "2026-05-17 08:04"
     },
     {
-      "title": "史上最大IPO来袭，SpaceX加速驶入纳斯达克",
-      "url": "https://36kr.com/p/3812789087264519",
-      "source": "36氪",
-      "time": "2026-05-17 05:36"
-    },
-    {
-      "title": "Netflix那些事儿：优爱腾要学起来没那么容易",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4858984.html",
+      "title": "Anthropic CEO访谈：Claude新功能几乎完全由AI自主开发",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4859015.html",
       "source": "虎嗅",
-      "time": "2026-05-17 05:37"
+      "time": "2026-05-17 08:04"
     }
   ]
 }
