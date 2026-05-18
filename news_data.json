@@ -1,97 +1,109 @@
 {
-  "timestamp": "2026-05-17T23:44:13.642749",
-  "total": 6,
+  "timestamp": "2026-05-18T01:54:58.193849",
+  "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 4,
+    "36氪": 5,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [],
-    "tech": [
+    "industry": [
       {
-        "title": "AI围攻菜市场：算法驱赶“烟火气”",
-        "url": "https://36kr.com/p/3812960335388680",
+        "title": "苹果为谷歌鸣不平，杜绝友商染指手机系统级AI",
+        "url": "https://36kr.com/p/3811786842480137",
         "source": "36氪",
-        "time": "2026-05-17 23:44"
+        "time": "2026-05-18 01:54"
       },
       {
-        "title": "如何创建一家AI Native公司？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4859020.html",
-        "source": "虎嗅",
-        "time": "2026-05-17 23:44"
+        "title": "未来移动端智能体，可能只有走豆包手机助手的路。",
+        "url": "https://36kr.com/p/3811786842480137",
+        "source": "36氪",
+        "time": "2026-05-18 01:54"
       }
     ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "又一部“打工妹”逆袭成为女富豪的爽文剧本。",
-        "url": "https://36kr.com/p/3813040859258373",
+        "title": "2026脑机接口早期商业化探索报告：四大因素影响商业路径选择，非侵入式已实现落地",
+        "url": "https://36kr.com/p/3814041798483713",
         "source": "36氪",
-        "time": "2026-05-17 23:44"
+        "time": "2026-05-18 01:54"
       },
       {
-        "title": "巨头们不再是和菜贩子在脏乱差的泥地里肉搏的莽夫，它们退到了云端，在用算法编纂兵法。",
-        "url": "https://36kr.com/p/3812960335388680",
+        "title": "2026脑机接口商业化开启，多元路径待破局",
+        "url": "https://36kr.com/p/3814041798483713",
         "source": "36氪",
-        "time": "2026-05-17 23:44"
+        "time": "2026-05-18 01:54"
       },
       {
-        "title": "李寒穷的雅戈尔“守业之战”",
-        "url": "https://36kr.com/p/3812747385135362",
+        "title": "短剧出海流量开荒，数字版中国制造正在苦战“买路钱”？",
+        "url": "https://36kr.com/p/3813271293058566",
         "source": "36氪",
-        "time": "2026-05-17 23:44"
+        "time": "2026-05-18 01:54"
       },
       {
-        "title": "澜起科技，“卡脖”专家",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4842195.html",
+        "title": "大洗牌前夜：翻阅十大药企最新财报后，我看见权力正在转移",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4859099.html",
         "source": "虎嗅",
-        "time": "2026-05-17 23:44"
+        "time": "2026-05-18 01:54"
+      },
+      {
+        "title": "当第一批丁克住进医院，关键时刻谁来签字？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4859114.html",
+        "source": "虎嗅",
+        "time": "2026-05-18 01:54"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "又一部“打工妹”逆袭成为女富豪的爽文剧本。",
-      "url": "https://36kr.com/p/3813040859258373",
+      "title": "苹果为谷歌鸣不平，杜绝友商染指手机系统级AI",
+      "url": "https://36kr.com/p/3811786842480137",
       "source": "36氪",
-      "time": "2026-05-17 23:44"
+      "time": "2026-05-18 01:54"
     },
     {
-      "title": "AI围攻菜市场：算法驱赶“烟火气”",
-      "url": "https://36kr.com/p/3812960335388680",
+      "title": "未来移动端智能体，可能只有走豆包手机助手的路。",
+      "url": "https://36kr.com/p/3811786842480137",
       "source": "36氪",
-      "time": "2026-05-17 23:44"
+      "time": "2026-05-18 01:54"
     },
     {
-      "title": "巨头们不再是和菜贩子在脏乱差的泥地里肉搏的莽夫，它们退到了云端，在用算法编纂兵法。",
-      "url": "https://36kr.com/p/3812960335388680",
+      "title": "2026脑机接口早期商业化探索报告：四大因素影响商业路径选择，非侵入式已实现落地",
+      "url": "https://36kr.com/p/3814041798483713",
       "source": "36氪",
-      "time": "2026-05-17 23:44"
+      "time": "2026-05-18 01:54"
     },
     {
-      "title": "李寒穷的雅戈尔“守业之战”",
-      "url": "https://36kr.com/p/3812747385135362",
+      "title": "2026脑机接口商业化开启，多元路径待破局",
+      "url": "https://36kr.com/p/3814041798483713",
       "source": "36氪",
-      "time": "2026-05-17 23:44"
+      "time": "2026-05-18 01:54"
     },
     {
-      "title": "如何创建一家AI Native公司？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4859020.html",
+      "title": "短剧出海流量开荒，数字版中国制造正在苦战“买路钱”？",
+      "url": "https://36kr.com/p/3813271293058566",
+      "source": "36氪",
+      "time": "2026-05-18 01:54"
+    },
+    {
+      "title": "大洗牌前夜：翻阅十大药企最新财报后，我看见权力正在转移",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4859099.html",
       "source": "虎嗅",
-      "time": "2026-05-17 23:44"
+      "time": "2026-05-18 01:54"
     },
     {
-      "title": "澜起科技，“卡脖”专家",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4842195.html",
+      "title": "当第一批丁克住进医院，关键时刻谁来签字？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4859114.html",
       "source": "虎嗅",
-      "time": "2026-05-17 23:44"
+      "time": "2026-05-18 01:54"
     }
   ]
 }
