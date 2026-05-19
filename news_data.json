@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-19T01:55:10.539707",
+  "timestamp": "2026-05-19T05:55:51.770751",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -11,25 +11,32 @@
   },
   "categories": {
     "finance": [],
-    "industry": [],
+    "industry": [
+      {
+        "title": "不“跟风”的天津机器人，用实干走出新路",
+        "url": "https://36kr.com/p/3815519162523138",
+        "source": "36氪",
+        "time": "2026-05-19 05:55"
+      },
+      {
+        "title": "天津机器人产业以实干谋未来",
+        "url": "https://36kr.com/p/3815519162523138",
+        "source": "36氪",
+        "time": "2026-05-19 05:55"
+      }
+    ],
     "tech": [
       {
-        "title": "高瓴出手了一家AI体育科技公司，曾获李泽湘天使轮融资｜硬氪首发",
-        "url": "https://36kr.com/p/3805660478184966",
+        "title": "当「龙虾」走进编辑部，媒体工作流如何被AI重构？",
+        "url": "https://36kr.com/p/3815772025691909",
         "source": "36氪",
-        "time": "2026-05-19 01:55"
+        "time": "2026-05-19 05:55"
       },
       {
-        "title": "从“记录工具”到“AI运动Copilot”的跃迁。",
-        "url": "https://36kr.com/p/3805660478184966",
+        "title": "当传播大脑的“灵思超级助手”部署在腾讯云ClawPro上，传统媒体工作流真正迎来了从“串行流水线”到“并行智能体”的效率重构。",
+        "url": "https://36kr.com/p/3815772025691909",
         "source": "36氪",
-        "time": "2026-05-19 01:55"
-      },
-      {
-        "title": "百度：其他没指望，全靠昆仑芯了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4859386.html",
-        "source": "虎嗅",
-        "time": "2026-05-19 01:55"
+        "time": "2026-05-19 05:55"
       }
     ],
     "byd": [],
@@ -37,73 +44,67 @@
     "fitness": [],
     "other": [
       {
-        "title": "马斯克加速满血智驾落地中国，9城急招测试人员，要求国内外出差",
-        "url": "https://36kr.com/p/3815531751530244",
+        "title": "倍思陷入“中间地带”，原厂与白牌双向「绞杀」",
+        "url": "https://36kr.com/p/3815595862417158",
         "source": "36氪",
-        "time": "2026-05-19 01:55"
+        "time": "2026-05-19 05:55"
       },
       {
-        "title": "或为“满血”FSD入华铺路。",
-        "url": "https://36kr.com/p/3815531751530244",
-        "source": "36氪",
-        "time": "2026-05-19 01:55"
-      },
-      {
-        "title": "Coding的中场战事",
-        "url": "https://36kr.com/p/3815446937820932",
-        "source": "36氪",
-        "time": "2026-05-19 01:55"
-      },
-      {
-        "title": "排队5小时，雪王、霸王茶姬都看上了这个千亿赛道",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4859327.html",
+        "title": "一款手表应用，让“直男们”连续4年贡献200万",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4859430.html",
         "source": "虎嗅",
-        "time": "2026-05-19 01:55"
+        "time": "2026-05-19 05:55"
+      },
+      {
+        "title": "抗议的尼泊尔，沉默的塔国",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4859489.html",
+        "source": "虎嗅",
+        "time": "2026-05-19 05:55"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "马斯克加速满血智驾落地中国，9城急招测试人员，要求国内外出差",
-      "url": "https://36kr.com/p/3815531751530244",
+      "title": "不“跟风”的天津机器人，用实干走出新路",
+      "url": "https://36kr.com/p/3815519162523138",
       "source": "36氪",
-      "time": "2026-05-19 01:55"
+      "time": "2026-05-19 05:55"
     },
     {
-      "title": "或为“满血”FSD入华铺路。",
-      "url": "https://36kr.com/p/3815531751530244",
+      "title": "天津机器人产业以实干谋未来",
+      "url": "https://36kr.com/p/3815519162523138",
       "source": "36氪",
-      "time": "2026-05-19 01:55"
+      "time": "2026-05-19 05:55"
     },
     {
-      "title": "Coding的中场战事",
-      "url": "https://36kr.com/p/3815446937820932",
+      "title": "当「龙虾」走进编辑部，媒体工作流如何被AI重构？",
+      "url": "https://36kr.com/p/3815772025691909",
       "source": "36氪",
-      "time": "2026-05-19 01:55"
+      "time": "2026-05-19 05:55"
     },
     {
-      "title": "高瓴出手了一家AI体育科技公司，曾获李泽湘天使轮融资｜硬氪首发",
-      "url": "https://36kr.com/p/3805660478184966",
+      "title": "当传播大脑的“灵思超级助手”部署在腾讯云ClawPro上，传统媒体工作流真正迎来了从“串行流水线”到“并行智能体”的效率重构。",
+      "url": "https://36kr.com/p/3815772025691909",
       "source": "36氪",
-      "time": "2026-05-19 01:55"
+      "time": "2026-05-19 05:55"
     },
     {
-      "title": "从“记录工具”到“AI运动Copilot”的跃迁。",
-      "url": "https://36kr.com/p/3805660478184966",
+      "title": "倍思陷入“中间地带”，原厂与白牌双向「绞杀」",
+      "url": "https://36kr.com/p/3815595862417158",
       "source": "36氪",
-      "time": "2026-05-19 01:55"
+      "time": "2026-05-19 05:55"
     },
     {
-      "title": "百度：其他没指望，全靠昆仑芯了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4859386.html",
+      "title": "一款手表应用，让“直男们”连续4年贡献200万",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4859430.html",
       "source": "虎嗅",
-      "time": "2026-05-19 01:55"
+      "time": "2026-05-19 05:55"
     },
     {
-      "title": "排队5小时，雪王、霸王茶姬都看上了这个千亿赛道",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4859327.html",
+      "title": "抗议的尼泊尔，沉默的塔国",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4859489.html",
       "source": "虎嗅",
-      "time": "2026-05-19 01:55"
+      "time": "2026-05-19 05:55"
     }
   ]
 }
