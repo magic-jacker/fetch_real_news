@@ -1,97 +1,86 @@
 {
-  "timestamp": "2026-05-21T05:43:57.618979",
-  "total": 6,
+  "timestamp": "2026-05-21T08:50:35.153368",
+  "total": 5,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 4,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
-    "industry": [],
-    "tech": [
+    "finance": [
       {
-        "title": "刚刚，ChatGPT推翻80年未解猜想，菲尔兹奖得主：AI数学里程碑",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860079.html",
-        "source": "虎嗅",
-        "time": "2026-05-21 05:43"
+        "title": "人类史上最大IPO来了，马斯克画了一张190万亿大饼",
+        "url": "https://36kr.com/p/3818592629064585",
+        "source": "36氪",
+        "time": "2026-05-21 08:50"
       }
     ],
+    "industry": [
+      {
+        "title": "人形机器人的量产能力愈发成为行业关注重点。",
+        "url": "https://36kr.com/p/3818728973141121",
+        "source": "36氪",
+        "time": "2026-05-21 08:50"
+      }
+    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "switch、足疗卡、打欠条，这届年轻人爆改随份子",
-        "url": "https://36kr.com/p/3818471481066374",
+        "title": "自有品牌卷到家门口，钱大妈申请出战",
+        "url": "https://36kr.com/p/3818731742577801",
         "source": "36氪",
-        "time": "2026-05-21 05:43"
+        "time": "2026-05-21 08:50"
       },
       {
-        "title": "人们依然渴望被认真对待",
-        "url": "https://36kr.com/p/3818471481066374",
+        "title": "最终决定钱大妈能否凭借自有品牌破局的，仍是其产品力。",
+        "url": "https://36kr.com/p/3818731742577801",
         "source": "36氪",
-        "time": "2026-05-21 05:43"
+        "time": "2026-05-21 08:50"
       },
       {
-        "title": "为什么餐厅都在劝你去买团购券？",
-        "url": "https://36kr.com/p/3818465238048769",
-        "source": "36氪",
-        "time": "2026-05-21 05:43"
-      },
-      {
-        "title": "餐饮，要努力把生意做到线上。",
-        "url": "https://36kr.com/p/3818465238048769",
-        "source": "36氪",
-        "time": "2026-05-21 05:43"
-      },
-      {
-        "title": "当老赖是一种什么体验？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860057.html",
+        "title": "小鹏GX踏进一块已被踩烂的战场，杀红了眼",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860215.html",
         "source": "虎嗅",
-        "time": "2026-05-21 05:43"
+        "time": "2026-05-21 08:50"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "switch、足疗卡、打欠条，这届年轻人爆改随份子",
-      "url": "https://36kr.com/p/3818471481066374",
+      "title": "自有品牌卷到家门口，钱大妈申请出战",
+      "url": "https://36kr.com/p/3818731742577801",
       "source": "36氪",
-      "time": "2026-05-21 05:43"
+      "time": "2026-05-21 08:50"
     },
     {
-      "title": "人们依然渴望被认真对待",
-      "url": "https://36kr.com/p/3818471481066374",
+      "title": "最终决定钱大妈能否凭借自有品牌破局的，仍是其产品力。",
+      "url": "https://36kr.com/p/3818731742577801",
       "source": "36氪",
-      "time": "2026-05-21 05:43"
+      "time": "2026-05-21 08:50"
     },
     {
-      "title": "为什么餐厅都在劝你去买团购券？",
-      "url": "https://36kr.com/p/3818465238048769",
+      "title": "人形机器人的量产能力愈发成为行业关注重点。",
+      "url": "https://36kr.com/p/3818728973141121",
       "source": "36氪",
-      "time": "2026-05-21 05:43"
+      "time": "2026-05-21 08:50"
     },
     {
-      "title": "餐饮，要努力把生意做到线上。",
-      "url": "https://36kr.com/p/3818465238048769",
+      "title": "人类史上最大IPO来了，马斯克画了一张190万亿大饼",
+      "url": "https://36kr.com/p/3818592629064585",
       "source": "36氪",
-      "time": "2026-05-21 05:43"
+      "time": "2026-05-21 08:50"
     },
     {
-      "title": "当老赖是一种什么体验？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860057.html",
+      "title": "小鹏GX踏进一块已被踩烂的战场，杀红了眼",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860215.html",
       "source": "虎嗅",
-      "time": "2026-05-21 05:43"
-    },
-    {
-      "title": "刚刚，ChatGPT推翻80年未解猜想，菲尔兹奖得主：AI数学里程碑",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860079.html",
-      "source": "虎嗅",
-      "time": "2026-05-21 05:43"
+      "time": "2026-05-21 08:50"
     }
   ]
 }
