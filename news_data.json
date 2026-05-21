@@ -1,85 +1,97 @@
 {
-  "timestamp": "2026-05-21T01:29:49.793815",
-  "total": 5,
+  "timestamp": "2026-05-21T05:43:57.618979",
+  "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 5,
+    "36氪": 4,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
+    "finance": [],
+    "industry": [],
+    "tech": [
       {
-        "title": "OpenAI最早周五秘密提交IPO申请",
-        "url": "https://36kr.com/p/3818133625701505",
-        "source": "36氪",
-        "time": "2026-05-21 01:29"
+        "title": "刚刚，ChatGPT推翻80年未解猜想，菲尔兹奖得主：AI数学里程碑",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860079.html",
+        "source": "虎嗅",
+        "time": "2026-05-21 05:43"
       }
     ],
-    "industry": [],
-    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "昔日男士洗护TOP1母公司破产被拍卖",
-        "url": "https://36kr.com/p/3818231274685576",
+        "title": "switch、足疗卡、打欠条，这届年轻人爆改随份子",
+        "url": "https://36kr.com/p/3818471481066374",
         "source": "36氪",
-        "time": "2026-05-21 01:29"
+        "time": "2026-05-21 05:43"
       },
       {
-        "title": "曾喊做中国宝洁的洁士宝日化破产，核心资产被拍卖",
-        "url": "https://36kr.com/p/3818231274685576",
+        "title": "人们依然渴望被认真对待",
+        "url": "https://36kr.com/p/3818471481066374",
         "source": "36氪",
-        "time": "2026-05-21 01:29"
+        "time": "2026-05-21 05:43"
       },
       {
-        "title": "投后估值达到8520亿美元。",
-        "url": "https://36kr.com/p/3818133625701505",
+        "title": "为什么餐厅都在劝你去买团购券？",
+        "url": "https://36kr.com/p/3818465238048769",
         "source": "36氪",
-        "time": "2026-05-21 01:29"
+        "time": "2026-05-21 05:43"
       },
       {
-        "title": "​SpaceX递交上市文件：Q1收入46.9亿美元",
-        "url": "https://36kr.com/p/3818114827502466",
+        "title": "餐饮，要努力把生意做到线上。",
+        "url": "https://36kr.com/p/3818465238048769",
         "source": "36氪",
-        "time": "2026-05-21 01:29"
+        "time": "2026-05-21 05:43"
+      },
+      {
+        "title": "当老赖是一种什么体验？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860057.html",
+        "source": "虎嗅",
+        "time": "2026-05-21 05:43"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "昔日男士洗护TOP1母公司破产被拍卖",
-      "url": "https://36kr.com/p/3818231274685576",
+      "title": "switch、足疗卡、打欠条，这届年轻人爆改随份子",
+      "url": "https://36kr.com/p/3818471481066374",
       "source": "36氪",
-      "time": "2026-05-21 01:29"
+      "time": "2026-05-21 05:43"
     },
     {
-      "title": "曾喊做中国宝洁的洁士宝日化破产，核心资产被拍卖",
-      "url": "https://36kr.com/p/3818231274685576",
+      "title": "人们依然渴望被认真对待",
+      "url": "https://36kr.com/p/3818471481066374",
       "source": "36氪",
-      "time": "2026-05-21 01:29"
+      "time": "2026-05-21 05:43"
     },
     {
-      "title": "OpenAI最早周五秘密提交IPO申请",
-      "url": "https://36kr.com/p/3818133625701505",
+      "title": "为什么餐厅都在劝你去买团购券？",
+      "url": "https://36kr.com/p/3818465238048769",
       "source": "36氪",
-      "time": "2026-05-21 01:29"
+      "time": "2026-05-21 05:43"
     },
     {
-      "title": "投后估值达到8520亿美元。",
-      "url": "https://36kr.com/p/3818133625701505",
+      "title": "餐饮，要努力把生意做到线上。",
+      "url": "https://36kr.com/p/3818465238048769",
       "source": "36氪",
-      "time": "2026-05-21 01:29"
+      "time": "2026-05-21 05:43"
     },
     {
-      "title": "​SpaceX递交上市文件：Q1收入46.9亿美元",
-      "url": "https://36kr.com/p/3818114827502466",
-      "source": "36氪",
-      "time": "2026-05-21 01:29"
+      "title": "当老赖是一种什么体验？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860057.html",
+      "source": "虎嗅",
+      "time": "2026-05-21 05:43"
+    },
+    {
+      "title": "刚刚，ChatGPT推翻80年未解猜想，菲尔兹奖得主：AI数学里程碑",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860079.html",
+      "source": "虎嗅",
+      "time": "2026-05-21 05:43"
     }
   ]
 }
