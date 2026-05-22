@@ -1,110 +1,86 @@
 {
-  "timestamp": "2026-05-22T05:54:44.879602",
-  "total": 7,
+  "timestamp": "2026-05-22T08:44:11.890544",
+  "total": 5,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 5,
+    "36氪": 3,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
+    "finance": [
+      {
+        "title": "合肥国资押注，踏歌智行冲刺IPO",
+        "url": "https://36kr.com/p/3820113505030533",
+        "source": "36氪",
+        "time": "2026-05-22 08:44"
+      }
+    ],
     "industry": [
       {
         "title": "新能源汽车体重管理失控，征税治标不治本",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860456.html",
         "source": "虎嗅",
-        "time": "2026-05-22 05:54"
+        "time": "2026-05-22 08:44"
       }
     ],
-    "tech": [
-      {
-        "title": "谁在定义AI硬件的2026？",
-        "url": "https://36kr.com/p/3820036996305287",
-        "source": "36氪",
-        "time": "2026-05-22 05:54"
-      },
-      {
-        "title": "全场景共生，改变AI硬件的商业化逻辑",
-        "url": "https://36kr.com/p/3820036996305287",
-        "source": "36氪",
-        "time": "2026-05-22 05:54"
-      },
-      {
-        "title": "5个月MaaS收入增长15倍，阿里云找到了做大Token生意的办法",
-        "url": "https://36kr.com/p/3819955387371649",
-        "source": "36氪",
-        "time": "2026-05-22 05:54"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "Token之战要追求数量，更要追求质量。",
-        "url": "https://36kr.com/p/3819955387371649",
+        "title": "中国人曾最爱的它，咋成时代的眼屎了？",
+        "url": "https://36kr.com/p/3820017861857668",
         "source": "36氪",
-        "time": "2026-05-22 05:54"
+        "time": "2026-05-22 08:44"
       },
       {
-        "title": "联想交出史上最好财报，未来两年目标跃升千亿美元规模企业",
-        "url": "https://36kr.com/p/3819933991489665",
+        "title": "去年营收同比增长246.2%至5.27亿元",
+        "url": "https://36kr.com/p/3820113505030533",
         "source": "36氪",
-        "time": "2026-05-22 05:54"
+        "time": "2026-05-22 08:44"
       },
       {
-        "title": "同事.skill 之后：谁在真正“蒸馏”打工人？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860478.html",
+        "title": "大厂裁掉三万人之后，打工人可能先出局",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860309.html",
         "source": "虎嗅",
-        "time": "2026-05-22 05:54"
+        "time": "2026-05-22 08:44"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "谁在定义AI硬件的2026？",
-      "url": "https://36kr.com/p/3820036996305287",
+      "title": "中国人曾最爱的它，咋成时代的眼屎了？",
+      "url": "https://36kr.com/p/3820017861857668",
       "source": "36氪",
-      "time": "2026-05-22 05:54"
+      "time": "2026-05-22 08:44"
     },
     {
-      "title": "全场景共生，改变AI硬件的商业化逻辑",
-      "url": "https://36kr.com/p/3820036996305287",
+      "title": "合肥国资押注，踏歌智行冲刺IPO",
+      "url": "https://36kr.com/p/3820113505030533",
       "source": "36氪",
-      "time": "2026-05-22 05:54"
+      "time": "2026-05-22 08:44"
     },
     {
-      "title": "5个月MaaS收入增长15倍，阿里云找到了做大Token生意的办法",
-      "url": "https://36kr.com/p/3819955387371649",
+      "title": "去年营收同比增长246.2%至5.27亿元",
+      "url": "https://36kr.com/p/3820113505030533",
       "source": "36氪",
-      "time": "2026-05-22 05:54"
+      "time": "2026-05-22 08:44"
     },
     {
-      "title": "Token之战要追求数量，更要追求质量。",
-      "url": "https://36kr.com/p/3819955387371649",
-      "source": "36氪",
-      "time": "2026-05-22 05:54"
-    },
-    {
-      "title": "联想交出史上最好财报，未来两年目标跃升千亿美元规模企业",
-      "url": "https://36kr.com/p/3819933991489665",
-      "source": "36氪",
-      "time": "2026-05-22 05:54"
-    },
-    {
-      "title": "同事.skill 之后：谁在真正“蒸馏”打工人？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860478.html",
+      "title": "大厂裁掉三万人之后，打工人可能先出局",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860309.html",
       "source": "虎嗅",
-      "time": "2026-05-22 05:54"
+      "time": "2026-05-22 08:44"
     },
     {
       "title": "新能源汽车体重管理失控，征税治标不治本",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860456.html",
       "source": "虎嗅",
-      "time": "2026-05-22 05:54"
+      "time": "2026-05-22 08:44"
     }
   ]
 }
