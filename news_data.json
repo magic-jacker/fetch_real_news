@@ -1,86 +1,98 @@
 {
-  "timestamp": "2026-05-22T08:44:11.890544",
-  "total": 5,
+  "timestamp": "2026-05-22T11:35:43.265041",
+  "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 3,
+    "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
-      {
-        "title": "合肥国资押注，踏歌智行冲刺IPO",
-        "url": "https://36kr.com/p/3820113505030533",
-        "source": "36氪",
-        "time": "2026-05-22 08:44"
-      }
-    ],
+    "finance": [],
     "industry": [
       {
-        "title": "新能源汽车体重管理失控，征税治标不治本",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860456.html",
+        "title": "宇树最大对手要上市了，但去年只卖了1台人形机器人",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860583.html",
         "source": "虎嗅",
-        "time": "2026-05-22 08:44"
+        "time": "2026-05-22 11:35"
       }
     ],
-    "tech": [],
+    "tech": [
+      {
+        "title": "涨停封单最高超百亿元，京东方A签约康宁搅动AI封装产业链",
+        "url": "https://36kr.com/p/3820128966250631",
+        "source": "36氪",
+        "time": "2026-05-22 11:35"
+      },
+      {
+        "title": "四个样本，四种命运，AI浪潮下的招聘与HR服务行业缩影",
+        "url": "https://36kr.com/p/3820121895883136",
+        "source": "36氪",
+        "time": "2026-05-22 11:35"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "中国人曾最爱的它，咋成时代的眼屎了？",
-        "url": "https://36kr.com/p/3820017861857668",
+        "title": "全球巨头集体入场玻璃基封装，面板厂仅处于最入门阶段",
+        "url": "https://36kr.com/p/3820128966250631",
         "source": "36氪",
-        "time": "2026-05-22 08:44"
+        "time": "2026-05-22 11:35"
       },
       {
-        "title": "去年营收同比增长246.2%至5.27亿元",
-        "url": "https://36kr.com/p/3820113505030533",
+        "title": "拉勾倒下之后，BOSS直聘、猎聘和Moka们在等什么？",
+        "url": "https://36kr.com/p/3820121895883136",
         "source": "36氪",
-        "time": "2026-05-22 08:44"
+        "time": "2026-05-22 11:35"
       },
       {
-        "title": "大厂裁掉三万人之后，打工人可能先出局",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860309.html",
-        "source": "虎嗅",
-        "time": "2026-05-22 08:44"
+        "title": "从年亏百亿到单季暴赚248亿，长鑫科技的狂飙与隐忧",
+        "url": "https://36kr.com/p/3820113337094536",
+        "source": "36氪",
+        "time": "2026-05-22 11:35"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "中国人曾最爱的它，咋成时代的眼屎了？",
-      "url": "https://36kr.com/p/3820017861857668",
+      "title": "涨停封单最高超百亿元，京东方A签约康宁搅动AI封装产业链",
+      "url": "https://36kr.com/p/3820128966250631",
       "source": "36氪",
-      "time": "2026-05-22 08:44"
+      "time": "2026-05-22 11:35"
     },
     {
-      "title": "合肥国资押注，踏歌智行冲刺IPO",
-      "url": "https://36kr.com/p/3820113505030533",
+      "title": "全球巨头集体入场玻璃基封装，面板厂仅处于最入门阶段",
+      "url": "https://36kr.com/p/3820128966250631",
       "source": "36氪",
-      "time": "2026-05-22 08:44"
+      "time": "2026-05-22 11:35"
     },
     {
-      "title": "去年营收同比增长246.2%至5.27亿元",
-      "url": "https://36kr.com/p/3820113505030533",
+      "title": "拉勾倒下之后，BOSS直聘、猎聘和Moka们在等什么？",
+      "url": "https://36kr.com/p/3820121895883136",
       "source": "36氪",
-      "time": "2026-05-22 08:44"
+      "time": "2026-05-22 11:35"
     },
     {
-      "title": "大厂裁掉三万人之后，打工人可能先出局",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860309.html",
+      "title": "四个样本，四种命运，AI浪潮下的招聘与HR服务行业缩影",
+      "url": "https://36kr.com/p/3820121895883136",
+      "source": "36氪",
+      "time": "2026-05-22 11:35"
+    },
+    {
+      "title": "从年亏百亿到单季暴赚248亿，长鑫科技的狂飙与隐忧",
+      "url": "https://36kr.com/p/3820113337094536",
+      "source": "36氪",
+      "time": "2026-05-22 11:35"
+    },
+    {
+      "title": "宇树最大对手要上市了，但去年只卖了1台人形机器人",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860583.html",
       "source": "虎嗅",
-      "time": "2026-05-22 08:44"
-    },
-    {
-      "title": "新能源汽车体重管理失控，征税治标不治本",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860456.html",
-      "source": "虎嗅",
-      "time": "2026-05-22 08:44"
+      "time": "2026-05-22 11:35"
     }
   ]
 }
