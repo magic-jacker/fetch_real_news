@@ -1,47 +1,42 @@
 {
-  "timestamp": "2026-05-23T07:53:01.433735",
-  "total": 6,
+  "timestamp": "2026-05-23T09:29:21.646842",
+  "total": 5,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 5,
+    "36氪": 3,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
+    "finance": [
+      {
+        "title": "估值110亿美元，美国富豪们戴的戒指要IPO了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860820.html",
+        "source": "虎嗅",
+        "time": "2026-05-23 09:29"
+      }
+    ],
     "industry": [],
     "tech": [
       {
-        "title": "圆桌对话：当AI进入产业前线：未来最稀缺的AI人才，会是谁？| 2026AI Partner·北京亦庄AI+产业大会",
-        "url": "https://36kr.com/p/3821542483857801",
+        "title": "谷歌搜索智能体大升级，AI却直接「罢工」了？",
+        "url": "https://36kr.com/p/3821580899553668",
         "source": "36氪",
-        "time": "2026-05-23 07:52"
+        "time": "2026-05-23 09:29"
       },
       {
-        "title": "圆桌探讨AI产业落地，稀缺低频高价值决策人才。",
-        "url": "https://36kr.com/p/3821542483857801",
+        "title": "老板电器，等AI“开饭”",
+        "url": "https://36kr.com/p/3821573572862212",
         "source": "36氪",
-        "time": "2026-05-23 07:52"
+        "time": "2026-05-23 09:29"
       },
       {
-        "title": "圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会",
-        "url": "https://36kr.com/p/3821533415985283",
-        "source": "36氪",
-        "time": "2026-05-23 07:52"
-      },
-      {
-        "title": "探讨AI人才的寻觅、培养与留存的实战干货",
-        "url": "https://36kr.com/p/3821533415985283",
-        "source": "36氪",
-        "time": "2026-05-23 07:52"
-      },
-      {
-        "title": "对话王小川：离开通用人工智能的主干道之后",
-        "url": "https://36kr.com/p/3821521291038856",
-        "source": "36氪",
-        "time": "2026-05-23 07:52"
+        "title": "AI正引发第一波人类降智",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860742.html",
+        "source": "虎嗅",
+        "time": "2026-05-23 09:29"
       }
     ],
     "byd": [],
@@ -49,49 +44,43 @@
     "fitness": [],
     "other": [
       {
-        "title": "《给阿嬷的情书》刷屏，你知道侨批当年有多牛吗？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4858606.html",
-        "source": "虎嗅",
-        "time": "2026-05-23 07:53"
+        "title": "再美的婚纱也敌不过时代的退场。",
+        "url": "https://36kr.com/p/3821558716731783",
+        "source": "36氪",
+        "time": "2026-05-23 09:29"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "圆桌对话：当AI进入产业前线：未来最稀缺的AI人才，会是谁？| 2026AI Partner·北京亦庄AI+产业大会",
-      "url": "https://36kr.com/p/3821542483857801",
+      "title": "谷歌搜索智能体大升级，AI却直接「罢工」了？",
+      "url": "https://36kr.com/p/3821580899553668",
       "source": "36氪",
-      "time": "2026-05-23 07:52"
+      "time": "2026-05-23 09:29"
     },
     {
-      "title": "圆桌探讨AI产业落地，稀缺低频高价值决策人才。",
-      "url": "https://36kr.com/p/3821542483857801",
+      "title": "老板电器，等AI“开饭”",
+      "url": "https://36kr.com/p/3821573572862212",
       "source": "36氪",
-      "time": "2026-05-23 07:52"
+      "time": "2026-05-23 09:29"
     },
     {
-      "title": "圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会",
-      "url": "https://36kr.com/p/3821533415985283",
+      "title": "再美的婚纱也敌不过时代的退场。",
+      "url": "https://36kr.com/p/3821558716731783",
       "source": "36氪",
-      "time": "2026-05-23 07:52"
+      "time": "2026-05-23 09:29"
     },
     {
-      "title": "探讨AI人才的寻觅、培养与留存的实战干货",
-      "url": "https://36kr.com/p/3821533415985283",
-      "source": "36氪",
-      "time": "2026-05-23 07:52"
-    },
-    {
-      "title": "对话王小川：离开通用人工智能的主干道之后",
-      "url": "https://36kr.com/p/3821521291038856",
-      "source": "36氪",
-      "time": "2026-05-23 07:52"
-    },
-    {
-      "title": "《给阿嬷的情书》刷屏，你知道侨批当年有多牛吗？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4858606.html",
+      "title": "AI正引发第一波人类降智",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860742.html",
       "source": "虎嗅",
-      "time": "2026-05-23 07:53"
+      "time": "2026-05-23 09:29"
+    },
+    {
+      "title": "估值110亿美元，美国富豪们戴的戒指要IPO了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860820.html",
+      "source": "虎嗅",
+      "time": "2026-05-23 09:29"
     }
   ]
 }
