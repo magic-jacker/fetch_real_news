@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-05-23T10:51:42.428148",
+  "timestamp": "2026-05-23T11:51:14.297171",
   "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 4,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
@@ -15,7 +15,7 @@
         "title": "估值110亿美元，美国富豪们戴的戒指要IPO了",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860820.html",
         "source": "虎嗅",
-        "time": "2026-05-23 10:51"
+        "time": "2026-05-23 11:51"
       }
     ],
     "industry": [],
@@ -24,74 +24,75 @@
         "title": "圆桌对话：下一个杀手级AI产品，会出现在哪个赛道？| 2026AI Partner·北京亦庄AI+产业大会",
         "url": "https://36kr.com/p/3821714896408713",
         "source": "36氪",
-        "time": "2026-05-23 10:51"
+        "time": "2026-05-23 11:51"
       },
       {
         "title": "下一个杀手级AI产品：“多模态+智能体+可穿戴”三位一体",
         "url": "https://36kr.com/p/3821714896408713",
         "source": "36氪",
-        "time": "2026-05-23 10:51"
+        "time": "2026-05-23 11:51"
       },
       {
         "title": "谷歌搜索智能体大升级，AI却直接「罢工」了？",
         "url": "https://36kr.com/p/3821580899553668",
         "source": "36氪",
-        "time": "2026-05-23 10:51"
+        "time": "2026-05-23 11:51"
       },
       {
         "title": "老板电器，等AI“开饭”",
         "url": "https://36kr.com/p/3821573572862212",
         "source": "36氪",
-        "time": "2026-05-23 10:51"
-      },
-      {
-        "title": "AI正引发第一波人类降智",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860742.html",
-        "source": "虎嗅",
-        "time": "2026-05-23 10:51"
+        "time": "2026-05-23 11:51"
       }
     ],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "洁丽雅“宫斗”乌龙背后",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860843.html",
+        "source": "虎嗅",
+        "time": "2026-05-23 11:51"
+      }
+    ]
   },
   "raw_news": [
     {
       "title": "圆桌对话：下一个杀手级AI产品，会出现在哪个赛道？| 2026AI Partner·北京亦庄AI+产业大会",
       "url": "https://36kr.com/p/3821714896408713",
       "source": "36氪",
-      "time": "2026-05-23 10:51"
+      "time": "2026-05-23 11:51"
     },
     {
       "title": "下一个杀手级AI产品：“多模态+智能体+可穿戴”三位一体",
       "url": "https://36kr.com/p/3821714896408713",
       "source": "36氪",
-      "time": "2026-05-23 10:51"
+      "time": "2026-05-23 11:51"
     },
     {
       "title": "谷歌搜索智能体大升级，AI却直接「罢工」了？",
       "url": "https://36kr.com/p/3821580899553668",
       "source": "36氪",
-      "time": "2026-05-23 10:51"
+      "time": "2026-05-23 11:51"
     },
     {
       "title": "老板电器，等AI“开饭”",
       "url": "https://36kr.com/p/3821573572862212",
       "source": "36氪",
-      "time": "2026-05-23 10:51"
+      "time": "2026-05-23 11:51"
     },
     {
-      "title": "AI正引发第一波人类降智",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860742.html",
+      "title": "洁丽雅“宫斗”乌龙背后",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860843.html",
       "source": "虎嗅",
-      "time": "2026-05-23 10:51"
+      "time": "2026-05-23 11:51"
     },
     {
       "title": "估值110亿美元，美国富豪们戴的戒指要IPO了",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860820.html",
       "source": "虎嗅",
-      "time": "2026-05-23 10:51"
+      "time": "2026-05-23 11:51"
     }
   ]
 }
