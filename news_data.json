@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-24T08:11:34.243814",
+  "timestamp": "2026-05-24T10:14:41.750563",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -14,28 +14,34 @@
     "industry": [],
     "tech": [
       {
+        "title": "谷歌CEO承认Coding落后了",
+        "url": "https://36kr.com/p/3823020763746435",
+        "source": "36氪",
+        "time": "2026-05-24 10:14"
+      },
+      {
+        "title": "谷歌想加速AGI，但也怕失控",
+        "url": "https://36kr.com/p/3823020763746435",
+        "source": "36氪",
+        "time": "2026-05-24 10:14"
+      },
+      {
         "title": "活宝团队试验「让 AI 当老板」，结果如何？",
         "url": "https://36kr.com/p/3822860813684864",
         "source": "36氪",
-        "time": "2026-05-24 08:11"
+        "time": "2026-05-24 10:14"
       },
       {
         "title": "感谢 120 个生鸡蛋，它向全世界证明了，AI 还无法「开除人类」。",
         "url": "https://36kr.com/p/3822860813684864",
         "source": "36氪",
-        "time": "2026-05-24 08:11"
+        "time": "2026-05-24 10:14"
       },
       {
         "title": "活过来的Codex，扛起了 OpenAI上市的希望",
         "url": "https://36kr.com/p/3822795128070149",
         "source": "36氪",
-        "time": "2026-05-24 08:11"
-      },
-      {
-        "title": "ChatGPT证明了OpenAI有用户，Codex要证明OpenAI有生意。",
-        "url": "https://36kr.com/p/3822795128070149",
-        "source": "36氪",
-        "time": "2026-05-24 08:11"
+        "time": "2026-05-24 10:14"
       }
     ],
     "byd": [],
@@ -43,67 +49,61 @@
     "fitness": [],
     "other": [
       {
-        "title": "饮品9.9元、月营收600万，零食“漂亮饭”正在截胡奶茶店？",
-        "url": "https://36kr.com/p/3822619742359685",
-        "source": "36氪",
-        "time": "2026-05-24 08:11"
-      },
-      {
         "title": "“我们俄罗斯人，不会来中国看病，”",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860982.html",
         "source": "虎嗅",
-        "time": "2026-05-24 08:11"
+        "time": "2026-05-24 10:14"
       },
       {
-        "title": "一家英国“老钱”，退了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860992.html",
+        "title": "“果链”里走出两位千亿女富豪",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4861006.html",
         "source": "虎嗅",
-        "time": "2026-05-24 08:11"
+        "time": "2026-05-24 10:14"
       }
     ]
   },
   "raw_news": [
     {
+      "title": "谷歌CEO承认Coding落后了",
+      "url": "https://36kr.com/p/3823020763746435",
+      "source": "36氪",
+      "time": "2026-05-24 10:14"
+    },
+    {
+      "title": "谷歌想加速AGI，但也怕失控",
+      "url": "https://36kr.com/p/3823020763746435",
+      "source": "36氪",
+      "time": "2026-05-24 10:14"
+    },
+    {
       "title": "活宝团队试验「让 AI 当老板」，结果如何？",
       "url": "https://36kr.com/p/3822860813684864",
       "source": "36氪",
-      "time": "2026-05-24 08:11"
+      "time": "2026-05-24 10:14"
     },
     {
       "title": "感谢 120 个生鸡蛋，它向全世界证明了，AI 还无法「开除人类」。",
       "url": "https://36kr.com/p/3822860813684864",
       "source": "36氪",
-      "time": "2026-05-24 08:11"
+      "time": "2026-05-24 10:14"
     },
     {
       "title": "活过来的Codex，扛起了 OpenAI上市的希望",
       "url": "https://36kr.com/p/3822795128070149",
       "source": "36氪",
-      "time": "2026-05-24 08:11"
-    },
-    {
-      "title": "ChatGPT证明了OpenAI有用户，Codex要证明OpenAI有生意。",
-      "url": "https://36kr.com/p/3822795128070149",
-      "source": "36氪",
-      "time": "2026-05-24 08:11"
-    },
-    {
-      "title": "饮品9.9元、月营收600万，零食“漂亮饭”正在截胡奶茶店？",
-      "url": "https://36kr.com/p/3822619742359685",
-      "source": "36氪",
-      "time": "2026-05-24 08:11"
+      "time": "2026-05-24 10:14"
     },
     {
       "title": "“我们俄罗斯人，不会来中国看病，”",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860982.html",
       "source": "虎嗅",
-      "time": "2026-05-24 08:11"
+      "time": "2026-05-24 10:14"
     },
     {
-      "title": "一家英国“老钱”，退了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860992.html",
+      "title": "“果链”里走出两位千亿女富豪",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4861006.html",
       "source": "虎嗅",
-      "time": "2026-05-24 08:11"
+      "time": "2026-05-24 10:14"
     }
   ]
 }
