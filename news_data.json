@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-05-25T01:58:47.791896",
+  "timestamp": "2026-05-25T06:24:44.546542",
   "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
@@ -14,16 +14,22 @@
     "industry": [],
     "tech": [
       {
-        "title": "大厂AI内卷新姿势：Token变成新“PPT”",
-        "url": "https://36kr.com/p/3824055777071496",
+        "title": "大模型头部玩家吸干一级市场",
+        "url": "https://36kr.com/p/3821479227134338",
         "source": "36氪",
-        "time": "2026-05-25 01:58"
+        "time": "2026-05-25 06:24"
       },
       {
-        "title": "对标杨立昆，华为“具身大脑一号位”又融资了",
-        "url": "https://36kr.com/p/3824043619012996",
+        "title": "一家垂类 AI 创企的自救：当通用模型开始吃掉一切",
+        "url": "https://36kr.com/p/3821594633769346",
         "source": "36氪",
-        "time": "2026-05-25 01:58"
+        "time": "2026-05-25 06:24"
+      },
+      {
+        "title": "​智能开始非线性增长，AI 企业的底层逻辑正被改写。",
+        "url": "https://36kr.com/p/3821594633769346",
+        "source": "36氪",
+        "time": "2026-05-25 06:24"
       }
     ],
     "byd": [],
@@ -31,79 +37,73 @@
     "fitness": [],
     "other": [
       {
-        "title": "“Token传奇”变身新时代的PPT，员工忙着让Agent做大数据，老板在为无效循环买单。",
-        "url": "https://36kr.com/p/3824055777071496",
+        "title": "巨头混战电解质水：农夫山泉、蒙牛、奈雪齐入场，千亿赛道谁能留在牌桌上？",
+        "url": "https://36kr.com/p/3821654125072517",
         "source": "36氪",
-        "time": "2026-05-25 01:58"
+        "time": "2026-05-25 06:24"
       },
       {
-        "title": "掀起一场具身大脑效率的革命。",
-        "url": "https://36kr.com/p/3824043619012996",
+        "title": "谁是下一个“水替”之王？",
+        "url": "https://36kr.com/p/3821654125072517",
         "source": "36氪",
-        "time": "2026-05-25 01:58"
+        "time": "2026-05-25 06:24"
       },
       {
-        "title": "Claude「永久大脑」，真的来了",
-        "url": "https://36kr.com/p/3824047027458182",
-        "source": "36氪",
-        "time": "2026-05-25 01:58"
-      },
-      {
-        "title": "中产家庭的孩子，为什么越来越不快乐了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4861024.html",
+        "title": "“暗面”之下：山西沁源82死矿难调查",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4861065.html",
         "source": "虎嗅",
-        "time": "2026-05-25 01:58"
+        "time": "2026-05-25 06:24"
       },
       {
-        "title": "“我们俄罗斯人，不会来中国看病”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860982.html",
+        "title": "“Token”必须死？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4861200.html",
         "source": "虎嗅",
-        "time": "2026-05-25 01:58"
+        "time": "2026-05-25 06:24"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "大厂AI内卷新姿势：Token变成新“PPT”",
-      "url": "https://36kr.com/p/3824055777071496",
+      "title": "大模型头部玩家吸干一级市场",
+      "url": "https://36kr.com/p/3821479227134338",
       "source": "36氪",
-      "time": "2026-05-25 01:58"
+      "time": "2026-05-25 06:24"
     },
     {
-      "title": "“Token传奇”变身新时代的PPT，员工忙着让Agent做大数据，老板在为无效循环买单。",
-      "url": "https://36kr.com/p/3824055777071496",
+      "title": "一家垂类 AI 创企的自救：当通用模型开始吃掉一切",
+      "url": "https://36kr.com/p/3821594633769346",
       "source": "36氪",
-      "time": "2026-05-25 01:58"
+      "time": "2026-05-25 06:24"
     },
     {
-      "title": "对标杨立昆，华为“具身大脑一号位”又融资了",
-      "url": "https://36kr.com/p/3824043619012996",
+      "title": "​智能开始非线性增长，AI 企业的底层逻辑正被改写。",
+      "url": "https://36kr.com/p/3821594633769346",
       "source": "36氪",
-      "time": "2026-05-25 01:58"
+      "time": "2026-05-25 06:24"
     },
     {
-      "title": "掀起一场具身大脑效率的革命。",
-      "url": "https://36kr.com/p/3824043619012996",
+      "title": "巨头混战电解质水：农夫山泉、蒙牛、奈雪齐入场，千亿赛道谁能留在牌桌上？",
+      "url": "https://36kr.com/p/3821654125072517",
       "source": "36氪",
-      "time": "2026-05-25 01:58"
+      "time": "2026-05-25 06:24"
     },
     {
-      "title": "Claude「永久大脑」，真的来了",
-      "url": "https://36kr.com/p/3824047027458182",
+      "title": "谁是下一个“水替”之王？",
+      "url": "https://36kr.com/p/3821654125072517",
       "source": "36氪",
-      "time": "2026-05-25 01:58"
+      "time": "2026-05-25 06:24"
     },
     {
-      "title": "中产家庭的孩子，为什么越来越不快乐了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4861024.html",
+      "title": "“暗面”之下：山西沁源82死矿难调查",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4861065.html",
       "source": "虎嗅",
-      "time": "2026-05-25 01:58"
+      "time": "2026-05-25 06:24"
     },
     {
-      "title": "“我们俄罗斯人，不会来中国看病”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4860982.html",
+      "title": "“Token”必须死？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4861200.html",
       "source": "虎嗅",
-      "time": "2026-05-25 01:58"
+      "time": "2026-05-25 06:24"
     }
   ]
 }
