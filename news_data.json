@@ -1,29 +1,42 @@
 {
-  "timestamp": "2026-05-26T23:36:23.006706",
-  "total": 7,
+  "timestamp": "2026-05-27T01:59:00.342896",
+  "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 5,
+    "36氪": 4,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [],
+    "industry": [
+      {
+        "title": "让机器人拥有触觉，新智具身天使轮融资近亿",
+        "url": "https://36kr.com/p/3826847117070979",
+        "source": "36氪",
+        "time": "2026-05-27 01:58"
+      }
+    ],
     "tech": [
       {
-        "title": "AI实验室的成本最终需要用户买单",
-        "url": "https://36kr.com/p/3794795757722886",
+        "title": "4万字《壮丽人性》长文首发，教皇联手Anthropic，警告AI不能统治人类",
+        "url": "https://36kr.com/p/3826852633432967",
         "source": "36氪",
-        "time": "2026-05-26 23:36"
+        "time": "2026-05-27 01:58"
       },
       {
-        "title": "小米汽车又亏了，雷军慌不慌",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4861754.html",
+        "title": "教皇首份AI通谕，叩问机器时代的人性",
+        "url": "https://36kr.com/p/3826852633432967",
+        "source": "36氪",
+        "time": "2026-05-27 01:58"
+      },
+      {
+        "title": "为什么传统公司很难完成AI转型？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4861825.html",
         "source": "虎嗅",
-        "time": "2026-05-26 23:36"
+        "time": "2026-05-27 01:58"
       }
     ],
     "byd": [],
@@ -31,79 +44,55 @@
     "fitness": [],
     "other": [
       {
-        "title": "麦肯锡们到了“最危险时刻”：金字塔模式崩塌，PPT不再是咨询业的致富经",
-        "url": "https://36kr.com/p/3795021105405193",
+        "title": "geelato能否让茶跨越杯装饮品的边界？",
+        "url": "https://36kr.com/p/3826841483075840",
         "source": "36氪",
-        "time": "2026-05-26 23:36"
-      },
-      {
-        "title": "传统咨询公司正面临一场“完美风暴”，谁能幸存？又该如何求生？",
-        "url": "https://36kr.com/p/3795021105405193",
-        "source": "36氪",
-        "time": "2026-05-26 23:36"
-      },
-      {
-        "title": "营收翻 3 倍依然深陷“烧钱黑洞”？拆解 Anthropic 财务数据背后的算力勒颈与变现焦虑",
-        "url": "https://36kr.com/p/3794795757722886",
-        "source": "36氪",
-        "time": "2026-05-26 23:36"
-      },
-      {
-        "title": "从“番茄炒蛋”到60亿市值：先做冠军，再学做商人",
-        "url": "https://36kr.com/p/3825579976004480",
-        "source": "36氪",
-        "time": "2026-05-26 23:36"
+        "time": "2026-05-27 01:58"
       },
       {
         "title": "那些总要靠“血”推动的进步",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4861806.html",
         "source": "虎嗅",
-        "time": "2026-05-26 23:36"
+        "time": "2026-05-27 01:58"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "麦肯锡们到了“最危险时刻”：金字塔模式崩塌，PPT不再是咨询业的致富经",
-      "url": "https://36kr.com/p/3795021105405193",
+      "title": "geelato能否让茶跨越杯装饮品的边界？",
+      "url": "https://36kr.com/p/3826841483075840",
       "source": "36氪",
-      "time": "2026-05-26 23:36"
+      "time": "2026-05-27 01:58"
     },
     {
-      "title": "传统咨询公司正面临一场“完美风暴”，谁能幸存？又该如何求生？",
-      "url": "https://36kr.com/p/3795021105405193",
+      "title": "让机器人拥有触觉，新智具身天使轮融资近亿",
+      "url": "https://36kr.com/p/3826847117070979",
       "source": "36氪",
-      "time": "2026-05-26 23:36"
+      "time": "2026-05-27 01:58"
     },
     {
-      "title": "营收翻 3 倍依然深陷“烧钱黑洞”？拆解 Anthropic 财务数据背后的算力勒颈与变现焦虑",
-      "url": "https://36kr.com/p/3794795757722886",
+      "title": "4万字《壮丽人性》长文首发，教皇联手Anthropic，警告AI不能统治人类",
+      "url": "https://36kr.com/p/3826852633432967",
       "source": "36氪",
-      "time": "2026-05-26 23:36"
+      "time": "2026-05-27 01:58"
     },
     {
-      "title": "AI实验室的成本最终需要用户买单",
-      "url": "https://36kr.com/p/3794795757722886",
+      "title": "教皇首份AI通谕，叩问机器时代的人性",
+      "url": "https://36kr.com/p/3826852633432967",
       "source": "36氪",
-      "time": "2026-05-26 23:36"
+      "time": "2026-05-27 01:58"
     },
     {
-      "title": "从“番茄炒蛋”到60亿市值：先做冠军，再学做商人",
-      "url": "https://36kr.com/p/3825579976004480",
-      "source": "36氪",
-      "time": "2026-05-26 23:36"
-    },
-    {
-      "title": "小米汽车又亏了，雷军慌不慌",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4861754.html",
+      "title": "为什么传统公司很难完成AI转型？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4861825.html",
       "source": "虎嗅",
-      "time": "2026-05-26 23:36"
+      "time": "2026-05-27 01:58"
     },
     {
       "title": "那些总要靠“血”推动的进步",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4861806.html",
       "source": "虎嗅",
-      "time": "2026-05-26 23:36"
+      "time": "2026-05-27 01:58"
     }
   ]
 }
