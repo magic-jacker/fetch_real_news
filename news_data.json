@@ -1,42 +1,35 @@
 {
-  "timestamp": "2026-05-27T01:59:00.342896",
+  "timestamp": "2026-05-27T06:17:48.769888",
   "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 4,
+    "36氪": 5,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "让机器人拥有触觉，新智具身天使轮融资近亿",
-        "url": "https://36kr.com/p/3826847117070979",
-        "source": "36氪",
-        "time": "2026-05-27 01:58"
-      }
-    ],
+    "industry": [],
     "tech": [
       {
-        "title": "4万字《壮丽人性》长文首发，教皇联手Anthropic，警告AI不能统治人类",
-        "url": "https://36kr.com/p/3826852633432967",
+        "title": "谷歌全家桶，都被新模型“污染”了",
+        "url": "https://36kr.com/p/3827021244899584",
         "source": "36氪",
-        "time": "2026-05-27 01:58"
+        "time": "2026-05-27 06:17"
       },
       {
-        "title": "教皇首份AI通谕，叩问机器时代的人性",
-        "url": "https://36kr.com/p/3826852633432967",
+        "title": "皮查伊吹爆的Gemini 3.5，网友贴脸狂喷它是垃圾",
+        "url": "https://36kr.com/p/3827021244899584",
         "source": "36氪",
-        "time": "2026-05-27 01:58"
+        "time": "2026-05-27 06:17"
       },
       {
-        "title": "为什么传统公司很难完成AI转型？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4861825.html",
+        "title": "每天裁员1000人，却批量制造亿万富翁，造AI的人为何去梵蒂冈忏悔？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4861900.html",
         "source": "虎嗅",
-        "time": "2026-05-27 01:58"
+        "time": "2026-05-27 06:17"
       }
     ],
     "byd": [],
@@ -44,55 +37,61 @@
     "fitness": [],
     "other": [
       {
-        "title": "geelato能否让茶跨越杯装饮品的边界？",
-        "url": "https://36kr.com/p/3826841483075840",
+        "title": "AMD新论文颠覆认知：FP4训练不稳定，原因不是随机性不足",
+        "url": "https://36kr.com/p/3827014998233733",
         "source": "36氪",
-        "time": "2026-05-27 01:58"
+        "time": "2026-05-27 06:17"
       },
       {
-        "title": "那些总要靠“血”推动的进步",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4861806.html",
-        "source": "虎嗅",
-        "time": "2026-05-27 01:58"
+        "title": "在原生 FP4 硬件上实现端到端 9-10% 的训练加速",
+        "url": "https://36kr.com/p/3827014998233733",
+        "source": "36氪",
+        "time": "2026-05-27 06:17"
+      },
+      {
+        "title": "1400万逆袭11亿，《给阿嬷的情书》爆火，还捧出上百个百万富翁？",
+        "url": "https://36kr.com/p/3827020371940233",
+        "source": "36氪",
+        "time": "2026-05-27 06:17"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "geelato能否让茶跨越杯装饮品的边界？",
-      "url": "https://36kr.com/p/3826841483075840",
+      "title": "AMD新论文颠覆认知：FP4训练不稳定，原因不是随机性不足",
+      "url": "https://36kr.com/p/3827014998233733",
       "source": "36氪",
-      "time": "2026-05-27 01:58"
+      "time": "2026-05-27 06:17"
     },
     {
-      "title": "让机器人拥有触觉，新智具身天使轮融资近亿",
-      "url": "https://36kr.com/p/3826847117070979",
+      "title": "在原生 FP4 硬件上实现端到端 9-10% 的训练加速",
+      "url": "https://36kr.com/p/3827014998233733",
       "source": "36氪",
-      "time": "2026-05-27 01:58"
+      "time": "2026-05-27 06:17"
     },
     {
-      "title": "4万字《壮丽人性》长文首发，教皇联手Anthropic，警告AI不能统治人类",
-      "url": "https://36kr.com/p/3826852633432967",
+      "title": "1400万逆袭11亿，《给阿嬷的情书》爆火，还捧出上百个百万富翁？",
+      "url": "https://36kr.com/p/3827020371940233",
       "source": "36氪",
-      "time": "2026-05-27 01:58"
+      "time": "2026-05-27 06:17"
     },
     {
-      "title": "教皇首份AI通谕，叩问机器时代的人性",
-      "url": "https://36kr.com/p/3826852633432967",
+      "title": "谷歌全家桶，都被新模型“污染”了",
+      "url": "https://36kr.com/p/3827021244899584",
       "source": "36氪",
-      "time": "2026-05-27 01:58"
+      "time": "2026-05-27 06:17"
     },
     {
-      "title": "为什么传统公司很难完成AI转型？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4861825.html",
+      "title": "皮查伊吹爆的Gemini 3.5，网友贴脸狂喷它是垃圾",
+      "url": "https://36kr.com/p/3827021244899584",
+      "source": "36氪",
+      "time": "2026-05-27 06:17"
+    },
+    {
+      "title": "每天裁员1000人，却批量制造亿万富翁，造AI的人为何去梵蒂冈忏悔？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4861900.html",
       "source": "虎嗅",
-      "time": "2026-05-27 01:58"
-    },
-    {
-      "title": "那些总要靠“血”推动的进步",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4861806.html",
-      "source": "虎嗅",
-      "time": "2026-05-27 01:58"
+      "time": "2026-05-27 06:17"
     }
   ]
 }
