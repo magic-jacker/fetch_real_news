@@ -1,35 +1,30 @@
 {
-  "timestamp": "2026-05-28T01:20:22.387687",
-  "total": 4,
+  "timestamp": "2026-05-28T05:37:37.007141",
+  "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 4,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [],
+    "industry": [
+      {
+        "title": "廉价手机，“死”于AI",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862176.html",
+        "source": "虎嗅",
+        "time": "2026-05-28 05:37"
+      }
+    ],
     "tech": [
       {
-        "title": "硅谷知名AI投资人Tomasz Tunguz：AI公司赚1块烧12块，旧的商业逻辑正在失效",
-        "url": "https://36kr.com/p/3828092988805762",
+        "title": "那些不会被AI取代的剧组人",
+        "url": "https://36kr.com/p/3827610179425161",
         "source": "36氪",
-        "time": "2026-05-28 01:19"
-      },
-      {
-        "title": "好抓马，AI删光2.8万行代码，干崩后台，还编造了一份故障修复报告",
-        "url": "https://36kr.com/p/3828243809981313",
-        "source": "36氪",
-        "time": "2026-05-28 01:19"
-      },
-      {
-        "title": "Gemini 3.5的闯祸实录。",
-        "url": "https://36kr.com/p/3828243809981313",
-        "source": "36氪",
-        "time": "2026-05-28 01:19"
+        "time": "2026-05-28 05:37"
       }
     ],
     "byd": [],
@@ -37,37 +32,67 @@
     "fitness": [],
     "other": [
       {
-        "title": "黄仁勋，也成了刘强东的“兄弟”",
-        "url": "https://36kr.com/p/3828104112477058",
+        "title": "京东次日达杀进欧洲，然后呢？",
+        "url": "https://36kr.com/p/3827562152730889",
         "source": "36氪",
-        "time": "2026-05-28 01:19"
+        "time": "2026-05-28 05:37"
+      },
+      {
+        "title": "Fender “收回” Stratocaster：一场迟到70年的确权",
+        "url": "https://36kr.com/p/3827526639276935",
+        "source": "36氪",
+        "time": "2026-05-28 05:37"
+      },
+      {
+        "title": "行业是否接受这个答案，仍有待时间验证。",
+        "url": "https://36kr.com/p/3827526639276935",
+        "source": "36氪",
+        "time": "2026-05-28 05:37"
+      },
+      {
+        "title": "全球最不爱生娃的国家，突然反弹了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862266.html",
+        "source": "虎嗅",
+        "time": "2026-05-28 05:37"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "硅谷知名AI投资人Tomasz Tunguz：AI公司赚1块烧12块，旧的商业逻辑正在失效",
-      "url": "https://36kr.com/p/3828092988805762",
+      "title": "那些不会被AI取代的剧组人",
+      "url": "https://36kr.com/p/3827610179425161",
       "source": "36氪",
-      "time": "2026-05-28 01:19"
+      "time": "2026-05-28 05:37"
     },
     {
-      "title": "黄仁勋，也成了刘强东的“兄弟”",
-      "url": "https://36kr.com/p/3828104112477058",
+      "title": "京东次日达杀进欧洲，然后呢？",
+      "url": "https://36kr.com/p/3827562152730889",
       "source": "36氪",
-      "time": "2026-05-28 01:19"
+      "time": "2026-05-28 05:37"
     },
     {
-      "title": "好抓马，AI删光2.8万行代码，干崩后台，还编造了一份故障修复报告",
-      "url": "https://36kr.com/p/3828243809981313",
+      "title": "Fender “收回” Stratocaster：一场迟到70年的确权",
+      "url": "https://36kr.com/p/3827526639276935",
       "source": "36氪",
-      "time": "2026-05-28 01:19"
+      "time": "2026-05-28 05:37"
     },
     {
-      "title": "Gemini 3.5的闯祸实录。",
-      "url": "https://36kr.com/p/3828243809981313",
+      "title": "行业是否接受这个答案，仍有待时间验证。",
+      "url": "https://36kr.com/p/3827526639276935",
       "source": "36氪",
-      "time": "2026-05-28 01:19"
+      "time": "2026-05-28 05:37"
+    },
+    {
+      "title": "全球最不爱生娃的国家，突然反弹了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862266.html",
+      "source": "虎嗅",
+      "time": "2026-05-28 05:37"
+    },
+    {
+      "title": "廉价手机，“死”于AI",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862176.html",
+      "source": "虎嗅",
+      "time": "2026-05-28 05:37"
     }
   ]
 }
