@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-28T09:38:16.214909",
+  "timestamp": "2026-05-28T12:58:15.979955",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -14,10 +14,28 @@
     "industry": [],
     "tech": [
       {
-        "title": "玻璃里跑AI，华中科大&上交大科研成果登Nature子刊",
-        "url": "https://36kr.com/p/3828667003982464",
+        "title": "用AI做电脑清理？我们体验了Marvis，发现Agent暂时还不能管电脑",
+        "url": "https://36kr.com/p/3828704616063234",
         "source": "36氪",
-        "time": "2026-05-28 09:38"
+        "time": "2026-05-28 12:57"
+      },
+      {
+        "title": "AI很「能」，但不「万能」。",
+        "url": "https://36kr.com/p/3828704616063234",
+        "source": "36氪",
+        "time": "2026-05-28 12:57"
+      },
+      {
+        "title": "融资68亿，3个华人每天进账1000万，卖AI劳动力",
+        "url": "https://36kr.com/p/3828877773886338",
+        "source": "36氪",
+        "time": "2026-05-28 12:57"
+      },
+      {
+        "title": "2026世界杯，为什么小红书买了，抖音没买？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862393.html",
+        "source": "虎嗅",
+        "time": "2026-05-28 12:58"
       }
     ],
     "byd": [],
@@ -25,85 +43,67 @@
     "fitness": [],
     "other": [
       {
-        "title": "把光子神经网络写进玻璃三维空间，6554 TOPS理论吞吐量",
-        "url": "https://36kr.com/p/3828667003982464",
+        "title": "美团和阿里之后，京东也选择从社区团购离场",
+        "url": "https://36kr.com/p/3828870863458953",
         "source": "36氪",
-        "time": "2026-05-28 09:38"
+        "time": "2026-05-28 12:57"
       },
       {
-        "title": "上海四批次土拍首日收金61.26亿 大华集团、上海城投、保利发展落子",
-        "url": "https://36kr.com/p/3828758557922178",
+        "title": "京东此次业务整合的意图，其实已经十分清晰。",
+        "url": "https://36kr.com/p/3828870863458953",
         "source": "36氪",
-        "time": "2026-05-28 09:38"
+        "time": "2026-05-28 12:57"
       },
       {
-        "title": "上海2026年第四批土拍首日3宗宅地成交，总价61.26亿",
-        "url": "https://36kr.com/p/3828758557922178",
-        "source": "36氪",
-        "time": "2026-05-28 09:38"
-      },
-      {
-        "title": "海外仓暴雷批量炮制？头部大卖深陷扣货泥沼，维权比登天还难……",
-        "url": "https://36kr.com/p/3828704387715721",
-        "source": "36氪",
-        "time": "2026-05-28 09:38"
-      },
-      {
-        "title": "全球最不爱生娃的国家，突然反弹了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862266.html",
+        "title": "李斌掏空家底，蔚来跳入火海",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862427.html",
         "source": "虎嗅",
-        "time": "2026-05-28 09:38"
-      },
-      {
-        "title": "美国本地零售逻辑和出海的方法论",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862321.html",
-        "source": "虎嗅",
-        "time": "2026-05-28 09:38"
+        "time": "2026-05-28 12:58"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "玻璃里跑AI，华中科大&上交大科研成果登Nature子刊",
-      "url": "https://36kr.com/p/3828667003982464",
+      "title": "用AI做电脑清理？我们体验了Marvis，发现Agent暂时还不能管电脑",
+      "url": "https://36kr.com/p/3828704616063234",
       "source": "36氪",
-      "time": "2026-05-28 09:38"
+      "time": "2026-05-28 12:57"
     },
     {
-      "title": "把光子神经网络写进玻璃三维空间，6554 TOPS理论吞吐量",
-      "url": "https://36kr.com/p/3828667003982464",
+      "title": "AI很「能」，但不「万能」。",
+      "url": "https://36kr.com/p/3828704616063234",
       "source": "36氪",
-      "time": "2026-05-28 09:38"
+      "time": "2026-05-28 12:57"
     },
     {
-      "title": "上海四批次土拍首日收金61.26亿 大华集团、上海城投、保利发展落子",
-      "url": "https://36kr.com/p/3828758557922178",
+      "title": "美团和阿里之后，京东也选择从社区团购离场",
+      "url": "https://36kr.com/p/3828870863458953",
       "source": "36氪",
-      "time": "2026-05-28 09:38"
+      "time": "2026-05-28 12:57"
     },
     {
-      "title": "上海2026年第四批土拍首日3宗宅地成交，总价61.26亿",
-      "url": "https://36kr.com/p/3828758557922178",
+      "title": "京东此次业务整合的意图，其实已经十分清晰。",
+      "url": "https://36kr.com/p/3828870863458953",
       "source": "36氪",
-      "time": "2026-05-28 09:38"
+      "time": "2026-05-28 12:57"
     },
     {
-      "title": "海外仓暴雷批量炮制？头部大卖深陷扣货泥沼，维权比登天还难……",
-      "url": "https://36kr.com/p/3828704387715721",
+      "title": "融资68亿，3个华人每天进账1000万，卖AI劳动力",
+      "url": "https://36kr.com/p/3828877773886338",
       "source": "36氪",
-      "time": "2026-05-28 09:38"
+      "time": "2026-05-28 12:57"
     },
     {
-      "title": "全球最不爱生娃的国家，突然反弹了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862266.html",
+      "title": "2026世界杯，为什么小红书买了，抖音没买？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862393.html",
       "source": "虎嗅",
-      "time": "2026-05-28 09:38"
+      "time": "2026-05-28 12:58"
     },
     {
-      "title": "美国本地零售逻辑和出海的方法论",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862321.html",
+      "title": "李斌掏空家底，蔚来跳入火海",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862427.html",
       "source": "虎嗅",
-      "time": "2026-05-28 09:38"
+      "time": "2026-05-28 12:58"
     }
   ]
 }
