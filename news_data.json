@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-29T05:47:43.936691",
+  "timestamp": "2026-05-29T08:59:19.496676",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -10,99 +10,101 @@
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
+    "finance": [
+      {
+        "title": "黄金正在变成风险资产？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862573.html",
+        "source": "虎嗅",
+        "time": "2026-05-29 08:59"
+      }
+    ],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "腾讯参投的深圳3D打印商，上市首日高开80%",
+        "url": "https://36kr.com/p/3829978421766019",
+        "source": "36氪",
+        "time": "2026-05-29 08:59"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "铃木敏文去世，他与711的三个反常识故事",
-        "url": "https://36kr.com/p/3829890126046851",
+        "title": "一份股东名单里悄悄多了三个名字",
+        "url": "https://36kr.com/p/3829908137369865",
         "source": "36氪",
-        "time": "2026-05-29 05:47"
+        "time": "2026-05-29 08:59"
       },
       {
-        "title": "“便利”始终贯穿在711的成长史中。",
-        "url": "https://36kr.com/p/3829890126046851",
+        "title": "9650亿不重要，那三个沉默的股东才重",
+        "url": "https://36kr.com/p/3829908137369865",
         "source": "36氪",
-        "time": "2026-05-29 05:47"
+        "time": "2026-05-29 08:59"
       },
       {
-        "title": "全球创新药最后一个万亿级未开垦市场",
-        "url": "https://36kr.com/p/3829797931999233",
+        "title": "深圳3D打印四小龙排位战还未完。",
+        "url": "https://36kr.com/p/3829978421766019",
         "source": "36氪",
-        "time": "2026-05-29 05:47"
+        "time": "2026-05-29 08:59"
       },
       {
-        "title": "CNS，大药厂不得不赌",
-        "url": "https://36kr.com/p/3829797931999233",
+        "title": "尼泊尔的草，中国人的宝",
+        "url": "https://36kr.com/p/3830051269156872",
         "source": "36氪",
-        "time": "2026-05-29 05:47"
+        "time": "2026-05-29 08:59"
       },
       {
-        "title": "奶茶店、小吃店加冰淇淋，90%的人都选错了方法",
-        "url": "https://36kr.com/p/3829757210894596",
-        "source": "36氪",
-        "time": "2026-05-29 05:47"
-      },
-      {
-        "title": "我，创投行业从业十年，正在见证投资机构一个个消失",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862576.html",
+        "title": "永生，会成为有钱人的特权吗？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4861700.html",
         "source": "虎嗅",
-        "time": "2026-05-29 05:47"
-      },
-      {
-        "title": "Opus 4.8来了，Anthropic估值即将突破万亿美元",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862546.html",
-        "source": "虎嗅",
-        "time": "2026-05-29 05:47"
+        "time": "2026-05-29 08:59"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "铃木敏文去世，他与711的三个反常识故事",
-      "url": "https://36kr.com/p/3829890126046851",
+      "title": "一份股东名单里悄悄多了三个名字",
+      "url": "https://36kr.com/p/3829908137369865",
       "source": "36氪",
-      "time": "2026-05-29 05:47"
+      "time": "2026-05-29 08:59"
     },
     {
-      "title": "“便利”始终贯穿在711的成长史中。",
-      "url": "https://36kr.com/p/3829890126046851",
+      "title": "9650亿不重要，那三个沉默的股东才重",
+      "url": "https://36kr.com/p/3829908137369865",
       "source": "36氪",
-      "time": "2026-05-29 05:47"
+      "time": "2026-05-29 08:59"
     },
     {
-      "title": "全球创新药最后一个万亿级未开垦市场",
-      "url": "https://36kr.com/p/3829797931999233",
+      "title": "腾讯参投的深圳3D打印商，上市首日高开80%",
+      "url": "https://36kr.com/p/3829978421766019",
       "source": "36氪",
-      "time": "2026-05-29 05:47"
+      "time": "2026-05-29 08:59"
     },
     {
-      "title": "CNS，大药厂不得不赌",
-      "url": "https://36kr.com/p/3829797931999233",
+      "title": "深圳3D打印四小龙排位战还未完。",
+      "url": "https://36kr.com/p/3829978421766019",
       "source": "36氪",
-      "time": "2026-05-29 05:47"
+      "time": "2026-05-29 08:59"
     },
     {
-      "title": "奶茶店、小吃店加冰淇淋，90%的人都选错了方法",
-      "url": "https://36kr.com/p/3829757210894596",
+      "title": "尼泊尔的草，中国人的宝",
+      "url": "https://36kr.com/p/3830051269156872",
       "source": "36氪",
-      "time": "2026-05-29 05:47"
+      "time": "2026-05-29 08:59"
     },
     {
-      "title": "我，创投行业从业十年，正在见证投资机构一个个消失",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862576.html",
+      "title": "永生，会成为有钱人的特权吗？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4861700.html",
       "source": "虎嗅",
-      "time": "2026-05-29 05:47"
+      "time": "2026-05-29 08:59"
     },
     {
-      "title": "Opus 4.8来了，Anthropic估值即将突破万亿美元",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862546.html",
+      "title": "黄金正在变成风险资产？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862573.html",
       "source": "虎嗅",
-      "time": "2026-05-29 05:47"
+      "time": "2026-05-29 08:59"
     }
   ]
 }
