@@ -1,23 +1,36 @@
 {
-  "timestamp": "2026-05-30T08:42:30.271008",
+  "timestamp": "2026-05-30T10:30:55.176666",
   "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
+    "finance": [
+      {
+        "title": "史上最大IPO，一个横跨天地的物理世界操作系统，还是一场前无古人的资本套利 ？",
+        "url": "https://36kr.com/p/3831272431593093",
+        "source": "36氪",
+        "time": "2026-05-30 10:30"
+      }
+    ],
     "industry": [],
     "tech": [
       {
         "title": "Mac mini卖断货，「断头」MacBook成了AI新宠？",
         "url": "https://36kr.com/p/3831375939018753",
         "source": "36氪",
-        "time": "2026-05-30 08:42"
+        "time": "2026-05-30 10:30"
+      },
+      {
+        "title": "硅谷大裁员，韩企争红利，揭露了AI带来的“生死问题”",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862969.html",
+        "source": "虎嗅",
+        "time": "2026-05-30 10:30"
       }
     ],
     "byd": [],
@@ -25,85 +38,73 @@
     "fitness": [],
     "other": [
       {
-        "title": "价格有优势，但产品没保障。",
-        "url": "https://36kr.com/p/3831375939018753",
+        "title": "马斯克「夸下的海口」，值2万亿美元吗？",
+        "url": "https://36kr.com/p/3831272431593093",
         "source": "36氪",
-        "time": "2026-05-30 08:42"
+        "time": "2026-05-30 10:30"
       },
       {
-        "title": "这不只是一家创业公司自身的失败，更像是一代互联网人才叙事的缩影。",
-        "url": "https://36kr.com/p/3831349885986693",
+        "title": "从40家缩到4家，“大食代”输给了大时代",
+        "url": "https://36kr.com/p/3831344483690374",
         "source": "36氪",
-        "time": "2026-05-30 08:42"
+        "time": "2026-05-30 10:30"
       },
       {
-        "title": "当美妆品牌走进运动场：欧莱雅把校园公益做成了一场“运动实验”｜最前线",
-        "url": "https://36kr.com/p/3831348302358408",
+        "title": "它没有输给对手，只是输给了滚滚向前的车轮。",
+        "url": "https://36kr.com/p/3831344483690374",
         "source": "36氪",
-        "time": "2026-05-30 08:42"
+        "time": "2026-05-30 10:30"
       },
       {
-        "title": "运动正在与美妆无限靠近。",
-        "url": "https://36kr.com/p/3831348302358408",
-        "source": "36氪",
-        "time": "2026-05-30 08:42"
-      },
-      {
-        "title": "在苏州，我一天吃了三顿面",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862954.html",
+        "title": "要不要“卸磨杀驴”？印尼陷入两难",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862964.html",
         "source": "虎嗅",
-        "time": "2026-05-30 08:42"
-      },
-      {
-        "title": "李斌的ES9时刻：高端化、盈利与下一场突围",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862958.html",
-        "source": "虎嗅",
-        "time": "2026-05-30 08:42"
+        "time": "2026-05-30 10:30"
       }
     ]
   },
   "raw_news": [
     {
+      "title": "马斯克「夸下的海口」，值2万亿美元吗？",
+      "url": "https://36kr.com/p/3831272431593093",
+      "source": "36氪",
+      "time": "2026-05-30 10:30"
+    },
+    {
+      "title": "史上最大IPO，一个横跨天地的物理世界操作系统，还是一场前无古人的资本套利 ？",
+      "url": "https://36kr.com/p/3831272431593093",
+      "source": "36氪",
+      "time": "2026-05-30 10:30"
+    },
+    {
+      "title": "从40家缩到4家，“大食代”输给了大时代",
+      "url": "https://36kr.com/p/3831344483690374",
+      "source": "36氪",
+      "time": "2026-05-30 10:30"
+    },
+    {
+      "title": "它没有输给对手，只是输给了滚滚向前的车轮。",
+      "url": "https://36kr.com/p/3831344483690374",
+      "source": "36氪",
+      "time": "2026-05-30 10:30"
+    },
+    {
       "title": "Mac mini卖断货，「断头」MacBook成了AI新宠？",
       "url": "https://36kr.com/p/3831375939018753",
       "source": "36氪",
-      "time": "2026-05-30 08:42"
+      "time": "2026-05-30 10:30"
     },
     {
-      "title": "价格有优势，但产品没保障。",
-      "url": "https://36kr.com/p/3831375939018753",
-      "source": "36氪",
-      "time": "2026-05-30 08:42"
-    },
-    {
-      "title": "这不只是一家创业公司自身的失败，更像是一代互联网人才叙事的缩影。",
-      "url": "https://36kr.com/p/3831349885986693",
-      "source": "36氪",
-      "time": "2026-05-30 08:42"
-    },
-    {
-      "title": "当美妆品牌走进运动场：欧莱雅把校园公益做成了一场“运动实验”｜最前线",
-      "url": "https://36kr.com/p/3831348302358408",
-      "source": "36氪",
-      "time": "2026-05-30 08:42"
-    },
-    {
-      "title": "运动正在与美妆无限靠近。",
-      "url": "https://36kr.com/p/3831348302358408",
-      "source": "36氪",
-      "time": "2026-05-30 08:42"
-    },
-    {
-      "title": "在苏州，我一天吃了三顿面",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862954.html",
+      "title": "要不要“卸磨杀驴”？印尼陷入两难",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862964.html",
       "source": "虎嗅",
-      "time": "2026-05-30 08:42"
+      "time": "2026-05-30 10:30"
     },
     {
-      "title": "李斌的ES9时刻：高端化、盈利与下一场突围",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862958.html",
+      "title": "硅谷大裁员，韩企争红利，揭露了AI带来的“生死问题”",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862969.html",
       "source": "虎嗅",
-      "time": "2026-05-30 08:42"
+      "time": "2026-05-30 10:30"
     }
   ]
 }
