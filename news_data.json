@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-05-30T06:11:57.900956",
-  "total": 6,
+  "timestamp": "2026-05-30T08:42:30.271008",
+  "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 4,
+    "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
@@ -14,10 +14,10 @@
     "industry": [],
     "tech": [
       {
-        "title": "王小川和李开复，领着六小虎“AI的迫降”",
-        "url": "https://36kr.com/p/3831204618477824",
+        "title": "Mac mini卖断货，「断头」MacBook成了AI新宠？",
+        "url": "https://36kr.com/p/3831375939018753",
         "source": "36氪",
-        "time": "2026-05-30 06:11"
+        "time": "2026-05-30 08:42"
       }
     ],
     "byd": [],
@@ -25,73 +25,85 @@
     "fitness": [],
     "other": [
       {
+        "title": "价格有优势，但产品没保障。",
+        "url": "https://36kr.com/p/3831375939018753",
+        "source": "36氪",
+        "time": "2026-05-30 08:42"
+      },
+      {
+        "title": "这不只是一家创业公司自身的失败，更像是一代互联网人才叙事的缩影。",
+        "url": "https://36kr.com/p/3831349885986693",
+        "source": "36氪",
+        "time": "2026-05-30 08:42"
+      },
+      {
         "title": "当美妆品牌走进运动场：欧莱雅把校园公益做成了一场“运动实验”｜最前线",
         "url": "https://36kr.com/p/3831348302358408",
         "source": "36氪",
-        "time": "2026-05-30 06:11"
+        "time": "2026-05-30 08:42"
       },
       {
         "title": "运动正在与美妆无限靠近。",
         "url": "https://36kr.com/p/3831348302358408",
         "source": "36氪",
-        "time": "2026-05-30 06:11"
+        "time": "2026-05-30 08:42"
       },
       {
-        "title": "玻璃基板产业化进展到哪了？",
-        "url": "https://36kr.com/p/3831206839477897",
-        "source": "36氪",
-        "time": "2026-05-30 06:11"
-      },
-      {
-        "title": "一场基础元件的翻身仗该是什么样子",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862951.html",
+        "title": "在苏州，我一天吃了三顿面",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862954.html",
         "source": "虎嗅",
-        "time": "2026-05-30 06:11"
+        "time": "2026-05-30 08:42"
       },
       {
-        "title": "马斯克“夸下的海口”，值2万亿美元吗？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862947.html",
+        "title": "李斌的ES9时刻：高端化、盈利与下一场突围",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862958.html",
         "source": "虎嗅",
-        "time": "2026-05-30 06:11"
+        "time": "2026-05-30 08:42"
       }
     ]
   },
   "raw_news": [
     {
+      "title": "Mac mini卖断货，「断头」MacBook成了AI新宠？",
+      "url": "https://36kr.com/p/3831375939018753",
+      "source": "36氪",
+      "time": "2026-05-30 08:42"
+    },
+    {
+      "title": "价格有优势，但产品没保障。",
+      "url": "https://36kr.com/p/3831375939018753",
+      "source": "36氪",
+      "time": "2026-05-30 08:42"
+    },
+    {
+      "title": "这不只是一家创业公司自身的失败，更像是一代互联网人才叙事的缩影。",
+      "url": "https://36kr.com/p/3831349885986693",
+      "source": "36氪",
+      "time": "2026-05-30 08:42"
+    },
+    {
       "title": "当美妆品牌走进运动场：欧莱雅把校园公益做成了一场“运动实验”｜最前线",
       "url": "https://36kr.com/p/3831348302358408",
       "source": "36氪",
-      "time": "2026-05-30 06:11"
+      "time": "2026-05-30 08:42"
     },
     {
       "title": "运动正在与美妆无限靠近。",
       "url": "https://36kr.com/p/3831348302358408",
       "source": "36氪",
-      "time": "2026-05-30 06:11"
+      "time": "2026-05-30 08:42"
     },
     {
-      "title": "王小川和李开复，领着六小虎“AI的迫降”",
-      "url": "https://36kr.com/p/3831204618477824",
-      "source": "36氪",
-      "time": "2026-05-30 06:11"
-    },
-    {
-      "title": "玻璃基板产业化进展到哪了？",
-      "url": "https://36kr.com/p/3831206839477897",
-      "source": "36氪",
-      "time": "2026-05-30 06:11"
-    },
-    {
-      "title": "一场基础元件的翻身仗该是什么样子",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862951.html",
+      "title": "在苏州，我一天吃了三顿面",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862954.html",
       "source": "虎嗅",
-      "time": "2026-05-30 06:11"
+      "time": "2026-05-30 08:42"
     },
     {
-      "title": "马斯克“夸下的海口”，值2万亿美元吗？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862947.html",
+      "title": "李斌的ES9时刻：高端化、盈利与下一场突围",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862958.html",
       "source": "虎嗅",
-      "time": "2026-05-30 06:11"
+      "time": "2026-05-30 08:42"
     }
   ]
 }
