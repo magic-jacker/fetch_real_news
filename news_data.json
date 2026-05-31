@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-30T23:48:12.435247",
+  "timestamp": "2026-05-31T02:00:02.162988",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -12,99 +12,98 @@
   "categories": {
     "finance": [
       {
-        "title": "史上最大IPO，一个横跨天地的物理世界操作系统，还是一场前无古人的资本套利 ？",
-        "url": "https://36kr.com/p/3831272431593093",
+        "title": "单签最高盈利超1.6万还会再现吗？港股创新药打新收益图鉴",
+        "url": "https://36kr.com/p/3832445782288008",
         "source": "36氪",
-        "time": "2026-05-30 23:48"
+        "time": "2026-05-31 01:59"
+      },
+      {
+        "title": "“港股打新资金的充裕程度前所未有。”",
+        "url": "https://36kr.com/p/3832445782288008",
+        "source": "36氪",
+        "time": "2026-05-31 01:59"
       }
     ],
     "industry": [],
-    "tech": [
-      {
-        "title": "Mac mini卖断货，「断头」MacBook成了AI新宠？",
-        "url": "https://36kr.com/p/3831375939018753",
-        "source": "36氪",
-        "time": "2026-05-30 23:48"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "马斯克「夸下的海口」，值2万亿美元吗？",
-        "url": "https://36kr.com/p/3831272431593093",
+        "title": "复旦学姐，估值1000亿",
+        "url": "https://36kr.com/p/3831510606473090",
         "source": "36氪",
-        "time": "2026-05-30 23:48"
+        "time": "2026-05-31 01:59"
       },
       {
-        "title": "从40家缩到4家，“大食代”输给了大时代",
-        "url": "https://36kr.com/p/3831344483690374",
+        "title": "日元沦为全球“最弱货币”？",
+        "url": "https://36kr.com/p/3832474651223942",
         "source": "36氪",
-        "time": "2026-05-30 23:48"
+        "time": "2026-05-31 01:59"
       },
       {
-        "title": "它没有输给对手，只是输给了滚滚向前的车轮。",
-        "url": "https://36kr.com/p/3831344483690374",
+        "title": "“日元已超过土耳其里拉，成为全球最弱货币”，美国布鲁金斯学会的研究员罗宾·布鲁克斯在X上的发文引发市场热议……",
+        "url": "https://36kr.com/p/3832474651223942",
         "source": "36氪",
-        "time": "2026-05-30 23:48"
+        "time": "2026-05-31 01:59"
       },
       {
-        "title": "要不要“卸磨杀驴”？印尼陷入两难",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862964.html",
+        "title": "中国的第三次红利是什么？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4863018.html",
         "source": "虎嗅",
-        "time": "2026-05-30 23:48"
+        "time": "2026-05-31 01:59"
       },
       {
-        "title": "油车替电车交了养路费？没这回事",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4863008.html",
+        "title": "长江存储冲上牌桌，闪迪最舒服的日子快到头了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862995.html",
         "source": "虎嗅",
-        "time": "2026-05-30 23:48"
+        "time": "2026-05-31 01:59"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "马斯克「夸下的海口」，值2万亿美元吗？",
-      "url": "https://36kr.com/p/3831272431593093",
+      "title": "单签最高盈利超1.6万还会再现吗？港股创新药打新收益图鉴",
+      "url": "https://36kr.com/p/3832445782288008",
       "source": "36氪",
-      "time": "2026-05-30 23:48"
+      "time": "2026-05-31 01:59"
     },
     {
-      "title": "史上最大IPO，一个横跨天地的物理世界操作系统，还是一场前无古人的资本套利 ？",
-      "url": "https://36kr.com/p/3831272431593093",
+      "title": "“港股打新资金的充裕程度前所未有。”",
+      "url": "https://36kr.com/p/3832445782288008",
       "source": "36氪",
-      "time": "2026-05-30 23:48"
+      "time": "2026-05-31 01:59"
     },
     {
-      "title": "从40家缩到4家，“大食代”输给了大时代",
-      "url": "https://36kr.com/p/3831344483690374",
+      "title": "复旦学姐，估值1000亿",
+      "url": "https://36kr.com/p/3831510606473090",
       "source": "36氪",
-      "time": "2026-05-30 23:48"
+      "time": "2026-05-31 01:59"
     },
     {
-      "title": "它没有输给对手，只是输给了滚滚向前的车轮。",
-      "url": "https://36kr.com/p/3831344483690374",
+      "title": "日元沦为全球“最弱货币”？",
+      "url": "https://36kr.com/p/3832474651223942",
       "source": "36氪",
-      "time": "2026-05-30 23:48"
+      "time": "2026-05-31 01:59"
     },
     {
-      "title": "Mac mini卖断货，「断头」MacBook成了AI新宠？",
-      "url": "https://36kr.com/p/3831375939018753",
+      "title": "“日元已超过土耳其里拉，成为全球最弱货币”，美国布鲁金斯学会的研究员罗宾·布鲁克斯在X上的发文引发市场热议……",
+      "url": "https://36kr.com/p/3832474651223942",
       "source": "36氪",
-      "time": "2026-05-30 23:48"
+      "time": "2026-05-31 01:59"
     },
     {
-      "title": "要不要“卸磨杀驴”？印尼陷入两难",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862964.html",
+      "title": "中国的第三次红利是什么？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4863018.html",
       "source": "虎嗅",
-      "time": "2026-05-30 23:48"
+      "time": "2026-05-31 01:59"
     },
     {
-      "title": "油车替电车交了养路费？没这回事",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4863008.html",
+      "title": "长江存储冲上牌桌，闪迪最舒服的日子快到头了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4862995.html",
       "source": "虎嗅",
-      "time": "2026-05-30 23:48"
+      "time": "2026-05-31 01:59"
     }
   ]
 }
