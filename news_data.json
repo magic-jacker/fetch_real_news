@@ -1,23 +1,42 @@
 {
-  "timestamp": "2026-06-01T07:26:03.452889",
-  "total": 6,
+  "timestamp": "2026-06-01T13:06:43.953035",
+  "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 4,
+    "36氪": 5,
     "钛媒体": 0,
     "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [],
+    "industry": [
+      {
+        "title": "全国第二，安徽显示驱动芯片封测龙头赴港上市",
+        "url": "https://36kr.com/p/3834566926889093",
+        "source": "36氪",
+        "time": "2026-06-01 13:06"
+      },
+      {
+        "title": "英伟达掀桌，Windows 终于迎来真AI PC",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4863340.html",
+        "source": "虎嗅",
+        "time": "2026-06-01 13:06"
+      }
+    ],
     "tech": [
       {
-        "title": "就因为会“搬砖”了，物理AI一夜爆火",
-        "url": "https://36kr.com/p/3834099877062278",
+        "title": "传统企业过度AI化：想法很好，但结果很糟",
+        "url": "https://36kr.com/p/3834465978066560",
         "source": "36氪",
-        "time": "2026-06-01 07:25"
+        "time": "2026-06-01 13:06"
+      },
+      {
+        "title": "10万亿，中国正成为AI基建狂魔",
+        "url": "https://36kr.com/p/3834567522726280",
+        "source": "36氪",
+        "time": "2026-06-01 13:06"
       }
     ],
     "byd": [],
@@ -25,73 +44,67 @@
     "fitness": [],
     "other": [
       {
-        "title": "一家公司好不好，看六一怎么安排工作就知道了。",
-        "url": "https://36kr.com/p/3834156496349061",
+        "title": "请注意，中国要发力了。",
+        "url": "https://36kr.com/p/3834567522726280",
         "source": "36氪",
-        "time": "2026-06-01 07:25"
+        "time": "2026-06-01 13:06"
       },
       {
-        "title": "“家庭友好型公司”，会成为新的雇主竞争力",
-        "url": "https://36kr.com/p/3834156496349061",
+        "title": "毛利率、净利润逐年下滑。",
+        "url": "https://36kr.com/p/3834566926889093",
         "source": "36氪",
-        "time": "2026-06-01 07:25"
+        "time": "2026-06-01 13:06"
       },
       {
-        "title": "行业仍在等待“临门一脚”",
-        "url": "https://36kr.com/p/3834156527003529",
-        "source": "36氪",
-        "time": "2026-06-01 07:25"
-      },
-      {
-        "title": "欧盟“开疆扩土”的新思路",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4863194.html",
+        "title": "Deepseek能否为中国节省1万亿美元？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4863447.html",
         "source": "虎嗅",
-        "time": "2026-06-01 07:26"
-      },
-      {
-        "title": "天涯六一归来，但互联网早已没了天真",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4863220.html",
-        "source": "虎嗅",
-        "time": "2026-06-01 07:26"
+        "time": "2026-06-01 13:06"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "就因为会“搬砖”了，物理AI一夜爆火",
-      "url": "https://36kr.com/p/3834099877062278",
+      "title": "传统企业过度AI化：想法很好，但结果很糟",
+      "url": "https://36kr.com/p/3834465978066560",
       "source": "36氪",
-      "time": "2026-06-01 07:25"
+      "time": "2026-06-01 13:06"
     },
     {
-      "title": "一家公司好不好，看六一怎么安排工作就知道了。",
-      "url": "https://36kr.com/p/3834156496349061",
+      "title": "10万亿，中国正成为AI基建狂魔",
+      "url": "https://36kr.com/p/3834567522726280",
       "source": "36氪",
-      "time": "2026-06-01 07:25"
+      "time": "2026-06-01 13:06"
     },
     {
-      "title": "“家庭友好型公司”，会成为新的雇主竞争力",
-      "url": "https://36kr.com/p/3834156496349061",
+      "title": "请注意，中国要发力了。",
+      "url": "https://36kr.com/p/3834567522726280",
       "source": "36氪",
-      "time": "2026-06-01 07:25"
+      "time": "2026-06-01 13:06"
     },
     {
-      "title": "行业仍在等待“临门一脚”",
-      "url": "https://36kr.com/p/3834156527003529",
+      "title": "全国第二，安徽显示驱动芯片封测龙头赴港上市",
+      "url": "https://36kr.com/p/3834566926889093",
       "source": "36氪",
-      "time": "2026-06-01 07:25"
+      "time": "2026-06-01 13:06"
     },
     {
-      "title": "欧盟“开疆扩土”的新思路",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4863194.html",
+      "title": "毛利率、净利润逐年下滑。",
+      "url": "https://36kr.com/p/3834566926889093",
+      "source": "36氪",
+      "time": "2026-06-01 13:06"
+    },
+    {
+      "title": "Deepseek能否为中国节省1万亿美元？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4863447.html",
       "source": "虎嗅",
-      "time": "2026-06-01 07:26"
+      "time": "2026-06-01 13:06"
     },
     {
-      "title": "天涯六一归来，但互联网早已没了天真",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4863220.html",
+      "title": "英伟达掀桌，Windows 终于迎来真AI PC",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4863340.html",
       "source": "虎嗅",
-      "time": "2026-06-01 07:26"
+      "time": "2026-06-01 13:06"
     }
   ]
 }
