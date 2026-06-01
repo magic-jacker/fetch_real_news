@@ -1,42 +1,29 @@
 {
-  "timestamp": "2026-06-01T13:06:43.953035",
+  "timestamp": "2026-06-01T19:02:16.882983",
   "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "全国第二，安徽显示驱动芯片封测龙头赴港上市",
-        "url": "https://36kr.com/p/3834566926889093",
-        "source": "36氪",
-        "time": "2026-06-01 13:06"
-      },
-      {
-        "title": "英伟达掀桌，Windows 终于迎来真AI PC",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4863340.html",
-        "source": "虎嗅",
-        "time": "2026-06-01 13:06"
-      }
-    ],
+    "industry": [],
     "tech": [
       {
         "title": "传统企业过度AI化：想法很好，但结果很糟",
         "url": "https://36kr.com/p/3834465978066560",
         "source": "36氪",
-        "time": "2026-06-01 13:06"
+        "time": "2026-06-01 19:02"
       },
       {
         "title": "10万亿，中国正成为AI基建狂魔",
         "url": "https://36kr.com/p/3834567522726280",
         "source": "36氪",
-        "time": "2026-06-01 13:06"
+        "time": "2026-06-01 19:02"
       }
     ],
     "byd": [],
@@ -44,67 +31,79 @@
     "fitness": [],
     "other": [
       {
+        "title": "把三角梅卖到西藏：快手电商里的小商家，和他们的慢生意",
+        "url": "https://36kr.com/p/3834762820662408",
+        "source": "36氪",
+        "time": "2026-06-01 19:02"
+      },
+      {
+        "title": "快手电商的底色，中小商家的信任生意经。",
+        "url": "https://36kr.com/p/3834762820662408",
+        "source": "36氪",
+        "time": "2026-06-01 19:02"
+      },
+      {
         "title": "请注意，中国要发力了。",
         "url": "https://36kr.com/p/3834567522726280",
         "source": "36氪",
-        "time": "2026-06-01 13:06"
-      },
-      {
-        "title": "毛利率、净利润逐年下滑。",
-        "url": "https://36kr.com/p/3834566926889093",
-        "source": "36氪",
-        "time": "2026-06-01 13:06"
+        "time": "2026-06-01 19:02"
       },
       {
         "title": "Deepseek能否为中国节省1万亿美元？",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4863447.html",
         "source": "虎嗅",
-        "time": "2026-06-01 13:06"
+        "time": "2026-06-01 19:02"
+      },
+      {
+        "title": "大公司谍战：一场不流血的战争",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4863432.html",
+        "source": "虎嗅",
+        "time": "2026-06-01 19:02"
       }
     ]
   },
   "raw_news": [
     {
+      "title": "把三角梅卖到西藏：快手电商里的小商家，和他们的慢生意",
+      "url": "https://36kr.com/p/3834762820662408",
+      "source": "36氪",
+      "time": "2026-06-01 19:02"
+    },
+    {
+      "title": "快手电商的底色，中小商家的信任生意经。",
+      "url": "https://36kr.com/p/3834762820662408",
+      "source": "36氪",
+      "time": "2026-06-01 19:02"
+    },
+    {
       "title": "传统企业过度AI化：想法很好，但结果很糟",
       "url": "https://36kr.com/p/3834465978066560",
       "source": "36氪",
-      "time": "2026-06-01 13:06"
+      "time": "2026-06-01 19:02"
     },
     {
       "title": "10万亿，中国正成为AI基建狂魔",
       "url": "https://36kr.com/p/3834567522726280",
       "source": "36氪",
-      "time": "2026-06-01 13:06"
+      "time": "2026-06-01 19:02"
     },
     {
       "title": "请注意，中国要发力了。",
       "url": "https://36kr.com/p/3834567522726280",
       "source": "36氪",
-      "time": "2026-06-01 13:06"
-    },
-    {
-      "title": "全国第二，安徽显示驱动芯片封测龙头赴港上市",
-      "url": "https://36kr.com/p/3834566926889093",
-      "source": "36氪",
-      "time": "2026-06-01 13:06"
-    },
-    {
-      "title": "毛利率、净利润逐年下滑。",
-      "url": "https://36kr.com/p/3834566926889093",
-      "source": "36氪",
-      "time": "2026-06-01 13:06"
+      "time": "2026-06-01 19:02"
     },
     {
       "title": "Deepseek能否为中国节省1万亿美元？",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4863447.html",
       "source": "虎嗅",
-      "time": "2026-06-01 13:06"
+      "time": "2026-06-01 19:02"
     },
     {
-      "title": "英伟达掀桌，Windows 终于迎来真AI PC",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4863340.html",
+      "title": "大公司谍战：一场不流血的战争",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4863432.html",
       "source": "虎嗅",
-      "time": "2026-06-01 13:06"
+      "time": "2026-06-01 19:02"
     }
   ]
 }
