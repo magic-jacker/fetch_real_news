@@ -1,97 +1,97 @@
 {
-  "timestamp": "2026-06-01T23:47:14.758713",
+  "timestamp": "2026-06-02T02:09:29.545026",
   "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 4,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [],
-    "tech": [
+    "industry": [
       {
-        "title": "英伟达的AI基础设施版图大幅扩张。",
-        "url": "https://36kr.com/p/3834628914295170",
-        "source": "36氪",
-        "time": "2026-06-01 23:47"
+        "title": "价格战已死，新能源车集体反水",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4863590.html",
+        "source": "虎嗅",
+        "time": "2026-06-02 02:09"
       }
     ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "霸王茶姬一季报拆解：调整期后，如今为何反弹？",
-        "url": "https://36kr.com/p/3834631914386057",
+        "title": "西安商场餐饮调改，都卷成这样了？",
+        "url": "https://36kr.com/p/3835391527728262",
         "source": "36氪",
-        "time": "2026-06-01 23:47"
+        "time": "2026-06-02 02:09"
       },
       {
-        "title": "霸王茶姬从拓店转精耕，业绩回暖，海外高速增长",
-        "url": "https://36kr.com/p/3834631914386057",
+        "title": "餐饮调改，购物中心的“必答题”怎么做？",
+        "url": "https://36kr.com/p/3835391527728262",
         "source": "36氪",
-        "time": "2026-06-01 23:47"
+        "time": "2026-06-02 02:09"
       },
       {
-        "title": "黄仁勋突袭英特尔AMD腹地，联手王兴兴，打平三大国产模型",
-        "url": "https://36kr.com/p/3834628914295170",
+        "title": "西部第4个，国家级都市圈又扩容了",
+        "url": "https://36kr.com/p/3835391224132739",
         "source": "36氪",
-        "time": "2026-06-01 23:47"
+        "time": "2026-06-02 02:09"
       },
       {
-        "title": "Deepseek能否为中国节省1万亿美元？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4863447.html",
+        "title": "36氪首发｜原小天才团队做老年硬件，切入居家看护赛道，即将进入海外市场",
+        "url": "https://36kr.com/p/3835387558065541",
+        "source": "36氪",
+        "time": "2026-06-02 02:09"
+      },
+      {
+        "title": "我们这代人正在经历的终极大脱钩",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4863556.html",
         "source": "虎嗅",
-        "time": "2026-06-01 23:47"
-      },
-      {
-        "title": "大公司谍战：一场不流血的战争",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4863432.html",
-        "source": "虎嗅",
-        "time": "2026-06-01 23:47"
+        "time": "2026-06-02 02:09"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "霸王茶姬一季报拆解：调整期后，如今为何反弹？",
-      "url": "https://36kr.com/p/3834631914386057",
+      "title": "西安商场餐饮调改，都卷成这样了？",
+      "url": "https://36kr.com/p/3835391527728262",
       "source": "36氪",
-      "time": "2026-06-01 23:47"
+      "time": "2026-06-02 02:09"
     },
     {
-      "title": "霸王茶姬从拓店转精耕，业绩回暖，海外高速增长",
-      "url": "https://36kr.com/p/3834631914386057",
+      "title": "餐饮调改，购物中心的“必答题”怎么做？",
+      "url": "https://36kr.com/p/3835391527728262",
       "source": "36氪",
-      "time": "2026-06-01 23:47"
+      "time": "2026-06-02 02:09"
     },
     {
-      "title": "黄仁勋突袭英特尔AMD腹地，联手王兴兴，打平三大国产模型",
-      "url": "https://36kr.com/p/3834628914295170",
+      "title": "西部第4个，国家级都市圈又扩容了",
+      "url": "https://36kr.com/p/3835391224132739",
       "source": "36氪",
-      "time": "2026-06-01 23:47"
+      "time": "2026-06-02 02:09"
     },
     {
-      "title": "英伟达的AI基础设施版图大幅扩张。",
-      "url": "https://36kr.com/p/3834628914295170",
+      "title": "36氪首发｜原小天才团队做老年硬件，切入居家看护赛道，即将进入海外市场",
+      "url": "https://36kr.com/p/3835387558065541",
       "source": "36氪",
-      "time": "2026-06-01 23:47"
+      "time": "2026-06-02 02:09"
     },
     {
-      "title": "Deepseek能否为中国节省1万亿美元？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4863447.html",
+      "title": "我们这代人正在经历的终极大脱钩",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4863556.html",
       "source": "虎嗅",
-      "time": "2026-06-01 23:47"
+      "time": "2026-06-02 02:09"
     },
     {
-      "title": "大公司谍战：一场不流血的战争",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4863432.html",
+      "title": "价格战已死，新能源车集体反水",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4863590.html",
       "source": "虎嗅",
-      "time": "2026-06-01 23:47"
+      "time": "2026-06-02 02:09"
     }
   ]
 }
