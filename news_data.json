@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-04T09:06:14.203921",
-  "total": 7,
+  "timestamp": "2026-06-04T12:23:29.750701",
+  "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 5,
+    "36氪": 4,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
@@ -12,99 +12,86 @@
   "categories": {
     "finance": [
       {
-        "title": "具身智能背后的“隐形亚军”，要IPO了",
-        "url": "https://36kr.com/p/3838544190130694",
+        "title": "像极了1998，美股已无恐慌，只剩FOMO",
+        "url": "https://36kr.com/p/3838806958377220",
         "source": "36氪",
-        "time": "2026-06-04 09:06"
+        "time": "2026-06-04 12:23"
       }
     ],
     "industry": [],
-    "tech": [
-      {
-        "title": "Spotify all in AI，机会还是泡沫？",
-        "url": "https://36kr.com/p/3838490506692870",
-        "source": "36氪",
-        "time": "2026-06-04 09:06"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "东鹏大咖赶上星巴克，即饮咖啡老二快要换人了",
-        "url": "https://36kr.com/p/3838560440928519",
+        "title": "杀进商场做精致小正餐，“价格刺客”要翻红？",
+        "url": "https://36kr.com/p/3838791524731139",
         "source": "36氪",
-        "time": "2026-06-04 09:06"
+        "time": "2026-06-04 12:23"
       },
       {
-        "title": "东鹏不是用咖啡品牌的逻辑扩张，而是用更便宜的大规格产品、下沉渠道和功能饮料打法，把即饮咖啡重新推向更广泛的消费场景。",
-        "url": "https://36kr.com/p/3838560440928519",
+        "title": "七巨头掉队，宽度叙事存疑",
+        "url": "https://36kr.com/p/3838806958377220",
         "source": "36氪",
-        "time": "2026-06-04 09:06"
+        "time": "2026-06-04 12:23"
       },
       {
-        "title": "90后浙江“厂二代”，要去港交所敲钟了。",
-        "url": "https://36kr.com/p/3838544190130694",
+        "title": "可灵头上缺了一朵遮风挡雨的云",
+        "url": "https://36kr.com/p/3838758058019336",
         "source": "36氪",
-        "time": "2026-06-04 09:06"
+        "time": "2026-06-04 12:23"
       },
       {
-        "title": "欧洲的十字路口：五国联合逼宫，欧盟表态对华贸易已\"不可持续\"",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4864432.html",
+        "title": "下南洋：穷人活路与老钱生意",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4864512.html",
         "source": "虎嗅",
-        "time": "2026-06-04 09:06"
+        "time": "2026-06-04 12:23"
       },
       {
-        "title": "张一鸣身家逼近千亿美元，跻身亚洲第二大富豪",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4864393.html",
+        "title": "用早死三十年换万亿美元估值，硅谷又开始奖励那些不要命的人",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4864534.html",
         "source": "虎嗅",
-        "time": "2026-06-04 09:06"
+        "time": "2026-06-04 12:23"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "东鹏大咖赶上星巴克，即饮咖啡老二快要换人了",
-      "url": "https://36kr.com/p/3838560440928519",
+      "title": "杀进商场做精致小正餐，“价格刺客”要翻红？",
+      "url": "https://36kr.com/p/3838791524731139",
       "source": "36氪",
-      "time": "2026-06-04 09:06"
+      "time": "2026-06-04 12:23"
     },
     {
-      "title": "东鹏不是用咖啡品牌的逻辑扩张，而是用更便宜的大规格产品、下沉渠道和功能饮料打法，把即饮咖啡重新推向更广泛的消费场景。",
-      "url": "https://36kr.com/p/3838560440928519",
+      "title": "像极了1998，美股已无恐慌，只剩FOMO",
+      "url": "https://36kr.com/p/3838806958377220",
       "source": "36氪",
-      "time": "2026-06-04 09:06"
+      "time": "2026-06-04 12:23"
     },
     {
-      "title": "具身智能背后的“隐形亚军”，要IPO了",
-      "url": "https://36kr.com/p/3838544190130694",
+      "title": "七巨头掉队，宽度叙事存疑",
+      "url": "https://36kr.com/p/3838806958377220",
       "source": "36氪",
-      "time": "2026-06-04 09:06"
+      "time": "2026-06-04 12:23"
     },
     {
-      "title": "90后浙江“厂二代”，要去港交所敲钟了。",
-      "url": "https://36kr.com/p/3838544190130694",
+      "title": "可灵头上缺了一朵遮风挡雨的云",
+      "url": "https://36kr.com/p/3838758058019336",
       "source": "36氪",
-      "time": "2026-06-04 09:06"
+      "time": "2026-06-04 12:23"
     },
     {
-      "title": "Spotify all in AI，机会还是泡沫？",
-      "url": "https://36kr.com/p/3838490506692870",
-      "source": "36氪",
-      "time": "2026-06-04 09:06"
-    },
-    {
-      "title": "欧洲的十字路口：五国联合逼宫，欧盟表态对华贸易已\"不可持续\"",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4864432.html",
+      "title": "下南洋：穷人活路与老钱生意",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4864512.html",
       "source": "虎嗅",
-      "time": "2026-06-04 09:06"
+      "time": "2026-06-04 12:23"
     },
     {
-      "title": "张一鸣身家逼近千亿美元，跻身亚洲第二大富豪",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4864393.html",
+      "title": "用早死三十年换万亿美元估值，硅谷又开始奖励那些不要命的人",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4864534.html",
       "source": "虎嗅",
-      "time": "2026-06-04 09:06"
+      "time": "2026-06-04 12:23"
     }
   ]
 }
