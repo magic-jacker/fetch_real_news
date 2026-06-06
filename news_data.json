@@ -1,48 +1,97 @@
 {
-  "timestamp": "2026-06-06T11:50:57.739878",
-  "total": 2,
+  "timestamp": "2026-06-06T13:00:26.551052",
+  "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "Spring 创始人重回一线做 AI 框架，却说：这是人类亲自选择的最后一代框架",
+        "url": "https://36kr.com/p/3836956769236360",
+        "source": "36氪",
+        "time": "2026-06-06 13:00"
+      },
+      {
+        "title": "“果链”需求叠加AI风口",
+        "url": "https://36kr.com/p/3837239550981251",
+        "source": "36氪",
+        "time": "2026-06-06 13:00"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "暴力回撤，碳酸锂咋了？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865026.html",
-        "source": "虎嗅",
-        "time": "2026-06-06 11:50"
+        "title": "专卖大牌尾货的好特卖，怎么也盯上了盒马小象的生意？",
+        "url": "https://36kr.com/p/3837370706577669",
+        "source": "36氪",
+        "time": "2026-06-06 13:00"
       },
       {
-        "title": "马斯克：创办SpaceX时，我已做好输光一切的准备",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865007.html",
+        "title": "模型跑得这么快，Embabel 会不会过时？",
+        "url": "https://36kr.com/p/3836956769236360",
+        "source": "36氪",
+        "time": "2026-06-06 13:00"
+      },
+      {
+        "title": "创始人初中学历创业，19年干出一家370亿散热龙头",
+        "url": "https://36kr.com/p/3837239550981251",
+        "source": "36氪",
+        "time": "2026-06-06 13:00"
+      },
+      {
+        "title": "胡彦斌手搓粉丝社区App，Vibe Coding的能力边界在哪？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865045.html",
         "source": "虎嗅",
-        "time": "2026-06-06 11:50"
+        "time": "2026-06-06 13:00"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "暴力回撤，碳酸锂咋了？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865026.html",
-      "source": "虎嗅",
-      "time": "2026-06-06 11:50"
+      "title": "专卖大牌尾货的好特卖，怎么也盯上了盒马小象的生意？",
+      "url": "https://36kr.com/p/3837370706577669",
+      "source": "36氪",
+      "time": "2026-06-06 13:00"
     },
     {
-      "title": "马斯克：创办SpaceX时，我已做好输光一切的准备",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865007.html",
+      "title": "Spring 创始人重回一线做 AI 框架，却说：这是人类亲自选择的最后一代框架",
+      "url": "https://36kr.com/p/3836956769236360",
+      "source": "36氪",
+      "time": "2026-06-06 13:00"
+    },
+    {
+      "title": "模型跑得这么快，Embabel 会不会过时？",
+      "url": "https://36kr.com/p/3836956769236360",
+      "source": "36氪",
+      "time": "2026-06-06 13:00"
+    },
+    {
+      "title": "创始人初中学历创业，19年干出一家370亿散热龙头",
+      "url": "https://36kr.com/p/3837239550981251",
+      "source": "36氪",
+      "time": "2026-06-06 13:00"
+    },
+    {
+      "title": "“果链”需求叠加AI风口",
+      "url": "https://36kr.com/p/3837239550981251",
+      "source": "36氪",
+      "time": "2026-06-06 13:00"
+    },
+    {
+      "title": "胡彦斌手搓粉丝社区App，Vibe Coding的能力边界在哪？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865045.html",
       "source": "虎嗅",
-      "time": "2026-06-06 11:50"
+      "time": "2026-06-06 13:00"
     }
   ]
 }
