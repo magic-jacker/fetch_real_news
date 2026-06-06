@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-06T10:27:06.418100",
-  "total": 7,
+  "timestamp": "2026-06-06T11:50:57.739878",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -12,98 +12,37 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "Spring 创始人重回一线做 AI 框架，却说：这是人类亲自选择的最后一代框架",
-        "url": "https://36kr.com/p/3836956769236360",
-        "source": "36氪",
-        "time": "2026-06-06 10:27"
-      },
-      {
-        "title": "“果链”需求叠加AI风口",
-        "url": "https://36kr.com/p/3837239550981251",
-        "source": "36氪",
-        "time": "2026-06-06 10:27"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "模型跑得这么快，Embabel 会不会过时？",
-        "url": "https://36kr.com/p/3836956769236360",
-        "source": "36氪",
-        "time": "2026-06-06 10:27"
-      },
-      {
-        "title": "创始人初中学历创业，19年干出一家370亿散热龙头",
-        "url": "https://36kr.com/p/3837239550981251",
-        "source": "36氪",
-        "time": "2026-06-06 10:27"
-      },
-      {
-        "title": "金价崩跌戳破暴富梦，投资者情绪撕裂，金店：价跌了咋没人抢了？",
-        "url": "https://36kr.com/p/3836927619642502",
-        "source": "36氪",
-        "time": "2026-06-06 10:27"
-      },
-      {
         "title": "暴力回撤，碳酸锂咋了？",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865026.html",
         "source": "虎嗅",
-        "time": "2026-06-06 10:27"
+        "time": "2026-06-06 11:50"
       },
       {
-        "title": "超市跟风模仿自有品牌，如何破解同质化问题？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865014.html",
+        "title": "马斯克：创办SpaceX时，我已做好输光一切的准备",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865007.html",
         "source": "虎嗅",
-        "time": "2026-06-06 10:27"
+        "time": "2026-06-06 11:50"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "Spring 创始人重回一线做 AI 框架，却说：这是人类亲自选择的最后一代框架",
-      "url": "https://36kr.com/p/3836956769236360",
-      "source": "36氪",
-      "time": "2026-06-06 10:27"
-    },
-    {
-      "title": "模型跑得这么快，Embabel 会不会过时？",
-      "url": "https://36kr.com/p/3836956769236360",
-      "source": "36氪",
-      "time": "2026-06-06 10:27"
-    },
-    {
-      "title": "创始人初中学历创业，19年干出一家370亿散热龙头",
-      "url": "https://36kr.com/p/3837239550981251",
-      "source": "36氪",
-      "time": "2026-06-06 10:27"
-    },
-    {
-      "title": "“果链”需求叠加AI风口",
-      "url": "https://36kr.com/p/3837239550981251",
-      "source": "36氪",
-      "time": "2026-06-06 10:27"
-    },
-    {
-      "title": "金价崩跌戳破暴富梦，投资者情绪撕裂，金店：价跌了咋没人抢了？",
-      "url": "https://36kr.com/p/3836927619642502",
-      "source": "36氪",
-      "time": "2026-06-06 10:27"
-    },
-    {
       "title": "暴力回撤，碳酸锂咋了？",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865026.html",
       "source": "虎嗅",
-      "time": "2026-06-06 10:27"
+      "time": "2026-06-06 11:50"
     },
     {
-      "title": "超市跟风模仿自有品牌，如何破解同质化问题？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865014.html",
+      "title": "马斯克：创办SpaceX时，我已做好输光一切的准备",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865007.html",
       "source": "虎嗅",
-      "time": "2026-06-06 10:27"
+      "time": "2026-06-06 11:50"
     }
   ]
 }
