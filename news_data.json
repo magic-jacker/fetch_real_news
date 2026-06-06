@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-06T01:59:22.048995",
+  "timestamp": "2026-06-06T05:52:53.734219",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -11,19 +11,32 @@
   },
   "categories": {
     "finance": [],
-    "industry": [],
+    "industry": [
+      {
+        "title": "被AI带飞的小零件，正在复制存储芯片的神话。",
+        "url": "https://36kr.com/p/3841145635031298",
+        "source": "36氪",
+        "time": "2026-06-06 05:52"
+      }
+    ],
     "tech": [
       {
-        "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
-        "url": "https://36kr.com/p/3840996342073604",
+        "title": "姚顺雨，给出腾讯AI“隆中对”",
+        "url": "https://36kr.com/p/3841107831503491",
         "source": "36氪",
-        "time": "2026-06-06 01:59"
+        "time": "2026-06-06 05:52"
       },
       {
-        "title": "互动影游2026：离开“爆款叙事”，AI接力新逻辑",
-        "url": "https://36kr.com/p/3837468468070664",
+        "title": "腾讯AI的下半场，还得看微信。",
+        "url": "https://36kr.com/p/3841107831503491",
         "source": "36氪",
-        "time": "2026-06-06 01:59"
+        "time": "2026-06-06 05:52"
+      },
+      {
+        "title": "韶音需要和华为们死磕，才能活下去",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4864979.html",
+        "source": "虎嗅",
+        "time": "2026-06-06 05:52"
       }
     ],
     "byd": [],
@@ -31,79 +44,67 @@
     "fitness": [],
     "other": [
       {
-        "title": "老牌陕企和氏乳业，走不出秦岭？",
-        "url": "https://36kr.com/p/3838869363509769",
+        "title": "MLCC需求暴涨，或成为“下一个存储”",
+        "url": "https://36kr.com/p/3841145635031298",
         "source": "36氪",
-        "time": "2026-06-06 01:59"
+        "time": "2026-06-06 05:52"
       },
       {
-        "title": "老牌陕企深陷内卷与渠道之困。",
-        "url": "https://36kr.com/p/3838869363509769",
+        "title": "暴涨50%，89岁“药神”刚刚敲钟了",
+        "url": "https://36kr.com/p/3839693097028102",
         "source": "36氪",
-        "time": "2026-06-06 01:59"
+        "time": "2026-06-06 05:52"
       },
       {
-        "title": "豆包推出付费后月活减少610万。",
-        "url": "https://36kr.com/p/3840996342073604",
-        "source": "36氪",
-        "time": "2026-06-06 01:59"
-      },
-      {
-        "title": "这届大学生，把大学过成了高三",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4864714.html",
+        "title": "库克送Siri最后一程",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4864973.html",
         "source": "虎嗅",
-        "time": "2026-06-06 01:59"
-      },
-      {
-        "title": "德国的麻烦会逐渐多起来",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4864946.html",
-        "source": "虎嗅",
-        "time": "2026-06-06 01:59"
+        "time": "2026-06-06 05:52"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "老牌陕企和氏乳业，走不出秦岭？",
-      "url": "https://36kr.com/p/3838869363509769",
+      "title": "姚顺雨，给出腾讯AI“隆中对”",
+      "url": "https://36kr.com/p/3841107831503491",
       "source": "36氪",
-      "time": "2026-06-06 01:59"
+      "time": "2026-06-06 05:52"
     },
     {
-      "title": "老牌陕企深陷内卷与渠道之困。",
-      "url": "https://36kr.com/p/3838869363509769",
+      "title": "腾讯AI的下半场，还得看微信。",
+      "url": "https://36kr.com/p/3841107831503491",
       "source": "36氪",
-      "time": "2026-06-06 01:59"
+      "time": "2026-06-06 05:52"
     },
     {
-      "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
-      "url": "https://36kr.com/p/3840996342073604",
+      "title": "MLCC需求暴涨，或成为“下一个存储”",
+      "url": "https://36kr.com/p/3841145635031298",
       "source": "36氪",
-      "time": "2026-06-06 01:59"
+      "time": "2026-06-06 05:52"
     },
     {
-      "title": "豆包推出付费后月活减少610万。",
-      "url": "https://36kr.com/p/3840996342073604",
+      "title": "被AI带飞的小零件，正在复制存储芯片的神话。",
+      "url": "https://36kr.com/p/3841145635031298",
       "source": "36氪",
-      "time": "2026-06-06 01:59"
+      "time": "2026-06-06 05:52"
     },
     {
-      "title": "互动影游2026：离开“爆款叙事”，AI接力新逻辑",
-      "url": "https://36kr.com/p/3837468468070664",
+      "title": "暴涨50%，89岁“药神”刚刚敲钟了",
+      "url": "https://36kr.com/p/3839693097028102",
       "source": "36氪",
-      "time": "2026-06-06 01:59"
+      "time": "2026-06-06 05:52"
     },
     {
-      "title": "这届大学生，把大学过成了高三",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4864714.html",
+      "title": "库克送Siri最后一程",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4864973.html",
       "source": "虎嗅",
-      "time": "2026-06-06 01:59"
+      "time": "2026-06-06 05:52"
     },
     {
-      "title": "德国的麻烦会逐渐多起来",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4864946.html",
+      "title": "韶音需要和华为们死磕，才能活下去",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4864979.html",
       "source": "虎嗅",
-      "time": "2026-06-06 01:59"
+      "time": "2026-06-06 05:52"
     }
   ]
 }
