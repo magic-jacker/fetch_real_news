@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-06T08:19:23.836688",
-  "total": 5,
+  "timestamp": "2026-06-06T10:27:06.418100",
+  "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 3,
+    "36氪": 5,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
@@ -14,10 +14,16 @@
     "industry": [],
     "tech": [
       {
-        "title": "AI超连接时代：AI向“光”飞奔？",
-        "url": "https://36kr.com/p/3837341207213186",
+        "title": "Spring 创始人重回一线做 AI 框架，却说：这是人类亲自选择的最后一代框架",
+        "url": "https://36kr.com/p/3836956769236360",
         "source": "36氪",
-        "time": "2026-06-06 08:19"
+        "time": "2026-06-06 10:27"
+      },
+      {
+        "title": "“果链”需求叠加AI风口",
+        "url": "https://36kr.com/p/3837239550981251",
+        "source": "36氪",
+        "time": "2026-06-06 10:27"
       }
     ],
     "byd": [],
@@ -25,61 +31,79 @@
     "fitness": [],
     "other": [
       {
-        "title": "中国车企，正在海外“抄底”工厂",
-        "url": "https://36kr.com/p/3836927295812743",
+        "title": "模型跑得这么快，Embabel 会不会过时？",
+        "url": "https://36kr.com/p/3836956769236360",
         "source": "36氪",
-        "time": "2026-06-06 08:19"
+        "time": "2026-06-06 10:27"
       },
       {
-        "title": "全球汽车产业的“剧本”，变了！",
-        "url": "https://36kr.com/p/3836927295812743",
+        "title": "创始人初中学历创业，19年干出一家370亿散热龙头",
+        "url": "https://36kr.com/p/3837239550981251",
         "source": "36氪",
-        "time": "2026-06-06 08:19"
+        "time": "2026-06-06 10:27"
       },
       {
-        "title": "这届大学生，把大学过成了高三",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4864714.html",
-        "source": "虎嗅",
-        "time": "2026-06-06 08:19"
+        "title": "金价崩跌戳破暴富梦，投资者情绪撕裂，金店：价跌了咋没人抢了？",
+        "url": "https://36kr.com/p/3836927619642502",
+        "source": "36氪",
+        "time": "2026-06-06 10:27"
       },
       {
-        "title": "金智秀能帮萨洛蒙“反超”lululemon？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4864997.html",
+        "title": "暴力回撤，碳酸锂咋了？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865026.html",
         "source": "虎嗅",
-        "time": "2026-06-06 08:19"
+        "time": "2026-06-06 10:27"
+      },
+      {
+        "title": "超市跟风模仿自有品牌，如何破解同质化问题？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865014.html",
+        "source": "虎嗅",
+        "time": "2026-06-06 10:27"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "AI超连接时代：AI向“光”飞奔？",
-      "url": "https://36kr.com/p/3837341207213186",
+      "title": "Spring 创始人重回一线做 AI 框架，却说：这是人类亲自选择的最后一代框架",
+      "url": "https://36kr.com/p/3836956769236360",
       "source": "36氪",
-      "time": "2026-06-06 08:19"
+      "time": "2026-06-06 10:27"
     },
     {
-      "title": "中国车企，正在海外“抄底”工厂",
-      "url": "https://36kr.com/p/3836927295812743",
+      "title": "模型跑得这么快，Embabel 会不会过时？",
+      "url": "https://36kr.com/p/3836956769236360",
       "source": "36氪",
-      "time": "2026-06-06 08:19"
+      "time": "2026-06-06 10:27"
     },
     {
-      "title": "全球汽车产业的“剧本”，变了！",
-      "url": "https://36kr.com/p/3836927295812743",
+      "title": "创始人初中学历创业，19年干出一家370亿散热龙头",
+      "url": "https://36kr.com/p/3837239550981251",
       "source": "36氪",
-      "time": "2026-06-06 08:19"
+      "time": "2026-06-06 10:27"
     },
     {
-      "title": "这届大学生，把大学过成了高三",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4864714.html",
+      "title": "“果链”需求叠加AI风口",
+      "url": "https://36kr.com/p/3837239550981251",
+      "source": "36氪",
+      "time": "2026-06-06 10:27"
+    },
+    {
+      "title": "金价崩跌戳破暴富梦，投资者情绪撕裂，金店：价跌了咋没人抢了？",
+      "url": "https://36kr.com/p/3836927619642502",
+      "source": "36氪",
+      "time": "2026-06-06 10:27"
+    },
+    {
+      "title": "暴力回撤，碳酸锂咋了？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865026.html",
       "source": "虎嗅",
-      "time": "2026-06-06 08:19"
+      "time": "2026-06-06 10:27"
     },
     {
-      "title": "金智秀能帮萨洛蒙“反超”lululemon？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4864997.html",
+      "title": "超市跟风模仿自有品牌，如何破解同质化问题？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865014.html",
       "source": "虎嗅",
-      "time": "2026-06-06 08:19"
+      "time": "2026-06-06 10:27"
     }
   ]
 }
