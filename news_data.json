@@ -1,29 +1,42 @@
 {
-  "timestamp": "2026-06-07T02:04:45.303193",
-  "total": 4,
+  "timestamp": "2026-06-07T06:45:04.931921",
+  "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 3,
+    "36氪": 5,
     "钛媒体": 0,
     "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [],
-    "tech": [
+    "industry": [
       {
-        "title": "读了这四本书，你会更懂 AI 背后的逻辑学",
-        "url": "https://36kr.com/p/3841038810745351",
+        "title": "东北985，挤满机器人投资人",
+        "url": "https://36kr.com/p/3842492136884743",
         "source": "36氪",
-        "time": "2026-06-07 02:04"
+        "time": "2026-06-07 06:44"
       },
       {
-        "title": "黄仁勋劝年轻人去看电工、水管工、技工等职业，AI时代最不缺程序员",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865078.html",
-        "source": "虎嗅",
-        "time": "2026-06-07 02:04"
+        "title": "突发：OpenAI芯片元老加入Anthropic",
+        "url": "https://36kr.com/p/3842475940268552",
+        "source": "36氪",
+        "time": "2026-06-07 06:44"
+      }
+    ],
+    "tech": [
+      {
+        "title": "万亿美元AI公司，面试时禁止使用AI",
+        "url": "https://36kr.com/p/3842590079912448",
+        "source": "36氪",
+        "time": "2026-06-07 06:44"
+      },
+      {
+        "title": "特斯拉、谷歌、SpaceX都是他的老东家。",
+        "url": "https://36kr.com/p/3842475940268552",
+        "source": "36氪",
+        "time": "2026-06-07 06:44"
       }
     ],
     "byd": [],
@@ -31,43 +44,55 @@
     "fitness": [],
     "other": [
       {
-        "title": "中美市值前十：一张并不对等的榜单",
-        "url": "https://36kr.com/p/3839493392026112",
+        "title": "“规格严格，功夫到家。”",
+        "url": "https://36kr.com/p/3842492136884743",
         "source": "36氪",
-        "time": "2026-06-07 02:04"
+        "time": "2026-06-07 06:44"
       },
       {
-        "title": "视频模型巨大的“隐形成本”，没人告诉你",
-        "url": "https://36kr.com/p/3841529149311488",
-        "source": "36氪",
-        "time": "2026-06-07 02:04"
+        "title": "一位77级大学生目睹几代人的命运, 感慨万千",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865089.html",
+        "source": "虎嗅",
+        "time": "2026-06-07 06:45"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "中美市值前十：一张并不对等的榜单",
-      "url": "https://36kr.com/p/3839493392026112",
+      "title": "万亿美元AI公司，面试时禁止使用AI",
+      "url": "https://36kr.com/p/3842590079912448",
       "source": "36氪",
-      "time": "2026-06-07 02:04"
+      "time": "2026-06-07 06:44"
     },
     {
-      "title": "读了这四本书，你会更懂 AI 背后的逻辑学",
-      "url": "https://36kr.com/p/3841038810745351",
+      "title": "东北985，挤满机器人投资人",
+      "url": "https://36kr.com/p/3842492136884743",
       "source": "36氪",
-      "time": "2026-06-07 02:04"
+      "time": "2026-06-07 06:44"
     },
     {
-      "title": "视频模型巨大的“隐形成本”，没人告诉你",
-      "url": "https://36kr.com/p/3841529149311488",
+      "title": "“规格严格，功夫到家。”",
+      "url": "https://36kr.com/p/3842492136884743",
       "source": "36氪",
-      "time": "2026-06-07 02:04"
+      "time": "2026-06-07 06:44"
     },
     {
-      "title": "黄仁勋劝年轻人去看电工、水管工、技工等职业，AI时代最不缺程序员",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865078.html",
+      "title": "突发：OpenAI芯片元老加入Anthropic",
+      "url": "https://36kr.com/p/3842475940268552",
+      "source": "36氪",
+      "time": "2026-06-07 06:44"
+    },
+    {
+      "title": "特斯拉、谷歌、SpaceX都是他的老东家。",
+      "url": "https://36kr.com/p/3842475940268552",
+      "source": "36氪",
+      "time": "2026-06-07 06:44"
+    },
+    {
+      "title": "一位77级大学生目睹几代人的命运, 感慨万千",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865089.html",
       "source": "虎嗅",
-      "time": "2026-06-07 02:04"
+      "time": "2026-06-07 06:45"
     }
   ]
 }
