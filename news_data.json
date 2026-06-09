@@ -1,85 +1,110 @@
 {
-  "timestamp": "2026-06-09T01:50:11.777298",
-  "total": 5,
+  "timestamp": "2026-06-09T05:56:31.516485",
+  "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
-      {
-        "title": "刚刚，OpenAI官宣提交IPO申请，最快或于秋季上市",
-        "url": "https://36kr.com/p/3845246677748229",
-        "source": "36氪",
-        "time": "2026-06-09 01:49"
-      },
-      {
-        "title": "抢跑IPO：OpenAI、Anthropic谁先敲钟？",
-        "url": "https://36kr.com/p/3845246677748229",
-        "source": "36氪",
-        "time": "2026-06-09 01:49"
-      }
-    ],
+    "finance": [],
     "industry": [],
     "tech": [
       {
-        "title": "奥特曼认输：全球第一，根本不在OpenAI",
-        "url": "https://36kr.com/p/3845259817028103",
+        "title": "一家深耕外贸SaaS二十多年的企业，如何用Agent跑通从获客到成交的全链路？富通天下将腾讯云ClawPro、智能体开发平台ADP与CodeBuddy深度接入业务，让Agent替业务员做背调、判线索、生成报价、24小时多语种自动回复。6万家外贸企业接入后，成交转化率提升100%。",
+        "url": "https://36kr.com/p/3844402952391177",
         "source": "36氪",
-        "time": "2026-06-09 01:49"
+        "time": "2026-06-09 05:56"
       },
       {
-        "title": "奥特曼亲口承认，OpenAI内部token消费冠军月烧1000亿个，还不是全球第一。",
-        "url": "https://36kr.com/p/3845259817028103",
+        "title": "下一代企业AI平台，需要怎样的Agent？",
+        "url": "https://36kr.com/p/3845399248439553",
         "source": "36氪",
-        "time": "2026-06-09 01:49"
+        "time": "2026-06-09 05:56"
       },
       {
-        "title": "坏了，苹果 AI 真成了？OS 27 上手体验",
-        "url": "https://36kr.com/p/3845265512007940",
-        "source": "36氪",
-        "time": "2026-06-09 01:49"
+        "title": "微信AI这一步，正在重排中国AI的入口战",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865532.html",
+        "source": "虎嗅",
+        "time": "2026-06-09 05:56"
       }
     ],
     "byd": [],
-    "tencent": [],
+    "tencent": [
+      {
+        "title": "微信agent发出“英雄令”，互联网半壁江山响应",
+        "url": "https://36kr.com/p/3845399354870020",
+        "source": "36氪",
+        "time": "2026-06-09 05:56"
+      }
+    ],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "24小时在线的Agent，正批量为外贸企业送来订单",
+        "url": "https://36kr.com/p/3844402952391177",
+        "source": "36氪",
+        "time": "2026-06-09 05:56"
+      },
+      {
+        "title": "谁来管住失控的token？",
+        "url": "https://36kr.com/p/3845399248439553",
+        "source": "36氪",
+        "time": "2026-06-09 05:56"
+      },
+      {
+        "title": "为什么男人宁愿把裤兜塞爆，也不背包？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865339.html",
+        "source": "虎嗅",
+        "time": "2026-06-09 05:56"
+      }
+    ]
   },
   "raw_news": [
     {
-      "title": "刚刚，OpenAI官宣提交IPO申请，最快或于秋季上市",
-      "url": "https://36kr.com/p/3845246677748229",
+      "title": "24小时在线的Agent，正批量为外贸企业送来订单",
+      "url": "https://36kr.com/p/3844402952391177",
       "source": "36氪",
-      "time": "2026-06-09 01:49"
+      "time": "2026-06-09 05:56"
     },
     {
-      "title": "抢跑IPO：OpenAI、Anthropic谁先敲钟？",
-      "url": "https://36kr.com/p/3845246677748229",
+      "title": "一家深耕外贸SaaS二十多年的企业，如何用Agent跑通从获客到成交的全链路？富通天下将腾讯云ClawPro、智能体开发平台ADP与CodeBuddy深度接入业务，让Agent替业务员做背调、判线索、生成报价、24小时多语种自动回复。6万家外贸企业接入后，成交转化率提升100%。",
+      "url": "https://36kr.com/p/3844402952391177",
       "source": "36氪",
-      "time": "2026-06-09 01:49"
+      "time": "2026-06-09 05:56"
     },
     {
-      "title": "奥特曼认输：全球第一，根本不在OpenAI",
-      "url": "https://36kr.com/p/3845259817028103",
+      "title": "谁来管住失控的token？",
+      "url": "https://36kr.com/p/3845399248439553",
       "source": "36氪",
-      "time": "2026-06-09 01:49"
+      "time": "2026-06-09 05:56"
     },
     {
-      "title": "奥特曼亲口承认，OpenAI内部token消费冠军月烧1000亿个，还不是全球第一。",
-      "url": "https://36kr.com/p/3845259817028103",
+      "title": "下一代企业AI平台，需要怎样的Agent？",
+      "url": "https://36kr.com/p/3845399248439553",
       "source": "36氪",
-      "time": "2026-06-09 01:49"
+      "time": "2026-06-09 05:56"
     },
     {
-      "title": "坏了，苹果 AI 真成了？OS 27 上手体验",
-      "url": "https://36kr.com/p/3845265512007940",
+      "title": "微信agent发出“英雄令”，互联网半壁江山响应",
+      "url": "https://36kr.com/p/3845399354870020",
       "source": "36氪",
-      "time": "2026-06-09 01:49"
+      "time": "2026-06-09 05:56"
+    },
+    {
+      "title": "为什么男人宁愿把裤兜塞爆，也不背包？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865339.html",
+      "source": "虎嗅",
+      "time": "2026-06-09 05:56"
+    },
+    {
+      "title": "微信AI这一步，正在重排中国AI的入口战",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865532.html",
+      "source": "虎嗅",
+      "time": "2026-06-09 05:56"
     }
   ]
 }
