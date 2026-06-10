@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-09T22:55:39.967044",
+  "timestamp": "2026-06-10T00:03:18.788909",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -14,10 +14,10 @@
     "industry": [],
     "tech": [
       {
-        "title": "得场景者得具身智能：当数据成了物理AI的\"矿权\"，物联网的价值必将重估",
-        "url": "https://36kr.com/p/3845718430238983",
-        "source": "36氪",
-        "time": "2026-06-09 22:55"
+        "title": "AI应该做的不是替代人做事，而是要做人做不到的事和人不愿意做的事",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865907.html",
+        "source": "虎嗅",
+        "time": "2026-06-10 00:03"
       }
     ],
     "byd": [],
@@ -25,85 +25,85 @@
     "fitness": [],
     "other": [
       {
-        "title": "在反外挂前线，游戏厂商开启了“军备竞赛”",
-        "url": "https://36kr.com/p/3846046471277059",
+        "title": "遗忘的代价，永远高于记忆的代价",
+        "url": "https://36kr.com/p/3845347120335361",
         "source": "36氪",
-        "time": "2026-06-09 22:55"
+        "time": "2026-06-10 00:03"
       },
       {
-        "title": "溜溜梅开启招股：拟募资5亿港元，6月15日上市，分众是基石投资者",
-        "url": "https://36kr.com/p/3845743691876614",
+        "title": "本书介绍《1929》，剖析大萧条，警示人性带来的周期。",
+        "url": "https://36kr.com/p/3845347120335361",
         "source": "36氪",
-        "time": "2026-06-09 22:55"
+        "time": "2026-06-10 00:03"
       },
       {
-        "title": "溜溜梅基石投资者分别为Fanchang Revitalization、达隆，共认购1.48亿港元，",
-        "url": "https://36kr.com/p/3845743691876614",
+        "title": "这款针织帽能读懂你的心思",
+        "url": "https://36kr.com/p/3804901462138624",
         "source": "36氪",
-        "time": "2026-06-09 22:55"
+        "time": "2026-06-10 00:03"
       },
       {
-        "title": "具身智能真正的护城河是那片能自我造血的“物理底座”。",
-        "url": "https://36kr.com/p/3845718430238983",
+        "title": "Sabi 公司的神经接口设备外形就像一顶普通针织帽。",
+        "url": "https://36kr.com/p/3804901462138624",
         "source": "36氪",
-        "time": "2026-06-09 22:55"
+        "time": "2026-06-10 00:03"
       },
       {
-        "title": "宝马新世代的价格？有点犯难",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865378.html",
+        "title": "科学又发现喝咖啡的更多健康益处",
+        "url": "https://36kr.com/p/3804881578171912",
+        "source": "36氪",
+        "time": "2026-06-10 00:03"
+      },
+      {
+        "title": "全球订单占70%，但下一代工人从哪里来",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865844.html",
         "source": "虎嗅",
-        "time": "2026-06-09 22:55"
-      },
-      {
-        "title": "沃尔玛里的“Costco”：山姆养成的套路与反套路",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865839.html",
-        "source": "虎嗅",
-        "time": "2026-06-09 22:55"
+        "time": "2026-06-10 00:03"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "在反外挂前线，游戏厂商开启了“军备竞赛”",
-      "url": "https://36kr.com/p/3846046471277059",
+      "title": "遗忘的代价，永远高于记忆的代价",
+      "url": "https://36kr.com/p/3845347120335361",
       "source": "36氪",
-      "time": "2026-06-09 22:55"
+      "time": "2026-06-10 00:03"
     },
     {
-      "title": "溜溜梅开启招股：拟募资5亿港元，6月15日上市，分众是基石投资者",
-      "url": "https://36kr.com/p/3845743691876614",
+      "title": "本书介绍《1929》，剖析大萧条，警示人性带来的周期。",
+      "url": "https://36kr.com/p/3845347120335361",
       "source": "36氪",
-      "time": "2026-06-09 22:55"
+      "time": "2026-06-10 00:03"
     },
     {
-      "title": "溜溜梅基石投资者分别为Fanchang Revitalization、达隆，共认购1.48亿港元，",
-      "url": "https://36kr.com/p/3845743691876614",
+      "title": "这款针织帽能读懂你的心思",
+      "url": "https://36kr.com/p/3804901462138624",
       "source": "36氪",
-      "time": "2026-06-09 22:55"
+      "time": "2026-06-10 00:03"
     },
     {
-      "title": "得场景者得具身智能：当数据成了物理AI的\"矿权\"，物联网的价值必将重估",
-      "url": "https://36kr.com/p/3845718430238983",
+      "title": "Sabi 公司的神经接口设备外形就像一顶普通针织帽。",
+      "url": "https://36kr.com/p/3804901462138624",
       "source": "36氪",
-      "time": "2026-06-09 22:55"
+      "time": "2026-06-10 00:03"
     },
     {
-      "title": "具身智能真正的护城河是那片能自我造血的“物理底座”。",
-      "url": "https://36kr.com/p/3845718430238983",
+      "title": "科学又发现喝咖啡的更多健康益处",
+      "url": "https://36kr.com/p/3804881578171912",
       "source": "36氪",
-      "time": "2026-06-09 22:55"
+      "time": "2026-06-10 00:03"
     },
     {
-      "title": "宝马新世代的价格？有点犯难",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865378.html",
+      "title": "AI应该做的不是替代人做事，而是要做人做不到的事和人不愿意做的事",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865907.html",
       "source": "虎嗅",
-      "time": "2026-06-09 22:55"
+      "time": "2026-06-10 00:03"
     },
     {
-      "title": "沃尔玛里的“Costco”：山姆养成的套路与反套路",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865839.html",
+      "title": "全球订单占70%，但下一代工人从哪里来",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4865844.html",
       "source": "虎嗅",
-      "time": "2026-06-09 22:55"
+      "time": "2026-06-10 00:03"
     }
   ]
 }
