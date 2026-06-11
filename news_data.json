@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-11T11:08:38.761693",
+  "timestamp": "2026-06-11T15:00:02.379736",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -14,22 +14,22 @@
     "industry": [],
     "tech": [
       {
-        "title": "AI编程的下一个阶段，不是更好的模型，而是loop工程",
-        "url": "https://36kr.com/p/3848593295752071",
+        "title": "【导读】Anthropic执行团队由妹妹Daniela领导，她负责日常运营并向董事会汇报，Dario则专注长远战略和研究方向。他和妹妹把维护企业文化视为最重要任务。而他专注于真正该思考的事：AI到底会不会把人变成工具？",
+        "url": "https://36kr.com/p/3848711901189125",
         "source": "36氪",
-        "time": "2026-06-11 11:08"
+        "time": "2026-06-11 14:59"
       },
       {
-        "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
-        "url": "https://36kr.com/p/3848516305605892",
+        "title": "陶哲轩First Proof二期结果出炉，最低8美元1题，AI烧出7道论文级解法",
+        "url": "https://36kr.com/p/3848704210244866",
         "source": "36氪",
-        "time": "2026-06-11 11:08"
+        "time": "2026-06-11 14:59"
       },
       {
-        "title": "特朗普：很快将与顶尖的人工智能公司高管会面，讨论如何回馈公众",
-        "url": "https://36kr.com/p/3848516305605892",
-        "source": "36氪",
-        "time": "2026-06-11 11:08"
+        "title": "AI的token账单，终于藏不住了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866514.html",
+        "source": "虎嗅",
+        "time": "2026-06-11 15:00"
       }
     ],
     "byd": [],
@@ -37,73 +37,73 @@
     "fitness": [],
     "other": [
       {
-        "title": "龙虾创始人一条推文引800万人围观，全网都在吵的loop工程到底是个啥？",
-        "url": "https://36kr.com/p/3848593295752071",
+        "title": "Anthropic CEO只直接管一个人",
+        "url": "https://36kr.com/p/3848711901189125",
         "source": "36氪",
-        "time": "2026-06-11 11:08"
+        "time": "2026-06-11 14:59"
       },
       {
-        "title": "被抢单，ASIC市场，要变天了",
-        "url": "https://36kr.com/p/3848583997674504",
+        "title": "步Google Glass后尘，智能眼镜也成了偷拍神器",
+        "url": "https://36kr.com/p/3848697432232964",
         "source": "36氪",
-        "time": "2026-06-11 11:08"
+        "time": "2026-06-11 14:59"
       },
       {
-        "title": "世界杯开赛在即，富哥们想靠球星卡发笔横财",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866368.html",
-        "source": "虎嗅",
-        "time": "2026-06-11 11:08"
+        "title": "设备本身是中性的，不当使用才是最大的问题。",
+        "url": "https://36kr.com/p/3848697432232964",
+        "source": "36氪",
+        "time": "2026-06-11 14:59"
       },
       {
-        "title": "《亢奋3》已经沦为北美《小时代》了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866045.html",
+        "title": "不止钉钉，整个东亚都是一座巨大的军校",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866418.html",
         "source": "虎嗅",
-        "time": "2026-06-11 11:08"
+        "time": "2026-06-11 15:00"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "龙虾创始人一条推文引800万人围观，全网都在吵的loop工程到底是个啥？",
-      "url": "https://36kr.com/p/3848593295752071",
+      "title": "Anthropic CEO只直接管一个人",
+      "url": "https://36kr.com/p/3848711901189125",
       "source": "36氪",
-      "time": "2026-06-11 11:08"
+      "time": "2026-06-11 14:59"
     },
     {
-      "title": "AI编程的下一个阶段，不是更好的模型，而是loop工程",
-      "url": "https://36kr.com/p/3848593295752071",
+      "title": "【导读】Anthropic执行团队由妹妹Daniela领导，她负责日常运营并向董事会汇报，Dario则专注长远战略和研究方向。他和妹妹把维护企业文化视为最重要任务。而他专注于真正该思考的事：AI到底会不会把人变成工具？",
+      "url": "https://36kr.com/p/3848711901189125",
       "source": "36氪",
-      "time": "2026-06-11 11:08"
+      "time": "2026-06-11 14:59"
     },
     {
-      "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
-      "url": "https://36kr.com/p/3848516305605892",
+      "title": "步Google Glass后尘，智能眼镜也成了偷拍神器",
+      "url": "https://36kr.com/p/3848697432232964",
       "source": "36氪",
-      "time": "2026-06-11 11:08"
+      "time": "2026-06-11 14:59"
     },
     {
-      "title": "特朗普：很快将与顶尖的人工智能公司高管会面，讨论如何回馈公众",
-      "url": "https://36kr.com/p/3848516305605892",
+      "title": "设备本身是中性的，不当使用才是最大的问题。",
+      "url": "https://36kr.com/p/3848697432232964",
       "source": "36氪",
-      "time": "2026-06-11 11:08"
+      "time": "2026-06-11 14:59"
     },
     {
-      "title": "被抢单，ASIC市场，要变天了",
-      "url": "https://36kr.com/p/3848583997674504",
+      "title": "陶哲轩First Proof二期结果出炉，最低8美元1题，AI烧出7道论文级解法",
+      "url": "https://36kr.com/p/3848704210244866",
       "source": "36氪",
-      "time": "2026-06-11 11:08"
+      "time": "2026-06-11 14:59"
     },
     {
-      "title": "世界杯开赛在即，富哥们想靠球星卡发笔横财",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866368.html",
+      "title": "不止钉钉，整个东亚都是一座巨大的军校",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866418.html",
       "source": "虎嗅",
-      "time": "2026-06-11 11:08"
+      "time": "2026-06-11 15:00"
     },
     {
-      "title": "《亢奋3》已经沦为北美《小时代》了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866045.html",
+      "title": "AI的token账单，终于藏不住了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866514.html",
       "source": "虎嗅",
-      "time": "2026-06-11 11:08"
+      "time": "2026-06-11 15:00"
     }
   ]
 }
