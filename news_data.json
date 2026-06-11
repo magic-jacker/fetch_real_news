@@ -1,109 +1,97 @@
 {
-  "timestamp": "2026-06-11T01:44:14.449317",
-  "total": 7,
+  "timestamp": "2026-06-11T06:29:40.485301",
+  "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 5,
+    "36氪": 4,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [],
-    "tech": [
+    "industry": [
       {
-        "title": "拆解Anthropic：最好的AI公司，可能也是一种组织发明",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866239.html",
-        "source": "虎嗅",
-        "time": "2026-06-11 01:44"
+        "title": "199元，诺基亚小屏手机评测：能打微信视频，体验有点意思",
+        "url": "https://36kr.com/p/3847321017547653",
+        "source": "36氪",
+        "time": "2026-06-11 06:29"
+      },
+      {
+        "title": "玩具手机的价格，真机的体验。",
+        "url": "https://36kr.com/p/3847321017547653",
+        "source": "36氪",
+        "time": "2026-06-11 06:29"
       }
     ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "36氪首发 | 创维独家投资数千万，这家企业将碳化硅切割损耗降至40微米内",
-        "url": "https://36kr.com/p/3848094835217666",
+        "title": "“没有她，SpaceX早倒闭了”：全世界最有权力的女性工程师是如何炼成的",
+        "url": "https://36kr.com/p/3848212212241409",
         "source": "36氪",
-        "time": "2026-06-11 01:44"
+        "time": "2026-06-11 06:29"
       },
       {
-        "title": "损耗率成行业竞争关键卡点。",
-        "url": "https://36kr.com/p/3848094835217666",
+        "title": "揭秘SpaceX背后的定海神针",
+        "url": "https://36kr.com/p/3848212212241409",
         "source": "36氪",
-        "time": "2026-06-11 01:44"
+        "time": "2026-06-11 06:29"
       },
       {
-        "title": "团队运作下的“鹅腿阿姨”：跟团人次达20万，代理商配送",
-        "url": "https://36kr.com/p/3848035795539201",
-        "source": "36氪",
-        "time": "2026-06-11 01:44"
-      },
-      {
-        "title": "但一切争议的背后，人们在意的是这种“挂鹅腿卖鸭腿”的行为对消费者的欺诈，以及其商品真实的品质保证。",
-        "url": "https://36kr.com/p/3848035795539201",
-        "source": "36氪",
-        "time": "2026-06-11 01:44"
-      },
-      {
-        "title": "马斯克一句话，一堆百亿公司豪赌“上天”",
-        "url": "https://36kr.com/p/3848015603029249",
-        "source": "36氪",
-        "time": "2026-06-11 01:44"
-      },
-      {
-        "title": "“脱欧入亚”：英国资本开始转向中国",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866062.html",
+        "title": "《亢奋3》已经沦为北美《小时代》了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866045.html",
         "source": "虎嗅",
-        "time": "2026-06-11 01:44"
+        "time": "2026-06-11 06:29"
+      },
+      {
+        "title": "钉钉换帅，陈宇森“有招”吗？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866317.html",
+        "source": "虎嗅",
+        "time": "2026-06-11 06:29"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "36氪首发 | 创维独家投资数千万，这家企业将碳化硅切割损耗降至40微米内",
-      "url": "https://36kr.com/p/3848094835217666",
+      "title": "199元，诺基亚小屏手机评测：能打微信视频，体验有点意思",
+      "url": "https://36kr.com/p/3847321017547653",
       "source": "36氪",
-      "time": "2026-06-11 01:44"
+      "time": "2026-06-11 06:29"
     },
     {
-      "title": "损耗率成行业竞争关键卡点。",
-      "url": "https://36kr.com/p/3848094835217666",
+      "title": "玩具手机的价格，真机的体验。",
+      "url": "https://36kr.com/p/3847321017547653",
       "source": "36氪",
-      "time": "2026-06-11 01:44"
+      "time": "2026-06-11 06:29"
     },
     {
-      "title": "团队运作下的“鹅腿阿姨”：跟团人次达20万，代理商配送",
-      "url": "https://36kr.com/p/3848035795539201",
+      "title": "“没有她，SpaceX早倒闭了”：全世界最有权力的女性工程师是如何炼成的",
+      "url": "https://36kr.com/p/3848212212241409",
       "source": "36氪",
-      "time": "2026-06-11 01:44"
+      "time": "2026-06-11 06:29"
     },
     {
-      "title": "但一切争议的背后，人们在意的是这种“挂鹅腿卖鸭腿”的行为对消费者的欺诈，以及其商品真实的品质保证。",
-      "url": "https://36kr.com/p/3848035795539201",
+      "title": "揭秘SpaceX背后的定海神针",
+      "url": "https://36kr.com/p/3848212212241409",
       "source": "36氪",
-      "time": "2026-06-11 01:44"
+      "time": "2026-06-11 06:29"
     },
     {
-      "title": "马斯克一句话，一堆百亿公司豪赌“上天”",
-      "url": "https://36kr.com/p/3848015603029249",
-      "source": "36氪",
-      "time": "2026-06-11 01:44"
-    },
-    {
-      "title": "“脱欧入亚”：英国资本开始转向中国",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866062.html",
+      "title": "《亢奋3》已经沦为北美《小时代》了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866045.html",
       "source": "虎嗅",
-      "time": "2026-06-11 01:44"
+      "time": "2026-06-11 06:29"
     },
     {
-      "title": "拆解Anthropic：最好的AI公司，可能也是一种组织发明",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866239.html",
+      "title": "钉钉换帅，陈宇森“有招”吗？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866317.html",
       "source": "虎嗅",
-      "time": "2026-06-11 01:44"
+      "time": "2026-06-11 06:29"
     }
   ]
 }
