@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-11T22:44:08.014485",
+  "timestamp": "2026-06-12T00:11:36.307812",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -10,100 +10,102 @@
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
+    "finance": [
+      {
+        "title": "根据SpaceX 6月11日在官网发布的声明，公司此次IPO发行5.556亿股，发行价为每股135美元。",
+        "url": "https://36kr.com/p/3849431503869187",
+        "source": "36氪",
+        "time": "2026-06-12 00:11"
+      }
+    ],
     "industry": [],
     "tech": [
       {
-        "title": "【导读】Anthropic执行团队由妹妹Daniela领导，她负责日常运营并向董事会汇报，Dario则专注长远战略和研究方向。他和妹妹把维护企业文化视为最重要任务。而他专注于真正该思考的事：AI到底会不会把人变成工具？",
-        "url": "https://36kr.com/p/3848711901189125",
+        "title": "补贴→Token计费→降价，OpenAI打响价格战，Token经济学拐点将至？",
+        "url": "https://36kr.com/p/3849372459816192",
         "source": "36氪",
-        "time": "2026-06-11 22:43"
+        "time": "2026-06-12 00:11"
       },
       {
-        "title": "陶哲轩First Proof二期结果出炉，最低8美元1题，AI烧出7道论文级解法",
-        "url": "https://36kr.com/p/3848704210244866",
-        "source": "36氪",
-        "time": "2026-06-11 22:43"
-      },
-      {
-        "title": "AI的token账单，终于藏不住了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866514.html",
+        "title": "互联网巨头涌入AI制药：字节、百度、腾讯、阿里、京东做出了不同选择",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866600.html",
         "source": "虎嗅",
-        "time": "2026-06-11 22:44"
+        "time": "2026-06-12 00:11"
       }
     ],
     "byd": [],
-    "tencent": [],
+    "tencent": [
+      {
+        "title": "微信聊天新增可防图片“轰炸”的“合并展示”功能",
+        "url": "https://36kr.com/p/3849423430128901",
+        "source": "36氪",
+        "time": "2026-06-12 00:11"
+      }
+    ],
     "fitness": [],
     "other": [
       {
-        "title": "Anthropic CEO只直接管一个人",
-        "url": "https://36kr.com/p/3848711901189125",
+        "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
+        "url": "https://36kr.com/p/3849431503869187",
         "source": "36氪",
-        "time": "2026-06-11 22:43"
+        "time": "2026-06-12 00:11"
       },
       {
-        "title": "步Google Glass后尘，智能眼镜也成了偷拍神器",
-        "url": "https://36kr.com/p/3848697432232964",
+        "title": "使用该功能后，用户发送的多张图片仅占用单条消息位置。",
+        "url": "https://36kr.com/p/3849423430128901",
         "source": "36氪",
-        "time": "2026-06-11 22:43"
+        "time": "2026-06-12 00:11"
       },
       {
-        "title": "设备本身是中性的，不当使用才是最大的问题。",
-        "url": "https://36kr.com/p/3848697432232964",
-        "source": "36氪",
-        "time": "2026-06-11 22:43"
-      },
-      {
-        "title": "不止钉钉，整个东亚都是一座巨大的军校",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866418.html",
+        "title": "市值破1700亿，物流巨头拆分零担业务成功上市",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866594.html",
         "source": "虎嗅",
-        "time": "2026-06-11 22:44"
+        "time": "2026-06-12 00:11"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "Anthropic CEO只直接管一个人",
-      "url": "https://36kr.com/p/3848711901189125",
+      "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
+      "url": "https://36kr.com/p/3849431503869187",
       "source": "36氪",
-      "time": "2026-06-11 22:43"
+      "time": "2026-06-12 00:11"
     },
     {
-      "title": "【导读】Anthropic执行团队由妹妹Daniela领导，她负责日常运营并向董事会汇报，Dario则专注长远战略和研究方向。他和妹妹把维护企业文化视为最重要任务。而他专注于真正该思考的事：AI到底会不会把人变成工具？",
-      "url": "https://36kr.com/p/3848711901189125",
+      "title": "根据SpaceX 6月11日在官网发布的声明，公司此次IPO发行5.556亿股，发行价为每股135美元。",
+      "url": "https://36kr.com/p/3849431503869187",
       "source": "36氪",
-      "time": "2026-06-11 22:43"
+      "time": "2026-06-12 00:11"
     },
     {
-      "title": "步Google Glass后尘，智能眼镜也成了偷拍神器",
-      "url": "https://36kr.com/p/3848697432232964",
+      "title": "微信聊天新增可防图片“轰炸”的“合并展示”功能",
+      "url": "https://36kr.com/p/3849423430128901",
       "source": "36氪",
-      "time": "2026-06-11 22:43"
+      "time": "2026-06-12 00:11"
     },
     {
-      "title": "设备本身是中性的，不当使用才是最大的问题。",
-      "url": "https://36kr.com/p/3848697432232964",
+      "title": "使用该功能后，用户发送的多张图片仅占用单条消息位置。",
+      "url": "https://36kr.com/p/3849423430128901",
       "source": "36氪",
-      "time": "2026-06-11 22:43"
+      "time": "2026-06-12 00:11"
     },
     {
-      "title": "陶哲轩First Proof二期结果出炉，最低8美元1题，AI烧出7道论文级解法",
-      "url": "https://36kr.com/p/3848704210244866",
+      "title": "补贴→Token计费→降价，OpenAI打响价格战，Token经济学拐点将至？",
+      "url": "https://36kr.com/p/3849372459816192",
       "source": "36氪",
-      "time": "2026-06-11 22:43"
+      "time": "2026-06-12 00:11"
     },
     {
-      "title": "不止钉钉，整个东亚都是一座巨大的军校",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866418.html",
+      "title": "互联网巨头涌入AI制药：字节、百度、腾讯、阿里、京东做出了不同选择",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866600.html",
       "source": "虎嗅",
-      "time": "2026-06-11 22:44"
+      "time": "2026-06-12 00:11"
     },
     {
-      "title": "AI的token账单，终于藏不住了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866514.html",
+      "title": "市值破1700亿，物流巨头拆分零担业务成功上市",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866594.html",
       "source": "虎嗅",
-      "time": "2026-06-11 22:44"
+      "time": "2026-06-12 00:11"
     }
   ]
 }
