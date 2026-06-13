@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-13T09:48:08.607699",
+  "timestamp": "2026-06-13T11:44:35.779968",
   "total": 6,
   "sources": {
     "财联社电报": 0,
@@ -15,7 +15,7 @@
         "title": "2026新通发布AI留学就业白皮书，提出能力框架与黄金赛道",
         "url": "https://36kr.com/p/3851195290326275",
         "source": "36氪",
-        "time": "2026-06-13 09:47"
+        "time": "2026-06-13 11:44"
       }
     ],
     "industry": [],
@@ -24,19 +24,13 @@
         "title": "新通教育与36氪联合发布《AI时代留学就业白皮书》，首次系统性定义AI时代留学生就业能力框架",
         "url": "https://36kr.com/p/3851195290326275",
         "source": "36氪",
-        "time": "2026-06-13 09:47"
+        "time": "2026-06-13 11:44"
       },
       {
         "title": "AI时代，别再提“人人都是程序员”了",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867009.html",
         "source": "虎嗅",
-        "time": "2026-06-13 09:48"
-      },
-      {
-        "title": "突发：美国政府下令，Anthropic最先进两款AI全球被限",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866982.html",
-        "source": "虎嗅",
-        "time": "2026-06-13 09:48"
+        "time": "2026-06-13 11:44"
       }
     ],
     "byd": [],
@@ -47,13 +41,19 @@
         "title": "月之暗面们重写估值游戏规则",
         "url": "https://36kr.com/p/3851306638621313",
         "source": "36氪",
-        "time": "2026-06-13 09:47"
+        "time": "2026-06-13 11:44"
       },
       {
         "title": "估值，归根到底是一种预期。",
         "url": "https://36kr.com/p/3851306638621313",
         "source": "36氪",
-        "time": "2026-06-13 09:47"
+        "time": "2026-06-13 11:44"
+      },
+      {
+        "title": "四天打完第一个回合，大疆影石商战提速",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867036.html",
+        "source": "虎嗅",
+        "time": "2026-06-13 11:44"
       }
     ]
   },
@@ -62,37 +62,37 @@
       "title": "月之暗面们重写估值游戏规则",
       "url": "https://36kr.com/p/3851306638621313",
       "source": "36氪",
-      "time": "2026-06-13 09:47"
+      "time": "2026-06-13 11:44"
     },
     {
       "title": "估值，归根到底是一种预期。",
       "url": "https://36kr.com/p/3851306638621313",
       "source": "36氪",
-      "time": "2026-06-13 09:47"
+      "time": "2026-06-13 11:44"
     },
     {
       "title": "新通教育与36氪联合发布《AI时代留学就业白皮书》，首次系统性定义AI时代留学生就业能力框架",
       "url": "https://36kr.com/p/3851195290326275",
       "source": "36氪",
-      "time": "2026-06-13 09:47"
+      "time": "2026-06-13 11:44"
     },
     {
       "title": "2026新通发布AI留学就业白皮书，提出能力框架与黄金赛道",
       "url": "https://36kr.com/p/3851195290326275",
       "source": "36氪",
-      "time": "2026-06-13 09:47"
+      "time": "2026-06-13 11:44"
     },
     {
       "title": "AI时代，别再提“人人都是程序员”了",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867009.html",
       "source": "虎嗅",
-      "time": "2026-06-13 09:48"
+      "time": "2026-06-13 11:44"
     },
     {
-      "title": "突发：美国政府下令，Anthropic最先进两款AI全球被限",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866982.html",
+      "title": "四天打完第一个回合，大疆影石商战提速",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867036.html",
       "source": "虎嗅",
-      "time": "2026-06-13 09:48"
+      "time": "2026-06-13 11:44"
     }
   ]
 }
