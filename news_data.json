@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-12T23:56:50.350055",
+  "timestamp": "2026-06-13T02:32:24.430525",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -12,98 +12,97 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "志愿填报Agent：腾讯克制，阿里激进",
-        "url": "https://36kr.com/p/3850060424484105",
-        "source": "36氪",
-        "time": "2026-06-12 23:56"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "大疆和影石恩怨升级，神仙打架为哪般？",
-        "url": "https://36kr.com/p/3850107875234817",
+        "title": "50平小店，月入23万才赚钱，社区底商还能做餐饮吗？",
+        "url": "https://36kr.com/p/3850134491927808",
         "source": "36氪",
-        "time": "2026-06-12 23:56"
+        "time": "2026-06-13 02:32"
       },
       {
-        "title": "850万买一期《奔跑吧》：地方文旅的“流量焦虑”有多贵？",
-        "url": "https://36kr.com/p/3850058626045193",
+        "title": "“楼下那排餐饮店，越来越空了。”",
+        "url": "https://36kr.com/p/3850134491927808",
         "source": "36氪",
-        "time": "2026-06-12 23:56"
+        "time": "2026-06-13 02:32"
       },
       {
-        "title": "不同人眼中的850万并不相同",
-        "url": "https://36kr.com/p/3850058626045193",
+        "title": "调查：降温的618，默默下单的00后",
+        "url": "https://36kr.com/p/3850134455768071",
         "source": "36氪",
-        "time": "2026-06-12 23:56"
+        "time": "2026-06-13 02:32"
       },
       {
-        "title": "陪伴的代价，就是让你离不开",
-        "url": "https://36kr.com/p/3850060424484105",
+        "title": "大促热度不再像过去那么喧嚣但00后的美妆预算却在悄悄加码。",
+        "url": "https://36kr.com/p/3850134455768071",
         "source": "36氪",
-        "time": "2026-06-12 23:56"
+        "time": "2026-06-13 02:32"
       },
       {
-        "title": "Lisa带不动的世界杯，咖啡品牌想试试",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866806.html",
+        "title": "36氪首发 | 核心材料成本降至进口材料五分之一，电致变色技术厂商获投，车规级产线建设中",
+        "url": "https://36kr.com/p/3850904887268611",
+        "source": "36氪",
+        "time": "2026-06-13 02:32"
+      },
+      {
+        "title": "“零负债”的深圳人，清醒背后，藏着代价",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866865.html",
         "source": "虎嗅",
-        "time": "2026-06-12 23:56"
+        "time": "2026-06-13 02:32"
       },
       {
-        "title": "梁文锋向左，杨植麟向右",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866794.html",
+        "title": "日本新发动机一箱油跑1200公里，但世界正倒向中国电车",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866625.html",
         "source": "虎嗅",
-        "time": "2026-06-12 23:56"
+        "time": "2026-06-13 02:32"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "大疆和影石恩怨升级，神仙打架为哪般？",
-      "url": "https://36kr.com/p/3850107875234817",
+      "title": "50平小店，月入23万才赚钱，社区底商还能做餐饮吗？",
+      "url": "https://36kr.com/p/3850134491927808",
       "source": "36氪",
-      "time": "2026-06-12 23:56"
+      "time": "2026-06-13 02:32"
     },
     {
-      "title": "850万买一期《奔跑吧》：地方文旅的“流量焦虑”有多贵？",
-      "url": "https://36kr.com/p/3850058626045193",
+      "title": "“楼下那排餐饮店，越来越空了。”",
+      "url": "https://36kr.com/p/3850134491927808",
       "source": "36氪",
-      "time": "2026-06-12 23:56"
+      "time": "2026-06-13 02:32"
     },
     {
-      "title": "不同人眼中的850万并不相同",
-      "url": "https://36kr.com/p/3850058626045193",
+      "title": "调查：降温的618，默默下单的00后",
+      "url": "https://36kr.com/p/3850134455768071",
       "source": "36氪",
-      "time": "2026-06-12 23:56"
+      "time": "2026-06-13 02:32"
     },
     {
-      "title": "志愿填报Agent：腾讯克制，阿里激进",
-      "url": "https://36kr.com/p/3850060424484105",
+      "title": "大促热度不再像过去那么喧嚣但00后的美妆预算却在悄悄加码。",
+      "url": "https://36kr.com/p/3850134455768071",
       "source": "36氪",
-      "time": "2026-06-12 23:56"
+      "time": "2026-06-13 02:32"
     },
     {
-      "title": "陪伴的代价，就是让你离不开",
-      "url": "https://36kr.com/p/3850060424484105",
+      "title": "36氪首发 | 核心材料成本降至进口材料五分之一，电致变色技术厂商获投，车规级产线建设中",
+      "url": "https://36kr.com/p/3850904887268611",
       "source": "36氪",
-      "time": "2026-06-12 23:56"
+      "time": "2026-06-13 02:32"
     },
     {
-      "title": "Lisa带不动的世界杯，咖啡品牌想试试",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866806.html",
+      "title": "“零负债”的深圳人，清醒背后，藏着代价",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866865.html",
       "source": "虎嗅",
-      "time": "2026-06-12 23:56"
+      "time": "2026-06-13 02:32"
     },
     {
-      "title": "梁文锋向左，杨植麟向右",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866794.html",
+      "title": "日本新发动机一箱油跑1200公里，但世界正倒向中国电车",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4866625.html",
       "source": "虎嗅",
-      "time": "2026-06-12 23:56"
+      "time": "2026-06-13 02:32"
     }
   ]
 }
