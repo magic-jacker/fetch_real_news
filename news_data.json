@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-15T07:42:18.529689",
+  "timestamp": "2026-06-15T13:43:36.768647",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -10,100 +10,100 @@
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
-    "industry": [],
-    "tech": [
+    "finance": [
       {
-        "title": "DeepMind震撼报告：四条通往超级人工智能之路",
-        "url": "https://36kr.com/p/3851379175822341",
+        "title": "八年亏了100亿，广东60后老板，做芯片代工，冲刺A股IPO",
+        "url": "https://36kr.com/p/3854368669668357",
         "source": "36氪",
-        "time": "2026-06-15 07:42"
+        "time": "2026-06-15 13:43"
       },
       {
-        "title": "未上真车，AI先当教练，2026届高考生，将成为首批“原生AI司机”？",
-        "url": "https://36kr.com/p/3851371727256199",
+        "title": "粤芯半导体过IPO，聚焦成熟制程卡位国产替代。",
+        "url": "https://36kr.com/p/3854368669668357",
         "source": "36氪",
-        "time": "2026-06-15 07:42"
+        "time": "2026-06-15 13:43"
       }
     ],
+    "industry": [],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "From AGI to ASI，DeepMind 联创 Shane Legg 参与",
-        "url": "https://36kr.com/p/3851379175822341",
+        "title": "越野MPV都出来了，还有人买SUV吗？",
+        "url": "https://36kr.com/p/3850912401118467",
         "source": "36氪",
-        "time": "2026-06-15 07:42"
+        "time": "2026-06-15 13:43"
       },
       {
-        "title": "Fable 5突遭封禁，Anthropic大会差点黄了",
-        "url": "https://36kr.com/p/3854012780844289",
+        "title": "一款MPV，它的名字竟然叫SUV版。",
+        "url": "https://36kr.com/p/3850912401118467",
         "source": "36氪",
-        "time": "2026-06-15 07:42"
+        "time": "2026-06-15 13:43"
       },
       {
-        "title": "地表最强Fable 5惨遭一纸禁令「物理封印」，官方开发者日竟然没了主角！Anthropic高管连夜飞往华盛顿灭火，全网都在等一个反转。",
-        "url": "https://36kr.com/p/3854012780844289",
+        "title": "有人掷85万买近两斤金条，有人刚赚500元就卖，美伊达成协议，“年内金价有望冲5000美元”",
+        "url": "https://36kr.com/p/3854358906131456",
         "source": "36氪",
-        "time": "2026-06-15 07:42"
+        "time": "2026-06-15 13:43"
       },
       {
-        "title": "55欧元一瓶的意大利红酒，有多少是非法黑工摘的葡萄？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867292.html",
+        "title": "“我花近万元买的智能眼镜，最近不敢戴出门”",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867392.html",
         "source": "虎嗅",
-        "time": "2026-06-15 07:42"
+        "time": "2026-06-15 13:43"
       },
       {
-        "title": "“现实感”正成为一种阶层资产",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867234.html",
+        "title": "马斯克贵人，一笔回报4000倍",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867410.html",
         "source": "虎嗅",
-        "time": "2026-06-15 07:42"
+        "time": "2026-06-15 13:43"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "DeepMind震撼报告：四条通往超级人工智能之路",
-      "url": "https://36kr.com/p/3851379175822341",
+      "title": "八年亏了100亿，广东60后老板，做芯片代工，冲刺A股IPO",
+      "url": "https://36kr.com/p/3854368669668357",
       "source": "36氪",
-      "time": "2026-06-15 07:42"
+      "time": "2026-06-15 13:43"
     },
     {
-      "title": "From AGI to ASI，DeepMind 联创 Shane Legg 参与",
-      "url": "https://36kr.com/p/3851379175822341",
+      "title": "粤芯半导体过IPO，聚焦成熟制程卡位国产替代。",
+      "url": "https://36kr.com/p/3854368669668357",
       "source": "36氪",
-      "time": "2026-06-15 07:42"
+      "time": "2026-06-15 13:43"
     },
     {
-      "title": "Fable 5突遭封禁，Anthropic大会差点黄了",
-      "url": "https://36kr.com/p/3854012780844289",
+      "title": "越野MPV都出来了，还有人买SUV吗？",
+      "url": "https://36kr.com/p/3850912401118467",
       "source": "36氪",
-      "time": "2026-06-15 07:42"
+      "time": "2026-06-15 13:43"
     },
     {
-      "title": "地表最强Fable 5惨遭一纸禁令「物理封印」，官方开发者日竟然没了主角！Anthropic高管连夜飞往华盛顿灭火，全网都在等一个反转。",
-      "url": "https://36kr.com/p/3854012780844289",
+      "title": "一款MPV，它的名字竟然叫SUV版。",
+      "url": "https://36kr.com/p/3850912401118467",
       "source": "36氪",
-      "time": "2026-06-15 07:42"
+      "time": "2026-06-15 13:43"
     },
     {
-      "title": "未上真车，AI先当教练，2026届高考生，将成为首批“原生AI司机”？",
-      "url": "https://36kr.com/p/3851371727256199",
+      "title": "有人掷85万买近两斤金条，有人刚赚500元就卖，美伊达成协议，“年内金价有望冲5000美元”",
+      "url": "https://36kr.com/p/3854358906131456",
       "source": "36氪",
-      "time": "2026-06-15 07:42"
+      "time": "2026-06-15 13:43"
     },
     {
-      "title": "55欧元一瓶的意大利红酒，有多少是非法黑工摘的葡萄？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867292.html",
+      "title": "“我花近万元买的智能眼镜，最近不敢戴出门”",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867392.html",
       "source": "虎嗅",
-      "time": "2026-06-15 07:42"
+      "time": "2026-06-15 13:43"
     },
     {
-      "title": "“现实感”正成为一种阶层资产",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867234.html",
+      "title": "马斯克贵人，一笔回报4000倍",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867410.html",
       "source": "虎嗅",
-      "time": "2026-06-15 07:42"
+      "time": "2026-06-15 13:43"
     }
   ]
 }
