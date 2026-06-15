@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-15T02:12:22.797064",
-  "total": 6,
+  "timestamp": "2026-06-15T07:42:18.529689",
+  "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 4,
+    "36氪": 5,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
@@ -14,10 +14,16 @@
     "industry": [],
     "tech": [
       {
-        "title": "很多人想简单了，未来可能经历多次AI泡沫",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867209.html",
-        "source": "虎嗅",
-        "time": "2026-06-15 02:12"
+        "title": "DeepMind震撼报告：四条通往超级人工智能之路",
+        "url": "https://36kr.com/p/3851379175822341",
+        "source": "36氪",
+        "time": "2026-06-15 07:42"
+      },
+      {
+        "title": "未上真车，AI先当教练，2026届高考生，将成为首批“原生AI司机”？",
+        "url": "https://36kr.com/p/3851371727256199",
+        "source": "36氪",
+        "time": "2026-06-15 07:42"
       }
     ],
     "byd": [],
@@ -25,73 +31,79 @@
     "fitness": [],
     "other": [
       {
-        "title": "半年三赴，南京向广深学什么？",
-        "url": "https://36kr.com/p/3853802843067657",
+        "title": "From AGI to ASI，DeepMind 联创 Shane Legg 参与",
+        "url": "https://36kr.com/p/3851379175822341",
         "source": "36氪",
-        "time": "2026-06-15 02:12"
+        "time": "2026-06-15 07:42"
       },
       {
-        "title": "中产三宝，闯进一个「专科生」",
-        "url": "https://36kr.com/p/3851131024620162",
+        "title": "Fable 5突遭封禁，Anthropic大会差点黄了",
+        "url": "https://36kr.com/p/3854012780844289",
         "source": "36氪",
-        "time": "2026-06-15 02:12"
+        "time": "2026-06-15 07:42"
       },
       {
-        "title": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
-        "url": "https://36kr.com/p/3853016586359817",
+        "title": "地表最强Fable 5惨遭一纸禁令「物理封印」，官方开发者日竟然没了主角！Anthropic高管连夜飞往华盛顿灭火，全网都在等一个反转。",
+        "url": "https://36kr.com/p/3854012780844289",
         "source": "36氪",
-        "time": "2026-06-15 02:12"
+        "time": "2026-06-15 07:42"
       },
       {
-        "title": "世界模型与具身智能的关系，本质上是“大脑”与“身体”的关系。",
-        "url": "https://36kr.com/p/3853016586359817",
-        "source": "36氪",
-        "time": "2026-06-15 02:12"
+        "title": "55欧元一瓶的意大利红酒，有多少是非法黑工摘的葡萄？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867292.html",
+        "source": "虎嗅",
+        "time": "2026-06-15 07:42"
       },
       {
         "title": "“现实感”正成为一种阶层资产",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867234.html",
         "source": "虎嗅",
-        "time": "2026-06-15 02:12"
+        "time": "2026-06-15 07:42"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "半年三赴，南京向广深学什么？",
-      "url": "https://36kr.com/p/3853802843067657",
+      "title": "DeepMind震撼报告：四条通往超级人工智能之路",
+      "url": "https://36kr.com/p/3851379175822341",
       "source": "36氪",
-      "time": "2026-06-15 02:12"
+      "time": "2026-06-15 07:42"
     },
     {
-      "title": "中产三宝，闯进一个「专科生」",
-      "url": "https://36kr.com/p/3851131024620162",
+      "title": "From AGI to ASI，DeepMind 联创 Shane Legg 参与",
+      "url": "https://36kr.com/p/3851379175822341",
       "source": "36氪",
-      "time": "2026-06-15 02:12"
+      "time": "2026-06-15 07:42"
     },
     {
-      "title": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
-      "url": "https://36kr.com/p/3853016586359817",
+      "title": "Fable 5突遭封禁，Anthropic大会差点黄了",
+      "url": "https://36kr.com/p/3854012780844289",
       "source": "36氪",
-      "time": "2026-06-15 02:12"
+      "time": "2026-06-15 07:42"
     },
     {
-      "title": "世界模型与具身智能的关系，本质上是“大脑”与“身体”的关系。",
-      "url": "https://36kr.com/p/3853016586359817",
+      "title": "地表最强Fable 5惨遭一纸禁令「物理封印」，官方开发者日竟然没了主角！Anthropic高管连夜飞往华盛顿灭火，全网都在等一个反转。",
+      "url": "https://36kr.com/p/3854012780844289",
       "source": "36氪",
-      "time": "2026-06-15 02:12"
+      "time": "2026-06-15 07:42"
+    },
+    {
+      "title": "未上真车，AI先当教练，2026届高考生，将成为首批“原生AI司机”？",
+      "url": "https://36kr.com/p/3851371727256199",
+      "source": "36氪",
+      "time": "2026-06-15 07:42"
+    },
+    {
+      "title": "55欧元一瓶的意大利红酒，有多少是非法黑工摘的葡萄？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867292.html",
+      "source": "虎嗅",
+      "time": "2026-06-15 07:42"
     },
     {
       "title": "“现实感”正成为一种阶层资产",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867234.html",
       "source": "虎嗅",
-      "time": "2026-06-15 02:12"
-    },
-    {
-      "title": "很多人想简单了，未来可能经历多次AI泡沫",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867209.html",
-      "source": "虎嗅",
-      "time": "2026-06-15 02:12"
+      "time": "2026-06-15 07:42"
     }
   ]
 }
