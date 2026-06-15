@@ -1,30 +1,23 @@
 {
-  "timestamp": "2026-06-14T23:42:03.999394",
-  "total": 7,
+  "timestamp": "2026-06-15T02:12:22.797064",
+  "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 5,
+    "36氪": 4,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
-      {
-        "title": "SpaceX天价IPO背后的启示",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867141.html",
-        "source": "虎嗅",
-        "time": "2026-06-14 23:42"
-      }
-    ],
+    "finance": [],
     "industry": [],
     "tech": [
       {
-        "title": "那些在鸿蒙搞开发的年轻人，在押注什么？",
-        "url": "https://36kr.com/p/3852449924551687",
-        "source": "36氪",
-        "time": "2026-06-14 23:41"
+        "title": "很多人想简单了，未来可能经历多次AI泡沫",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867209.html",
+        "source": "虎嗅",
+        "time": "2026-06-15 02:12"
       }
     ],
     "byd": [],
@@ -32,79 +25,73 @@
     "fitness": [],
     "other": [
       {
-        "title": "山河藏瑞气 开境见鸿庐——保利熙瑞博物馆级国仕会馆盛大启幕",
-        "url": "https://36kr.com/p/3852963571307521",
+        "title": "半年三赴，南京向广深学什么？",
+        "url": "https://36kr.com/p/3853802843067657",
         "source": "36氪",
-        "time": "2026-06-14 23:41"
+        "time": "2026-06-15 02:12"
       },
       {
-        "title": "6月14日保利熙瑞实景示范区启幕，重定海淀国宾区人居标准。",
-        "url": "https://36kr.com/p/3852963571307521",
+        "title": "中产三宝，闯进一个「专科生」",
+        "url": "https://36kr.com/p/3851131024620162",
         "source": "36氪",
-        "time": "2026-06-14 23:41"
+        "time": "2026-06-15 02:12"
       },
       {
-        "title": "一群年轻开发者，与一片值得长期投入的创新沃土。",
-        "url": "https://36kr.com/p/3852449924551687",
+        "title": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
+        "url": "https://36kr.com/p/3853016586359817",
         "source": "36氪",
-        "time": "2026-06-14 23:41"
+        "time": "2026-06-15 02:12"
       },
       {
-        "title": "Claude Fable 5四日惊魂",
-        "url": "https://36kr.com/p/3852737616876550",
+        "title": "世界模型与具身智能的关系，本质上是“大脑”与“身体”的关系。",
+        "url": "https://36kr.com/p/3853016586359817",
         "source": "36氪",
-        "time": "2026-06-14 23:41"
+        "time": "2026-06-15 02:12"
       },
       {
-        "title": "中国汽柴油销量意外大幅下降，影响全球石油需求",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867180.html",
+        "title": "“现实感”正成为一种阶层资产",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867234.html",
         "source": "虎嗅",
-        "time": "2026-06-14 23:42"
+        "time": "2026-06-15 02:12"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "山河藏瑞气 开境见鸿庐——保利熙瑞博物馆级国仕会馆盛大启幕",
-      "url": "https://36kr.com/p/3852963571307521",
+      "title": "半年三赴，南京向广深学什么？",
+      "url": "https://36kr.com/p/3853802843067657",
       "source": "36氪",
-      "time": "2026-06-14 23:41"
+      "time": "2026-06-15 02:12"
     },
     {
-      "title": "6月14日保利熙瑞实景示范区启幕，重定海淀国宾区人居标准。",
-      "url": "https://36kr.com/p/3852963571307521",
+      "title": "中产三宝，闯进一个「专科生」",
+      "url": "https://36kr.com/p/3851131024620162",
       "source": "36氪",
-      "time": "2026-06-14 23:41"
+      "time": "2026-06-15 02:12"
     },
     {
-      "title": "那些在鸿蒙搞开发的年轻人，在押注什么？",
-      "url": "https://36kr.com/p/3852449924551687",
+      "title": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
+      "url": "https://36kr.com/p/3853016586359817",
       "source": "36氪",
-      "time": "2026-06-14 23:41"
+      "time": "2026-06-15 02:12"
     },
     {
-      "title": "一群年轻开发者，与一片值得长期投入的创新沃土。",
-      "url": "https://36kr.com/p/3852449924551687",
+      "title": "世界模型与具身智能的关系，本质上是“大脑”与“身体”的关系。",
+      "url": "https://36kr.com/p/3853016586359817",
       "source": "36氪",
-      "time": "2026-06-14 23:41"
+      "time": "2026-06-15 02:12"
     },
     {
-      "title": "Claude Fable 5四日惊魂",
-      "url": "https://36kr.com/p/3852737616876550",
-      "source": "36氪",
-      "time": "2026-06-14 23:41"
-    },
-    {
-      "title": "SpaceX天价IPO背后的启示",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867141.html",
+      "title": "“现实感”正成为一种阶层资产",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867234.html",
       "source": "虎嗅",
-      "time": "2026-06-14 23:42"
+      "time": "2026-06-15 02:12"
     },
     {
-      "title": "中国汽柴油销量意外大幅下降，影响全球石油需求",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867180.html",
+      "title": "很多人想简单了，未来可能经历多次AI泡沫",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867209.html",
       "source": "虎嗅",
-      "time": "2026-06-14 23:42"
+      "time": "2026-06-15 02:12"
     }
   ]
 }
