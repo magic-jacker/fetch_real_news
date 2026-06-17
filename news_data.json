@@ -1,97 +1,86 @@
 {
-  "timestamp": "2026-06-17T05:20:56.094063",
-  "total": 6,
+  "timestamp": "2026-06-17T10:11:18.446062",
+  "total": 5,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 4,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [
       {
-        "title": "三星SK海力士推不同优化方向LPDDR6芯片",
-        "url": "https://36kr.com/p/3856607395959810",
-        "source": "36氪",
-        "time": "2026-06-17 05:20"
+        "title": "存储芯片为什么涨疯了？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868071.html",
+        "source": "虎嗅",
+        "time": "2026-06-17 10:11"
       }
     ],
-    "tech": [],
+    "tech": [
+      {
+        "title": "AI改变的不是效率，而是饭碗",
+        "url": "https://36kr.com/p/3856874746461063",
+        "source": "36氪",
+        "time": "2026-06-17 10:10"
+      },
+      {
+        "title": "AI冲击白领岗位，重构组织，建议重构能力应对。",
+        "url": "https://36kr.com/p/3856874746461063",
+        "source": "36氪",
+        "time": "2026-06-17 10:10"
+      },
+      {
+        "title": "风拂阳澄，来半岛解锁夏日限定AI狂欢！",
+        "url": "https://36kr.com/p/3857051317359622",
+        "source": "36氪",
+        "time": "2026-06-17 10:10"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "蒋凡“烧钱”封神，无招“烧人”下课",
-        "url": "https://36kr.com/p/3856029811440518",
+        "title": "中国车企出海：在欧洲“扎根”，向北美“暗渡”",
+        "url": "https://36kr.com/p/3856889794525827",
         "source": "36氪",
-        "time": "2026-06-17 05:20"
-      },
-      {
-        "title": "LPDDR6，大战已打响",
-        "url": "https://36kr.com/p/3856607395959810",
-        "source": "36氪",
-        "time": "2026-06-17 05:20"
-      },
-      {
-        "title": "上百单外卖放一起的聚合送，平台不止为降本增效",
-        "url": "https://36kr.com/p/3856655535111041",
-        "source": "36氪",
-        "time": "2026-06-17 05:20"
-      },
-      {
-        "title": "奈雪的茶，股价从18元跌倒8毛，到底发生了啥？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868023.html",
-        "source": "虎嗅",
-        "time": "2026-06-17 05:20"
-      },
-      {
-        "title": "黄仁勋：亚裔父母养大的孩子，一辈子都需要心理治疗",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867927.html",
-        "source": "虎嗅",
-        "time": "2026-06-17 05:20"
+        "time": "2026-06-17 10:10"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "蒋凡“烧钱”封神，无招“烧人”下课",
-      "url": "https://36kr.com/p/3856029811440518",
+      "title": "中国车企出海：在欧洲“扎根”，向北美“暗渡”",
+      "url": "https://36kr.com/p/3856889794525827",
       "source": "36氪",
-      "time": "2026-06-17 05:20"
+      "time": "2026-06-17 10:10"
     },
     {
-      "title": "LPDDR6，大战已打响",
-      "url": "https://36kr.com/p/3856607395959810",
+      "title": "AI改变的不是效率，而是饭碗",
+      "url": "https://36kr.com/p/3856874746461063",
       "source": "36氪",
-      "time": "2026-06-17 05:20"
+      "time": "2026-06-17 10:10"
     },
     {
-      "title": "三星SK海力士推不同优化方向LPDDR6芯片",
-      "url": "https://36kr.com/p/3856607395959810",
+      "title": "AI冲击白领岗位，重构组织，建议重构能力应对。",
+      "url": "https://36kr.com/p/3856874746461063",
       "source": "36氪",
-      "time": "2026-06-17 05:20"
+      "time": "2026-06-17 10:10"
     },
     {
-      "title": "上百单外卖放一起的聚合送，平台不止为降本增效",
-      "url": "https://36kr.com/p/3856655535111041",
+      "title": "风拂阳澄，来半岛解锁夏日限定AI狂欢！",
+      "url": "https://36kr.com/p/3857051317359622",
       "source": "36氪",
-      "time": "2026-06-17 05:20"
+      "time": "2026-06-17 10:10"
     },
     {
-      "title": "奈雪的茶，股价从18元跌倒8毛，到底发生了啥？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868023.html",
+      "title": "存储芯片为什么涨疯了？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868071.html",
       "source": "虎嗅",
-      "time": "2026-06-17 05:20"
-    },
-    {
-      "title": "黄仁勋：亚裔父母养大的孩子，一辈子都需要心理治疗",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867927.html",
-      "source": "虎嗅",
-      "time": "2026-06-17 05:20"
+      "time": "2026-06-17 10:11"
     }
   ]
 }
