@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-16T22:59:24.072122",
-  "total": 7,
+  "timestamp": "2026-06-17T00:14:22.240749",
+  "total": 5,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 5,
+    "36氪": 3,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
@@ -14,28 +14,10 @@
     "industry": [],
     "tech": [
       {
-        "title": "鸿蒙智行全面引入电池二供，国轩高科将上车问界｜36氪独家",
-        "url": "https://36kr.com/p/3855879311823873",
+        "title": "AI音乐混战，谁能成为“中国版Suno”？",
+        "url": "https://36kr.com/p/3855833364314755",
         "source": "36氪",
-        "time": "2026-06-16 22:59"
-      },
-      {
-        "title": "鸿蒙智行或下放车价冲击市场格局。",
-        "url": "https://36kr.com/p/3855879311823873",
-        "source": "36氪",
-        "time": "2026-06-16 22:59"
-      },
-      {
-        "title": "为何企业80%的AI投入看不到效果？",
-        "url": "https://36kr.com/p/3855564973609986",
-        "source": "36氪",
-        "time": "2026-06-16 22:59"
-      },
-      {
-        "title": "今年高考，这些专业已经被AI干碎了",
-        "url": "https://36kr.com/p/3855744250401793",
-        "source": "36氪",
-        "time": "2026-06-16 22:59"
+        "time": "2026-06-17 00:14"
       }
     ],
     "byd": [],
@@ -43,67 +25,61 @@
     "fitness": [],
     "other": [
       {
-        "title": "2万字原创，一次跨度2个月的深度研究性思想交互。",
-        "url": "https://36kr.com/p/3855564973609986",
+        "title": "游戏大厂2年亏1.2亿停服，腾网米还扎堆往里挤",
+        "url": "https://36kr.com/p/3855819836314633",
         "source": "36氪",
-        "time": "2026-06-16 22:59"
+        "time": "2026-06-17 00:14"
       },
       {
-        "title": "佛得角奇迹，让我们看到了世界杯扩军的意义",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867755.html",
-        "source": "虎嗅",
-        "time": "2026-06-16 22:59"
+        "title": "引老外大排长队，LV老板“打飞的”来买，千元国产包杀疯了",
+        "url": "https://36kr.com/p/3855839806542852",
+        "source": "36氪",
+        "time": "2026-06-17 00:14"
       },
       {
-        "title": "端午前，机票、酒店为何大跳水？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867718.html",
+        "title": "百胜中国12亿美元买下必胜客",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867882.html",
         "source": "虎嗅",
-        "time": "2026-06-16 22:59"
+        "time": "2026-06-17 00:14"
+      },
+      {
+        "title": "涌入Fab厂的年轻人：身在流水线，心向风口",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867898.html",
+        "source": "虎嗅",
+        "time": "2026-06-17 00:14"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "鸿蒙智行全面引入电池二供，国轩高科将上车问界｜36氪独家",
-      "url": "https://36kr.com/p/3855879311823873",
+      "title": "游戏大厂2年亏1.2亿停服，腾网米还扎堆往里挤",
+      "url": "https://36kr.com/p/3855819836314633",
       "source": "36氪",
-      "time": "2026-06-16 22:59"
+      "time": "2026-06-17 00:14"
     },
     {
-      "title": "鸿蒙智行或下放车价冲击市场格局。",
-      "url": "https://36kr.com/p/3855879311823873",
+      "title": "AI音乐混战，谁能成为“中国版Suno”？",
+      "url": "https://36kr.com/p/3855833364314755",
       "source": "36氪",
-      "time": "2026-06-16 22:59"
+      "time": "2026-06-17 00:14"
     },
     {
-      "title": "为何企业80%的AI投入看不到效果？",
-      "url": "https://36kr.com/p/3855564973609986",
+      "title": "引老外大排长队，LV老板“打飞的”来买，千元国产包杀疯了",
+      "url": "https://36kr.com/p/3855839806542852",
       "source": "36氪",
-      "time": "2026-06-16 22:59"
+      "time": "2026-06-17 00:14"
     },
     {
-      "title": "2万字原创，一次跨度2个月的深度研究性思想交互。",
-      "url": "https://36kr.com/p/3855564973609986",
-      "source": "36氪",
-      "time": "2026-06-16 22:59"
-    },
-    {
-      "title": "今年高考，这些专业已经被AI干碎了",
-      "url": "https://36kr.com/p/3855744250401793",
-      "source": "36氪",
-      "time": "2026-06-16 22:59"
-    },
-    {
-      "title": "佛得角奇迹，让我们看到了世界杯扩军的意义",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867755.html",
+      "title": "百胜中国12亿美元买下必胜客",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867882.html",
       "source": "虎嗅",
-      "time": "2026-06-16 22:59"
+      "time": "2026-06-17 00:14"
     },
     {
-      "title": "端午前，机票、酒店为何大跳水？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867718.html",
+      "title": "涌入Fab厂的年轻人：身在流水线，心向风口",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867898.html",
       "source": "虎嗅",
-      "time": "2026-06-16 22:59"
+      "time": "2026-06-17 00:14"
     }
   ]
 }
