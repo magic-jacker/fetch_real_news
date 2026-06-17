@@ -1,85 +1,97 @@
 {
-  "timestamp": "2026-06-17T00:14:22.240749",
-  "total": 5,
+  "timestamp": "2026-06-17T05:20:56.094063",
+  "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 3,
+    "36氪": 4,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [],
-    "tech": [
+    "industry": [
       {
-        "title": "AI音乐混战，谁能成为“中国版Suno”？",
-        "url": "https://36kr.com/p/3855833364314755",
+        "title": "三星SK海力士推不同优化方向LPDDR6芯片",
+        "url": "https://36kr.com/p/3856607395959810",
         "source": "36氪",
-        "time": "2026-06-17 00:14"
+        "time": "2026-06-17 05:20"
       }
     ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "游戏大厂2年亏1.2亿停服，腾网米还扎堆往里挤",
-        "url": "https://36kr.com/p/3855819836314633",
+        "title": "蒋凡“烧钱”封神，无招“烧人”下课",
+        "url": "https://36kr.com/p/3856029811440518",
         "source": "36氪",
-        "time": "2026-06-17 00:14"
+        "time": "2026-06-17 05:20"
       },
       {
-        "title": "引老外大排长队，LV老板“打飞的”来买，千元国产包杀疯了",
-        "url": "https://36kr.com/p/3855839806542852",
+        "title": "LPDDR6，大战已打响",
+        "url": "https://36kr.com/p/3856607395959810",
         "source": "36氪",
-        "time": "2026-06-17 00:14"
+        "time": "2026-06-17 05:20"
       },
       {
-        "title": "百胜中国12亿美元买下必胜客",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867882.html",
-        "source": "虎嗅",
-        "time": "2026-06-17 00:14"
+        "title": "上百单外卖放一起的聚合送，平台不止为降本增效",
+        "url": "https://36kr.com/p/3856655535111041",
+        "source": "36氪",
+        "time": "2026-06-17 05:20"
       },
       {
-        "title": "涌入Fab厂的年轻人：身在流水线，心向风口",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867898.html",
+        "title": "奈雪的茶，股价从18元跌倒8毛，到底发生了啥？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868023.html",
         "source": "虎嗅",
-        "time": "2026-06-17 00:14"
+        "time": "2026-06-17 05:20"
+      },
+      {
+        "title": "黄仁勋：亚裔父母养大的孩子，一辈子都需要心理治疗",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867927.html",
+        "source": "虎嗅",
+        "time": "2026-06-17 05:20"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "游戏大厂2年亏1.2亿停服，腾网米还扎堆往里挤",
-      "url": "https://36kr.com/p/3855819836314633",
+      "title": "蒋凡“烧钱”封神，无招“烧人”下课",
+      "url": "https://36kr.com/p/3856029811440518",
       "source": "36氪",
-      "time": "2026-06-17 00:14"
+      "time": "2026-06-17 05:20"
     },
     {
-      "title": "AI音乐混战，谁能成为“中国版Suno”？",
-      "url": "https://36kr.com/p/3855833364314755",
+      "title": "LPDDR6，大战已打响",
+      "url": "https://36kr.com/p/3856607395959810",
       "source": "36氪",
-      "time": "2026-06-17 00:14"
+      "time": "2026-06-17 05:20"
     },
     {
-      "title": "引老外大排长队，LV老板“打飞的”来买，千元国产包杀疯了",
-      "url": "https://36kr.com/p/3855839806542852",
+      "title": "三星SK海力士推不同优化方向LPDDR6芯片",
+      "url": "https://36kr.com/p/3856607395959810",
       "source": "36氪",
-      "time": "2026-06-17 00:14"
+      "time": "2026-06-17 05:20"
     },
     {
-      "title": "百胜中国12亿美元买下必胜客",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867882.html",
+      "title": "上百单外卖放一起的聚合送，平台不止为降本增效",
+      "url": "https://36kr.com/p/3856655535111041",
+      "source": "36氪",
+      "time": "2026-06-17 05:20"
+    },
+    {
+      "title": "奈雪的茶，股价从18元跌倒8毛，到底发生了啥？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868023.html",
       "source": "虎嗅",
-      "time": "2026-06-17 00:14"
+      "time": "2026-06-17 05:20"
     },
     {
-      "title": "涌入Fab厂的年轻人：身在流水线，心向风口",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867898.html",
+      "title": "黄仁勋：亚裔父母养大的孩子，一辈子都需要心理治疗",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867927.html",
       "source": "虎嗅",
-      "time": "2026-06-17 00:14"
+      "time": "2026-06-17 05:20"
     }
   ]
 }
