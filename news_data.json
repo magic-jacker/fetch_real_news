@@ -1,110 +1,110 @@
 {
-  "timestamp": "2026-06-18T06:48:26.853247",
+  "timestamp": "2026-06-18T11:02:31.707771",
   "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [],
-    "tech": [
+    "industry": [
       {
-        "title": "制造业AI落地，海尔智家先做了一个企业Agent OS",
-        "url": "https://36kr.com/p/3857432529884417",
+        "title": "100亿美元，高通要买下芯片大神Jim Keller的公司",
+        "url": "https://36kr.com/p/3858532071494912",
         "source": "36氪",
-        "time": "2026-06-18 06:48"
+        "time": "2026-06-18 11:02"
       },
       {
-        "title": "海尔智家以智小能作为企业Agent OS，打通研产供销服，推动业务全员自建Agent。腾讯云基于ClawPro与全栈AI能力，提供模型、算力、安全沙箱和工程化支撑，让Agent在制造业真实场景可控运行。",
-        "url": "https://36kr.com/p/3857432529884417",
+        "title": "高瓴投“拥抱”，恋人机器人进现实：AI硬件如何吃到“陪伴”红利",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868498.html",
+        "source": "虎嗅",
+        "time": "2026-06-18 11:02"
+      }
+    ],
+    "tech": [
+      {
+        "title": "为了探索全新的增长曲线，高通近年积极将目光投向汽车、数据中心和云端AI运算等领域。",
+        "url": "https://36kr.com/p/3858532071494912",
         "source": "36氪",
-        "time": "2026-06-18 06:48"
+        "time": "2026-06-18 11:02"
+      },
+      {
+        "title": "Transformer之父离开谷歌，奥特曼等了他十年",
+        "url": "https://36kr.com/p/3858479715285895",
+        "source": "36氪",
+        "time": "2026-06-18 11:02"
       }
     ],
     "byd": [],
-    "tencent": [
-      {
-        "title": "一个隐秘新风口，微信支付宝杠上了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868164.html",
-        "source": "虎嗅",
-        "time": "2026-06-18 06:48"
-      }
-    ],
+    "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "包装上写满“新鲜”，可惜心里装的全是算计",
-        "url": "https://36kr.com/p/3858121550894338",
+        "title": "万亿市值背后的暗线：当 SpaceX 登陆纳斯达克，中国航天往哪走？",
+        "url": "https://36kr.com/p/3858474592123527",
         "source": "36氪",
-        "time": "2026-06-18 06:48"
+        "time": "2026-06-18 11:02"
       },
       {
-        "title": "曾几何时，“光明=鲜奶”是几代人的条件反射。",
-        "url": "https://36kr.com/p/3858121550894338",
+        "title": "在星辰大海与财务报表之间",
+        "url": "https://36kr.com/p/3858474592123527",
         "source": "36氪",
-        "time": "2026-06-18 06:48"
+        "time": "2026-06-18 11:02"
       },
       {
-        "title": "万控智造2.8亿“试婚”浙江东爵，电气机柜龙头的“铜软连接”突围",
-        "url": "https://36kr.com/p/3858134324499714",
-        "source": "36氪",
-        "time": "2026-06-18 06:48"
-      },
-      {
-        "title": "“离开蔚来，我为什么回到广汽？” | 对话广汽智能座舱总裁朱太平",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867918.html",
+        "title": "Anthropic被禁，智谱却涨疯了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868481.html",
         "source": "虎嗅",
-        "time": "2026-06-18 06:48"
+        "time": "2026-06-18 11:02"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "制造业AI落地，海尔智家先做了一个企业Agent OS",
-      "url": "https://36kr.com/p/3857432529884417",
+      "title": "100亿美元，高通要买下芯片大神Jim Keller的公司",
+      "url": "https://36kr.com/p/3858532071494912",
       "source": "36氪",
-      "time": "2026-06-18 06:48"
+      "time": "2026-06-18 11:02"
     },
     {
-      "title": "海尔智家以智小能作为企业Agent OS，打通研产供销服，推动业务全员自建Agent。腾讯云基于ClawPro与全栈AI能力，提供模型、算力、安全沙箱和工程化支撑，让Agent在制造业真实场景可控运行。",
-      "url": "https://36kr.com/p/3857432529884417",
+      "title": "为了探索全新的增长曲线，高通近年积极将目光投向汽车、数据中心和云端AI运算等领域。",
+      "url": "https://36kr.com/p/3858532071494912",
       "source": "36氪",
-      "time": "2026-06-18 06:48"
+      "time": "2026-06-18 11:02"
     },
     {
-      "title": "包装上写满“新鲜”，可惜心里装的全是算计",
-      "url": "https://36kr.com/p/3858121550894338",
+      "title": "万亿市值背后的暗线：当 SpaceX 登陆纳斯达克，中国航天往哪走？",
+      "url": "https://36kr.com/p/3858474592123527",
       "source": "36氪",
-      "time": "2026-06-18 06:48"
+      "time": "2026-06-18 11:02"
     },
     {
-      "title": "曾几何时，“光明=鲜奶”是几代人的条件反射。",
-      "url": "https://36kr.com/p/3858121550894338",
+      "title": "在星辰大海与财务报表之间",
+      "url": "https://36kr.com/p/3858474592123527",
       "source": "36氪",
-      "time": "2026-06-18 06:48"
+      "time": "2026-06-18 11:02"
     },
     {
-      "title": "万控智造2.8亿“试婚”浙江东爵，电气机柜龙头的“铜软连接”突围",
-      "url": "https://36kr.com/p/3858134324499714",
+      "title": "Transformer之父离开谷歌，奥特曼等了他十年",
+      "url": "https://36kr.com/p/3858479715285895",
       "source": "36氪",
-      "time": "2026-06-18 06:48"
+      "time": "2026-06-18 11:02"
     },
     {
-      "title": "一个隐秘新风口，微信支付宝杠上了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868164.html",
+      "title": "Anthropic被禁，智谱却涨疯了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868481.html",
       "source": "虎嗅",
-      "time": "2026-06-18 06:48"
+      "time": "2026-06-18 11:02"
     },
     {
-      "title": "“离开蔚来，我为什么回到广汽？” | 对话广汽智能座舱总裁朱太平",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867918.html",
+      "title": "高瓴投“拥抱”，恋人机器人进现实：AI硬件如何吃到“陪伴”红利",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868498.html",
       "source": "虎嗅",
-      "time": "2026-06-18 06:48"
+      "time": "2026-06-18 11:02"
     }
   ]
 }
