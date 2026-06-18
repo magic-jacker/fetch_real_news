@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-17T23:12:47.103654",
+  "timestamp": "2026-06-18T01:58:37.137154",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -11,26 +11,19 @@
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "2000部旧手机堆出数据中心，延迟更低，成本仅零头",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868269.html",
-        "source": "虎嗅",
-        "time": "2026-06-17 23:12"
-      }
-    ],
+    "industry": [],
     "tech": [
       {
-        "title": "AI时代组织与人才新规则：扁平化、AI原生、超级个体，你差哪一步？",
-        "url": "https://36kr.com/p/3848453017342984",
+        "title": "黄仁勋呼吁全民拥抱AI",
+        "url": "https://36kr.com/p/3857995221865728",
         "source": "36氪",
-        "time": "2026-06-17 23:12"
+        "time": "2026-06-18 01:58"
       },
       {
-        "title": "企业如何用AI打破增长边界？",
-        "url": "https://36kr.com/p/3848453017342984",
+        "title": "黄仁勋：AI进入普及初期，能源是美AI发展最大瓶颈",
+        "url": "https://36kr.com/p/3857995221865728",
         "source": "36氪",
-        "time": "2026-06-17 23:12"
+        "time": "2026-06-18 01:58"
       }
     ],
     "byd": [],
@@ -38,73 +31,79 @@
     "fitness": [],
     "other": [
       {
-        "title": "朴朴超市“卖身”，生鲜电商的尽头，是阿里和美团的“养子”",
-        "url": "https://36kr.com/p/3857193622950919",
+        "title": "不花十几亿也能玩世界杯？抖快B们的“场外营销”",
+        "url": "https://36kr.com/p/3857250083001352",
         "source": "36氪",
-        "time": "2026-06-17 23:12"
+        "time": "2026-06-18 01:58"
       },
       {
-        "title": "养殖户哭穷、消费者喊贵，鸡蛋涨价的利润“人间蒸发”了？",
-        "url": "https://36kr.com/p/3857194049606662",
+        "title": "没版权的App也能场外抢戏",
+        "url": "https://36kr.com/p/3857250083001352",
         "source": "36氪",
-        "time": "2026-06-17 23:12"
+        "time": "2026-06-18 01:58"
       },
       {
-        "title": "鸡蛋，也走到了周期拐点。",
-        "url": "https://36kr.com/p/3857194049606662",
+        "title": "上百个Agent，该怎么管？清华团队新思路：重做Session",
+        "url": "https://36kr.com/p/3857990388093957",
         "source": "36氪",
-        "time": "2026-06-17 23:12"
+        "time": "2026-06-18 01:58"
       },
       {
-        "title": "日本停产六氟化钨反转？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868212.html",
+        "title": "宁德时代为何豪赌人造太阳",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868317.html",
         "source": "虎嗅",
-        "time": "2026-06-17 23:12"
+        "time": "2026-06-18 01:58"
+      },
+      {
+        "title": "越勒紧裤腰带，经济死得越快",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868311.html",
+        "source": "虎嗅",
+        "time": "2026-06-18 01:58"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "AI时代组织与人才新规则：扁平化、AI原生、超级个体，你差哪一步？",
-      "url": "https://36kr.com/p/3848453017342984",
+      "title": "不花十几亿也能玩世界杯？抖快B们的“场外营销”",
+      "url": "https://36kr.com/p/3857250083001352",
       "source": "36氪",
-      "time": "2026-06-17 23:12"
+      "time": "2026-06-18 01:58"
     },
     {
-      "title": "企业如何用AI打破增长边界？",
-      "url": "https://36kr.com/p/3848453017342984",
+      "title": "没版权的App也能场外抢戏",
+      "url": "https://36kr.com/p/3857250083001352",
       "source": "36氪",
-      "time": "2026-06-17 23:12"
+      "time": "2026-06-18 01:58"
     },
     {
-      "title": "朴朴超市“卖身”，生鲜电商的尽头，是阿里和美团的“养子”",
-      "url": "https://36kr.com/p/3857193622950919",
+      "title": "黄仁勋呼吁全民拥抱AI",
+      "url": "https://36kr.com/p/3857995221865728",
       "source": "36氪",
-      "time": "2026-06-17 23:12"
+      "time": "2026-06-18 01:58"
     },
     {
-      "title": "养殖户哭穷、消费者喊贵，鸡蛋涨价的利润“人间蒸发”了？",
-      "url": "https://36kr.com/p/3857194049606662",
+      "title": "黄仁勋：AI进入普及初期，能源是美AI发展最大瓶颈",
+      "url": "https://36kr.com/p/3857995221865728",
       "source": "36氪",
-      "time": "2026-06-17 23:12"
+      "time": "2026-06-18 01:58"
     },
     {
-      "title": "鸡蛋，也走到了周期拐点。",
-      "url": "https://36kr.com/p/3857194049606662",
+      "title": "上百个Agent，该怎么管？清华团队新思路：重做Session",
+      "url": "https://36kr.com/p/3857990388093957",
       "source": "36氪",
-      "time": "2026-06-17 23:12"
+      "time": "2026-06-18 01:58"
     },
     {
-      "title": "日本停产六氟化钨反转？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868212.html",
+      "title": "宁德时代为何豪赌人造太阳",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868317.html",
       "source": "虎嗅",
-      "time": "2026-06-17 23:12"
+      "time": "2026-06-18 01:58"
     },
     {
-      "title": "2000部旧手机堆出数据中心，延迟更低，成本仅零头",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868269.html",
+      "title": "越勒紧裤腰带，经济死得越快",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868311.html",
       "source": "虎嗅",
-      "time": "2026-06-17 23:12"
+      "time": "2026-06-18 01:58"
     }
   ]
 }
