@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-18T01:58:37.137154",
+  "timestamp": "2026-06-18T06:48:26.853247",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -14,96 +14,97 @@
     "industry": [],
     "tech": [
       {
-        "title": "黄仁勋呼吁全民拥抱AI",
-        "url": "https://36kr.com/p/3857995221865728",
+        "title": "制造业AI落地，海尔智家先做了一个企业Agent OS",
+        "url": "https://36kr.com/p/3857432529884417",
         "source": "36氪",
-        "time": "2026-06-18 01:58"
+        "time": "2026-06-18 06:48"
       },
       {
-        "title": "黄仁勋：AI进入普及初期，能源是美AI发展最大瓶颈",
-        "url": "https://36kr.com/p/3857995221865728",
+        "title": "海尔智家以智小能作为企业Agent OS，打通研产供销服，推动业务全员自建Agent。腾讯云基于ClawPro与全栈AI能力，提供模型、算力、安全沙箱和工程化支撑，让Agent在制造业真实场景可控运行。",
+        "url": "https://36kr.com/p/3857432529884417",
         "source": "36氪",
-        "time": "2026-06-18 01:58"
+        "time": "2026-06-18 06:48"
       }
     ],
     "byd": [],
-    "tencent": [],
+    "tencent": [
+      {
+        "title": "一个隐秘新风口，微信支付宝杠上了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868164.html",
+        "source": "虎嗅",
+        "time": "2026-06-18 06:48"
+      }
+    ],
     "fitness": [],
     "other": [
       {
-        "title": "不花十几亿也能玩世界杯？抖快B们的“场外营销”",
-        "url": "https://36kr.com/p/3857250083001352",
+        "title": "包装上写满“新鲜”，可惜心里装的全是算计",
+        "url": "https://36kr.com/p/3858121550894338",
         "source": "36氪",
-        "time": "2026-06-18 01:58"
+        "time": "2026-06-18 06:48"
       },
       {
-        "title": "没版权的App也能场外抢戏",
-        "url": "https://36kr.com/p/3857250083001352",
+        "title": "曾几何时，“光明=鲜奶”是几代人的条件反射。",
+        "url": "https://36kr.com/p/3858121550894338",
         "source": "36氪",
-        "time": "2026-06-18 01:58"
+        "time": "2026-06-18 06:48"
       },
       {
-        "title": "上百个Agent，该怎么管？清华团队新思路：重做Session",
-        "url": "https://36kr.com/p/3857990388093957",
+        "title": "万控智造2.8亿“试婚”浙江东爵，电气机柜龙头的“铜软连接”突围",
+        "url": "https://36kr.com/p/3858134324499714",
         "source": "36氪",
-        "time": "2026-06-18 01:58"
+        "time": "2026-06-18 06:48"
       },
       {
-        "title": "宁德时代为何豪赌人造太阳",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868317.html",
+        "title": "“离开蔚来，我为什么回到广汽？” | 对话广汽智能座舱总裁朱太平",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867918.html",
         "source": "虎嗅",
-        "time": "2026-06-18 01:58"
-      },
-      {
-        "title": "越勒紧裤腰带，经济死得越快",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868311.html",
-        "source": "虎嗅",
-        "time": "2026-06-18 01:58"
+        "time": "2026-06-18 06:48"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "不花十几亿也能玩世界杯？抖快B们的“场外营销”",
-      "url": "https://36kr.com/p/3857250083001352",
+      "title": "制造业AI落地，海尔智家先做了一个企业Agent OS",
+      "url": "https://36kr.com/p/3857432529884417",
       "source": "36氪",
-      "time": "2026-06-18 01:58"
+      "time": "2026-06-18 06:48"
     },
     {
-      "title": "没版权的App也能场外抢戏",
-      "url": "https://36kr.com/p/3857250083001352",
+      "title": "海尔智家以智小能作为企业Agent OS，打通研产供销服，推动业务全员自建Agent。腾讯云基于ClawPro与全栈AI能力，提供模型、算力、安全沙箱和工程化支撑，让Agent在制造业真实场景可控运行。",
+      "url": "https://36kr.com/p/3857432529884417",
       "source": "36氪",
-      "time": "2026-06-18 01:58"
+      "time": "2026-06-18 06:48"
     },
     {
-      "title": "黄仁勋呼吁全民拥抱AI",
-      "url": "https://36kr.com/p/3857995221865728",
+      "title": "包装上写满“新鲜”，可惜心里装的全是算计",
+      "url": "https://36kr.com/p/3858121550894338",
       "source": "36氪",
-      "time": "2026-06-18 01:58"
+      "time": "2026-06-18 06:48"
     },
     {
-      "title": "黄仁勋：AI进入普及初期，能源是美AI发展最大瓶颈",
-      "url": "https://36kr.com/p/3857995221865728",
+      "title": "曾几何时，“光明=鲜奶”是几代人的条件反射。",
+      "url": "https://36kr.com/p/3858121550894338",
       "source": "36氪",
-      "time": "2026-06-18 01:58"
+      "time": "2026-06-18 06:48"
     },
     {
-      "title": "上百个Agent，该怎么管？清华团队新思路：重做Session",
-      "url": "https://36kr.com/p/3857990388093957",
+      "title": "万控智造2.8亿“试婚”浙江东爵，电气机柜龙头的“铜软连接”突围",
+      "url": "https://36kr.com/p/3858134324499714",
       "source": "36氪",
-      "time": "2026-06-18 01:58"
+      "time": "2026-06-18 06:48"
     },
     {
-      "title": "宁德时代为何豪赌人造太阳",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868317.html",
+      "title": "一个隐秘新风口，微信支付宝杠上了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868164.html",
       "source": "虎嗅",
-      "time": "2026-06-18 01:58"
+      "time": "2026-06-18 06:48"
     },
     {
-      "title": "越勒紧裤腰带，经济死得越快",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868311.html",
+      "title": "“离开蔚来，我为什么回到广汽？” | 对话广汽智能座舱总裁朱太平",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4867918.html",
       "source": "虎嗅",
-      "time": "2026-06-18 01:58"
+      "time": "2026-06-18 06:48"
     }
   ]
 }
