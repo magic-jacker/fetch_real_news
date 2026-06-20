@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-20T06:18:45.502619",
+  "timestamp": "2026-06-20T09:46:31.560430",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -11,100 +11,100 @@
   },
   "categories": {
     "finance": [],
-    "industry": [],
-    "tech": [
+    "industry": [
       {
-        "title": "重新校准中美大模型能力的时间差",
-        "url": "https://36kr.com/p/3859419411534850",
+        "title": "为AI芯片“续命”，中国人造钻石等来了大机会",
+        "url": "https://36kr.com/p/3859519082320898",
         "source": "36氪",
-        "time": "2026-06-20 06:18"
-      },
-      {
-        "title": "诺奖得主转投Anthropic，谷歌48小时连失两大牛，内部信仰崩塌？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868831.html",
-        "source": "虎嗅",
-        "time": "2026-06-20 06:18"
+        "time": "2026-06-20 09:46"
       }
     ],
-    "byd": [
-      {
-        "title": "智谱创始人唐杰隔空对话马斯克：赶超Claude Fable 5不用等到2027年",
-        "url": "https://36kr.com/p/3859419411534850",
-        "source": "36氪",
-        "time": "2026-06-20 06:18"
-      }
-    ],
+    "tech": [],
+    "byd": [],
     "tencent": [],
-    "fitness": [],
+    "fitness": [
+      {
+        "title": "减肥针网售“限令”刺痛了谁？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868729.html",
+        "source": "虎嗅",
+        "time": "2026-06-20 09:46"
+      }
+    ],
     "other": [
       {
-        "title": "他刚融了27亿，李飞飞也投钱了",
-        "url": "https://36kr.com/p/3861004391257094",
+        "title": "市值蒸发324亿，甘肃银王“翻车”坑惨了7.4万股民？",
+        "url": "https://36kr.com/p/3859578807899399",
         "source": "36氪",
-        "time": "2026-06-20 06:18"
+        "time": "2026-06-20 09:46"
       },
       {
-        "title": "“不要将我的公司，贴上世界模型的标签。”",
-        "url": "https://36kr.com/p/3861004391257094",
+        "title": "7.92亿资金占用案，引来监管立案 。",
+        "url": "https://36kr.com/p/3859578807899399",
         "source": "36氪",
-        "time": "2026-06-20 06:18"
+        "time": "2026-06-20 09:46"
       },
       {
-        "title": "硅谷最抢手的新岗位出现了",
-        "url": "https://36kr.com/p/3859434968185734",
+        "title": "Momenta上市不为钱",
+        "url": "https://36kr.com/p/3861050996996745",
         "source": "36氪",
-        "time": "2026-06-20 06:18"
+        "time": "2026-06-20 09:46"
       },
       {
-        "title": "世界杯，也带不动啤酒了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868743.html",
+        "title": "最大的风险来源于“墙头草”",
+        "url": "https://36kr.com/p/3861050996996745",
+        "source": "36氪",
+        "time": "2026-06-20 09:46"
+      },
+      {
+        "title": "卖爆了，这一次中国电摩要掀翻日系老大哥？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868768.html",
         "source": "虎嗅",
-        "time": "2026-06-20 06:18"
+        "time": "2026-06-20 09:46"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "他刚融了27亿，李飞飞也投钱了",
-      "url": "https://36kr.com/p/3861004391257094",
+      "title": "市值蒸发324亿，甘肃银王“翻车”坑惨了7.4万股民？",
+      "url": "https://36kr.com/p/3859578807899399",
       "source": "36氪",
-      "time": "2026-06-20 06:18"
+      "time": "2026-06-20 09:46"
     },
     {
-      "title": "“不要将我的公司，贴上世界模型的标签。”",
-      "url": "https://36kr.com/p/3861004391257094",
+      "title": "7.92亿资金占用案，引来监管立案 。",
+      "url": "https://36kr.com/p/3859578807899399",
       "source": "36氪",
-      "time": "2026-06-20 06:18"
+      "time": "2026-06-20 09:46"
     },
     {
-      "title": "智谱创始人唐杰隔空对话马斯克：赶超Claude Fable 5不用等到2027年",
-      "url": "https://36kr.com/p/3859419411534850",
+      "title": "Momenta上市不为钱",
+      "url": "https://36kr.com/p/3861050996996745",
       "source": "36氪",
-      "time": "2026-06-20 06:18"
+      "time": "2026-06-20 09:46"
     },
     {
-      "title": "重新校准中美大模型能力的时间差",
-      "url": "https://36kr.com/p/3859419411534850",
+      "title": "最大的风险来源于“墙头草”",
+      "url": "https://36kr.com/p/3861050996996745",
       "source": "36氪",
-      "time": "2026-06-20 06:18"
+      "time": "2026-06-20 09:46"
     },
     {
-      "title": "硅谷最抢手的新岗位出现了",
-      "url": "https://36kr.com/p/3859434968185734",
+      "title": "为AI芯片“续命”，中国人造钻石等来了大机会",
+      "url": "https://36kr.com/p/3859519082320898",
       "source": "36氪",
-      "time": "2026-06-20 06:18"
+      "time": "2026-06-20 09:46"
     },
     {
-      "title": "世界杯，也带不动啤酒了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868743.html",
+      "title": "减肥针网售“限令”刺痛了谁？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868729.html",
       "source": "虎嗅",
-      "time": "2026-06-20 06:18"
+      "time": "2026-06-20 09:46"
     },
     {
-      "title": "诺奖得主转投Anthropic，谷歌48小时连失两大牛，内部信仰崩塌？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868831.html",
+      "title": "卖爆了，这一次中国电摩要掀翻日系老大哥？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868768.html",
       "source": "虎嗅",
-      "time": "2026-06-20 06:18"
+      "time": "2026-06-20 09:46"
     }
   ]
 }
