@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-06-20T01:59:07.437205",
-  "total": 6,
+  "timestamp": "2026-06-20T06:18:45.502619",
+  "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
@@ -14,84 +14,97 @@
     "industry": [],
     "tech": [
       {
-        "title": "花钱雇AI当同事，我的生意怎么样了？",
-        "url": "https://36kr.com/p/3860798447686920",
+        "title": "重新校准中美大模型能力的时间差",
+        "url": "https://36kr.com/p/3859419411534850",
         "source": "36氪",
-        "time": "2026-06-20 01:59"
+        "time": "2026-06-20 06:18"
+      },
+      {
+        "title": "诺奖得主转投Anthropic，谷歌48小时连失两大牛，内部信仰崩塌？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868831.html",
+        "source": "虎嗅",
+        "time": "2026-06-20 06:18"
       }
     ],
-    "byd": [],
+    "byd": [
+      {
+        "title": "智谱创始人唐杰隔空对话马斯克：赶超Claude Fable 5不用等到2027年",
+        "url": "https://36kr.com/p/3859419411534850",
+        "source": "36氪",
+        "time": "2026-06-20 06:18"
+      }
+    ],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "刚刚，诺贝尔奖得主成Anthropic新员工",
-        "url": "https://36kr.com/p/3860814933660674",
+        "title": "他刚融了27亿，李飞飞也投钱了",
+        "url": "https://36kr.com/p/3861004391257094",
         "source": "36氪",
-        "time": "2026-06-20 01:59"
+        "time": "2026-06-20 06:18"
       },
       {
-        "title": "博士毕业6个月直接领队AlphaFold，7年后拿下诺贝尔奖。今天，John Jumper官宣加入Anthropic。",
-        "url": "https://36kr.com/p/3860814933660674",
+        "title": "“不要将我的公司，贴上世界模型的标签。”",
+        "url": "https://36kr.com/p/3861004391257094",
         "source": "36氪",
-        "time": "2026-06-20 01:59"
+        "time": "2026-06-20 06:18"
       },
       {
-        "title": "“电子牛皮癣”终于要揭掉了？",
-        "url": "https://36kr.com/p/3860786388538629",
+        "title": "硅谷最抢手的新岗位出现了",
+        "url": "https://36kr.com/p/3859434968185734",
         "source": "36氪",
-        "time": "2026-06-20 01:59"
+        "time": "2026-06-20 06:18"
       },
       {
-        "title": "每月一两千，把数字员工用到起飞。",
-        "url": "https://36kr.com/p/3860798447686920",
-        "source": "36氪",
-        "time": "2026-06-20 01:59"
-      },
-      {
-        "title": "卖爆了，这一次中国电摩要掀翻日系老大哥？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868768.html",
+        "title": "世界杯，也带不动啤酒了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868743.html",
         "source": "虎嗅",
-        "time": "2026-06-20 01:59"
+        "time": "2026-06-20 06:18"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "刚刚，诺贝尔奖得主成Anthropic新员工",
-      "url": "https://36kr.com/p/3860814933660674",
+      "title": "他刚融了27亿，李飞飞也投钱了",
+      "url": "https://36kr.com/p/3861004391257094",
       "source": "36氪",
-      "time": "2026-06-20 01:59"
+      "time": "2026-06-20 06:18"
     },
     {
-      "title": "博士毕业6个月直接领队AlphaFold，7年后拿下诺贝尔奖。今天，John Jumper官宣加入Anthropic。",
-      "url": "https://36kr.com/p/3860814933660674",
+      "title": "“不要将我的公司，贴上世界模型的标签。”",
+      "url": "https://36kr.com/p/3861004391257094",
       "source": "36氪",
-      "time": "2026-06-20 01:59"
+      "time": "2026-06-20 06:18"
     },
     {
-      "title": "“电子牛皮癣”终于要揭掉了？",
-      "url": "https://36kr.com/p/3860786388538629",
+      "title": "智谱创始人唐杰隔空对话马斯克：赶超Claude Fable 5不用等到2027年",
+      "url": "https://36kr.com/p/3859419411534850",
       "source": "36氪",
-      "time": "2026-06-20 01:59"
+      "time": "2026-06-20 06:18"
     },
     {
-      "title": "花钱雇AI当同事，我的生意怎么样了？",
-      "url": "https://36kr.com/p/3860798447686920",
+      "title": "重新校准中美大模型能力的时间差",
+      "url": "https://36kr.com/p/3859419411534850",
       "source": "36氪",
-      "time": "2026-06-20 01:59"
+      "time": "2026-06-20 06:18"
     },
     {
-      "title": "每月一两千，把数字员工用到起飞。",
-      "url": "https://36kr.com/p/3860798447686920",
+      "title": "硅谷最抢手的新岗位出现了",
+      "url": "https://36kr.com/p/3859434968185734",
       "source": "36氪",
-      "time": "2026-06-20 01:59"
+      "time": "2026-06-20 06:18"
     },
     {
-      "title": "卖爆了，这一次中国电摩要掀翻日系老大哥？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868768.html",
+      "title": "世界杯，也带不动啤酒了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868743.html",
       "source": "虎嗅",
-      "time": "2026-06-20 01:59"
+      "time": "2026-06-20 06:18"
+    },
+    {
+      "title": "诺奖得主转投Anthropic，谷歌48小时连失两大牛，内部信仰崩塌？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868831.html",
+      "source": "虎嗅",
+      "time": "2026-06-20 06:18"
     }
   ]
 }
