@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-21T02:40:30.154214",
+  "timestamp": "2026-06-21T07:21:31.024416",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -13,18 +13,36 @@
     "finance": [],
     "industry": [
       {
-        "title": "芯片设备“铁律”，正在被打破",
-        "url": "https://36kr.com/p/3862257619293193",
+        "title": "强化学习之父Sutton联手毁灭战士之父Carmack：让机器人进入真实世界打游戏",
+        "url": "https://36kr.com/p/3862459989988610",
         "source": "36氪",
-        "time": "2026-06-21 02:40"
+        "time": "2026-06-21 07:21"
+      },
+      {
+        "title": "机器人也来真实世界打游戏了……",
+        "url": "https://36kr.com/p/3862459989988610",
+        "source": "36氪",
+        "time": "2026-06-21 07:21"
+      },
+      {
+        "title": "如果不做具身大脑、没有世界模型，我劝你谨慎机器人创业",
+        "url": "https://36kr.com/p/3862527005693186",
+        "source": "36氪",
+        "time": "2026-06-21 07:21"
       }
     ],
     "tech": [
       {
-        "title": "9600亿AI独角兽，又要融资了",
-        "url": "https://36kr.com/p/3861431890990089",
+        "title": "AI巨头的“Token补贴大战”，快打完了吗？",
+        "url": "https://36kr.com/p/3862408718423041",
         "source": "36氪",
-        "time": "2026-06-21 02:40"
+        "time": "2026-06-21 07:21"
+      },
+      {
+        "title": "死磕完几十个一线案例，我们对AI怎么落地营销服有了这些判断",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868464.html",
+        "source": "虎嗅",
+        "time": "2026-06-21 07:21"
       }
     ],
     "byd": [],
@@ -32,79 +50,61 @@
     "fitness": [],
     "other": [
       {
-        "title": "“买到设备”变成了最紧急的军备竞赛。",
-        "url": "https://36kr.com/p/3862257619293193",
+        "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
+        "url": "https://36kr.com/p/3862527005693186",
         "source": "36氪",
-        "time": "2026-06-21 02:40"
+        "time": "2026-06-21 07:21"
       },
       {
-        "title": "“现在的油车，就是当年的马车”",
-        "url": "https://36kr.com/p/3862205674329349",
-        "source": "36氪",
-        "time": "2026-06-21 02:40"
-      },
-      {
-        "title": "30-40万元的细分市场，油车最坚挺。",
-        "url": "https://36kr.com/p/3862205674329349",
-        "source": "36氪",
-        "time": "2026-06-21 02:40"
-      },
-      {
-        "title": "库里，是李宁的正确答案吗？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868895.html",
+        "title": "女人扔掉了高跟鞋，男人穿上了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868477.html",
         "source": "虎嗅",
-        "time": "2026-06-21 02:40"
-      },
-      {
-        "title": "卖爆了，这一次中国电摩要掀翻日系老大哥？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868768.html",
-        "source": "虎嗅",
-        "time": "2026-06-21 02:40"
+        "time": "2026-06-21 07:21"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "芯片设备“铁律”，正在被打破",
-      "url": "https://36kr.com/p/3862257619293193",
+      "title": "强化学习之父Sutton联手毁灭战士之父Carmack：让机器人进入真实世界打游戏",
+      "url": "https://36kr.com/p/3862459989988610",
       "source": "36氪",
-      "time": "2026-06-21 02:40"
+      "time": "2026-06-21 07:21"
     },
     {
-      "title": "“买到设备”变成了最紧急的军备竞赛。",
-      "url": "https://36kr.com/p/3862257619293193",
+      "title": "机器人也来真实世界打游戏了……",
+      "url": "https://36kr.com/p/3862459989988610",
       "source": "36氪",
-      "time": "2026-06-21 02:40"
+      "time": "2026-06-21 07:21"
     },
     {
-      "title": "“现在的油车，就是当年的马车”",
-      "url": "https://36kr.com/p/3862205674329349",
+      "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
+      "url": "https://36kr.com/p/3862527005693186",
       "source": "36氪",
-      "time": "2026-06-21 02:40"
+      "time": "2026-06-21 07:21"
     },
     {
-      "title": "30-40万元的细分市场，油车最坚挺。",
-      "url": "https://36kr.com/p/3862205674329349",
+      "title": "如果不做具身大脑、没有世界模型，我劝你谨慎机器人创业",
+      "url": "https://36kr.com/p/3862527005693186",
       "source": "36氪",
-      "time": "2026-06-21 02:40"
+      "time": "2026-06-21 07:21"
     },
     {
-      "title": "9600亿AI独角兽，又要融资了",
-      "url": "https://36kr.com/p/3861431890990089",
+      "title": "AI巨头的“Token补贴大战”，快打完了吗？",
+      "url": "https://36kr.com/p/3862408718423041",
       "source": "36氪",
-      "time": "2026-06-21 02:40"
+      "time": "2026-06-21 07:21"
     },
     {
-      "title": "库里，是李宁的正确答案吗？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868895.html",
+      "title": "女人扔掉了高跟鞋，男人穿上了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868477.html",
       "source": "虎嗅",
-      "time": "2026-06-21 02:40"
+      "time": "2026-06-21 07:21"
     },
     {
-      "title": "卖爆了，这一次中国电摩要掀翻日系老大哥？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868768.html",
+      "title": "死磕完几十个一线案例，我们对AI怎么落地营销服有了这些判断",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868464.html",
       "source": "虎嗅",
-      "time": "2026-06-21 02:40"
+      "time": "2026-06-21 07:21"
     }
   ]
 }
