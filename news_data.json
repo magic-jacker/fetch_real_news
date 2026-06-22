@@ -1,109 +1,85 @@
 {
-  "timestamp": "2026-06-22T11:26:13.974408",
-  "total": 7,
+  "timestamp": "2026-06-22T16:07:44.252496",
+  "total": 5,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 5,
+    "36氪": 4,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
-    "industry": [],
-    "tech": [
+    "finance": [
       {
-        "title": "评奖赛事｜2026世界人工智能大会SAIL奖TOP30及青年优秀论文奖TOP20发布",
-        "url": "https://36kr.com/p/3864236985013511",
+        "title": "大众下狠手：裁员5万，减产300万，德系黄金时代结束了吗",
+        "url": "https://36kr.com/p/3864210940433673",
         "source": "36氪",
-        "time": "2026-06-22 11:26"
-      },
-      {
-        "title": "2026 WAIC SAIL奖TOP30、青年优秀论文TOP20入围发布",
-        "url": "https://36kr.com/p/3864236985013511",
-        "source": "36氪",
-        "time": "2026-06-22 11:26"
-      },
-      {
-        "title": "苹果设计团队影响力降至数十年来最低点，新CEO想做出改变",
-        "url": "https://36kr.com/p/3864233044448265",
-        "source": "36氪",
-        "time": "2026-06-22 11:26"
-      },
-      {
-        "title": "苹果新任CEO约翰·特纳斯将重振设计能力视为上任后的首要任务。",
-        "url": "https://36kr.com/p/3864233044448265",
-        "source": "36氪",
-        "time": "2026-06-22 11:26"
+        "time": "2026-06-22 16:07"
       }
     ],
+    "industry": [],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "顶级球星是如何做VC的？",
-        "url": "https://36kr.com/p/3864201800897793",
+        "title": "深圳手搓一个全球霸主，改写3D打印世界版图",
+        "url": "https://36kr.com/p/3864254661006601",
         "source": "36氪",
-        "time": "2026-06-22 11:26"
+        "time": "2026-06-22 16:07"
       },
       {
-        "title": "你点的“现杀活鱼”，可能早就被“催眠”了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4869169.html",
-        "source": "虎嗅",
-        "time": "2026-06-22 11:26"
+        "title": "我们梳理了中国所有世界模型公司：6 条技术路线，4家00后创始人，1份报告",
+        "url": "https://36kr.com/p/3864199326815239",
+        "source": "36氪",
+        "time": "2026-06-22 16:07"
       },
       {
-        "title": "开弓没有回头箭， Fable5封锁后Claude 继续踩油门：最新Mythos 已完成训练，Sonnet5最快下周上线",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4869198.html",
+        "title": "中国世界模型创业全景报告（2026年首发）",
+        "url": "https://36kr.com/p/3864199326815239",
+        "source": "36氪",
+        "time": "2026-06-22 16:07"
+      },
+      {
+        "title": "别再迷信“牛市买券商”了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4869258.html",
         "source": "虎嗅",
-        "time": "2026-06-22 11:26"
+        "time": "2026-06-22 16:07"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "评奖赛事｜2026世界人工智能大会SAIL奖TOP30及青年优秀论文奖TOP20发布",
-      "url": "https://36kr.com/p/3864236985013511",
+      "title": "深圳手搓一个全球霸主，改写3D打印世界版图",
+      "url": "https://36kr.com/p/3864254661006601",
       "source": "36氪",
-      "time": "2026-06-22 11:26"
+      "time": "2026-06-22 16:07"
     },
     {
-      "title": "2026 WAIC SAIL奖TOP30、青年优秀论文TOP20入围发布",
-      "url": "https://36kr.com/p/3864236985013511",
+      "title": "大众下狠手：裁员5万，减产300万，德系黄金时代结束了吗",
+      "url": "https://36kr.com/p/3864210940433673",
       "source": "36氪",
-      "time": "2026-06-22 11:26"
+      "time": "2026-06-22 16:07"
     },
     {
-      "title": "苹果设计团队影响力降至数十年来最低点，新CEO想做出改变",
-      "url": "https://36kr.com/p/3864233044448265",
+      "title": "我们梳理了中国所有世界模型公司：6 条技术路线，4家00后创始人，1份报告",
+      "url": "https://36kr.com/p/3864199326815239",
       "source": "36氪",
-      "time": "2026-06-22 11:26"
+      "time": "2026-06-22 16:07"
     },
     {
-      "title": "苹果新任CEO约翰·特纳斯将重振设计能力视为上任后的首要任务。",
-      "url": "https://36kr.com/p/3864233044448265",
+      "title": "中国世界模型创业全景报告（2026年首发）",
+      "url": "https://36kr.com/p/3864199326815239",
       "source": "36氪",
-      "time": "2026-06-22 11:26"
+      "time": "2026-06-22 16:07"
     },
     {
-      "title": "顶级球星是如何做VC的？",
-      "url": "https://36kr.com/p/3864201800897793",
-      "source": "36氪",
-      "time": "2026-06-22 11:26"
-    },
-    {
-      "title": "你点的“现杀活鱼”，可能早就被“催眠”了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4869169.html",
+      "title": "别再迷信“牛市买券商”了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4869258.html",
       "source": "虎嗅",
-      "time": "2026-06-22 11:26"
-    },
-    {
-      "title": "开弓没有回头箭， Fable5封锁后Claude 继续踩油门：最新Mythos 已完成训练，Sonnet5最快下周上线",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4869198.html",
-      "source": "虎嗅",
-      "time": "2026-06-22 11:26"
+      "time": "2026-06-22 16:07"
     }
   ]
 }
