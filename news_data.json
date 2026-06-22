@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-21T22:55:53.727203",
-  "total": 6,
+  "timestamp": "2026-06-22T00:01:49.429387",
+  "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 4,
+    "36氪": 5,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
@@ -14,10 +14,16 @@
     "industry": [],
     "tech": [
       {
-        "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868995.html",
+        "title": "苏格拉底即服务：AI还学不会的东西",
+        "url": "https://36kr.com/p/3833371514218112",
+        "source": "36氪",
+        "time": "2026-06-22 00:01"
+      },
+      {
+        "title": "AI的第一个泡沫，是程序员",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868994.html",
         "source": "虎嗅",
-        "time": "2026-06-21 22:55"
+        "time": "2026-06-22 00:01"
       }
     ],
     "byd": [],
@@ -25,73 +31,79 @@
     "fitness": [],
     "other": [
       {
-        "title": "大悦城控股：整合商业物业板块成立“大悦生活”",
-        "url": "https://36kr.com/p/3862920870188036",
+        "title": "最好的故事深藏于人们心中——而将其挖掘出来，依然需要人类的参与",
+        "url": "https://36kr.com/p/3833371514218112",
         "source": "36氪",
-        "time": "2026-06-21 22:55"
+        "time": "2026-06-22 00:01"
       },
       {
-        "title": "6月21日大悦城控股完成组织架构优化调整。",
-        "url": "https://36kr.com/p/3862920870188036",
+        "title": "大扁平化时代：消失的中层",
+        "url": "https://36kr.com/p/3828581749772928",
         "source": "36氪",
-        "time": "2026-06-21 22:55"
+        "time": "2026-06-22 00:01"
       },
       {
-        "title": "经典之作PPO算法：曾被NeurIPS拒了",
-        "url": "https://36kr.com/p/3862709593887746",
+        "title": "组织的金字塔结构将被压扁",
+        "url": "https://36kr.com/p/3828581749772928",
         "source": "36氪",
-        "time": "2026-06-21 22:55"
+        "time": "2026-06-22 00:01"
       },
       {
-        "title": "卖掉公司，50位员工实现财富自由",
-        "url": "https://36kr.com/p/3862619740853511",
+        "title": "拒绝他人时这样表述，不尴尬、不被动",
+        "url": "https://36kr.com/p/3823254725366144",
         "source": "36氪",
-        "time": "2026-06-21 22:55"
+        "time": "2026-06-22 00:01"
       },
       {
-        "title": "漫剧切入大女主赛道，但无CP才是终极爽点？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868986.html",
+        "title": "没患者买单，中国最贵药物降价140万元",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868928.html",
         "source": "虎嗅",
-        "time": "2026-06-21 22:55"
+        "time": "2026-06-22 00:01"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "大悦城控股：整合商业物业板块成立“大悦生活”",
-      "url": "https://36kr.com/p/3862920870188036",
+      "title": "苏格拉底即服务：AI还学不会的东西",
+      "url": "https://36kr.com/p/3833371514218112",
       "source": "36氪",
-      "time": "2026-06-21 22:55"
+      "time": "2026-06-22 00:01"
     },
     {
-      "title": "6月21日大悦城控股完成组织架构优化调整。",
-      "url": "https://36kr.com/p/3862920870188036",
+      "title": "最好的故事深藏于人们心中——而将其挖掘出来，依然需要人类的参与",
+      "url": "https://36kr.com/p/3833371514218112",
       "source": "36氪",
-      "time": "2026-06-21 22:55"
+      "time": "2026-06-22 00:01"
     },
     {
-      "title": "经典之作PPO算法：曾被NeurIPS拒了",
-      "url": "https://36kr.com/p/3862709593887746",
+      "title": "大扁平化时代：消失的中层",
+      "url": "https://36kr.com/p/3828581749772928",
       "source": "36氪",
-      "time": "2026-06-21 22:55"
+      "time": "2026-06-22 00:01"
     },
     {
-      "title": "卖掉公司，50位员工实现财富自由",
-      "url": "https://36kr.com/p/3862619740853511",
+      "title": "组织的金字塔结构将被压扁",
+      "url": "https://36kr.com/p/3828581749772928",
       "source": "36氪",
-      "time": "2026-06-21 22:55"
+      "time": "2026-06-22 00:01"
     },
     {
-      "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868995.html",
+      "title": "拒绝他人时这样表述，不尴尬、不被动",
+      "url": "https://36kr.com/p/3823254725366144",
+      "source": "36氪",
+      "time": "2026-06-22 00:01"
+    },
+    {
+      "title": "AI的第一个泡沫，是程序员",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868994.html",
       "source": "虎嗅",
-      "time": "2026-06-21 22:55"
+      "time": "2026-06-22 00:01"
     },
     {
-      "title": "漫剧切入大女主赛道，但无CP才是终极爽点？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868986.html",
+      "title": "没患者买单，中国最贵药物降价140万元",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4868928.html",
       "source": "虎嗅",
-      "time": "2026-06-21 22:55"
+      "time": "2026-06-22 00:01"
     }
   ]
 }
