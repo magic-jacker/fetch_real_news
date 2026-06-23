@@ -1,97 +1,109 @@
 {
-  "timestamp": "2026-06-23T22:09:00.430589",
-  "total": 6,
+  "timestamp": "2026-06-23T23:33:23.829658",
+  "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [
+    "industry": [],
+    "tech": [
       {
-        "title": "成立不到90天，阿里前高管创立的昆仑行机器人获数十亿元融资",
-        "url": "https://36kr.com/p/3865690949211138",
+        "title": "守护好奇心，是AI时代的核心竞争力。",
+        "url": "https://36kr.com/p/3851619751449601",
         "source": "36氪",
-        "time": "2026-06-23 22:08"
+        "time": "2026-06-23 23:33"
+      },
+      {
+        "title": "同为大模型，为何智谱万亿，Minimax却腰斩？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4869574.html",
+        "source": "虎嗅",
+        "time": "2026-06-23 23:33"
+      },
+      {
+        "title": "微信6年来最大改版：关于微信AI助手小微的15条思考",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4869705.html",
+        "source": "虎嗅",
+        "time": "2026-06-23 23:33"
       }
     ],
-    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "阿里、Temu、TikTok、京东：四大巨头路线正面决裂，选对平台少亏百万",
-        "url": "https://36kr.com/p/3865705934935041",
+        "title": "前10% 的精英，如何应对即将到来的职业崩溃？",
+        "url": "https://36kr.com/p/3847568619049992",
         "source": "36氪",
-        "time": "2026-06-23 22:08"
+        "time": "2026-06-23 23:33"
       },
       {
-        "title": "一篇文章看懂如何出海选平台",
-        "url": "https://36kr.com/p/3865705934935041",
+        "title": "“时间换安全” vs. “价值换不可替代性”。",
+        "url": "https://36kr.com/p/3847568619049992",
         "source": "36氪",
-        "time": "2026-06-23 22:08"
+        "time": "2026-06-23 23:33"
       },
       {
-        "title": "相宜本草苦熬26年，“掉队之痛”一剂难愈",
-        "url": "https://36kr.com/p/3865698703315971",
+        "title": "当答案变得廉价，我们要学会问问题",
+        "url": "https://36kr.com/p/3851619751449601",
         "source": "36氪",
-        "time": "2026-06-23 22:08"
+        "time": "2026-06-23 23:33"
       },
       {
-        "title": "留给相宜本草的时间并不多。",
-        "url": "https://36kr.com/p/3865698703315971",
+        "title": "企业高管们分享的今夏必读书单",
+        "url": "https://36kr.com/p/3847431819940871",
         "source": "36氪",
-        "time": "2026-06-23 22:08"
-      },
-      {
-        "title": "追觅澄清“汽车CEO离职”，曾有三条造车线",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4869629.html",
-        "source": "虎嗅",
-        "time": "2026-06-23 22:08"
+        "time": "2026-06-23 23:33"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "阿里、Temu、TikTok、京东：四大巨头路线正面决裂，选对平台少亏百万",
-      "url": "https://36kr.com/p/3865705934935041",
+      "title": "前10% 的精英，如何应对即将到来的职业崩溃？",
+      "url": "https://36kr.com/p/3847568619049992",
       "source": "36氪",
-      "time": "2026-06-23 22:08"
+      "time": "2026-06-23 23:33"
     },
     {
-      "title": "一篇文章看懂如何出海选平台",
-      "url": "https://36kr.com/p/3865705934935041",
+      "title": "“时间换安全” vs. “价值换不可替代性”。",
+      "url": "https://36kr.com/p/3847568619049992",
       "source": "36氪",
-      "time": "2026-06-23 22:08"
+      "time": "2026-06-23 23:33"
     },
     {
-      "title": "相宜本草苦熬26年，“掉队之痛”一剂难愈",
-      "url": "https://36kr.com/p/3865698703315971",
+      "title": "当答案变得廉价，我们要学会问问题",
+      "url": "https://36kr.com/p/3851619751449601",
       "source": "36氪",
-      "time": "2026-06-23 22:08"
+      "time": "2026-06-23 23:33"
     },
     {
-      "title": "留给相宜本草的时间并不多。",
-      "url": "https://36kr.com/p/3865698703315971",
+      "title": "守护好奇心，是AI时代的核心竞争力。",
+      "url": "https://36kr.com/p/3851619751449601",
       "source": "36氪",
-      "time": "2026-06-23 22:08"
+      "time": "2026-06-23 23:33"
     },
     {
-      "title": "成立不到90天，阿里前高管创立的昆仑行机器人获数十亿元融资",
-      "url": "https://36kr.com/p/3865690949211138",
+      "title": "企业高管们分享的今夏必读书单",
+      "url": "https://36kr.com/p/3847431819940871",
       "source": "36氪",
-      "time": "2026-06-23 22:08"
+      "time": "2026-06-23 23:33"
     },
     {
-      "title": "追觅澄清“汽车CEO离职”，曾有三条造车线",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4869629.html",
+      "title": "同为大模型，为何智谱万亿，Minimax却腰斩？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4869574.html",
       "source": "虎嗅",
-      "time": "2026-06-23 22:08"
+      "time": "2026-06-23 23:33"
+    },
+    {
+      "title": "微信6年来最大改版：关于微信AI助手小微的15条思考",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4869705.html",
+      "source": "虎嗅",
+      "time": "2026-06-23 23:33"
     }
   ]
 }
