@@ -1,35 +1,30 @@
 {
-  "timestamp": "2026-06-23T23:33:23.829658",
+  "timestamp": "2026-06-24T01:52:00.569031",
   "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 5,
+    "36氪": 4,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
+    "finance": [
+      {
+        "title": "Momenta闯关港股：拿下65%份额，年亏34亿",
+        "url": "https://36kr.com/p/3865876831779716",
+        "source": "36氪",
+        "time": "2026-06-24 01:51"
+      }
+    ],
     "industry": [],
     "tech": [
       {
-        "title": "守护好奇心，是AI时代的核心竞争力。",
-        "url": "https://36kr.com/p/3851619751449601",
-        "source": "36氪",
-        "time": "2026-06-23 23:33"
-      },
-      {
-        "title": "同为大模型，为何智谱万亿，Minimax却腰斩？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4869574.html",
+        "title": "AI创业一年复盘：第一次Build的成就感，是创业最大的幻觉",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4869723.html",
         "source": "虎嗅",
-        "time": "2026-06-23 23:33"
-      },
-      {
-        "title": "微信6年来最大改版：关于微信AI助手小微的15条思考",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4869705.html",
-        "source": "虎嗅",
-        "time": "2026-06-23 23:33"
+        "time": "2026-06-24 01:51"
       }
     ],
     "byd": [],
@@ -37,73 +32,79 @@
     "fitness": [],
     "other": [
       {
-        "title": "前10% 的精英，如何应对即将到来的职业崩溃？",
-        "url": "https://36kr.com/p/3847568619049992",
+        "title": "梅西以18记进球加冕世界杯历史最佳射手。",
+        "url": "https://36kr.com/p/3865783381103624",
         "source": "36氪",
-        "time": "2026-06-23 23:33"
+        "time": "2026-06-24 01:51"
       },
       {
-        "title": "“时间换安全” vs. “价值换不可替代性”。",
-        "url": "https://36kr.com/p/3847568619049992",
+        "title": "五星级酒店，为什么也开始焦虑？",
+        "url": "https://36kr.com/p/3866388288754946",
         "source": "36氪",
-        "time": "2026-06-23 23:33"
+        "time": "2026-06-24 01:51"
       },
       {
-        "title": "当答案变得廉价，我们要学会问问题",
-        "url": "https://36kr.com/p/3851619751449601",
+        "title": "谁还在为五星级酒店买单？",
+        "url": "https://36kr.com/p/3866388288754946",
         "source": "36氪",
-        "time": "2026-06-23 23:33"
+        "time": "2026-06-24 01:51"
       },
       {
-        "title": "企业高管们分享的今夏必读书单",
-        "url": "https://36kr.com/p/3847431819940871",
+        "title": "智驾行业的故事千篇一律。",
+        "url": "https://36kr.com/p/3865876831779716",
         "source": "36氪",
-        "time": "2026-06-23 23:33"
+        "time": "2026-06-24 01:51"
+      },
+      {
+        "title": "韩国闪崩了，还好没去接盘",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4869664.html",
+        "source": "虎嗅",
+        "time": "2026-06-24 01:51"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "前10% 的精英，如何应对即将到来的职业崩溃？",
-      "url": "https://36kr.com/p/3847568619049992",
+      "title": "梅西以18记进球加冕世界杯历史最佳射手。",
+      "url": "https://36kr.com/p/3865783381103624",
       "source": "36氪",
-      "time": "2026-06-23 23:33"
+      "time": "2026-06-24 01:51"
     },
     {
-      "title": "“时间换安全” vs. “价值换不可替代性”。",
-      "url": "https://36kr.com/p/3847568619049992",
+      "title": "五星级酒店，为什么也开始焦虑？",
+      "url": "https://36kr.com/p/3866388288754946",
       "source": "36氪",
-      "time": "2026-06-23 23:33"
+      "time": "2026-06-24 01:51"
     },
     {
-      "title": "当答案变得廉价，我们要学会问问题",
-      "url": "https://36kr.com/p/3851619751449601",
+      "title": "谁还在为五星级酒店买单？",
+      "url": "https://36kr.com/p/3866388288754946",
       "source": "36氪",
-      "time": "2026-06-23 23:33"
+      "time": "2026-06-24 01:51"
     },
     {
-      "title": "守护好奇心，是AI时代的核心竞争力。",
-      "url": "https://36kr.com/p/3851619751449601",
+      "title": "Momenta闯关港股：拿下65%份额，年亏34亿",
+      "url": "https://36kr.com/p/3865876831779716",
       "source": "36氪",
-      "time": "2026-06-23 23:33"
+      "time": "2026-06-24 01:51"
     },
     {
-      "title": "企业高管们分享的今夏必读书单",
-      "url": "https://36kr.com/p/3847431819940871",
+      "title": "智驾行业的故事千篇一律。",
+      "url": "https://36kr.com/p/3865876831779716",
       "source": "36氪",
-      "time": "2026-06-23 23:33"
+      "time": "2026-06-24 01:51"
     },
     {
-      "title": "同为大模型，为何智谱万亿，Minimax却腰斩？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4869574.html",
+      "title": "韩国闪崩了，还好没去接盘",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4869664.html",
       "source": "虎嗅",
-      "time": "2026-06-23 23:33"
+      "time": "2026-06-24 01:51"
     },
     {
-      "title": "微信6年来最大改版：关于微信AI助手小微的15条思考",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4869705.html",
+      "title": "AI创业一年复盘：第一次Build的成就感，是创业最大的幻觉",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4869723.html",
       "source": "虎嗅",
-      "time": "2026-06-23 23:33"
+      "time": "2026-06-24 01:51"
     }
   ]
 }
