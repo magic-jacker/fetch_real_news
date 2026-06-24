@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-24T08:48:11.229805",
+  "timestamp": "2026-06-24T11:35:32.757167",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -10,38 +10,27 @@
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
+    "finance": [
+      {
+        "title": "孩子王冲刺港股：第一季营收25亿，净利4862万，汪建国控制27%投票权",
+        "url": "https://36kr.com/p/3866909936342017",
+        "source": "36氪",
+        "time": "2026-06-24 11:35"
+      }
+    ],
     "industry": [],
     "tech": [
       {
-        "title": "AI应用观察：ChatGPT断层领跑，AIGC娱乐狂飙，亚洲团队接管流量",
-        "url": "https://36kr.com/p/3866753459698560",
+        "title": "Agent不会搞科研？人大微软开源框架&工具包解决盲目试错通病，抱抱脸日榜第一",
+        "url": "https://36kr.com/p/3867017700005127",
         "source": "36氪",
-        "time": "2026-06-24 08:47"
+        "time": "2026-06-24 11:35"
       },
       {
-        "title": "2026年5月全球AI移动应用市场洗牌，亚洲开发者占红利",
-        "url": "https://36kr.com/p/3866753459698560",
+        "title": "砍掉90%冗余词元，省下70万美元：Netflix开源工具狙击AI账单黑洞",
+        "url": "https://36kr.com/p/3867010001261574",
         "source": "36氪",
-        "time": "2026-06-24 08:47"
-      },
-      {
-        "title": "2026，AI正在走出对话框",
-        "url": "https://36kr.com/p/3866759935572612",
-        "source": "36氪",
-        "time": "2026-06-24 08:47"
-      },
-      {
-        "title": "2026年Chatbot增长见顶，AI Agent时代开启",
-        "url": "https://36kr.com/p/3866759935572612",
-        "source": "36氪",
-        "time": "2026-06-24 08:47"
-      },
-      {
-        "title": "比亚迪、华为接连出手：旧车险，兜不住新智驾了",
-        "url": "https://36kr.com/p/3866815433390724",
-        "source": "36氪",
-        "time": "2026-06-24 08:47"
+        "time": "2026-06-24 11:35"
       }
     ],
     "byd": [],
@@ -49,61 +38,73 @@
     "fitness": [],
     "other": [
       {
-        "title": "我们跟吉利、杰克、美的的实干派，聊了聊工业智能体的真相",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4869544.html",
+        "title": "Arbor：通用且实用的自主科研的框架与开源工具包。",
+        "url": "https://36kr.com/p/3867017700005127",
+        "source": "36氪",
+        "time": "2026-06-24 11:35"
+      },
+      {
+        "title": "在近期的开源峰会上，Chopra 表示，Headroom 已为用户节省了约 70 万美元，这些用户可以将节省的 2000 亿Token用在其他地方。",
+        "url": "https://36kr.com/p/3867010001261574",
+        "source": "36氪",
+        "time": "2026-06-24 11:35"
+      },
+      {
+        "title": "中国公募距离贝莱德还有多远？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4869913.html",
         "source": "虎嗅",
-        "time": "2026-06-24 08:48"
+        "time": "2026-06-24 11:35"
       },
       {
         "title": "曾被认为越老越吃香的职业，正在经历大规模贬值",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4869791.html",
         "source": "虎嗅",
-        "time": "2026-06-24 08:48"
+        "time": "2026-06-24 11:35"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "AI应用观察：ChatGPT断层领跑，AIGC娱乐狂飙，亚洲团队接管流量",
-      "url": "https://36kr.com/p/3866753459698560",
+      "title": "Agent不会搞科研？人大微软开源框架&工具包解决盲目试错通病，抱抱脸日榜第一",
+      "url": "https://36kr.com/p/3867017700005127",
       "source": "36氪",
-      "time": "2026-06-24 08:47"
+      "time": "2026-06-24 11:35"
     },
     {
-      "title": "2026年5月全球AI移动应用市场洗牌，亚洲开发者占红利",
-      "url": "https://36kr.com/p/3866753459698560",
+      "title": "Arbor：通用且实用的自主科研的框架与开源工具包。",
+      "url": "https://36kr.com/p/3867017700005127",
       "source": "36氪",
-      "time": "2026-06-24 08:47"
+      "time": "2026-06-24 11:35"
     },
     {
-      "title": "2026，AI正在走出对话框",
-      "url": "https://36kr.com/p/3866759935572612",
+      "title": "砍掉90%冗余词元，省下70万美元：Netflix开源工具狙击AI账单黑洞",
+      "url": "https://36kr.com/p/3867010001261574",
       "source": "36氪",
-      "time": "2026-06-24 08:47"
+      "time": "2026-06-24 11:35"
     },
     {
-      "title": "2026年Chatbot增长见顶，AI Agent时代开启",
-      "url": "https://36kr.com/p/3866759935572612",
+      "title": "在近期的开源峰会上，Chopra 表示，Headroom 已为用户节省了约 70 万美元，这些用户可以将节省的 2000 亿Token用在其他地方。",
+      "url": "https://36kr.com/p/3867010001261574",
       "source": "36氪",
-      "time": "2026-06-24 08:47"
+      "time": "2026-06-24 11:35"
     },
     {
-      "title": "比亚迪、华为接连出手：旧车险，兜不住新智驾了",
-      "url": "https://36kr.com/p/3866815433390724",
+      "title": "孩子王冲刺港股：第一季营收25亿，净利4862万，汪建国控制27%投票权",
+      "url": "https://36kr.com/p/3866909936342017",
       "source": "36氪",
-      "time": "2026-06-24 08:47"
+      "time": "2026-06-24 11:35"
     },
     {
-      "title": "我们跟吉利、杰克、美的的实干派，聊了聊工业智能体的真相",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4869544.html",
+      "title": "中国公募距离贝莱德还有多远？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4869913.html",
       "source": "虎嗅",
-      "time": "2026-06-24 08:48"
+      "time": "2026-06-24 11:35"
     },
     {
       "title": "曾被认为越老越吃香的职业，正在经历大规模贬值",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4869791.html",
       "source": "虎嗅",
-      "time": "2026-06-24 08:48"
+      "time": "2026-06-24 11:35"
     }
   ]
 }
