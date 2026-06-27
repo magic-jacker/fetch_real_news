@@ -1,36 +1,23 @@
 {
-  "timestamp": "2026-06-27T08:21:09.216848",
-  "total": 7,
+  "timestamp": "2026-06-27T10:29:53.869921",
+  "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 5,
+    "36氪": 4,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
-      {
-        "title": "秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完",
-        "url": "https://36kr.com/p/3871109381035011",
-        "source": "36氪",
-        "time": "2026-06-27 08:20"
-      }
-    ],
+    "finance": [],
     "industry": [],
     "tech": [
       {
-        "title": "江西赣州被英伟达盯上，连夜搬走黑石头",
-        "url": "https://36kr.com/p/3870907014370309",
+        "title": "被AI带火的“玻璃”：先进封装的隐形地基，产业价值待重估",
+        "url": "https://36kr.com/p/3871173400073222",
         "source": "36氪",
-        "time": "2026-06-27 08:20"
-      },
-      {
-        "title": "一盆冷水：99%的AI原生创业，根本没有护城河",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870861.html",
-        "source": "虎嗅",
-        "time": "2026-06-27 08:21"
+        "time": "2026-06-27 10:29"
       }
     ],
     "byd": [],
@@ -38,73 +25,73 @@
     "fitness": [],
     "other": [
       {
-        "title": "在锂价50万每吨的山顶，囤了28万台电池。",
-        "url": "https://36kr.com/p/3871109381035011",
+        "title": "从“打工仔”到“化工大王”，张国荣干出1400亿港元覆铜板龙头",
+        "url": "https://36kr.com/p/3871205562504456",
         "source": "36氪",
-        "time": "2026-06-27 08:20"
+        "time": "2026-06-27 10:29"
       },
       {
-        "title": "大神Karpathy用Claude的方式，原来是这样的？",
-        "url": "https://36kr.com/p/3870932227724547",
+        "title": "梁文锋署名论文，DeepSeek首轮融资后大动作：生成速度大涨85%",
+        "url": "https://36kr.com/p/3871187114448133",
         "source": "36氪",
-        "time": "2026-06-27 08:20"
+        "time": "2026-06-27 10:29"
       },
       {
-        "title": "有了它，Claude终于不再和我对着干。",
-        "url": "https://36kr.com/p/3870932227724547",
+        "title": "DeepSeek联合北大开源新成果。",
+        "url": "https://36kr.com/p/3871187114448133",
         "source": "36氪",
-        "time": "2026-06-27 08:20"
+        "time": "2026-06-27 10:29"
       },
       {
-        "title": "娃哈哈、格力接连折戟，高科技跨界为何总成“绞肉机”？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870844.html",
+        "title": "动画行业的“二八法则”正在失效：小而美如何围剿大制作？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870884.html",
         "source": "虎嗅",
-        "time": "2026-06-27 08:21"
+        "time": "2026-06-27 10:29"
+      },
+      {
+        "title": "“卖网速”不再是唯一答案，智能网络时代该按什么收费？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870891.html",
+        "source": "虎嗅",
+        "time": "2026-06-27 10:29"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完",
-      "url": "https://36kr.com/p/3871109381035011",
+      "title": "从“打工仔”到“化工大王”，张国荣干出1400亿港元覆铜板龙头",
+      "url": "https://36kr.com/p/3871205562504456",
       "source": "36氪",
-      "time": "2026-06-27 08:20"
+      "time": "2026-06-27 10:29"
     },
     {
-      "title": "在锂价50万每吨的山顶，囤了28万台电池。",
-      "url": "https://36kr.com/p/3871109381035011",
+      "title": "梁文锋署名论文，DeepSeek首轮融资后大动作：生成速度大涨85%",
+      "url": "https://36kr.com/p/3871187114448133",
       "source": "36氪",
-      "time": "2026-06-27 08:20"
+      "time": "2026-06-27 10:29"
     },
     {
-      "title": "江西赣州被英伟达盯上，连夜搬走黑石头",
-      "url": "https://36kr.com/p/3870907014370309",
+      "title": "DeepSeek联合北大开源新成果。",
+      "url": "https://36kr.com/p/3871187114448133",
       "source": "36氪",
-      "time": "2026-06-27 08:20"
+      "time": "2026-06-27 10:29"
     },
     {
-      "title": "大神Karpathy用Claude的方式，原来是这样的？",
-      "url": "https://36kr.com/p/3870932227724547",
+      "title": "被AI带火的“玻璃”：先进封装的隐形地基，产业价值待重估",
+      "url": "https://36kr.com/p/3871173400073222",
       "source": "36氪",
-      "time": "2026-06-27 08:20"
+      "time": "2026-06-27 10:29"
     },
     {
-      "title": "有了它，Claude终于不再和我对着干。",
-      "url": "https://36kr.com/p/3870932227724547",
-      "source": "36氪",
-      "time": "2026-06-27 08:20"
-    },
-    {
-      "title": "一盆冷水：99%的AI原生创业，根本没有护城河",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870861.html",
+      "title": "动画行业的“二八法则”正在失效：小而美如何围剿大制作？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870884.html",
       "source": "虎嗅",
-      "time": "2026-06-27 08:21"
+      "time": "2026-06-27 10:29"
     },
     {
-      "title": "娃哈哈、格力接连折戟，高科技跨界为何总成“绞肉机”？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870844.html",
+      "title": "“卖网速”不再是唯一答案，智能网络时代该按什么收费？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870891.html",
       "source": "虎嗅",
-      "time": "2026-06-27 08:21"
+      "time": "2026-06-27 10:29"
     }
   ]
 }
