@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-27T22:49:37.516868",
+  "timestamp": "2026-06-27T23:49:19.942421",
   "total": 6,
   "sources": {
     "财联社电报": 0,
@@ -11,20 +11,19 @@
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "都在说缺算力，90%的AI芯片却被“浪费”了？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870895.html",
-        "source": "虎嗅",
-        "time": "2026-06-27 22:49"
-      }
-    ],
+    "industry": [],
     "tech": [
       {
         "title": "被AI带火的“玻璃”：先进封装的隐形地基，产业价值待重估",
         "url": "https://36kr.com/p/3871173400073222",
         "source": "36氪",
-        "time": "2026-06-27 22:49"
+        "time": "2026-06-27 23:49"
+      },
+      {
+        "title": "白嫖AI的日子，彻底结束了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870953.html",
+        "source": "虎嗅",
+        "time": "2026-06-27 23:49"
       }
     ],
     "byd": [],
@@ -35,25 +34,25 @@
         "title": "从“打工仔”到“化工大王”，张国荣干出1400亿港元覆铜板龙头",
         "url": "https://36kr.com/p/3871205562504456",
         "source": "36氪",
-        "time": "2026-06-27 22:49"
+        "time": "2026-06-27 23:49"
       },
       {
         "title": "梁文锋署名论文，DeepSeek首轮融资后大动作：生成速度大涨85%",
         "url": "https://36kr.com/p/3871187114448133",
         "source": "36氪",
-        "time": "2026-06-27 22:49"
+        "time": "2026-06-27 23:49"
       },
       {
         "title": "DeepSeek联合北大开源新成果。",
         "url": "https://36kr.com/p/3871187114448133",
         "source": "36氪",
-        "time": "2026-06-27 22:49"
+        "time": "2026-06-27 23:49"
       },
       {
-        "title": "现制饮品跨品类“打劫”：奶茶、咖啡、冰淇淋、早餐“一锅炖”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870920.html",
+        "title": "被判“死刑”的那些年，发动机没少卖",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870956.html",
         "source": "虎嗅",
-        "time": "2026-06-27 22:49"
+        "time": "2026-06-27 23:49"
       }
     ]
   },
@@ -62,37 +61,37 @@
       "title": "从“打工仔”到“化工大王”，张国荣干出1400亿港元覆铜板龙头",
       "url": "https://36kr.com/p/3871205562504456",
       "source": "36氪",
-      "time": "2026-06-27 22:49"
+      "time": "2026-06-27 23:49"
     },
     {
       "title": "梁文锋署名论文，DeepSeek首轮融资后大动作：生成速度大涨85%",
       "url": "https://36kr.com/p/3871187114448133",
       "source": "36氪",
-      "time": "2026-06-27 22:49"
+      "time": "2026-06-27 23:49"
     },
     {
       "title": "DeepSeek联合北大开源新成果。",
       "url": "https://36kr.com/p/3871187114448133",
       "source": "36氪",
-      "time": "2026-06-27 22:49"
+      "time": "2026-06-27 23:49"
     },
     {
       "title": "被AI带火的“玻璃”：先进封装的隐形地基，产业价值待重估",
       "url": "https://36kr.com/p/3871173400073222",
       "source": "36氪",
-      "time": "2026-06-27 22:49"
+      "time": "2026-06-27 23:49"
     },
     {
-      "title": "都在说缺算力，90%的AI芯片却被“浪费”了？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870895.html",
+      "title": "被判“死刑”的那些年，发动机没少卖",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870956.html",
       "source": "虎嗅",
-      "time": "2026-06-27 22:49"
+      "time": "2026-06-27 23:49"
     },
     {
-      "title": "现制饮品跨品类“打劫”：奶茶、咖啡、冰淇淋、早餐“一锅炖”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870920.html",
+      "title": "白嫖AI的日子，彻底结束了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870953.html",
       "source": "虎嗅",
-      "time": "2026-06-27 22:49"
+      "time": "2026-06-27 23:49"
     }
   ]
 }
