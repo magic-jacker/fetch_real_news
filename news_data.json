@@ -1,97 +1,110 @@
 {
-  "timestamp": "2026-06-27T05:42:28.147800",
-  "total": 6,
+  "timestamp": "2026-06-27T08:21:09.216848",
+  "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 4,
+    "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
-    "industry": [
+    "finance": [
       {
-        "title": "半导体行业观察：2026年6月，英伟达Vera Rubin平台正式进入全面量产阶段，配套的Spectrum-X以太...",
-        "url": "https://36kr.com/p/3870758441178373",
+        "title": "秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完",
+        "url": "https://36kr.com/p/3871109381035011",
         "source": "36氪",
-        "time": "2026-06-27 05:42"
+        "time": "2026-06-27 08:20"
       }
     ],
-    "tech": [],
+    "industry": [],
+    "tech": [
+      {
+        "title": "江西赣州被英伟达盯上，连夜搬走黑石头",
+        "url": "https://36kr.com/p/3870907014370309",
+        "source": "36氪",
+        "time": "2026-06-27 08:20"
+      },
+      {
+        "title": "一盆冷水：99%的AI原生创业，根本没有护城河",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870861.html",
+        "source": "虎嗅",
+        "time": "2026-06-27 08:21"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "单店月收40万，当地“查无此物”的韩国冰奶，正在国内疯狂开店",
-        "url": "https://36kr.com/p/3870751250552067",
+        "title": "在锂价50万每吨的山顶，囤了28万台电池。",
+        "url": "https://36kr.com/p/3871109381035011",
         "source": "36氪",
-        "time": "2026-06-27 05:42"
+        "time": "2026-06-27 08:20"
       },
       {
-        "title": "从东北起势、向全国扩张，它会是一阵风吗？",
-        "url": "https://36kr.com/p/3870751250552067",
+        "title": "大神Karpathy用Claude的方式，原来是这样的？",
+        "url": "https://36kr.com/p/3870932227724547",
         "source": "36氪",
-        "time": "2026-06-27 05:42"
+        "time": "2026-06-27 08:20"
       },
       {
-        "title": "“脑机接口第一股”要来了",
-        "url": "https://36kr.com/p/3870771341301001",
+        "title": "有了它，Claude终于不再和我对着干。",
+        "url": "https://36kr.com/p/3870932227724547",
         "source": "36氪",
-        "time": "2026-06-27 05:42"
-      },
-      {
-        "title": "探访北京探月学校：究竟在培养什么样的下一代？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870811.html",
-        "source": "虎嗅",
-        "time": "2026-06-27 05:42"
+        "time": "2026-06-27 08:20"
       },
       {
         "title": "娃哈哈、格力接连折戟，高科技跨界为何总成“绞肉机”？",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870844.html",
         "source": "虎嗅",
-        "time": "2026-06-27 05:42"
+        "time": "2026-06-27 08:21"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "单店月收40万，当地“查无此物”的韩国冰奶，正在国内疯狂开店",
-      "url": "https://36kr.com/p/3870751250552067",
+      "title": "秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完",
+      "url": "https://36kr.com/p/3871109381035011",
       "source": "36氪",
-      "time": "2026-06-27 05:42"
+      "time": "2026-06-27 08:20"
     },
     {
-      "title": "从东北起势、向全国扩张，它会是一阵风吗？",
-      "url": "https://36kr.com/p/3870751250552067",
+      "title": "在锂价50万每吨的山顶，囤了28万台电池。",
+      "url": "https://36kr.com/p/3871109381035011",
       "source": "36氪",
-      "time": "2026-06-27 05:42"
+      "time": "2026-06-27 08:20"
     },
     {
-      "title": "半导体行业观察：2026年6月，英伟达Vera Rubin平台正式进入全面量产阶段，配套的Spectrum-X以太...",
-      "url": "https://36kr.com/p/3870758441178373",
+      "title": "江西赣州被英伟达盯上，连夜搬走黑石头",
+      "url": "https://36kr.com/p/3870907014370309",
       "source": "36氪",
-      "time": "2026-06-27 05:42"
+      "time": "2026-06-27 08:20"
     },
     {
-      "title": "“脑机接口第一股”要来了",
-      "url": "https://36kr.com/p/3870771341301001",
+      "title": "大神Karpathy用Claude的方式，原来是这样的？",
+      "url": "https://36kr.com/p/3870932227724547",
       "source": "36氪",
-      "time": "2026-06-27 05:42"
+      "time": "2026-06-27 08:20"
     },
     {
-      "title": "探访北京探月学校：究竟在培养什么样的下一代？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870811.html",
+      "title": "有了它，Claude终于不再和我对着干。",
+      "url": "https://36kr.com/p/3870932227724547",
+      "source": "36氪",
+      "time": "2026-06-27 08:20"
+    },
+    {
+      "title": "一盆冷水：99%的AI原生创业，根本没有护城河",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870861.html",
       "source": "虎嗅",
-      "time": "2026-06-27 05:42"
+      "time": "2026-06-27 08:21"
     },
     {
       "title": "娃哈哈、格力接连折戟，高科技跨界为何总成“绞肉机”？",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870844.html",
       "source": "虎嗅",
-      "time": "2026-06-27 05:42"
+      "time": "2026-06-27 08:21"
     }
   ]
 }
