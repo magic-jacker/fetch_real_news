@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-26T23:38:40.124532",
+  "timestamp": "2026-06-27T01:51:14.175952",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -10,27 +10,27 @@
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
-    "industry": [
+    "finance": [
       {
-        "title": "为什么越来越多车企自研芯片？",
-        "url": "https://36kr.com/p/3870292939658242",
+        "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
+        "url": "https://36kr.com/p/3870720040588295",
         "source": "36氪",
-        "time": "2026-06-26 23:38"
+        "time": "2026-06-27 01:50"
       }
     ],
+    "industry": [],
     "tech": [
       {
-        "title": "变天，AI大厂被疯狂抽血1.5万亿",
-        "url": "https://36kr.com/p/3869887636034569",
+        "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
+        "url": "https://36kr.com/p/3869740772316162",
         "source": "36氪",
-        "time": "2026-06-26 23:38"
+        "time": "2026-06-27 01:50"
       },
       {
-        "title": "40万次Claude Code真实对话分析：在AI面前，你的“专家”资历归零了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870793.html",
-        "source": "虎嗅",
-        "time": "2026-06-26 23:38"
+        "title": "苹果宣布上调iPad及Mac系列产品价格后，山姆超市并未进行价格调整，部分门店已卖断货。",
+        "url": "https://36kr.com/p/3870720040588295",
+        "source": "36氪",
+        "time": "2026-06-27 01:50"
       }
     ],
     "byd": [],
@@ -38,73 +38,73 @@
     "fitness": [],
     "other": [
       {
+        "title": "从“看见车上”到“看见车下”。",
+        "url": "https://36kr.com/p/3869740772316162",
+        "source": "36氪",
+        "time": "2026-06-27 01:50"
+      },
+      {
         "title": "理想首谈电池品牌争议：不管谁家电池，都是理想汽车兜底",
         "url": "https://36kr.com/p/3866946087867394",
         "source": "36氪",
-        "time": "2026-06-26 23:38"
+        "time": "2026-06-27 01:50"
       },
       {
-        "title": "“理想牌电池”终于上车",
-        "url": "https://36kr.com/p/3866946087867394",
-        "source": "36氪",
-        "time": "2026-06-26 23:38"
-      },
-      {
-        "title": "追赶FSD V14，理想在补哪些课？｜最前线",
-        "url": "https://36kr.com/p/3870292939658242",
-        "source": "36氪",
-        "time": "2026-06-26 23:38"
-      },
-      {
-        "title": "全球车企疯狂“割肉”，要么瘦，要么死",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870794.html",
+        "title": "MWC观察｜从卖Byte到卖Token",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870798.html",
         "source": "虎嗅",
-        "time": "2026-06-26 23:38"
+        "time": "2026-06-27 01:51"
+      },
+      {
+        "title": "美国“儒商”洛克菲勒：首富=首善",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870802.html",
+        "source": "虎嗅",
+        "time": "2026-06-27 01:51"
       }
     ]
   },
   "raw_news": [
     {
+      "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
+      "url": "https://36kr.com/p/3869740772316162",
+      "source": "36氪",
+      "time": "2026-06-27 01:50"
+    },
+    {
+      "title": "从“看见车上”到“看见车下”。",
+      "url": "https://36kr.com/p/3869740772316162",
+      "source": "36氪",
+      "time": "2026-06-27 01:50"
+    },
+    {
+      "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
+      "url": "https://36kr.com/p/3870720040588295",
+      "source": "36氪",
+      "time": "2026-06-27 01:50"
+    },
+    {
+      "title": "苹果宣布上调iPad及Mac系列产品价格后，山姆超市并未进行价格调整，部分门店已卖断货。",
+      "url": "https://36kr.com/p/3870720040588295",
+      "source": "36氪",
+      "time": "2026-06-27 01:50"
+    },
+    {
       "title": "理想首谈电池品牌争议：不管谁家电池，都是理想汽车兜底",
       "url": "https://36kr.com/p/3866946087867394",
       "source": "36氪",
-      "time": "2026-06-26 23:38"
+      "time": "2026-06-27 01:50"
     },
     {
-      "title": "“理想牌电池”终于上车",
-      "url": "https://36kr.com/p/3866946087867394",
-      "source": "36氪",
-      "time": "2026-06-26 23:38"
-    },
-    {
-      "title": "追赶FSD V14，理想在补哪些课？｜最前线",
-      "url": "https://36kr.com/p/3870292939658242",
-      "source": "36氪",
-      "time": "2026-06-26 23:38"
-    },
-    {
-      "title": "为什么越来越多车企自研芯片？",
-      "url": "https://36kr.com/p/3870292939658242",
-      "source": "36氪",
-      "time": "2026-06-26 23:38"
-    },
-    {
-      "title": "变天，AI大厂被疯狂抽血1.5万亿",
-      "url": "https://36kr.com/p/3869887636034569",
-      "source": "36氪",
-      "time": "2026-06-26 23:38"
-    },
-    {
-      "title": "全球车企疯狂“割肉”，要么瘦，要么死",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870794.html",
+      "title": "MWC观察｜从卖Byte到卖Token",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870798.html",
       "source": "虎嗅",
-      "time": "2026-06-26 23:38"
+      "time": "2026-06-27 01:51"
     },
     {
-      "title": "40万次Claude Code真实对话分析：在AI面前，你的“专家”资历归零了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870793.html",
+      "title": "美国“儒商”洛克菲勒：首富=首善",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870802.html",
       "source": "虎嗅",
-      "time": "2026-06-26 23:38"
+      "time": "2026-06-27 01:51"
     }
   ]
 }
