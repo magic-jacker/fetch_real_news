@@ -1,110 +1,97 @@
 {
-  "timestamp": "2026-06-27T01:51:14.175952",
-  "total": 7,
+  "timestamp": "2026-06-27T05:42:28.147800",
+  "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 5,
+    "36氪": 4,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
+    "finance": [],
+    "industry": [
       {
-        "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
-        "url": "https://36kr.com/p/3870720040588295",
+        "title": "半导体行业观察：2026年6月，英伟达Vera Rubin平台正式进入全面量产阶段，配套的Spectrum-X以太...",
+        "url": "https://36kr.com/p/3870758441178373",
         "source": "36氪",
-        "time": "2026-06-27 01:50"
+        "time": "2026-06-27 05:42"
       }
     ],
-    "industry": [],
-    "tech": [
-      {
-        "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
-        "url": "https://36kr.com/p/3869740772316162",
-        "source": "36氪",
-        "time": "2026-06-27 01:50"
-      },
-      {
-        "title": "苹果宣布上调iPad及Mac系列产品价格后，山姆超市并未进行价格调整，部分门店已卖断货。",
-        "url": "https://36kr.com/p/3870720040588295",
-        "source": "36氪",
-        "time": "2026-06-27 01:50"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "从“看见车上”到“看见车下”。",
-        "url": "https://36kr.com/p/3869740772316162",
+        "title": "单店月收40万，当地“查无此物”的韩国冰奶，正在国内疯狂开店",
+        "url": "https://36kr.com/p/3870751250552067",
         "source": "36氪",
-        "time": "2026-06-27 01:50"
+        "time": "2026-06-27 05:42"
       },
       {
-        "title": "理想首谈电池品牌争议：不管谁家电池，都是理想汽车兜底",
-        "url": "https://36kr.com/p/3866946087867394",
+        "title": "从东北起势、向全国扩张，它会是一阵风吗？",
+        "url": "https://36kr.com/p/3870751250552067",
         "source": "36氪",
-        "time": "2026-06-27 01:50"
+        "time": "2026-06-27 05:42"
       },
       {
-        "title": "MWC观察｜从卖Byte到卖Token",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870798.html",
-        "source": "虎嗅",
-        "time": "2026-06-27 01:51"
+        "title": "“脑机接口第一股”要来了",
+        "url": "https://36kr.com/p/3870771341301001",
+        "source": "36氪",
+        "time": "2026-06-27 05:42"
       },
       {
-        "title": "美国“儒商”洛克菲勒：首富=首善",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870802.html",
+        "title": "探访北京探月学校：究竟在培养什么样的下一代？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870811.html",
         "source": "虎嗅",
-        "time": "2026-06-27 01:51"
+        "time": "2026-06-27 05:42"
+      },
+      {
+        "title": "娃哈哈、格力接连折戟，高科技跨界为何总成“绞肉机”？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870844.html",
+        "source": "虎嗅",
+        "time": "2026-06-27 05:42"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
-      "url": "https://36kr.com/p/3869740772316162",
+      "title": "单店月收40万，当地“查无此物”的韩国冰奶，正在国内疯狂开店",
+      "url": "https://36kr.com/p/3870751250552067",
       "source": "36氪",
-      "time": "2026-06-27 01:50"
+      "time": "2026-06-27 05:42"
     },
     {
-      "title": "从“看见车上”到“看见车下”。",
-      "url": "https://36kr.com/p/3869740772316162",
+      "title": "从东北起势、向全国扩张，它会是一阵风吗？",
+      "url": "https://36kr.com/p/3870751250552067",
       "source": "36氪",
-      "time": "2026-06-27 01:50"
+      "time": "2026-06-27 05:42"
     },
     {
-      "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
-      "url": "https://36kr.com/p/3870720040588295",
+      "title": "半导体行业观察：2026年6月，英伟达Vera Rubin平台正式进入全面量产阶段，配套的Spectrum-X以太...",
+      "url": "https://36kr.com/p/3870758441178373",
       "source": "36氪",
-      "time": "2026-06-27 01:50"
+      "time": "2026-06-27 05:42"
     },
     {
-      "title": "苹果宣布上调iPad及Mac系列产品价格后，山姆超市并未进行价格调整，部分门店已卖断货。",
-      "url": "https://36kr.com/p/3870720040588295",
+      "title": "“脑机接口第一股”要来了",
+      "url": "https://36kr.com/p/3870771341301001",
       "source": "36氪",
-      "time": "2026-06-27 01:50"
+      "time": "2026-06-27 05:42"
     },
     {
-      "title": "理想首谈电池品牌争议：不管谁家电池，都是理想汽车兜底",
-      "url": "https://36kr.com/p/3866946087867394",
-      "source": "36氪",
-      "time": "2026-06-27 01:50"
-    },
-    {
-      "title": "MWC观察｜从卖Byte到卖Token",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870798.html",
+      "title": "探访北京探月学校：究竟在培养什么样的下一代？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870811.html",
       "source": "虎嗅",
-      "time": "2026-06-27 01:51"
+      "time": "2026-06-27 05:42"
     },
     {
-      "title": "美国“儒商”洛克菲勒：首富=首善",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870802.html",
+      "title": "娃哈哈、格力接连折戟，高科技跨界为何总成“绞肉机”？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870844.html",
       "source": "虎嗅",
-      "time": "2026-06-27 01:51"
+      "time": "2026-06-27 05:42"
     }
   ]
 }
