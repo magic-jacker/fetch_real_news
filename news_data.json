@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-28T06:39:45.706283",
-  "total": 6,
+  "timestamp": "2026-06-28T09:49:36.747750",
+  "total": 5,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 5,
+    "36氪": 4,
     "钛媒体": 0,
     "虎嗅": 1,
     "华尔街见闻": 0
@@ -12,86 +12,75 @@
   "categories": {
     "finance": [
       {
-        "title": "金价大跌，老铺黄金迎来“压力测试”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870995.html",
-        "source": "虎嗅",
-        "time": "2026-06-28 06:39"
+        "title": "金价大跌，老铺黄金迎来「压力测试」",
+        "url": "https://36kr.com/p/3872435060512001",
+        "source": "36氪",
+        "time": "2026-06-28 09:49"
       }
     ],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "世界模型、元宇宙、数字孪生、物理AI：它们是一回事吗？",
+        "url": "https://36kr.com/p/3872261222765830",
+        "source": "36氪",
+        "time": "2026-06-28 09:49"
+      },
+      {
+        "title": "AI已经不再只是被训练的工具，而是开始亲手改写自己的进化速度。",
+        "url": "https://36kr.com/p/3872524038362121",
+        "source": "36氪",
+        "time": "2026-06-28 09:49"
+      },
+      {
+        "title": "OpenAI推迟上市，那“Kimi们”呢？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4871008.html",
+        "source": "虎嗅",
+        "time": "2026-06-28 09:49"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "DeepSeek再也不崩了，原因藏在一篇论文里",
-        "url": "https://36kr.com/p/3872317927766915",
+        "title": "很多概念当初吹过的牛，可能最终要靠世界模型来实现。",
+        "url": "https://36kr.com/p/3872261222765830",
         "source": "36氪",
-        "time": "2026-06-28 06:39"
-      },
-      {
-        "title": "Transformer的八个爹，如今都在哪？",
-        "url": "https://36kr.com/p/3872257909068806",
-        "source": "36氪",
-        "time": "2026-06-28 06:39"
-      },
-      {
-        "title": "八位作者没有一个人停止寻找下一个答案",
-        "url": "https://36kr.com/p/3872257909068806",
-        "source": "36氪",
-        "time": "2026-06-28 06:39"
-      },
-      {
-        "title": "急眼的Anthropic炒作蒸馏，背后是叙事权之战",
-        "url": "https://36kr.com/p/3871394526155777",
-        "source": "36氪",
-        "time": "2026-06-28 06:39"
-      },
-      {
-        "title": "定义权竞争、解释权竞争、合法性竞争",
-        "url": "https://36kr.com/p/3871394526155777",
-        "source": "36氪",
-        "time": "2026-06-28 06:39"
+        "time": "2026-06-28 09:49"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "DeepSeek再也不崩了，原因藏在一篇论文里",
-      "url": "https://36kr.com/p/3872317927766915",
+      "title": "世界模型、元宇宙、数字孪生、物理AI：它们是一回事吗？",
+      "url": "https://36kr.com/p/3872261222765830",
       "source": "36氪",
-      "time": "2026-06-28 06:39"
+      "time": "2026-06-28 09:49"
     },
     {
-      "title": "Transformer的八个爹，如今都在哪？",
-      "url": "https://36kr.com/p/3872257909068806",
+      "title": "很多概念当初吹过的牛，可能最终要靠世界模型来实现。",
+      "url": "https://36kr.com/p/3872261222765830",
       "source": "36氪",
-      "time": "2026-06-28 06:39"
+      "time": "2026-06-28 09:49"
     },
     {
-      "title": "八位作者没有一个人停止寻找下一个答案",
-      "url": "https://36kr.com/p/3872257909068806",
+      "title": "AI已经不再只是被训练的工具，而是开始亲手改写自己的进化速度。",
+      "url": "https://36kr.com/p/3872524038362121",
       "source": "36氪",
-      "time": "2026-06-28 06:39"
+      "time": "2026-06-28 09:49"
     },
     {
-      "title": "急眼的Anthropic炒作蒸馏，背后是叙事权之战",
-      "url": "https://36kr.com/p/3871394526155777",
+      "title": "金价大跌，老铺黄金迎来「压力测试」",
+      "url": "https://36kr.com/p/3872435060512001",
       "source": "36氪",
-      "time": "2026-06-28 06:39"
+      "time": "2026-06-28 09:49"
     },
     {
-      "title": "定义权竞争、解释权竞争、合法性竞争",
-      "url": "https://36kr.com/p/3871394526155777",
-      "source": "36氪",
-      "time": "2026-06-28 06:39"
-    },
-    {
-      "title": "金价大跌，老铺黄金迎来“压力测试”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4870995.html",
+      "title": "OpenAI推迟上市，那“Kimi们”呢？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4871008.html",
       "source": "虎嗅",
-      "time": "2026-06-28 06:39"
+      "time": "2026-06-28 09:49"
     }
   ]
 }
