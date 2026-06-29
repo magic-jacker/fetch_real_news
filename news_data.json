@@ -1,17 +1,24 @@
 {
-  "timestamp": "2026-06-29T22:43:54.995065",
+  "timestamp": "2026-06-29T23:48:49.863746",
   "total": 5,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 3,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [],
+    "industry": [
+      {
+        "title": "芯片和内存后，下一个暴涨的会是它？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4871373.html",
+        "source": "虎嗅",
+        "time": "2026-06-29 23:48"
+      }
+    ],
     "tech": [],
     "byd": [],
     "tencent": [],
@@ -21,31 +28,25 @@
         "title": "C盘争议热搜落幕：WPS在舆论压力下让步，时代倒逼其低头",
         "url": "https://36kr.com/p/3874201852744705",
         "source": "36氪",
-        "time": "2026-06-29 22:43"
+        "time": "2026-06-29 23:48"
       },
       {
         "title": "槽点多多的SoFi，“贵”得有理？",
         "url": "https://36kr.com/p/3874201624302600",
         "source": "36氪",
-        "time": "2026-06-29 22:43"
+        "time": "2026-06-29 23:48"
       },
       {
         "title": "马斯克买下“一束光”，硅谷巨头们也坐不住了",
         "url": "https://36kr.com/p/3874200199533568",
         "source": "36氪",
-        "time": "2026-06-29 22:43"
+        "time": "2026-06-29 23:48"
       },
       {
-        "title": "“身在德国，我感受到工商界对华态度远比媒体报道的复杂”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4871215.html",
+        "title": "今天下午，韩国将梭哈未来十年的国运",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4871143.html",
         "source": "虎嗅",
-        "time": "2026-06-29 22:43"
-      },
-      {
-        "title": "大众裁员十万，大象席地而坐",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4871205.html",
-        "source": "虎嗅",
-        "time": "2026-06-29 22:43"
+        "time": "2026-06-29 23:48"
       }
     ]
   },
@@ -54,31 +55,31 @@
       "title": "C盘争议热搜落幕：WPS在舆论压力下让步，时代倒逼其低头",
       "url": "https://36kr.com/p/3874201852744705",
       "source": "36氪",
-      "time": "2026-06-29 22:43"
+      "time": "2026-06-29 23:48"
     },
     {
       "title": "槽点多多的SoFi，“贵”得有理？",
       "url": "https://36kr.com/p/3874201624302600",
       "source": "36氪",
-      "time": "2026-06-29 22:43"
+      "time": "2026-06-29 23:48"
     },
     {
       "title": "马斯克买下“一束光”，硅谷巨头们也坐不住了",
       "url": "https://36kr.com/p/3874200199533568",
       "source": "36氪",
-      "time": "2026-06-29 22:43"
+      "time": "2026-06-29 23:48"
     },
     {
-      "title": "“身在德国，我感受到工商界对华态度远比媒体报道的复杂”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4871215.html",
+      "title": "芯片和内存后，下一个暴涨的会是它？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4871373.html",
       "source": "虎嗅",
-      "time": "2026-06-29 22:43"
+      "time": "2026-06-29 23:48"
     },
     {
-      "title": "大众裁员十万，大象席地而坐",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4871205.html",
+      "title": "今天下午，韩国将梭哈未来十年的国运",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4871143.html",
       "source": "虎嗅",
-      "time": "2026-06-29 22:43"
+      "time": "2026-06-29 23:48"
     }
   ]
 }
