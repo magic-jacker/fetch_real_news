@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-02T00:04:36.290336",
-  "total": 4,
+  "timestamp": "2026-07-02T04:35:31.839317",
+  "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -12,61 +12,98 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "AI 生成越来越便宜，真正变贵的是验证",
+        "url": "https://36kr.com/p/3877906019498625",
+        "source": "36氪",
+        "time": "2026-07-02 04:35"
+      },
+      {
+        "title": "AI降低生成边际成本，稀缺与价值转向验证背书环节。",
+        "url": "https://36kr.com/p/3877906019498625",
+        "source": "36氪",
+        "time": "2026-07-02 04:35"
+      },
+      {
+        "title": "Meta做了一个决定，存储暴跌",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4871999.html",
+        "source": "虎嗅",
+        "time": "2026-07-02 04:35"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "再也不能回血了，索尼宣布取消实体版游戏",
-        "url": "https://36kr.com/p/3877093269369091",
+        "title": "山寨货的隐秘生意：用户上当、商户踩坑，当充电宝充满的是套路",
+        "url": "https://36kr.com/p/3877940780399495",
         "source": "36氪",
-        "time": "2026-07-02 00:04"
+        "time": "2026-07-02 04:35"
       },
       {
-        "title": "3分钟爆卖14万件，“破产三姐妹”再出千万级爆款，商家缝纫机踩冒烟",
-        "url": "https://36kr.com/p/3877095078670597",
+        "title": "一个开源平台，编织起了Agent「互联网」",
+        "url": "https://36kr.com/p/3877962860474371",
         "source": "36氪",
-        "time": "2026-07-02 00:04"
+        "time": "2026-07-02 04:35"
       },
       {
-        "title": "被传“热度见顶”的赛道，在这个618逆袭了。",
-        "url": "https://36kr.com/p/3877095078670597",
+        "title": "「Agents do. Humans decide. That’s Octo.」",
+        "url": "https://36kr.com/p/3877962860474371",
         "source": "36氪",
-        "time": "2026-07-02 00:04"
+        "time": "2026-07-02 04:35"
       },
       {
-        "title": "制冷剂三年狂飙400%：谁在闷声发大财？",
-        "url": "https://36kr.com/p/3877039153557506",
-        "source": "36氪",
-        "time": "2026-07-02 00:04"
+        "title": "创新药反转？还需三个信号",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4871939.html",
+        "source": "虎嗅",
+        "time": "2026-07-02 04:35"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "再也不能回血了，索尼宣布取消实体版游戏",
-      "url": "https://36kr.com/p/3877093269369091",
+      "title": "山寨货的隐秘生意：用户上当、商户踩坑，当充电宝充满的是套路",
+      "url": "https://36kr.com/p/3877940780399495",
       "source": "36氪",
-      "time": "2026-07-02 00:04"
+      "time": "2026-07-02 04:35"
     },
     {
-      "title": "3分钟爆卖14万件，“破产三姐妹”再出千万级爆款，商家缝纫机踩冒烟",
-      "url": "https://36kr.com/p/3877095078670597",
+      "title": "一个开源平台，编织起了Agent「互联网」",
+      "url": "https://36kr.com/p/3877962860474371",
       "source": "36氪",
-      "time": "2026-07-02 00:04"
+      "time": "2026-07-02 04:35"
     },
     {
-      "title": "被传“热度见顶”的赛道，在这个618逆袭了。",
-      "url": "https://36kr.com/p/3877095078670597",
+      "title": "「Agents do. Humans decide. That’s Octo.」",
+      "url": "https://36kr.com/p/3877962860474371",
       "source": "36氪",
-      "time": "2026-07-02 00:04"
+      "time": "2026-07-02 04:35"
     },
     {
-      "title": "制冷剂三年狂飙400%：谁在闷声发大财？",
-      "url": "https://36kr.com/p/3877039153557506",
+      "title": "AI 生成越来越便宜，真正变贵的是验证",
+      "url": "https://36kr.com/p/3877906019498625",
       "source": "36氪",
-      "time": "2026-07-02 00:04"
+      "time": "2026-07-02 04:35"
+    },
+    {
+      "title": "AI降低生成边际成本，稀缺与价值转向验证背书环节。",
+      "url": "https://36kr.com/p/3877906019498625",
+      "source": "36氪",
+      "time": "2026-07-02 04:35"
+    },
+    {
+      "title": "Meta做了一个决定，存储暴跌",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4871999.html",
+      "source": "虎嗅",
+      "time": "2026-07-02 04:35"
+    },
+    {
+      "title": "创新药反转？还需三个信号",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4871939.html",
+      "source": "虎嗅",
+      "time": "2026-07-02 04:35"
     }
   ]
 }
