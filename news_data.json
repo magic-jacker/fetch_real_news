@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T07:58:11.695476",
+  "timestamp": "2026-07-02T10:32:20.301429",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -12,31 +12,38 @@
   "categories": {
     "finance": [
       {
-        "title": "纽脉医疗，冲刺科创板IPO",
-        "url": "https://36kr.com/p/3878159239131142",
+        "title": "蓝箭航天再闯IPO，2029年追上马斯克？",
+        "url": "https://36kr.com/p/3878247256504962",
         "source": "36氪",
-        "time": "2026-07-02 07:57"
+        "time": "2026-07-02 10:32"
       },
       {
-        "title": "在这个“追科技就有肉吃”的时代，有人“站在光里”赚得盆满钵满，也有人深陷港股与消费板块的泥潭中，业绩面临较大回撤。",
-        "url": "https://36kr.com/p/3878158938435586",
+        "title": "蓝箭航天重启IPO，承诺2029年盈利，此前三年亏38亿",
+        "url": "https://36kr.com/p/3878247256504962",
         "source": "36氪",
-        "time": "2026-07-02 07:57"
+        "time": "2026-07-02 10:32"
+      },
+      {
+        "title": "腾讯红杉连续投，在沙特开首家“没有医生”诊所的AI企业冲击IPO",
+        "url": "https://36kr.com/p/3878239780598020",
+        "source": "36氪",
+        "time": "2026-07-02 10:32"
       }
     ],
-    "industry": [],
+    "industry": [
+      {
+        "title": "机器人还不会做家务，先学会了说“爱”你",
+        "url": "https://36kr.com/p/3878239644872713",
+        "source": "36氪",
+        "time": "2026-07-02 10:32"
+      }
+    ],
     "tech": [
       {
-        "title": "Meta做了一个决定，存储暴跌",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4871999.html",
+        "title": "AI大厂，正在互相设防",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872135.html",
         "source": "虎嗅",
-        "time": "2026-07-02 07:58"
-      },
-      {
-        "title": "Meta开始叛逃AI叙事",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872091.html",
-        "source": "虎嗅",
-        "time": "2026-07-02 07:58"
+        "time": "2026-07-02 10:32"
       }
     ],
     "byd": [],
@@ -44,67 +51,61 @@
     "fitness": [],
     "other": [
       {
-        "title": "核心产品尚处市场培育期",
-        "url": "https://36kr.com/p/3878159239131142",
+        "title": "交付本身正在成为研发方法。",
+        "url": "https://36kr.com/p/3878239644872713",
         "source": "36氪",
-        "time": "2026-07-02 07:57"
+        "time": "2026-07-02 10:32"
       },
       {
-        "title": "透视公募期中考榜单：谁家“翻倍基”命中率最高？",
-        "url": "https://36kr.com/p/3878158938435586",
-        "source": "36氪",
-        "time": "2026-07-02 07:57"
-      },
-      {
-        "title": "抢购金银的都傻眼了，原来真正的保值资产是它？",
-        "url": "https://36kr.com/p/3878158482387205",
-        "source": "36氪",
-        "time": "2026-07-02 07:57"
+        "title": "昇腾产业链最大的机会，藏在你瞧不上的环节里",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872096.html",
+        "source": "虎嗅",
+        "time": "2026-07-02 10:32"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "纽脉医疗，冲刺科创板IPO",
-      "url": "https://36kr.com/p/3878159239131142",
+      "title": "蓝箭航天再闯IPO，2029年追上马斯克？",
+      "url": "https://36kr.com/p/3878247256504962",
       "source": "36氪",
-      "time": "2026-07-02 07:57"
+      "time": "2026-07-02 10:32"
     },
     {
-      "title": "核心产品尚处市场培育期",
-      "url": "https://36kr.com/p/3878159239131142",
+      "title": "蓝箭航天重启IPO，承诺2029年盈利，此前三年亏38亿",
+      "url": "https://36kr.com/p/3878247256504962",
       "source": "36氪",
-      "time": "2026-07-02 07:57"
+      "time": "2026-07-02 10:32"
     },
     {
-      "title": "透视公募期中考榜单：谁家“翻倍基”命中率最高？",
-      "url": "https://36kr.com/p/3878158938435586",
+      "title": "腾讯红杉连续投，在沙特开首家“没有医生”诊所的AI企业冲击IPO",
+      "url": "https://36kr.com/p/3878239780598020",
       "source": "36氪",
-      "time": "2026-07-02 07:57"
+      "time": "2026-07-02 10:32"
     },
     {
-      "title": "在这个“追科技就有肉吃”的时代，有人“站在光里”赚得盆满钵满，也有人深陷港股与消费板块的泥潭中，业绩面临较大回撤。",
-      "url": "https://36kr.com/p/3878158938435586",
+      "title": "机器人还不会做家务，先学会了说“爱”你",
+      "url": "https://36kr.com/p/3878239644872713",
       "source": "36氪",
-      "time": "2026-07-02 07:57"
+      "time": "2026-07-02 10:32"
     },
     {
-      "title": "抢购金银的都傻眼了，原来真正的保值资产是它？",
-      "url": "https://36kr.com/p/3878158482387205",
+      "title": "交付本身正在成为研发方法。",
+      "url": "https://36kr.com/p/3878239644872713",
       "source": "36氪",
-      "time": "2026-07-02 07:57"
+      "time": "2026-07-02 10:32"
     },
     {
-      "title": "Meta做了一个决定，存储暴跌",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4871999.html",
+      "title": "昇腾产业链最大的机会，藏在你瞧不上的环节里",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872096.html",
       "source": "虎嗅",
-      "time": "2026-07-02 07:58"
+      "time": "2026-07-02 10:32"
     },
     {
-      "title": "Meta开始叛逃AI叙事",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872091.html",
+      "title": "AI大厂，正在互相设防",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872135.html",
       "source": "虎嗅",
-      "time": "2026-07-02 07:58"
+      "time": "2026-07-02 10:32"
     }
   ]
 }
