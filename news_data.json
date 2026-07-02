@@ -1,35 +1,42 @@
 {
-  "timestamp": "2026-07-02T04:35:31.839317",
+  "timestamp": "2026-07-02T07:58:11.695476",
   "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
+    "finance": [
+      {
+        "title": "纽脉医疗，冲刺科创板IPO",
+        "url": "https://36kr.com/p/3878159239131142",
+        "source": "36氪",
+        "time": "2026-07-02 07:57"
+      },
+      {
+        "title": "在这个“追科技就有肉吃”的时代，有人“站在光里”赚得盆满钵满，也有人深陷港股与消费板块的泥潭中，业绩面临较大回撤。",
+        "url": "https://36kr.com/p/3878158938435586",
+        "source": "36氪",
+        "time": "2026-07-02 07:57"
+      }
+    ],
     "industry": [],
     "tech": [
-      {
-        "title": "AI 生成越来越便宜，真正变贵的是验证",
-        "url": "https://36kr.com/p/3877906019498625",
-        "source": "36氪",
-        "time": "2026-07-02 04:35"
-      },
-      {
-        "title": "AI降低生成边际成本，稀缺与价值转向验证背书环节。",
-        "url": "https://36kr.com/p/3877906019498625",
-        "source": "36氪",
-        "time": "2026-07-02 04:35"
-      },
       {
         "title": "Meta做了一个决定，存储暴跌",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4871999.html",
         "source": "虎嗅",
-        "time": "2026-07-02 04:35"
+        "time": "2026-07-02 07:58"
+      },
+      {
+        "title": "Meta开始叛逃AI叙事",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872091.html",
+        "source": "虎嗅",
+        "time": "2026-07-02 07:58"
       }
     ],
     "byd": [],
@@ -37,73 +44,67 @@
     "fitness": [],
     "other": [
       {
-        "title": "山寨货的隐秘生意：用户上当、商户踩坑，当充电宝充满的是套路",
-        "url": "https://36kr.com/p/3877940780399495",
+        "title": "核心产品尚处市场培育期",
+        "url": "https://36kr.com/p/3878159239131142",
         "source": "36氪",
-        "time": "2026-07-02 04:35"
+        "time": "2026-07-02 07:57"
       },
       {
-        "title": "一个开源平台，编织起了Agent「互联网」",
-        "url": "https://36kr.com/p/3877962860474371",
+        "title": "透视公募期中考榜单：谁家“翻倍基”命中率最高？",
+        "url": "https://36kr.com/p/3878158938435586",
         "source": "36氪",
-        "time": "2026-07-02 04:35"
+        "time": "2026-07-02 07:57"
       },
       {
-        "title": "「Agents do. Humans decide. That’s Octo.」",
-        "url": "https://36kr.com/p/3877962860474371",
+        "title": "抢购金银的都傻眼了，原来真正的保值资产是它？",
+        "url": "https://36kr.com/p/3878158482387205",
         "source": "36氪",
-        "time": "2026-07-02 04:35"
-      },
-      {
-        "title": "创新药反转？还需三个信号",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4871939.html",
-        "source": "虎嗅",
-        "time": "2026-07-02 04:35"
+        "time": "2026-07-02 07:57"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "山寨货的隐秘生意：用户上当、商户踩坑，当充电宝充满的是套路",
-      "url": "https://36kr.com/p/3877940780399495",
+      "title": "纽脉医疗，冲刺科创板IPO",
+      "url": "https://36kr.com/p/3878159239131142",
       "source": "36氪",
-      "time": "2026-07-02 04:35"
+      "time": "2026-07-02 07:57"
     },
     {
-      "title": "一个开源平台，编织起了Agent「互联网」",
-      "url": "https://36kr.com/p/3877962860474371",
+      "title": "核心产品尚处市场培育期",
+      "url": "https://36kr.com/p/3878159239131142",
       "source": "36氪",
-      "time": "2026-07-02 04:35"
+      "time": "2026-07-02 07:57"
     },
     {
-      "title": "「Agents do. Humans decide. That’s Octo.」",
-      "url": "https://36kr.com/p/3877962860474371",
+      "title": "透视公募期中考榜单：谁家“翻倍基”命中率最高？",
+      "url": "https://36kr.com/p/3878158938435586",
       "source": "36氪",
-      "time": "2026-07-02 04:35"
+      "time": "2026-07-02 07:57"
     },
     {
-      "title": "AI 生成越来越便宜，真正变贵的是验证",
-      "url": "https://36kr.com/p/3877906019498625",
+      "title": "在这个“追科技就有肉吃”的时代，有人“站在光里”赚得盆满钵满，也有人深陷港股与消费板块的泥潭中，业绩面临较大回撤。",
+      "url": "https://36kr.com/p/3878158938435586",
       "source": "36氪",
-      "time": "2026-07-02 04:35"
+      "time": "2026-07-02 07:57"
     },
     {
-      "title": "AI降低生成边际成本，稀缺与价值转向验证背书环节。",
-      "url": "https://36kr.com/p/3877906019498625",
+      "title": "抢购金银的都傻眼了，原来真正的保值资产是它？",
+      "url": "https://36kr.com/p/3878158482387205",
       "source": "36氪",
-      "time": "2026-07-02 04:35"
+      "time": "2026-07-02 07:57"
     },
     {
       "title": "Meta做了一个决定，存储暴跌",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4871999.html",
       "source": "虎嗅",
-      "time": "2026-07-02 04:35"
+      "time": "2026-07-02 07:58"
     },
     {
-      "title": "创新药反转？还需三个信号",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4871939.html",
+      "title": "Meta开始叛逃AI叙事",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872091.html",
       "source": "虎嗅",
-      "time": "2026-07-02 04:35"
+      "time": "2026-07-02 07:58"
     }
   ]
 }
