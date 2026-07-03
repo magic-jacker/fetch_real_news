@@ -1,30 +1,55 @@
 {
-  "timestamp": "2026-07-03T11:22:05.166527",
+  "timestamp": "2026-07-03T13:17:25.249322",
   "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [
       {
-        "title": "秋声 | 袁进辉新公司冲港股IPO，成立不到三年",
-        "url": "https://36kr.com/p/3879814941437956",
+        "title": "享受产业扩张红利，拟赴港IPO加强国际化",
+        "url": "https://36kr.com/p/3879706828697606",
         "source": "36氪",
-        "time": "2026-07-03 11:21"
+        "time": "2026-07-03 13:17"
+      },
+      {
+        "title": "众擎冲刺港股，离第二个宇树还差什么？",
+        "url": "https://36kr.com/p/3879700115241602",
+        "source": "36氪",
+        "time": "2026-07-03 13:17"
       }
     ],
-    "industry": [],
+    "industry": [
+      {
+        "title": "三年亏一亿、股价跌七成，高瓴还在力挺这家机器人公司",
+        "url": "https://36kr.com/p/3879748658428552",
+        "source": "36氪",
+        "time": "2026-07-03 13:17"
+      },
+      {
+        "title": "连续亏损的卧安机器人，获资本看好布局家庭具身智能",
+        "url": "https://36kr.com/p/3879748658428552",
+        "source": "36氪",
+        "time": "2026-07-03 13:17"
+      },
+      {
+        "title": "清华学霸回国再创业，21年干出1700亿半导体设备龙头",
+        "url": "https://36kr.com/p/3879706828697606",
+        "source": "36氪",
+        "time": "2026-07-03 13:17"
+      }
+    ],
     "tech": [
       {
-        "title": "当 AI 忘记「说人话」，围观 Fable 5 混乱的内心独白",
-        "url": "https://36kr.com/p/3879697309331461",
-        "source": "36氪",
-        "time": "2026-07-03 11:21"
+        "title": "AI天才为什么回流大厂",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872445.html",
+        "source": "虎嗅",
+        "time": "2026-07-03 13:17"
       }
     ],
     "byd": [],
@@ -32,79 +57,55 @@
     "fitness": [],
     "other": [
       {
-        "title": "Fable 5解题解到破防，一句“啊啊啊”刷屏了",
-        "url": "https://36kr.com/p/3879697309331461",
-        "source": "36氪",
-        "time": "2026-07-03 11:21"
-      },
-      {
-        "title": "捷豹路虎终结国产，合资14年走向代工",
-        "url": "https://36kr.com/p/3879669168107782",
-        "source": "36氪",
-        "time": "2026-07-03 11:21"
-      },
-      {
-        "title": "国产车型全系停产停售，持续十年的渠道亏损终结，捷豹路虎与奇瑞分道而行",
-        "url": "https://36kr.com/p/3879669168107782",
-        "source": "36氪",
-        "time": "2026-07-03 11:21"
-      },
-      {
-        "title": "谁是中国“摩托第一城”？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872392.html",
+        "title": "败诉1030万买了个“顺风局”，茉莉奶白为什么被全网心疼？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872489.html",
         "source": "虎嗅",
-        "time": "2026-07-03 11:22"
-      },
-      {
-        "title": "阿莫迪，你比张无忌还厉害",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872443.html",
-        "source": "虎嗅",
-        "time": "2026-07-03 11:22"
+        "time": "2026-07-03 13:17"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "秋声 | 袁进辉新公司冲港股IPO，成立不到三年",
-      "url": "https://36kr.com/p/3879814941437956",
+      "title": "三年亏一亿、股价跌七成，高瓴还在力挺这家机器人公司",
+      "url": "https://36kr.com/p/3879748658428552",
       "source": "36氪",
-      "time": "2026-07-03 11:21"
+      "time": "2026-07-03 13:17"
     },
     {
-      "title": "Fable 5解题解到破防，一句“啊啊啊”刷屏了",
-      "url": "https://36kr.com/p/3879697309331461",
+      "title": "连续亏损的卧安机器人，获资本看好布局家庭具身智能",
+      "url": "https://36kr.com/p/3879748658428552",
       "source": "36氪",
-      "time": "2026-07-03 11:21"
+      "time": "2026-07-03 13:17"
     },
     {
-      "title": "当 AI 忘记「说人话」，围观 Fable 5 混乱的内心独白",
-      "url": "https://36kr.com/p/3879697309331461",
+      "title": "清华学霸回国再创业，21年干出1700亿半导体设备龙头",
+      "url": "https://36kr.com/p/3879706828697606",
       "source": "36氪",
-      "time": "2026-07-03 11:21"
+      "time": "2026-07-03 13:17"
     },
     {
-      "title": "捷豹路虎终结国产，合资14年走向代工",
-      "url": "https://36kr.com/p/3879669168107782",
+      "title": "享受产业扩张红利，拟赴港IPO加强国际化",
+      "url": "https://36kr.com/p/3879706828697606",
       "source": "36氪",
-      "time": "2026-07-03 11:21"
+      "time": "2026-07-03 13:17"
     },
     {
-      "title": "国产车型全系停产停售，持续十年的渠道亏损终结，捷豹路虎与奇瑞分道而行",
-      "url": "https://36kr.com/p/3879669168107782",
+      "title": "众擎冲刺港股，离第二个宇树还差什么？",
+      "url": "https://36kr.com/p/3879700115241602",
       "source": "36氪",
-      "time": "2026-07-03 11:21"
+      "time": "2026-07-03 13:17"
     },
     {
-      "title": "谁是中国“摩托第一城”？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872392.html",
+      "title": "败诉1030万买了个“顺风局”，茉莉奶白为什么被全网心疼？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872489.html",
       "source": "虎嗅",
-      "time": "2026-07-03 11:22"
+      "time": "2026-07-03 13:17"
     },
     {
-      "title": "阿莫迪，你比张无忌还厉害",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872443.html",
+      "title": "AI天才为什么回流大厂",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872445.html",
       "source": "虎嗅",
-      "time": "2026-07-03 11:22"
+      "time": "2026-07-03 13:17"
     }
   ]
 }
