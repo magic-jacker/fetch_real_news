@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T23:52:23.058366",
+  "timestamp": "2026-07-03T01:25:30.951610",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -10,32 +10,39 @@
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
+    "finance": [
+      {
+        "title": "华为押注，中国Token工厂要IPO",
+        "url": "https://36kr.com/p/3879220114878723",
+        "source": "36氪",
+        "time": "2026-07-03 01:25"
+      },
+      {
+        "title": "成立仅两年未商业化的硅基流动赴港递交IPO申请。",
+        "url": "https://36kr.com/p/3879220114878723",
+        "source": "36氪",
+        "time": "2026-07-03 01:25"
+      }
+    ],
     "industry": [],
     "tech": [
       {
-        "title": "谷歌教育 AI 迎来新一轮更新：教师工具升级，学生学习功能同步扩展",
-        "url": "https://36kr.com/p/3878528447951113",
+        "title": "Token账单失控？拆解AI规模化部署的“三重成本黑洞”",
+        "url": "https://36kr.com/p/3879161619165187",
         "source": "36氪",
-        "time": "2026-07-02 23:52"
+        "time": "2026-07-03 01:25"
       },
       {
-        "title": "从备课到阅读辅导，谷歌教育 AI 集中更新多项教师与学生工具。",
-        "url": "https://36kr.com/p/3878528447951113",
+        "title": "AI规模化部署遇Token成本三重黑洞，需精细化治理",
+        "url": "https://36kr.com/p/3879161619165187",
         "source": "36氪",
-        "time": "2026-07-02 23:52"
+        "time": "2026-07-03 01:25"
       },
       {
-        "title": "全球Agent都在卷的「Loop工程」：AI自己干活、监工和返工",
-        "url": "https://36kr.com/p/3878518284565125",
-        "source": "36氪",
-        "time": "2026-07-02 23:52"
-      },
-      {
-        "title": "Meta做了一个决定，存储暴跌",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4871999.html",
+        "title": "判断力的无产阶级：AI时代的认知分层已经开始了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872253.html",
         "source": "虎嗅",
-        "time": "2026-07-02 23:52"
+        "time": "2026-07-03 01:25"
       }
     ],
     "byd": [],
@@ -43,67 +50,61 @@
     "fitness": [],
     "other": [
       {
-        "title": "游乐园的常见小游戏，又被土耳其人做出了千万月流水",
-        "url": "https://36kr.com/p/3878540336279809",
+        "title": "95家私募买成年内成立106只ETF前十大持有人",
+        "url": "https://36kr.com/p/3879221138075908",
         "source": "36氪",
-        "time": "2026-07-02 23:52"
+        "time": "2026-07-03 01:25"
       },
       {
-        "title": "比「Pixel Flow」的爽感还直接？",
-        "url": "https://36kr.com/p/3878540336279809",
-        "source": "36氪",
-        "time": "2026-07-02 23:52"
-      },
-      {
-        "title": "四大指标同时亮红灯，全球供应链正经历2021年以来最严峻时刻",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872248.html",
+        "title": "美光三星海力士在美被诉垄断，中国企业如何维权和反制？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872270.html",
         "source": "虎嗅",
-        "time": "2026-07-02 23:52"
+        "time": "2026-07-03 01:25"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "谷歌教育 AI 迎来新一轮更新：教师工具升级，学生学习功能同步扩展",
-      "url": "https://36kr.com/p/3878528447951113",
+      "title": "Token账单失控？拆解AI规模化部署的“三重成本黑洞”",
+      "url": "https://36kr.com/p/3879161619165187",
       "source": "36氪",
-      "time": "2026-07-02 23:52"
+      "time": "2026-07-03 01:25"
     },
     {
-      "title": "从备课到阅读辅导，谷歌教育 AI 集中更新多项教师与学生工具。",
-      "url": "https://36kr.com/p/3878528447951113",
+      "title": "AI规模化部署遇Token成本三重黑洞，需精细化治理",
+      "url": "https://36kr.com/p/3879161619165187",
       "source": "36氪",
-      "time": "2026-07-02 23:52"
+      "time": "2026-07-03 01:25"
     },
     {
-      "title": "全球Agent都在卷的「Loop工程」：AI自己干活、监工和返工",
-      "url": "https://36kr.com/p/3878518284565125",
+      "title": "华为押注，中国Token工厂要IPO",
+      "url": "https://36kr.com/p/3879220114878723",
       "source": "36氪",
-      "time": "2026-07-02 23:52"
+      "time": "2026-07-03 01:25"
     },
     {
-      "title": "游乐园的常见小游戏，又被土耳其人做出了千万月流水",
-      "url": "https://36kr.com/p/3878540336279809",
+      "title": "成立仅两年未商业化的硅基流动赴港递交IPO申请。",
+      "url": "https://36kr.com/p/3879220114878723",
       "source": "36氪",
-      "time": "2026-07-02 23:52"
+      "time": "2026-07-03 01:25"
     },
     {
-      "title": "比「Pixel Flow」的爽感还直接？",
-      "url": "https://36kr.com/p/3878540336279809",
+      "title": "95家私募买成年内成立106只ETF前十大持有人",
+      "url": "https://36kr.com/p/3879221138075908",
       "source": "36氪",
-      "time": "2026-07-02 23:52"
+      "time": "2026-07-03 01:25"
     },
     {
-      "title": "四大指标同时亮红灯，全球供应链正经历2021年以来最严峻时刻",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872248.html",
+      "title": "美光三星海力士在美被诉垄断，中国企业如何维权和反制？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872270.html",
       "source": "虎嗅",
-      "time": "2026-07-02 23:52"
+      "time": "2026-07-03 01:25"
     },
     {
-      "title": "Meta做了一个决定，存储暴跌",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4871999.html",
+      "title": "判断力的无产阶级：AI时代的认知分层已经开始了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872253.html",
       "source": "虎嗅",
-      "time": "2026-07-02 23:52"
+      "time": "2026-07-03 01:25"
     }
   ]
 }
