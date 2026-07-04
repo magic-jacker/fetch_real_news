@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-04T01:25:52.014653",
+  "timestamp": "2026-07-04T04:59:16.809216",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -11,100 +11,98 @@
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资",
-        "url": "https://36kr.com/p/3879991356157952",
-        "source": "36氪",
-        "time": "2026-07-04 01:25"
-      }
-    ],
-    "tech": [
-      {
-        "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
-        "url": "https://36kr.com/p/3880629882679301",
-        "source": "36氪",
-        "time": "2026-07-04 01:25"
-      },
-      {
-        "title": "人工智能时代，如何重新想象你的工作",
-        "url": "https://36kr.com/p/3852405306151938",
-        "source": "36氪",
-        "time": "2026-07-04 01:25"
-      }
-    ],
+    "industry": [],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "36氪从阿里内部人士处获悉，因近期Claude Code被曝存在植入后门的安全风险，阿里经综合评估后已将其列入高风险软件名单。",
-        "url": "https://36kr.com/p/3880629882679301",
+        "title": "太蠢，不配用 Claude Fable 5？",
+        "url": "https://36kr.com/p/3880806277754883",
         "source": "36氪",
-        "time": "2026-07-04 01:25"
+        "time": "2026-07-04 04:59"
       },
       {
-        "title": "“计算式光谱仪”可大幅压缩体积并降低成本。",
-        "url": "https://36kr.com/p/3879991356157952",
+        "title": "Fable 5 的内心小作文，藏着什么？",
+        "url": "https://36kr.com/p/3880806277754883",
         "source": "36氪",
-        "time": "2026-07-04 01:25"
+        "time": "2026-07-04 04:59"
       },
       {
-        "title": "欧洲球队的白人球员在减少？世界杯中的全球人口迁移图谱",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872537.html",
-        "source": "虎嗅",
-        "time": "2026-07-04 01:25"
+        "title": "为了赶上中国速度，31家汽车公司联手了",
+        "url": "https://36kr.com/p/3880607578648838",
+        "source": "36氪",
+        "time": "2026-07-04 04:59"
       },
       {
-        "title": "酒店“住满24小时”再退房，动了谁的蛋糕？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872564.html",
+        "title": "汽车行业最大的误解，是把中国车企的成功归功于更低的成本。",
+        "url": "https://36kr.com/p/3880607578648838",
+        "source": "36氪",
+        "time": "2026-07-04 04:59"
+      },
+      {
+        "title": "对话傲鲨创始人徐振华：当科幻机甲成为户外装备，外骨骼如何重新定义人机关系？",
+        "url": "https://36kr.com/p/3880770270425089",
+        "source": "36氪",
+        "time": "2026-07-04 04:59"
+      },
+      {
+        "title": "埃森哲内部录音曝光：PDF转PPT竟成Token烧钱大户？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872315.html",
         "source": "虎嗅",
-        "time": "2026-07-04 01:25"
+        "time": "2026-07-04 04:59"
+      },
+      {
+        "title": "花99块进直播间挨顿骂，是提升自己的第一步？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872528.html",
+        "source": "虎嗅",
+        "time": "2026-07-04 04:59"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
-      "url": "https://36kr.com/p/3880629882679301",
+      "title": "太蠢，不配用 Claude Fable 5？",
+      "url": "https://36kr.com/p/3880806277754883",
       "source": "36氪",
-      "time": "2026-07-04 01:25"
+      "time": "2026-07-04 04:59"
     },
     {
-      "title": "36氪从阿里内部人士处获悉，因近期Claude Code被曝存在植入后门的安全风险，阿里经综合评估后已将其列入高风险软件名单。",
-      "url": "https://36kr.com/p/3880629882679301",
+      "title": "Fable 5 的内心小作文，藏着什么？",
+      "url": "https://36kr.com/p/3880806277754883",
       "source": "36氪",
-      "time": "2026-07-04 01:25"
+      "time": "2026-07-04 04:59"
     },
     {
-      "title": "36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资",
-      "url": "https://36kr.com/p/3879991356157952",
+      "title": "为了赶上中国速度，31家汽车公司联手了",
+      "url": "https://36kr.com/p/3880607578648838",
       "source": "36氪",
-      "time": "2026-07-04 01:25"
+      "time": "2026-07-04 04:59"
     },
     {
-      "title": "“计算式光谱仪”可大幅压缩体积并降低成本。",
-      "url": "https://36kr.com/p/3879991356157952",
+      "title": "汽车行业最大的误解，是把中国车企的成功归功于更低的成本。",
+      "url": "https://36kr.com/p/3880607578648838",
       "source": "36氪",
-      "time": "2026-07-04 01:25"
+      "time": "2026-07-04 04:59"
     },
     {
-      "title": "人工智能时代，如何重新想象你的工作",
-      "url": "https://36kr.com/p/3852405306151938",
+      "title": "对话傲鲨创始人徐振华：当科幻机甲成为户外装备，外骨骼如何重新定义人机关系？",
+      "url": "https://36kr.com/p/3880770270425089",
       "source": "36氪",
-      "time": "2026-07-04 01:25"
+      "time": "2026-07-04 04:59"
     },
     {
-      "title": "欧洲球队的白人球员在减少？世界杯中的全球人口迁移图谱",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872537.html",
+      "title": "埃森哲内部录音曝光：PDF转PPT竟成Token烧钱大户？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872315.html",
       "source": "虎嗅",
-      "time": "2026-07-04 01:25"
+      "time": "2026-07-04 04:59"
     },
     {
-      "title": "酒店“住满24小时”再退房，动了谁的蛋糕？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872564.html",
+      "title": "花99块进直播间挨顿骂，是提升自己的第一步？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872528.html",
       "source": "虎嗅",
-      "time": "2026-07-04 01:25"
+      "time": "2026-07-04 04:59"
     }
   ]
 }
