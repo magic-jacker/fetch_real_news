@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-07-05T23:51:56.028418",
-  "total": 7,
+  "timestamp": "2026-07-06T01:45:09.455346",
+  "total": 3,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
@@ -14,28 +14,10 @@
     "industry": [],
     "tech": [
       {
-        "title": "AI穿过世界杯，发现高光仍属于人类",
-        "url": "https://36kr.com/p/3883375370645769",
+        "title": "AI行情持续狂欢，860亿紫光股份，为何“滞涨”？",
+        "url": "https://36kr.com/p/3883456349813379",
         "source": "36氪",
-        "time": "2026-07-05 23:51"
-      },
-      {
-        "title": "这是大模型的首届世界杯。",
-        "url": "https://36kr.com/p/3883375370645769",
-        "source": "36氪",
-        "time": "2026-07-05 23:51"
-      },
-      {
-        "title": "连辛顿都说 AI 有意识了？这个问题问错了",
-        "url": "https://36kr.com/p/3883307889160193",
-        "source": "36氪",
-        "time": "2026-07-05 23:51"
-      },
-      {
-        "title": "Codex 负责人谈 AI 时代唯一值钱的能力",
-        "url": "https://36kr.com/p/3883305261576197",
-        "source": "36氪",
-        "time": "2026-07-05 23:51"
+        "time": "2026-07-06 01:45"
       }
     ],
     "byd": [],
@@ -43,67 +25,37 @@
     "fitness": [],
     "other": [
       {
-        "title": "与意识相关的结构，在什么条件下会涌现？",
-        "url": "https://36kr.com/p/3883307889160193",
+        "title": "一笔战略失误，吞下的“苦果”。",
+        "url": "https://36kr.com/p/3883285481943042",
         "source": "36氪",
-        "time": "2026-07-05 23:51"
+        "time": "2026-07-06 01:45"
       },
       {
-        "title": "全球最大数据中心，黄了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872763.html",
-        "source": "虎嗅",
-        "time": "2026-07-05 23:51"
-      },
-      {
-        "title": "45℃的欧洲，把中国空调抬到新level",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872627.html",
-        "source": "虎嗅",
-        "time": "2026-07-05 23:51"
+        "title": "可灵成不了Seedance",
+        "url": "https://36kr.com/p/3883495629074691",
+        "source": "36氪",
+        "time": "2026-07-06 01:45"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "AI穿过世界杯，发现高光仍属于人类",
-      "url": "https://36kr.com/p/3883375370645769",
+      "title": "一笔战略失误，吞下的“苦果”。",
+      "url": "https://36kr.com/p/3883285481943042",
       "source": "36氪",
-      "time": "2026-07-05 23:51"
+      "time": "2026-07-06 01:45"
     },
     {
-      "title": "这是大模型的首届世界杯。",
-      "url": "https://36kr.com/p/3883375370645769",
+      "title": "AI行情持续狂欢，860亿紫光股份，为何“滞涨”？",
+      "url": "https://36kr.com/p/3883456349813379",
       "source": "36氪",
-      "time": "2026-07-05 23:51"
+      "time": "2026-07-06 01:45"
     },
     {
-      "title": "连辛顿都说 AI 有意识了？这个问题问错了",
-      "url": "https://36kr.com/p/3883307889160193",
+      "title": "可灵成不了Seedance",
+      "url": "https://36kr.com/p/3883495629074691",
       "source": "36氪",
-      "time": "2026-07-05 23:51"
-    },
-    {
-      "title": "与意识相关的结构，在什么条件下会涌现？",
-      "url": "https://36kr.com/p/3883307889160193",
-      "source": "36氪",
-      "time": "2026-07-05 23:51"
-    },
-    {
-      "title": "Codex 负责人谈 AI 时代唯一值钱的能力",
-      "url": "https://36kr.com/p/3883305261576197",
-      "source": "36氪",
-      "time": "2026-07-05 23:51"
-    },
-    {
-      "title": "全球最大数据中心，黄了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872763.html",
-      "source": "虎嗅",
-      "time": "2026-07-05 23:51"
-    },
-    {
-      "title": "45℃的欧洲，把中国空调抬到新level",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872627.html",
-      "source": "虎嗅",
-      "time": "2026-07-05 23:51"
+      "time": "2026-07-06 01:45"
     }
   ]
 }
