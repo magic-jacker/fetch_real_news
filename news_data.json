@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-07-07T05:54:49.452063",
-  "total": 7,
+  "timestamp": "2026-07-07T08:59:37.453544",
+  "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
@@ -14,16 +14,22 @@
     "industry": [],
     "tech": [
       {
-        "title": "iPhone Ultra 发布不发售、标准版“缩水”，换新 iPhone 变难了",
-        "url": "https://36kr.com/p/3885025867755784",
+        "title": "物理AI：下一个 万亿赛道的\"卖铲人\"",
+        "url": "https://36kr.com/p/3885289334796288",
         "source": "36氪",
-        "time": "2026-07-07 05:54"
+        "time": "2026-07-07 08:59"
       },
       {
-        "title": "全面涨价、最惨泄密，苹果新CEO地狱开局：用16款新品突围？",
-        "url": "https://36kr.com/p/3884297914579586",
+        "title": "量化派做物理世界基础模型，卡位物理AI赛道",
+        "url": "https://36kr.com/p/3885289334796288",
         "source": "36氪",
-        "time": "2026-07-07 05:54"
+        "time": "2026-07-07 08:59"
+      },
+      {
+        "title": "父亲手搓AI工具，让自闭症孩子说出了“我爱你”",
+        "url": "https://36kr.com/p/3885263382379394",
+        "source": "36氪",
+        "time": "2026-07-07 08:59"
       }
     ],
     "byd": [],
@@ -31,79 +37,61 @@
     "fitness": [],
     "other": [
       {
-        "title": "加钱、等待，还是转身看看别家？",
-        "url": "https://36kr.com/p/3885025867755784",
+        "title": "大众汽车转型死局：不裁员亡公司，裁员先亡CEO",
+        "url": "https://36kr.com/p/3885293475868679",
         "source": "36氪",
-        "time": "2026-07-07 05:54"
+        "time": "2026-07-07 08:59"
       },
       {
-        "title": "瑞士工程科技企业NovoViz研发单光子雪崩二极管（SPAD）边缘成像传感器，大幅降低输出功耗 | 瑞士创新100强",
-        "url": "https://36kr.com/p/3885051349711491",
+        "title": "还意外做成了一门小生意。",
+        "url": "https://36kr.com/p/3885263382379394",
         "source": "36氪",
-        "time": "2026-07-07 05:54"
+        "time": "2026-07-07 08:59"
       },
       {
-        "title": "可将等效帧率提升至每秒1亿帧。",
-        "url": "https://36kr.com/p/3885051349711491",
-        "source": "36氪",
-        "time": "2026-07-07 05:54"
-      },
-      {
-        "title": "被判土刑终身的POLO衫回来了，领子也立起来了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873016.html",
+        "title": "电梯实验：老实人冗余理论",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873216.html",
         "source": "虎嗅",
-        "time": "2026-07-07 05:54"
-      },
-      {
-        "title": "中国汽车被“铝”逼入绝境",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873111.html",
-        "source": "虎嗅",
-        "time": "2026-07-07 05:54"
+        "time": "2026-07-07 08:59"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "iPhone Ultra 发布不发售、标准版“缩水”，换新 iPhone 变难了",
-      "url": "https://36kr.com/p/3885025867755784",
+      "title": "物理AI：下一个 万亿赛道的\"卖铲人\"",
+      "url": "https://36kr.com/p/3885289334796288",
       "source": "36氪",
-      "time": "2026-07-07 05:54"
+      "time": "2026-07-07 08:59"
     },
     {
-      "title": "加钱、等待，还是转身看看别家？",
-      "url": "https://36kr.com/p/3885025867755784",
+      "title": "量化派做物理世界基础模型，卡位物理AI赛道",
+      "url": "https://36kr.com/p/3885289334796288",
       "source": "36氪",
-      "time": "2026-07-07 05:54"
+      "time": "2026-07-07 08:59"
     },
     {
-      "title": "瑞士工程科技企业NovoViz研发单光子雪崩二极管（SPAD）边缘成像传感器，大幅降低输出功耗 | 瑞士创新100强",
-      "url": "https://36kr.com/p/3885051349711491",
+      "title": "大众汽车转型死局：不裁员亡公司，裁员先亡CEO",
+      "url": "https://36kr.com/p/3885293475868679",
       "source": "36氪",
-      "time": "2026-07-07 05:54"
+      "time": "2026-07-07 08:59"
     },
     {
-      "title": "可将等效帧率提升至每秒1亿帧。",
-      "url": "https://36kr.com/p/3885051349711491",
+      "title": "父亲手搓AI工具，让自闭症孩子说出了“我爱你”",
+      "url": "https://36kr.com/p/3885263382379394",
       "source": "36氪",
-      "time": "2026-07-07 05:54"
+      "time": "2026-07-07 08:59"
     },
     {
-      "title": "全面涨价、最惨泄密，苹果新CEO地狱开局：用16款新品突围？",
-      "url": "https://36kr.com/p/3884297914579586",
+      "title": "还意外做成了一门小生意。",
+      "url": "https://36kr.com/p/3885263382379394",
       "source": "36氪",
-      "time": "2026-07-07 05:54"
+      "time": "2026-07-07 08:59"
     },
     {
-      "title": "被判土刑终身的POLO衫回来了，领子也立起来了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873016.html",
+      "title": "电梯实验：老实人冗余理论",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873216.html",
       "source": "虎嗅",
-      "time": "2026-07-07 05:54"
-    },
-    {
-      "title": "中国汽车被“铝”逼入绝境",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873111.html",
-      "source": "虎嗅",
-      "time": "2026-07-07 05:54"
+      "time": "2026-07-07 08:59"
     }
   ]
 }
