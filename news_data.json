@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-07-07T01:43:32.359959",
+  "timestamp": "2026-07-07T05:54:49.452063",
   "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
@@ -14,22 +14,16 @@
     "industry": [],
     "tech": [
       {
-        "title": "阿里、百度、腾讯都投了，可灵却不属于任何一家",
-        "url": "https://36kr.com/p/3884883625652230",
+        "title": "iPhone Ultra 发布不发售、标准版“缩水”，换新 iPhone 变难了",
+        "url": "https://36kr.com/p/3885025867755784",
         "source": "36氪",
-        "time": "2026-07-07 01:43"
+        "time": "2026-07-07 05:54"
       },
       {
-        "title": "AI PPT生成不止“一键出稿”：清华、上交、北邮提出MemSlides，让Slides Agent学会记忆",
-        "url": "https://36kr.com/p/3884882514964482",
+        "title": "全面涨价、最惨泄密，苹果新CEO地狱开局：用16款新品突围？",
+        "url": "https://36kr.com/p/3884297914579586",
         "source": "36氪",
-        "time": "2026-07-07 01:43"
-      },
-      {
-        "title": "AI PPT如何记住你的偏好？",
-        "url": "https://36kr.com/p/3884882514964482",
-        "source": "36氪",
-        "time": "2026-07-07 01:43"
+        "time": "2026-07-07 05:54"
       }
     ],
     "byd": [],
@@ -37,73 +31,79 @@
     "fitness": [],
     "other": [
       {
-        "title": "180亿美元的可灵，BAT三家只买走了2.51%。",
-        "url": "https://36kr.com/p/3884883625652230",
+        "title": "加钱、等待，还是转身看看别家？",
+        "url": "https://36kr.com/p/3885025867755784",
         "source": "36氪",
-        "time": "2026-07-07 01:43"
+        "time": "2026-07-07 05:54"
       },
       {
-        "title": "一位90后造火箭：天使轮被抢疯了",
-        "url": "https://36kr.com/p/3884878536290569",
+        "title": "瑞士工程科技企业NovoViz研发单光子雪崩二极管（SPAD）边缘成像传感器，大幅降低输出功耗 | 瑞士创新100强",
+        "url": "https://36kr.com/p/3885051349711491",
         "source": "36氪",
-        "time": "2026-07-07 01:43"
+        "time": "2026-07-07 05:54"
       },
       {
-        "title": "活鱼千里运输不死的秘密：全行业都在用的违禁药，你天天在吃",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872931.html",
-        "source": "虎嗅",
-        "time": "2026-07-07 01:43"
+        "title": "可将等效帧率提升至每秒1亿帧。",
+        "url": "https://36kr.com/p/3885051349711491",
+        "source": "36氪",
+        "time": "2026-07-07 05:54"
       },
       {
-        "title": "24小时退房，我和酒店客服聊清楚了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872898.html",
+        "title": "被判土刑终身的POLO衫回来了，领子也立起来了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873016.html",
         "source": "虎嗅",
-        "time": "2026-07-07 01:43"
+        "time": "2026-07-07 05:54"
+      },
+      {
+        "title": "中国汽车被“铝”逼入绝境",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873111.html",
+        "source": "虎嗅",
+        "time": "2026-07-07 05:54"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "阿里、百度、腾讯都投了，可灵却不属于任何一家",
-      "url": "https://36kr.com/p/3884883625652230",
+      "title": "iPhone Ultra 发布不发售、标准版“缩水”，换新 iPhone 变难了",
+      "url": "https://36kr.com/p/3885025867755784",
       "source": "36氪",
-      "time": "2026-07-07 01:43"
+      "time": "2026-07-07 05:54"
     },
     {
-      "title": "180亿美元的可灵，BAT三家只买走了2.51%。",
-      "url": "https://36kr.com/p/3884883625652230",
+      "title": "加钱、等待，还是转身看看别家？",
+      "url": "https://36kr.com/p/3885025867755784",
       "source": "36氪",
-      "time": "2026-07-07 01:43"
+      "time": "2026-07-07 05:54"
     },
     {
-      "title": "AI PPT生成不止“一键出稿”：清华、上交、北邮提出MemSlides，让Slides Agent学会记忆",
-      "url": "https://36kr.com/p/3884882514964482",
+      "title": "瑞士工程科技企业NovoViz研发单光子雪崩二极管（SPAD）边缘成像传感器，大幅降低输出功耗 | 瑞士创新100强",
+      "url": "https://36kr.com/p/3885051349711491",
       "source": "36氪",
-      "time": "2026-07-07 01:43"
+      "time": "2026-07-07 05:54"
     },
     {
-      "title": "AI PPT如何记住你的偏好？",
-      "url": "https://36kr.com/p/3884882514964482",
+      "title": "可将等效帧率提升至每秒1亿帧。",
+      "url": "https://36kr.com/p/3885051349711491",
       "source": "36氪",
-      "time": "2026-07-07 01:43"
+      "time": "2026-07-07 05:54"
     },
     {
-      "title": "一位90后造火箭：天使轮被抢疯了",
-      "url": "https://36kr.com/p/3884878536290569",
+      "title": "全面涨价、最惨泄密，苹果新CEO地狱开局：用16款新品突围？",
+      "url": "https://36kr.com/p/3884297914579586",
       "source": "36氪",
-      "time": "2026-07-07 01:43"
+      "time": "2026-07-07 05:54"
     },
     {
-      "title": "活鱼千里运输不死的秘密：全行业都在用的违禁药，你天天在吃",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872931.html",
+      "title": "被判土刑终身的POLO衫回来了，领子也立起来了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873016.html",
       "source": "虎嗅",
-      "time": "2026-07-07 01:43"
+      "time": "2026-07-07 05:54"
     },
     {
-      "title": "24小时退房，我和酒店客服聊清楚了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4872898.html",
+      "title": "中国汽车被“铝”逼入绝境",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873111.html",
       "source": "虎嗅",
-      "time": "2026-07-07 01:43"
+      "time": "2026-07-07 05:54"
     }
   ]
 }
