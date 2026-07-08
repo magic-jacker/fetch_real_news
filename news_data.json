@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T07:18:59.831811",
+  "timestamp": "2026-07-08T09:42:18.893062",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -10,33 +10,27 @@
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
+    "finance": [],
+    "industry": [
       {
-        "title": "民航视觉智能第一龙头IPO了，开盘大跌17%",
-        "url": "https://36kr.com/p/3886505986748420",
+        "title": "Claude、Cursor、OpenClaw集体上手机，Agent成最卷打工人：007全勤、关机照常搬砖",
+        "url": "https://36kr.com/p/3886689102164230",
         "source": "36氪",
-        "time": "2026-07-08 07:18"
+        "time": "2026-07-08 09:41"
+      },
+      {
+        "title": "手机上的 AI 应用，正在发生一次不太显眼、却可能比模型升级更重要的变化。",
+        "url": "https://36kr.com/p/3886689102164230",
+        "source": "36氪",
+        "time": "2026-07-08 09:41"
       }
     ],
-    "industry": [],
     "tech": [
       {
-        "title": "OpenAI再失一名元老，敢跟马斯克拍桌子，Anthropic创始人给他送奖杯",
-        "url": "https://36kr.com/p/3886505876402432",
+        "title": "深度解读：Meta变身“算力黄牛”，AI基建的狂飙时代到头了吗？",
+        "url": "https://36kr.com/p/3886682450655873",
         "source": "36氪",
-        "time": "2026-07-08 07:18"
-      },
-      {
-        "title": "OpenAI安全组织近年多次调整。",
-        "url": "https://36kr.com/p/3886505876402432",
-        "source": "36氪",
-        "time": "2026-07-08 07:18"
-      },
-      {
-        "title": "腾讯放“手”，AI没有大哥",
-        "url": "https://36kr.com/p/3886507143639301",
-        "source": "36氪",
-        "time": "2026-07-08 07:18"
+        "time": "2026-07-08 09:41"
       }
     ],
     "byd": [],
@@ -44,67 +38,73 @@
     "fitness": [],
     "other": [
       {
-        "title": "三年营收复合增长率达35.2%。",
-        "url": "https://36kr.com/p/3886505986748420",
+        "title": "eVTOL 走向商业化，难点不只在“飞起来”",
+        "url": "https://36kr.com/p/3886750049808389",
         "source": "36氪",
-        "time": "2026-07-08 07:18"
+        "time": "2026-07-08 09:41"
       },
       {
-        "title": "高善文为何让人如此怀念？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873412.html",
-        "source": "虎嗅",
-        "time": "2026-07-08 07:18"
+        "title": "eVTOL从试飞走向运营，低空经济下半场拼落地能力",
+        "url": "https://36kr.com/p/3886750049808389",
+        "source": "36氪",
+        "time": "2026-07-08 09:41"
       },
       {
-        "title": "人生没有秘密，赢家全靠常识",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873219.html",
+        "title": "酸菜为什么会风靡白宫？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873319.html",
         "source": "虎嗅",
-        "time": "2026-07-08 07:18"
+        "time": "2026-07-08 09:42"
+      },
+      {
+        "title": "399元的毛绒挂件，正在验证一门“Token情绪生意”",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873536.html",
+        "source": "虎嗅",
+        "time": "2026-07-08 09:42"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "民航视觉智能第一龙头IPO了，开盘大跌17%",
-      "url": "https://36kr.com/p/3886505986748420",
+      "title": "eVTOL 走向商业化，难点不只在“飞起来”",
+      "url": "https://36kr.com/p/3886750049808389",
       "source": "36氪",
-      "time": "2026-07-08 07:18"
+      "time": "2026-07-08 09:41"
     },
     {
-      "title": "三年营收复合增长率达35.2%。",
-      "url": "https://36kr.com/p/3886505986748420",
+      "title": "eVTOL从试飞走向运营，低空经济下半场拼落地能力",
+      "url": "https://36kr.com/p/3886750049808389",
       "source": "36氪",
-      "time": "2026-07-08 07:18"
+      "time": "2026-07-08 09:41"
     },
     {
-      "title": "OpenAI再失一名元老，敢跟马斯克拍桌子，Anthropic创始人给他送奖杯",
-      "url": "https://36kr.com/p/3886505876402432",
+      "title": "Claude、Cursor、OpenClaw集体上手机，Agent成最卷打工人：007全勤、关机照常搬砖",
+      "url": "https://36kr.com/p/3886689102164230",
       "source": "36氪",
-      "time": "2026-07-08 07:18"
+      "time": "2026-07-08 09:41"
     },
     {
-      "title": "OpenAI安全组织近年多次调整。",
-      "url": "https://36kr.com/p/3886505876402432",
+      "title": "手机上的 AI 应用，正在发生一次不太显眼、却可能比模型升级更重要的变化。",
+      "url": "https://36kr.com/p/3886689102164230",
       "source": "36氪",
-      "time": "2026-07-08 07:18"
+      "time": "2026-07-08 09:41"
     },
     {
-      "title": "腾讯放“手”，AI没有大哥",
-      "url": "https://36kr.com/p/3886507143639301",
+      "title": "深度解读：Meta变身“算力黄牛”，AI基建的狂飙时代到头了吗？",
+      "url": "https://36kr.com/p/3886682450655873",
       "source": "36氪",
-      "time": "2026-07-08 07:18"
+      "time": "2026-07-08 09:41"
     },
     {
-      "title": "高善文为何让人如此怀念？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873412.html",
+      "title": "酸菜为什么会风靡白宫？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873319.html",
       "source": "虎嗅",
-      "time": "2026-07-08 07:18"
+      "time": "2026-07-08 09:42"
     },
     {
-      "title": "人生没有秘密，赢家全靠常识",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873219.html",
+      "title": "399元的毛绒挂件，正在验证一门“Token情绪生意”",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873536.html",
       "source": "虎嗅",
-      "time": "2026-07-08 07:18"
+      "time": "2026-07-08 09:42"
     }
   ]
 }
