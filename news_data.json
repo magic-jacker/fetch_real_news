@@ -1,36 +1,42 @@
 {
-  "timestamp": "2026-07-08T04:38:35.461374",
-  "total": 5,
+  "timestamp": "2026-07-08T07:18:59.831811",
+  "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
-    "industry": [
+    "finance": [
       {
-        "title": "这家百年味精企业，为何提供了AI芯片不可或缺的关键材料？",
-        "url": "https://36kr.com/p/3886452823666690",
+        "title": "民航视觉智能第一龙头IPO了，开盘大跌17%",
+        "url": "https://36kr.com/p/3886505986748420",
         "source": "36氪",
-        "time": "2026-07-08 04:38"
-      },
-      {
-        "title": "做味精起家的公司，怎么为什么会成为AI芯片供应链里的重要一环？",
-        "url": "https://36kr.com/p/3886452823666690",
-        "source": "36氪",
-        "time": "2026-07-08 04:38"
+        "time": "2026-07-08 07:18"
       }
     ],
+    "industry": [],
     "tech": [
       {
-        "title": "三星「阔折叠」要来了，能挑战苹果华为吗？",
-        "url": "https://36kr.com/p/3886470662172677",
+        "title": "OpenAI再失一名元老，敢跟马斯克拍桌子，Anthropic创始人给他送奖杯",
+        "url": "https://36kr.com/p/3886505876402432",
         "source": "36氪",
-        "time": "2026-07-08 04:38"
+        "time": "2026-07-08 07:18"
+      },
+      {
+        "title": "OpenAI安全组织近年多次调整。",
+        "url": "https://36kr.com/p/3886505876402432",
+        "source": "36氪",
+        "time": "2026-07-08 07:18"
+      },
+      {
+        "title": "腾讯放“手”，AI没有大哥",
+        "url": "https://36kr.com/p/3886507143639301",
+        "source": "36氪",
+        "time": "2026-07-08 07:18"
       }
     ],
     "byd": [],
@@ -38,49 +44,67 @@
     "fitness": [],
     "other": [
       {
-        "title": "竞赛编程Agent进入全球前十，南大、清华新模型CF rating超3500",
-        "url": "https://36kr.com/p/3886457907720453",
+        "title": "三年营收复合增长率达35.2%。",
+        "url": "https://36kr.com/p/3886505986748420",
         "source": "36氪",
-        "time": "2026-07-08 04:38"
+        "time": "2026-07-08 07:18"
       },
       {
-        "title": "Solvita是一个面向竞赛编程的Agentic Evolution框架。它试图回答一个重要问题：如何让代码Agent不只是「多试几次」，而是真正从过去的成功和失败中积累经验？",
-        "url": "https://36kr.com/p/3886457907720453",
-        "source": "36氪",
-        "time": "2026-07-08 04:38"
+        "title": "高善文为何让人如此怀念？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873412.html",
+        "source": "虎嗅",
+        "time": "2026-07-08 07:18"
+      },
+      {
+        "title": "人生没有秘密，赢家全靠常识",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873219.html",
+        "source": "虎嗅",
+        "time": "2026-07-08 07:18"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "三星「阔折叠」要来了，能挑战苹果华为吗？",
-      "url": "https://36kr.com/p/3886470662172677",
+      "title": "民航视觉智能第一龙头IPO了，开盘大跌17%",
+      "url": "https://36kr.com/p/3886505986748420",
       "source": "36氪",
-      "time": "2026-07-08 04:38"
+      "time": "2026-07-08 07:18"
     },
     {
-      "title": "这家百年味精企业，为何提供了AI芯片不可或缺的关键材料？",
-      "url": "https://36kr.com/p/3886452823666690",
+      "title": "三年营收复合增长率达35.2%。",
+      "url": "https://36kr.com/p/3886505986748420",
       "source": "36氪",
-      "time": "2026-07-08 04:38"
+      "time": "2026-07-08 07:18"
     },
     {
-      "title": "做味精起家的公司，怎么为什么会成为AI芯片供应链里的重要一环？",
-      "url": "https://36kr.com/p/3886452823666690",
+      "title": "OpenAI再失一名元老，敢跟马斯克拍桌子，Anthropic创始人给他送奖杯",
+      "url": "https://36kr.com/p/3886505876402432",
       "source": "36氪",
-      "time": "2026-07-08 04:38"
+      "time": "2026-07-08 07:18"
     },
     {
-      "title": "竞赛编程Agent进入全球前十，南大、清华新模型CF rating超3500",
-      "url": "https://36kr.com/p/3886457907720453",
+      "title": "OpenAI安全组织近年多次调整。",
+      "url": "https://36kr.com/p/3886505876402432",
       "source": "36氪",
-      "time": "2026-07-08 04:38"
+      "time": "2026-07-08 07:18"
     },
     {
-      "title": "Solvita是一个面向竞赛编程的Agentic Evolution框架。它试图回答一个重要问题：如何让代码Agent不只是「多试几次」，而是真正从过去的成功和失败中积累经验？",
-      "url": "https://36kr.com/p/3886457907720453",
+      "title": "腾讯放“手”，AI没有大哥",
+      "url": "https://36kr.com/p/3886507143639301",
       "source": "36氪",
-      "time": "2026-07-08 04:38"
+      "time": "2026-07-08 07:18"
+    },
+    {
+      "title": "高善文为何让人如此怀念？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873412.html",
+      "source": "虎嗅",
+      "time": "2026-07-08 07:18"
+    },
+    {
+      "title": "人生没有秘密，赢家全靠常识",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873219.html",
+      "source": "虎嗅",
+      "time": "2026-07-08 07:18"
     }
   ]
 }
