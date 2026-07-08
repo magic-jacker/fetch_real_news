@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-08T09:42:18.893062",
-  "total": 7,
+  "timestamp": "2026-07-08T11:39:31.987022",
+  "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 5,
+    "36氪": 4,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
@@ -13,24 +13,30 @@
     "finance": [],
     "industry": [
       {
-        "title": "Claude、Cursor、OpenClaw集体上手机，Agent成最卷打工人：007全勤、关机照常搬砖",
-        "url": "https://36kr.com/p/3886689102164230",
+        "title": "QQ头像之父，靠一台咖啡机器人融了近10亿",
+        "url": "https://36kr.com/p/3886829001816705",
         "source": "36氪",
-        "time": "2026-07-08 09:41"
-      },
-      {
-        "title": "手机上的 AI 应用，正在发生一次不太显眼、却可能比模型升级更重要的变化。",
-        "url": "https://36kr.com/p/3886689102164230",
-        "source": "36氪",
-        "time": "2026-07-08 09:41"
+        "time": "2026-07-08 11:39"
       }
     ],
     "tech": [
       {
-        "title": "深度解读：Meta变身“算力黄牛”，AI基建的狂飙时代到头了吗？",
-        "url": "https://36kr.com/p/3886682450655873",
+        "title": "2026最值得期待的AI硬件，是卡片",
+        "url": "https://36kr.com/p/3886827004489729",
         "source": "36氪",
-        "time": "2026-07-08 09:41"
+        "time": "2026-07-08 11:39"
+      },
+      {
+        "title": "AI 应该少偷点个人信息，多帮打工人干活",
+        "url": "https://36kr.com/p/3886827004489729",
+        "source": "36氪",
+        "time": "2026-07-08 11:39"
+      },
+      {
+        "title": "增程崩了？小米不信这个邪",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873246.html",
+        "source": "虎嗅",
+        "time": "2026-07-08 11:39"
       }
     ],
     "byd": [],
@@ -38,73 +44,55 @@
     "fitness": [],
     "other": [
       {
-        "title": "eVTOL 走向商业化，难点不只在“飞起来”",
-        "url": "https://36kr.com/p/3886750049808389",
+        "title": "Linus：别指望Rust能修复所有Bug、没人能彻底搞懂Linux内核的3500万行代码",
+        "url": "https://36kr.com/p/3886825655841029",
         "source": "36氪",
-        "time": "2026-07-08 09:41"
-      },
-      {
-        "title": "eVTOL从试飞走向运营，低空经济下半场拼落地能力",
-        "url": "https://36kr.com/p/3886750049808389",
-        "source": "36氪",
-        "time": "2026-07-08 09:41"
+        "time": "2026-07-08 11:39"
       },
       {
         "title": "酸菜为什么会风靡白宫？",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873319.html",
         "source": "虎嗅",
-        "time": "2026-07-08 09:42"
-      },
-      {
-        "title": "399元的毛绒挂件，正在验证一门“Token情绪生意”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873536.html",
-        "source": "虎嗅",
-        "time": "2026-07-08 09:42"
+        "time": "2026-07-08 11:39"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "eVTOL 走向商业化，难点不只在“飞起来”",
-      "url": "https://36kr.com/p/3886750049808389",
+      "title": "Linus：别指望Rust能修复所有Bug、没人能彻底搞懂Linux内核的3500万行代码",
+      "url": "https://36kr.com/p/3886825655841029",
       "source": "36氪",
-      "time": "2026-07-08 09:41"
+      "time": "2026-07-08 11:39"
     },
     {
-      "title": "eVTOL从试飞走向运营，低空经济下半场拼落地能力",
-      "url": "https://36kr.com/p/3886750049808389",
+      "title": "2026最值得期待的AI硬件，是卡片",
+      "url": "https://36kr.com/p/3886827004489729",
       "source": "36氪",
-      "time": "2026-07-08 09:41"
+      "time": "2026-07-08 11:39"
     },
     {
-      "title": "Claude、Cursor、OpenClaw集体上手机，Agent成最卷打工人：007全勤、关机照常搬砖",
-      "url": "https://36kr.com/p/3886689102164230",
+      "title": "AI 应该少偷点个人信息，多帮打工人干活",
+      "url": "https://36kr.com/p/3886827004489729",
       "source": "36氪",
-      "time": "2026-07-08 09:41"
+      "time": "2026-07-08 11:39"
     },
     {
-      "title": "手机上的 AI 应用，正在发生一次不太显眼、却可能比模型升级更重要的变化。",
-      "url": "https://36kr.com/p/3886689102164230",
+      "title": "QQ头像之父，靠一台咖啡机器人融了近10亿",
+      "url": "https://36kr.com/p/3886829001816705",
       "source": "36氪",
-      "time": "2026-07-08 09:41"
+      "time": "2026-07-08 11:39"
     },
     {
-      "title": "深度解读：Meta变身“算力黄牛”，AI基建的狂飙时代到头了吗？",
-      "url": "https://36kr.com/p/3886682450655873",
-      "source": "36氪",
-      "time": "2026-07-08 09:41"
+      "title": "增程崩了？小米不信这个邪",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873246.html",
+      "source": "虎嗅",
+      "time": "2026-07-08 11:39"
     },
     {
       "title": "酸菜为什么会风靡白宫？",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873319.html",
       "source": "虎嗅",
-      "time": "2026-07-08 09:42"
-    },
-    {
-      "title": "399元的毛绒挂件，正在验证一门“Token情绪生意”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873536.html",
-      "source": "虎嗅",
-      "time": "2026-07-08 09:42"
+      "time": "2026-07-08 11:39"
     }
   ]
 }
