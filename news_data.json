@@ -1,42 +1,23 @@
 {
-  "timestamp": "2026-07-08T11:39:31.987022",
-  "total": 6,
+  "timestamp": "2026-07-08T13:21:03.172698",
+  "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 4,
+    "36氪": 5,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "QQ头像之父，靠一台咖啡机器人融了近10亿",
-        "url": "https://36kr.com/p/3886829001816705",
-        "source": "36氪",
-        "time": "2026-07-08 11:39"
-      }
-    ],
+    "industry": [],
     "tech": [
-      {
-        "title": "2026最值得期待的AI硬件，是卡片",
-        "url": "https://36kr.com/p/3886827004489729",
-        "source": "36氪",
-        "time": "2026-07-08 11:39"
-      },
-      {
-        "title": "AI 应该少偷点个人信息，多帮打工人干活",
-        "url": "https://36kr.com/p/3886827004489729",
-        "source": "36氪",
-        "time": "2026-07-08 11:39"
-      },
       {
         "title": "增程崩了？小米不信这个邪",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873246.html",
         "source": "虎嗅",
-        "time": "2026-07-08 11:39"
+        "time": "2026-07-08 13:21"
       }
     ],
     "byd": [],
@@ -44,55 +25,85 @@
     "fitness": [],
     "other": [
       {
-        "title": "Linus：别指望Rust能修复所有Bug、没人能彻底搞懂Linux内核的3500万行代码",
-        "url": "https://36kr.com/p/3886825655841029",
+        "title": "三星、海力士到底了，还是本轮韩国存储牛市见顶了？",
+        "url": "https://36kr.com/p/3886937643744007",
         "source": "36氪",
-        "time": "2026-07-08 11:39"
+        "time": "2026-07-08 13:20"
       },
       {
-        "title": "酸菜为什么会风靡白宫？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873319.html",
+        "title": "当下的暴跌，是倒车接人吗？",
+        "url": "https://36kr.com/p/3886937643744007",
+        "source": "36氪",
+        "time": "2026-07-08 13:20"
+      },
+      {
+        "title": "在“神坛”与“围城”之间",
+        "url": "https://36kr.com/p/3886937615153667",
+        "source": "36氪",
+        "time": "2026-07-08 13:20"
+      },
+      {
+        "title": "快餐、烘焙之后，商超巨头们又看上了这门生意",
+        "url": "https://36kr.com/p/3886935376411142",
+        "source": "36氪",
+        "time": "2026-07-08 13:20"
+      },
+      {
+        "title": "这门微醺生意能走多远？",
+        "url": "https://36kr.com/p/3886935376411142",
+        "source": "36氪",
+        "time": "2026-07-08 13:20"
+      },
+      {
+        "title": "存储，最赚钱的时候过去了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873676.html",
         "source": "虎嗅",
-        "time": "2026-07-08 11:39"
+        "time": "2026-07-08 13:21"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "Linus：别指望Rust能修复所有Bug、没人能彻底搞懂Linux内核的3500万行代码",
-      "url": "https://36kr.com/p/3886825655841029",
+      "title": "三星、海力士到底了，还是本轮韩国存储牛市见顶了？",
+      "url": "https://36kr.com/p/3886937643744007",
       "source": "36氪",
-      "time": "2026-07-08 11:39"
+      "time": "2026-07-08 13:20"
     },
     {
-      "title": "2026最值得期待的AI硬件，是卡片",
-      "url": "https://36kr.com/p/3886827004489729",
+      "title": "当下的暴跌，是倒车接人吗？",
+      "url": "https://36kr.com/p/3886937643744007",
       "source": "36氪",
-      "time": "2026-07-08 11:39"
+      "time": "2026-07-08 13:20"
     },
     {
-      "title": "AI 应该少偷点个人信息，多帮打工人干活",
-      "url": "https://36kr.com/p/3886827004489729",
+      "title": "在“神坛”与“围城”之间",
+      "url": "https://36kr.com/p/3886937615153667",
       "source": "36氪",
-      "time": "2026-07-08 11:39"
+      "time": "2026-07-08 13:20"
     },
     {
-      "title": "QQ头像之父，靠一台咖啡机器人融了近10亿",
-      "url": "https://36kr.com/p/3886829001816705",
+      "title": "快餐、烘焙之后，商超巨头们又看上了这门生意",
+      "url": "https://36kr.com/p/3886935376411142",
       "source": "36氪",
-      "time": "2026-07-08 11:39"
+      "time": "2026-07-08 13:20"
+    },
+    {
+      "title": "这门微醺生意能走多远？",
+      "url": "https://36kr.com/p/3886935376411142",
+      "source": "36氪",
+      "time": "2026-07-08 13:20"
     },
     {
       "title": "增程崩了？小米不信这个邪",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873246.html",
       "source": "虎嗅",
-      "time": "2026-07-08 11:39"
+      "time": "2026-07-08 13:21"
     },
     {
-      "title": "酸菜为什么会风靡白宫？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873319.html",
+      "title": "存储，最赚钱的时候过去了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873676.html",
       "source": "虎嗅",
-      "time": "2026-07-08 11:39"
+      "time": "2026-07-08 13:21"
     }
   ]
 }
