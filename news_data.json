@@ -1,30 +1,29 @@
 {
-  "timestamp": "2026-07-08T23:56:24.517470",
-  "total": 7,
+  "timestamp": "2026-07-09T01:52:26.181544",
+  "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 5,
+    "36氪": 4,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
-      {
-        "title": "韩国“黄金时代”亲历者：外资赚钱，散户接盘",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873674.html",
-        "source": "虎嗅",
-        "time": "2026-07-08 23:56"
-      }
-    ],
+    "finance": [],
     "industry": [],
     "tech": [
       {
-        "title": "AI时代，\"天才少年\"是不是终身 title？",
-        "url": "https://36kr.com/p/3887003065842567",
+        "title": "马斯克要用户储给AI数据中心供电，虚拟电厂迎来春天？",
+        "url": "https://36kr.com/p/3887647673989632",
         "source": "36氪",
-        "time": "2026-07-08 23:56"
+        "time": "2026-07-09 01:52"
+      },
+      {
+        "title": "乱用AI，打工人被坑惨了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873761.html",
+        "source": "虎嗅",
+        "time": "2026-07-09 01:52"
       }
     ],
     "byd": [],
@@ -32,79 +31,67 @@
     "fitness": [],
     "other": [
       {
-        "title": "新势力有人领跑，有人压力拉满",
-        "url": "https://36kr.com/p/3887104839564167",
+        "title": "中小品牌，已经失去成长空间",
+        "url": "https://36kr.com/p/3887648544520704",
         "source": "36氪",
-        "time": "2026-07-08 23:56"
+        "time": "2026-07-09 01:52"
       },
       {
-        "title": "2026时间过半销量承压，主流新势力大局已定",
-        "url": "https://36kr.com/p/3887104839564167",
+        "title": "60家机构排队重注，Momenta给投资人赚了多少钱？",
+        "url": "https://36kr.com/p/3887644000123394",
         "source": "36氪",
-        "time": "2026-07-08 23:56"
+        "time": "2026-07-09 01:52"
       },
       {
-        "title": "Gucci美妆提前易主",
-        "url": "https://36kr.com/p/3887051079694856",
+        "title": "汽车产业资本集体下注。",
+        "url": "https://36kr.com/p/3887644000123394",
         "source": "36氪",
-        "time": "2026-07-08 23:56"
+        "time": "2026-07-09 01:52"
       },
       {
-        "title": "花20亿买一年，欧莱雅亏吗？",
-        "url": "https://36kr.com/p/3887051079694856",
-        "source": "36氪",
-        "time": "2026-07-08 23:56"
-      },
-      {
-        "title": "存储，最赚钱的时候过去了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873676.html",
+        "title": "低至1.98元的港澳一日游，到底怎么赚钱？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873589.html",
         "source": "虎嗅",
-        "time": "2026-07-08 23:56"
+        "time": "2026-07-09 01:52"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "新势力有人领跑，有人压力拉满",
-      "url": "https://36kr.com/p/3887104839564167",
+      "title": "中小品牌，已经失去成长空间",
+      "url": "https://36kr.com/p/3887648544520704",
       "source": "36氪",
-      "time": "2026-07-08 23:56"
+      "time": "2026-07-09 01:52"
     },
     {
-      "title": "2026时间过半销量承压，主流新势力大局已定",
-      "url": "https://36kr.com/p/3887104839564167",
+      "title": "马斯克要用户储给AI数据中心供电，虚拟电厂迎来春天？",
+      "url": "https://36kr.com/p/3887647673989632",
       "source": "36氪",
-      "time": "2026-07-08 23:56"
+      "time": "2026-07-09 01:52"
     },
     {
-      "title": "Gucci美妆提前易主",
-      "url": "https://36kr.com/p/3887051079694856",
+      "title": "60家机构排队重注，Momenta给投资人赚了多少钱？",
+      "url": "https://36kr.com/p/3887644000123394",
       "source": "36氪",
-      "time": "2026-07-08 23:56"
+      "time": "2026-07-09 01:52"
     },
     {
-      "title": "花20亿买一年，欧莱雅亏吗？",
-      "url": "https://36kr.com/p/3887051079694856",
+      "title": "汽车产业资本集体下注。",
+      "url": "https://36kr.com/p/3887644000123394",
       "source": "36氪",
-      "time": "2026-07-08 23:56"
+      "time": "2026-07-09 01:52"
     },
     {
-      "title": "AI时代，\"天才少年\"是不是终身 title？",
-      "url": "https://36kr.com/p/3887003065842567",
-      "source": "36氪",
-      "time": "2026-07-08 23:56"
-    },
-    {
-      "title": "存储，最赚钱的时候过去了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873676.html",
+      "title": "低至1.98元的港澳一日游，到底怎么赚钱？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873589.html",
       "source": "虎嗅",
-      "time": "2026-07-08 23:56"
+      "time": "2026-07-09 01:52"
     },
     {
-      "title": "韩国“黄金时代”亲历者：外资赚钱，散户接盘",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873674.html",
+      "title": "乱用AI，打工人被坑惨了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873761.html",
       "source": "虎嗅",
-      "time": "2026-07-08 23:56"
+      "time": "2026-07-09 01:52"
     }
   ]
 }
