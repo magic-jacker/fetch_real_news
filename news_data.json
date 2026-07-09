@@ -1,109 +1,86 @@
 {
-  "timestamp": "2026-07-09T05:56:17.664480",
-  "total": 7,
+  "timestamp": "2026-07-09T09:08:14.320121",
+  "total": 5,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
+    "finance": [],
+    "industry": [
       {
-        "title": "2天12个IPO，港交所要挤不下了",
-        "url": "https://36kr.com/p/3887840144702211",
+        "title": "对不起，AI也救不了智能手机",
+        "url": "https://36kr.com/p/3888098206874498",
         "source": "36氪",
-        "time": "2026-07-09 05:56"
+        "time": "2026-07-09 09:07"
       }
     ],
-    "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "揭秘Momenta：马斯克式CEO、AI执念和量产机器丨深氪",
+        "url": "https://36kr.com/p/3888180493318921",
+        "source": "36氪",
+        "time": "2026-07-09 09:07"
+      },
+      {
+        "title": "特斯拉FSD的新版本，曹旭东都会飞去体验。",
+        "url": "https://36kr.com/p/3888180493318921",
+        "source": "36氪",
+        "time": "2026-07-09 09:07"
+      },
+      {
+        "title": "Model Y会是特斯拉最后一款车吗？",
+        "url": "https://36kr.com/p/3888093634263811",
+        "source": "36氪",
+        "time": "2026-07-09 09:07"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "“我从未在这个大厅见过这么多人。”",
-        "url": "https://36kr.com/p/3887840144702211",
+        "title": "内存才是涨价的胜负手。",
+        "url": "https://36kr.com/p/3888098206874498",
         "source": "36氪",
-        "time": "2026-07-09 05:56"
-      },
-      {
-        "title": "我见证了 MiniMax 的“至暗时刻”",
-        "url": "https://36kr.com/p/3887712552532481",
-        "source": "36氪",
-        "time": "2026-07-09 05:56"
-      },
-      {
-        "title": "从 Mini 到 Max",
-        "url": "https://36kr.com/p/3887712552532481",
-        "source": "36氪",
-        "time": "2026-07-09 05:56"
-      },
-      {
-        "title": "55亿元天价离婚案，前“孝感首富”夫妇对簿公堂，大洋电机市值一日蒸发超20亿元，实控权或生变",
-        "url": "https://36kr.com/p/3887828128823817",
-        "source": "36氪",
-        "time": "2026-07-09 05:56"
-      },
-      {
-        "title": "存储，最赚钱的时候过去了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873676.html",
-        "source": "虎嗅",
-        "time": "2026-07-09 05:56"
-      },
-      {
-        "title": "硅谷最火职位在中国：好苦，好痛，正在救火路上",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873792.html",
-        "source": "虎嗅",
-        "time": "2026-07-09 05:56"
+        "time": "2026-07-09 09:07"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "2天12个IPO，港交所要挤不下了",
-      "url": "https://36kr.com/p/3887840144702211",
+      "title": "揭秘Momenta：马斯克式CEO、AI执念和量产机器丨深氪",
+      "url": "https://36kr.com/p/3888180493318921",
       "source": "36氪",
-      "time": "2026-07-09 05:56"
+      "time": "2026-07-09 09:07"
     },
     {
-      "title": "“我从未在这个大厅见过这么多人。”",
-      "url": "https://36kr.com/p/3887840144702211",
+      "title": "特斯拉FSD的新版本，曹旭东都会飞去体验。",
+      "url": "https://36kr.com/p/3888180493318921",
       "source": "36氪",
-      "time": "2026-07-09 05:56"
+      "time": "2026-07-09 09:07"
     },
     {
-      "title": "我见证了 MiniMax 的“至暗时刻”",
-      "url": "https://36kr.com/p/3887712552532481",
+      "title": "对不起，AI也救不了智能手机",
+      "url": "https://36kr.com/p/3888098206874498",
       "source": "36氪",
-      "time": "2026-07-09 05:56"
+      "time": "2026-07-09 09:07"
     },
     {
-      "title": "从 Mini 到 Max",
-      "url": "https://36kr.com/p/3887712552532481",
+      "title": "内存才是涨价的胜负手。",
+      "url": "https://36kr.com/p/3888098206874498",
       "source": "36氪",
-      "time": "2026-07-09 05:56"
+      "time": "2026-07-09 09:07"
     },
     {
-      "title": "55亿元天价离婚案，前“孝感首富”夫妇对簿公堂，大洋电机市值一日蒸发超20亿元，实控权或生变",
-      "url": "https://36kr.com/p/3887828128823817",
+      "title": "Model Y会是特斯拉最后一款车吗？",
+      "url": "https://36kr.com/p/3888093634263811",
       "source": "36氪",
-      "time": "2026-07-09 05:56"
-    },
-    {
-      "title": "存储，最赚钱的时候过去了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873676.html",
-      "source": "虎嗅",
-      "time": "2026-07-09 05:56"
-    },
-    {
-      "title": "硅谷最火职位在中国：好苦，好痛，正在救火路上",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4873792.html",
-      "source": "虎嗅",
-      "time": "2026-07-09 05:56"
+      "time": "2026-07-09 09:07"
     }
   ]
 }
