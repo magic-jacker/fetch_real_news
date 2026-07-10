@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T01:04:28.234727",
+  "timestamp": "2026-07-10T05:13:23.498650",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -14,22 +14,34 @@
     "industry": [],
     "tech": [
       {
-        "title": "登上Science，华人科学家推出通用生物医学AI Agent，真实科研表现接近人类专家",
-        "url": "https://36kr.com/p/3889073788926470",
+        "title": "从 0 到高手10 大技巧，将 ChatGPT Work用到极致，普通人也能掌握",
+        "url": "https://36kr.com/p/3889270647634694",
         "source": "36氪",
-        "time": "2026-07-10 01:04"
+        "time": "2026-07-10 05:13"
       },
       {
-        "title": "GPT-5.6全量放送，Codex正式并入ChatGPT",
-        "url": "https://36kr.com/p/3889069642742403",
+        "title": "学会这10项技能，你就是AI大拿",
+        "url": "https://36kr.com/p/3889270647634694",
         "source": "36氪",
-        "time": "2026-07-10 01:04"
+        "time": "2026-07-10 05:13"
       },
       {
-        "title": "AI时代的第一批赢家，都答对了这个0.02%的真问题",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874104.html",
+        "title": "俄Sber发布开源GigaChat 3.5 Ultra，谈AI研发思考",
+        "url": "https://36kr.com/p/3889282134670209",
+        "source": "36氪",
+        "time": "2026-07-10 05:13"
+      },
+      {
+        "title": "「黄仁勋」最新专访：过去六个月，AI终于变得有用了",
+        "url": "https://36kr.com/p/3889294005926534",
+        "source": "36氪",
+        "time": "2026-07-10 05:13"
+      },
+      {
+        "title": "关于AI-Native组织的思考",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874136.html",
         "source": "虎嗅",
-        "time": "2026-07-10 01:04"
+        "time": "2026-07-10 05:13"
       }
     ],
     "byd": [],
@@ -37,73 +49,61 @@
     "fitness": [],
     "other": [
       {
-        "title": "生物医学研究迈入自动化？",
-        "url": "https://36kr.com/p/3889073788926470",
+        "title": "谁在打造欧洲最大的基础大语言模型",
+        "url": "https://36kr.com/p/3889282134670209",
         "source": "36氪",
-        "time": "2026-07-10 01:04"
+        "time": "2026-07-10 05:13"
       },
       {
-        "title": "航空工程师创业，产品单价2500万元，订单超17亿美元",
-        "url": "https://36kr.com/p/3889069549239046",
-        "source": "36氪",
-        "time": "2026-07-10 01:04"
-      },
-      {
-        "title": "中国的供应链、人才和市场优势，决定了低空经济赛道有诞生世界级公司的可能性。",
-        "url": "https://36kr.com/p/3889069549239046",
-        "source": "36氪",
-        "time": "2026-07-10 01:04"
-      },
-      {
-        "title": "10万美元一张证，亚洲最富城市买不起车",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874111.html",
+        "title": "Claude Code “高危“，谁先兑现订单？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874047.html",
         "source": "虎嗅",
-        "time": "2026-07-10 01:04"
+        "time": "2026-07-10 05:13"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "登上Science，华人科学家推出通用生物医学AI Agent，真实科研表现接近人类专家",
-      "url": "https://36kr.com/p/3889073788926470",
+      "title": "从 0 到高手10 大技巧，将 ChatGPT Work用到极致，普通人也能掌握",
+      "url": "https://36kr.com/p/3889270647634694",
       "source": "36氪",
-      "time": "2026-07-10 01:04"
+      "time": "2026-07-10 05:13"
     },
     {
-      "title": "生物医学研究迈入自动化？",
-      "url": "https://36kr.com/p/3889073788926470",
+      "title": "学会这10项技能，你就是AI大拿",
+      "url": "https://36kr.com/p/3889270647634694",
       "source": "36氪",
-      "time": "2026-07-10 01:04"
+      "time": "2026-07-10 05:13"
     },
     {
-      "title": "航空工程师创业，产品单价2500万元，订单超17亿美元",
-      "url": "https://36kr.com/p/3889069549239046",
+      "title": "谁在打造欧洲最大的基础大语言模型",
+      "url": "https://36kr.com/p/3889282134670209",
       "source": "36氪",
-      "time": "2026-07-10 01:04"
+      "time": "2026-07-10 05:13"
     },
     {
-      "title": "中国的供应链、人才和市场优势，决定了低空经济赛道有诞生世界级公司的可能性。",
-      "url": "https://36kr.com/p/3889069549239046",
+      "title": "俄Sber发布开源GigaChat 3.5 Ultra，谈AI研发思考",
+      "url": "https://36kr.com/p/3889282134670209",
       "source": "36氪",
-      "time": "2026-07-10 01:04"
+      "time": "2026-07-10 05:13"
     },
     {
-      "title": "GPT-5.6全量放送，Codex正式并入ChatGPT",
-      "url": "https://36kr.com/p/3889069642742403",
+      "title": "「黄仁勋」最新专访：过去六个月，AI终于变得有用了",
+      "url": "https://36kr.com/p/3889294005926534",
       "source": "36氪",
-      "time": "2026-07-10 01:04"
+      "time": "2026-07-10 05:13"
     },
     {
-      "title": "10万美元一张证，亚洲最富城市买不起车",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874111.html",
+      "title": "Claude Code “高危“，谁先兑现订单？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874047.html",
       "source": "虎嗅",
-      "time": "2026-07-10 01:04"
+      "time": "2026-07-10 05:13"
     },
     {
-      "title": "AI时代的第一批赢家，都答对了这个0.02%的真问题",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874104.html",
+      "title": "关于AI-Native组织的思考",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874136.html",
       "source": "虎嗅",
-      "time": "2026-07-10 01:04"
+      "time": "2026-07-10 05:13"
     }
   ]
 }
