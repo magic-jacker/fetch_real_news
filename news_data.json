@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T05:13:23.498650",
+  "timestamp": "2026-07-10T08:45:47.794909",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -14,34 +14,16 @@
     "industry": [],
     "tech": [
       {
-        "title": "从 0 到高手10 大技巧，将 ChatGPT Work用到极致，普通人也能掌握",
-        "url": "https://36kr.com/p/3889270647634694",
+        "title": "阿里成为 AI 公司的最后一公里",
+        "url": "https://36kr.com/p/3889369559202565",
         "source": "36氪",
-        "time": "2026-07-10 05:13"
+        "time": "2026-07-10 08:45"
       },
       {
-        "title": "学会这10项技能，你就是AI大拿",
-        "url": "https://36kr.com/p/3889270647634694",
+        "title": "【导读】Anthropic宣布诺贝尔经济学奖得主、前美联储主席伯南克加入长期利益信托（LTBT），成为第四位受托人。下一场「2008年环球金融危机」级风险，真的来自AI吗？",
+        "url": "https://36kr.com/p/3889511338506758",
         "source": "36氪",
-        "time": "2026-07-10 05:13"
-      },
-      {
-        "title": "俄Sber发布开源GigaChat 3.5 Ultra，谈AI研发思考",
-        "url": "https://36kr.com/p/3889282134670209",
-        "source": "36氪",
-        "time": "2026-07-10 05:13"
-      },
-      {
-        "title": "「黄仁勋」最新专访：过去六个月，AI终于变得有用了",
-        "url": "https://36kr.com/p/3889294005926534",
-        "source": "36氪",
-        "time": "2026-07-10 05:13"
-      },
-      {
-        "title": "关于AI-Native组织的思考",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874136.html",
-        "source": "虎嗅",
-        "time": "2026-07-10 05:13"
+        "time": "2026-07-10 08:45"
       }
     ],
     "byd": [],
@@ -49,61 +31,79 @@
     "fitness": [],
     "other": [
       {
-        "title": "谁在打造欧洲最大的基础大语言模型",
-        "url": "https://36kr.com/p/3889282134670209",
+        "title": "MiniMax解禁后股价走低，CEO称实现AGI前不再领取薪酬",
+        "url": "https://36kr.com/p/3889531573680902",
         "source": "36氪",
-        "time": "2026-07-10 05:13"
+        "time": "2026-07-10 08:45"
       },
       {
-        "title": "Claude Code “高危“，谁先兑现订单？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874047.html",
+        "title": "今日MiniMax创始人兼CEO闫俊杰发布了全员信。",
+        "url": "https://36kr.com/p/3889531573680902",
+        "source": "36氪",
+        "time": "2026-07-10 08:45"
+      },
+      {
+        "title": "诺奖得主、美联储前主席伯南克入局Anthropic",
+        "url": "https://36kr.com/p/3889511338506758",
+        "source": "36氪",
+        "time": "2026-07-10 08:45"
+      },
+      {
+        "title": "历史性一落，我国首次实现大型火箭一级回收",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874211.html",
         "source": "虎嗅",
-        "time": "2026-07-10 05:13"
+        "time": "2026-07-10 08:45"
+      },
+      {
+        "title": "免费早餐，坑了多少好酒店？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874113.html",
+        "source": "虎嗅",
+        "time": "2026-07-10 08:45"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "从 0 到高手10 大技巧，将 ChatGPT Work用到极致，普通人也能掌握",
-      "url": "https://36kr.com/p/3889270647634694",
+      "title": "MiniMax解禁后股价走低，CEO称实现AGI前不再领取薪酬",
+      "url": "https://36kr.com/p/3889531573680902",
       "source": "36氪",
-      "time": "2026-07-10 05:13"
+      "time": "2026-07-10 08:45"
     },
     {
-      "title": "学会这10项技能，你就是AI大拿",
-      "url": "https://36kr.com/p/3889270647634694",
+      "title": "今日MiniMax创始人兼CEO闫俊杰发布了全员信。",
+      "url": "https://36kr.com/p/3889531573680902",
       "source": "36氪",
-      "time": "2026-07-10 05:13"
+      "time": "2026-07-10 08:45"
     },
     {
-      "title": "谁在打造欧洲最大的基础大语言模型",
-      "url": "https://36kr.com/p/3889282134670209",
+      "title": "阿里成为 AI 公司的最后一公里",
+      "url": "https://36kr.com/p/3889369559202565",
       "source": "36氪",
-      "time": "2026-07-10 05:13"
+      "time": "2026-07-10 08:45"
     },
     {
-      "title": "俄Sber发布开源GigaChat 3.5 Ultra，谈AI研发思考",
-      "url": "https://36kr.com/p/3889282134670209",
+      "title": "诺奖得主、美联储前主席伯南克入局Anthropic",
+      "url": "https://36kr.com/p/3889511338506758",
       "source": "36氪",
-      "time": "2026-07-10 05:13"
+      "time": "2026-07-10 08:45"
     },
     {
-      "title": "「黄仁勋」最新专访：过去六个月，AI终于变得有用了",
-      "url": "https://36kr.com/p/3889294005926534",
+      "title": "【导读】Anthropic宣布诺贝尔经济学奖得主、前美联储主席伯南克加入长期利益信托（LTBT），成为第四位受托人。下一场「2008年环球金融危机」级风险，真的来自AI吗？",
+      "url": "https://36kr.com/p/3889511338506758",
       "source": "36氪",
-      "time": "2026-07-10 05:13"
+      "time": "2026-07-10 08:45"
     },
     {
-      "title": "Claude Code “高危“，谁先兑现订单？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874047.html",
+      "title": "历史性一落，我国首次实现大型火箭一级回收",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874211.html",
       "source": "虎嗅",
-      "time": "2026-07-10 05:13"
+      "time": "2026-07-10 08:45"
     },
     {
-      "title": "关于AI-Native组织的思考",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874136.html",
+      "title": "免费早餐，坑了多少好酒店？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874113.html",
       "source": "虎嗅",
-      "time": "2026-07-10 05:13"
+      "time": "2026-07-10 08:45"
     }
   ]
 }
