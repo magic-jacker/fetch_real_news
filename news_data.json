@@ -1,37 +1,23 @@
 {
-  "timestamp": "2026-07-11T07:02:28.523486",
-  "total": 6,
+  "timestamp": "2026-07-11T09:02:33.721842",
+  "total": 4,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 4,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
-      {
-        "title": "老铺黄金，终究没能获得奢侈品溢价",
-        "url": "https://36kr.com/p/3890671218178952",
-        "source": "36氪",
-        "time": "2026-07-11 07:02"
-      }
-    ],
-    "industry": [
-      {
-        "title": "功率半导体进入了新的结构性周期。",
-        "url": "https://36kr.com/p/3890682689337865",
-        "source": "36氪",
-        "time": "2026-07-11 07:02"
-      }
-    ],
+    "finance": [],
+    "industry": [],
     "tech": [
       {
-        "title": "为了“AI iPhone”，苹果正式起诉OpenAI",
-        "url": "https://36kr.com/p/3890808260197121",
+        "title": "仅11天，Claude重写百万行代码，AI史诗级工程却引来愤怒",
+        "url": "https://36kr.com/p/3890782425709062",
         "source": "36氪",
-        "time": "2026-07-11 07:02"
+        "time": "2026-07-11 09:02"
       }
     ],
     "byd": [],
@@ -39,61 +25,49 @@
     "fitness": [],
     "other": [
       {
-        "title": "很难脱离原材料成本定价",
-        "url": "https://36kr.com/p/3890671218178952",
+        "title": "Claude又有意识了？不，它没有",
+        "url": "https://36kr.com/p/3890956062063104",
         "source": "36氪",
-        "time": "2026-07-11 07:02"
+        "time": "2026-07-11 09:02"
       },
       {
-        "title": "洪水冲出的广西“隐秘”产业，还在渡劫",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874423.html",
-        "source": "虎嗅",
-        "time": "2026-07-11 07:02"
+        "title": "一个可解释性工具，一套意识叙事。",
+        "url": "https://36kr.com/p/3890956062063104",
+        "source": "36氪",
+        "time": "2026-07-11 09:02"
       },
       {
-        "title": "3.8亿修好的水库，为什么扛不住一场台风？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874444.html",
-        "source": "虎嗅",
-        "time": "2026-07-11 07:02"
+        "title": "美国零售集体承压，Target逆势上行？",
+        "url": "https://36kr.com/p/3890807498996224",
+        "source": "36氪",
+        "time": "2026-07-11 09:02"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "为了“AI iPhone”，苹果正式起诉OpenAI",
-      "url": "https://36kr.com/p/3890808260197121",
+      "title": "Claude又有意识了？不，它没有",
+      "url": "https://36kr.com/p/3890956062063104",
       "source": "36氪",
-      "time": "2026-07-11 07:02"
+      "time": "2026-07-11 09:02"
     },
     {
-      "title": "老铺黄金，终究没能获得奢侈品溢价",
-      "url": "https://36kr.com/p/3890671218178952",
+      "title": "一个可解释性工具，一套意识叙事。",
+      "url": "https://36kr.com/p/3890956062063104",
       "source": "36氪",
-      "time": "2026-07-11 07:02"
+      "time": "2026-07-11 09:02"
     },
     {
-      "title": "很难脱离原材料成本定价",
-      "url": "https://36kr.com/p/3890671218178952",
+      "title": "仅11天，Claude重写百万行代码，AI史诗级工程却引来愤怒",
+      "url": "https://36kr.com/p/3890782425709062",
       "source": "36氪",
-      "time": "2026-07-11 07:02"
+      "time": "2026-07-11 09:02"
     },
     {
-      "title": "功率半导体进入了新的结构性周期。",
-      "url": "https://36kr.com/p/3890682689337865",
+      "title": "美国零售集体承压，Target逆势上行？",
+      "url": "https://36kr.com/p/3890807498996224",
       "source": "36氪",
-      "time": "2026-07-11 07:02"
-    },
-    {
-      "title": "洪水冲出的广西“隐秘”产业，还在渡劫",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874423.html",
-      "source": "虎嗅",
-      "time": "2026-07-11 07:02"
-    },
-    {
-      "title": "3.8亿修好的水库，为什么扛不住一场台风？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874444.html",
-      "source": "虎嗅",
-      "time": "2026-07-11 07:02"
+      "time": "2026-07-11 09:02"
     }
   ]
 }
