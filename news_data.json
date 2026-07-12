@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-12T07:22:47.427404",
-  "total": 6,
+  "timestamp": "2026-07-12T09:22:30.820613",
+  "total": 4,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 5,
+    "36氪": 3,
     "钛媒体": 0,
     "虎嗅": 1,
     "华尔街见闻": 0
@@ -12,86 +12,61 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "AI批量造App，也在批量埋雷",
-        "url": "https://36kr.com/p/3892107686984581",
-        "source": "36氪",
-        "time": "2026-07-12 07:22"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
+        "title": "阿里急转向，快递大变局",
+        "url": "https://36kr.com/p/3892406243129985",
+        "source": "36氪",
+        "time": "2026-07-12 09:22"
+      },
+      {
         "title": "消失的150亿美元，有下文了",
         "url": "https://36kr.com/p/3892321158773251",
         "source": "36氪",
-        "time": "2026-07-12 07:22"
+        "time": "2026-07-12 09:22"
       },
       {
         "title": "这场秘密增持的故事断续延宕了二十余年。",
         "url": "https://36kr.com/p/3892321158773251",
         "source": "36氪",
-        "time": "2026-07-12 07:22"
+        "time": "2026-07-12 09:22"
       },
       {
-        "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-        "url": "https://36kr.com/p/3892222176574211",
-        "source": "36氪",
-        "time": "2026-07-12 07:22"
-      },
-      {
-        "title": "换更大的模型就等于更聪明？这可能是Claude Code用户最深的误会。",
-        "url": "https://36kr.com/p/3892222176574211",
-        "source": "36氪",
-        "time": "2026-07-12 07:22"
-      },
-      {
-        "title": "Token太烧钱，连“不差钱”的银行也扛不住了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874606.html",
+        "title": "洪水冲出的广西“隐秘”产业，还在渡劫",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874423.html",
         "source": "虎嗅",
-        "time": "2026-07-12 07:22"
+        "time": "2026-07-12 09:22"
       }
     ]
   },
   "raw_news": [
     {
+      "title": "阿里急转向，快递大变局",
+      "url": "https://36kr.com/p/3892406243129985",
+      "source": "36氪",
+      "time": "2026-07-12 09:22"
+    },
+    {
       "title": "消失的150亿美元，有下文了",
       "url": "https://36kr.com/p/3892321158773251",
       "source": "36氪",
-      "time": "2026-07-12 07:22"
+      "time": "2026-07-12 09:22"
     },
     {
       "title": "这场秘密增持的故事断续延宕了二十余年。",
       "url": "https://36kr.com/p/3892321158773251",
       "source": "36氪",
-      "time": "2026-07-12 07:22"
+      "time": "2026-07-12 09:22"
     },
     {
-      "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-      "url": "https://36kr.com/p/3892222176574211",
-      "source": "36氪",
-      "time": "2026-07-12 07:22"
-    },
-    {
-      "title": "换更大的模型就等于更聪明？这可能是Claude Code用户最深的误会。",
-      "url": "https://36kr.com/p/3892222176574211",
-      "source": "36氪",
-      "time": "2026-07-12 07:22"
-    },
-    {
-      "title": "AI批量造App，也在批量埋雷",
-      "url": "https://36kr.com/p/3892107686984581",
-      "source": "36氪",
-      "time": "2026-07-12 07:22"
-    },
-    {
-      "title": "Token太烧钱，连“不差钱”的银行也扛不住了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874606.html",
+      "title": "洪水冲出的广西“隐秘”产业，还在渡劫",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874423.html",
       "source": "虎嗅",
-      "time": "2026-07-12 07:22"
+      "time": "2026-07-12 09:22"
     }
   ]
 }
