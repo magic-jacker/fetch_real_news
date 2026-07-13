@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T07:59:09.105284",
+  "timestamp": "2026-07-13T10:57:28.513448",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -10,100 +10,100 @@
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
+    "finance": [],
+    "industry": [],
+    "tech": [
       {
-        "title": "那个曾经靠低价、靠规模、靠贴牌就能赚钱的化妆品代工黄金时代，已经一去不复返了。",
-        "url": "https://36kr.com/p/3893741279984129",
+        "title": "高校AI产业化，不止一条路径",
+        "url": "https://36kr.com/p/3893896980036100",
         "source": "36氪",
-        "time": "2026-07-13 07:58"
+        "time": "2026-07-13 10:57"
+      },
+      {
+        "title": "苹果开始忌惮OpenAI",
+        "url": "https://36kr.com/p/3893901054327687",
+        "source": "36氪",
+        "time": "2026-07-13 10:57"
+      },
+      {
+        "title": "起诉OpenAI，苹果第一次害怕了。",
+        "url": "https://36kr.com/p/3893901054327687",
+        "source": "36氪",
+        "time": "2026-07-13 10:57"
       }
     ],
-    "industry": [],
-    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "1元卖股权，知名化妆品工厂陷“绝境”",
-        "url": "https://36kr.com/p/3893741279984129",
+        "title": "脑机接口，一个关乎人类未来的产业",
+        "url": "https://36kr.com/p/3893882461600258",
         "source": "36氪",
-        "time": "2026-07-13 07:58"
+        "time": "2026-07-13 10:57"
       },
       {
-        "title": "在演义的光影之外，读懂三国的历史纵深",
-        "url": "https://36kr.com/p/3893775444113927",
+        "title": "互联网巨头，开始要“进入”人的大脑了",
+        "url": "https://36kr.com/p/3893882461600258",
         "source": "36氪",
-        "time": "2026-07-13 07:58"
+        "time": "2026-07-13 10:57"
       },
       {
-        "title": "《三国的真相》跳出标签，还原真实三国时代与人物",
-        "url": "https://36kr.com/p/3893775444113927",
-        "source": "36氪",
-        "time": "2026-07-13 07:58"
-      },
-      {
-        "title": "核聚变，跑出百亿估值民企",
-        "url": "https://36kr.com/p/3893739840305922",
-        "source": "36氪",
-        "time": "2026-07-13 07:58"
-      },
-      {
-        "title": "史无前例，中国城市集体“啃”老",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874627.html",
+        "title": "万亿保险中介赛道，如履薄冰",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874751.html",
         "source": "虎嗅",
-        "time": "2026-07-13 07:59"
+        "time": "2026-07-13 10:57"
       },
       {
-        "title": "警惕算力泡沫：万亿投资，七成空转",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874555.html",
+        "title": "世界杯出局第15天，韩国国运股崩了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874821.html",
         "source": "虎嗅",
-        "time": "2026-07-13 07:59"
+        "time": "2026-07-13 10:57"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "1元卖股权，知名化妆品工厂陷“绝境”",
-      "url": "https://36kr.com/p/3893741279984129",
+      "title": "脑机接口，一个关乎人类未来的产业",
+      "url": "https://36kr.com/p/3893882461600258",
       "source": "36氪",
-      "time": "2026-07-13 07:58"
+      "time": "2026-07-13 10:57"
     },
     {
-      "title": "那个曾经靠低价、靠规模、靠贴牌就能赚钱的化妆品代工黄金时代，已经一去不复返了。",
-      "url": "https://36kr.com/p/3893741279984129",
+      "title": "互联网巨头，开始要“进入”人的大脑了",
+      "url": "https://36kr.com/p/3893882461600258",
       "source": "36氪",
-      "time": "2026-07-13 07:58"
+      "time": "2026-07-13 10:57"
     },
     {
-      "title": "在演义的光影之外，读懂三国的历史纵深",
-      "url": "https://36kr.com/p/3893775444113927",
+      "title": "高校AI产业化，不止一条路径",
+      "url": "https://36kr.com/p/3893896980036100",
       "source": "36氪",
-      "time": "2026-07-13 07:58"
+      "time": "2026-07-13 10:57"
     },
     {
-      "title": "《三国的真相》跳出标签，还原真实三国时代与人物",
-      "url": "https://36kr.com/p/3893775444113927",
+      "title": "苹果开始忌惮OpenAI",
+      "url": "https://36kr.com/p/3893901054327687",
       "source": "36氪",
-      "time": "2026-07-13 07:58"
+      "time": "2026-07-13 10:57"
     },
     {
-      "title": "核聚变，跑出百亿估值民企",
-      "url": "https://36kr.com/p/3893739840305922",
+      "title": "起诉OpenAI，苹果第一次害怕了。",
+      "url": "https://36kr.com/p/3893901054327687",
       "source": "36氪",
-      "time": "2026-07-13 07:58"
+      "time": "2026-07-13 10:57"
     },
     {
-      "title": "史无前例，中国城市集体“啃”老",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874627.html",
+      "title": "万亿保险中介赛道，如履薄冰",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874751.html",
       "source": "虎嗅",
-      "time": "2026-07-13 07:59"
+      "time": "2026-07-13 10:57"
     },
     {
-      "title": "警惕算力泡沫：万亿投资，七成空转",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874555.html",
+      "title": "世界杯出局第15天，韩国国运股崩了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874821.html",
       "source": "虎嗅",
-      "time": "2026-07-13 07:59"
+      "time": "2026-07-13 10:57"
     }
   ]
 }
