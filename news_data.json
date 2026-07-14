@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T23:39:15.261146",
+  "timestamp": "2026-07-14T01:08:42.267019",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -11,98 +11,100 @@
   },
   "categories": {
     "finance": [],
-    "industry": [],
-    "tech": [],
+    "industry": [
+      {
+        "title": "阶跃星辰的算盘不在手机上",
+        "url": "https://36kr.com/p/3894108404415745",
+        "source": "36氪",
+        "time": "2026-07-14 01:08"
+      }
+    ],
+    "tech": [
+      {
+        "title": "AI算力：从盛宴到“剩宴”？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874961.html",
+        "source": "虎嗅",
+        "time": "2026-07-14 01:08"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "豆包开始收费了，字节到底有没有商业化的压力",
-        "url": "https://36kr.com/p/3894019113810944",
+        "title": "宠物家居的边界正在消失：从\"宠物用品\"到\"人宠共居方案\"",
+        "url": "https://36kr.com/p/3894732638895106",
         "source": "36氪",
-        "time": "2026-07-13 23:38"
+        "time": "2026-07-14 01:08"
       },
       {
-        "title": "是战略性变现还是被迫止血？",
-        "url": "https://36kr.com/p/3894019113810944",
+        "title": "宠物家居已经从可选消费品变成品质养宠的刚需。",
+        "url": "https://36kr.com/p/3894732638895106",
         "source": "36氪",
-        "time": "2026-07-13 23:38"
+        "time": "2026-07-14 01:08"
       },
       {
-        "title": "充电模块全行业涨价，低价充电时代终结？",
-        "url": "https://36kr.com/p/3893963246238215",
+        "title": "瑞幸“百亿活菌吸管”刷屏，网友狂晒图：喝一口歇三秒",
+        "url": "https://36kr.com/p/3894754758081536",
         "source": "36氪",
-        "time": "2026-07-13 23:38"
+        "time": "2026-07-14 01:08"
       },
       {
-        "title": "这场源自电动汽车充电行业上游供应商的涨价涟漪，将沿着怎样的链条传导？谁会是最终的承受者？",
-        "url": "https://36kr.com/p/3893963246238215",
+        "title": "它在给一份带不走的资产找住处",
+        "url": "https://36kr.com/p/3894108404415745",
         "source": "36氪",
-        "time": "2026-07-13 23:38"
+        "time": "2026-07-14 01:08"
       },
       {
-        "title": "视频播客的“3亿时代”，抖红B谁能先创造",
-        "url": "https://36kr.com/p/3894009698041088",
-        "source": "36氪",
-        "time": "2026-07-13 23:38"
-      },
-      {
-        "title": "韩国，又一次站在了可以跳下去的高处",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874912.html",
+        "title": "当我们谈论品味的时候，到底在谈论什么？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874983.html",
         "source": "虎嗅",
-        "time": "2026-07-13 23:39"
-      },
-      {
-        "title": "史无前例，中国城市集体“啃”老",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874627.html",
-        "source": "虎嗅",
-        "time": "2026-07-13 23:39"
+        "time": "2026-07-14 01:08"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "豆包开始收费了，字节到底有没有商业化的压力",
-      "url": "https://36kr.com/p/3894019113810944",
+      "title": "宠物家居的边界正在消失：从\"宠物用品\"到\"人宠共居方案\"",
+      "url": "https://36kr.com/p/3894732638895106",
       "source": "36氪",
-      "time": "2026-07-13 23:38"
+      "time": "2026-07-14 01:08"
     },
     {
-      "title": "是战略性变现还是被迫止血？",
-      "url": "https://36kr.com/p/3894019113810944",
+      "title": "宠物家居已经从可选消费品变成品质养宠的刚需。",
+      "url": "https://36kr.com/p/3894732638895106",
       "source": "36氪",
-      "time": "2026-07-13 23:38"
+      "time": "2026-07-14 01:08"
     },
     {
-      "title": "充电模块全行业涨价，低价充电时代终结？",
-      "url": "https://36kr.com/p/3893963246238215",
+      "title": "瑞幸“百亿活菌吸管”刷屏，网友狂晒图：喝一口歇三秒",
+      "url": "https://36kr.com/p/3894754758081536",
       "source": "36氪",
-      "time": "2026-07-13 23:38"
+      "time": "2026-07-14 01:08"
     },
     {
-      "title": "这场源自电动汽车充电行业上游供应商的涨价涟漪，将沿着怎样的链条传导？谁会是最终的承受者？",
-      "url": "https://36kr.com/p/3893963246238215",
+      "title": "阶跃星辰的算盘不在手机上",
+      "url": "https://36kr.com/p/3894108404415745",
       "source": "36氪",
-      "time": "2026-07-13 23:38"
+      "time": "2026-07-14 01:08"
     },
     {
-      "title": "视频播客的“3亿时代”，抖红B谁能先创造",
-      "url": "https://36kr.com/p/3894009698041088",
+      "title": "它在给一份带不走的资产找住处",
+      "url": "https://36kr.com/p/3894108404415745",
       "source": "36氪",
-      "time": "2026-07-13 23:38"
+      "time": "2026-07-14 01:08"
     },
     {
-      "title": "韩国，又一次站在了可以跳下去的高处",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874912.html",
+      "title": "当我们谈论品味的时候，到底在谈论什么？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874983.html",
       "source": "虎嗅",
-      "time": "2026-07-13 23:39"
+      "time": "2026-07-14 01:08"
     },
     {
-      "title": "史无前例，中国城市集体“啃”老",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874627.html",
+      "title": "AI算力：从盛宴到“剩宴”？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4874961.html",
       "source": "虎嗅",
-      "time": "2026-07-13 23:39"
+      "time": "2026-07-14 01:08"
     }
   ]
 }
