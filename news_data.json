@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T10:39:30.093191",
+  "timestamp": "2026-07-15T12:07:45.130336",
   "total": 6,
   "sources": {
     "财联社电报": 0,
@@ -12,32 +12,19 @@
   "categories": {
     "finance": [
       {
-        "title": "曝DeepSeek启动IPO，估值涨到4800亿",
-        "url": "https://36kr.com/p/3896713817736840",
-        "source": "36氪",
-        "time": "2026-07-15 10:39"
-      },
-      {
         "title": "这才是A股接下来的真剧本",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875412.html",
         "source": "虎嗅",
-        "time": "2026-07-15 10:39"
+        "time": "2026-07-15 12:07"
       }
     ],
-    "industry": [
-      {
-        "title": "大模型降价之后，HPC路线怎么打Token成本战？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875457.html",
-        "source": "虎嗅",
-        "time": "2026-07-15 10:39"
-      }
-    ],
+    "industry": [],
     "tech": [
       {
-        "title": "下一代AI原生UGC平台，藏在《蛋仔派对》里",
-        "url": "https://36kr.com/p/3896755010963333",
+        "title": "等了两年，国行苹果AI终于通过备案，接入千问",
+        "url": "https://36kr.com/p/3896830991320962",
         "source": "36氪",
-        "time": "2026-07-15 10:39"
+        "time": "2026-07-15 12:07"
       }
     ],
     "byd": [],
@@ -45,55 +32,67 @@
     "fitness": [],
     "other": [
       {
-        "title": "造车这层窗户纸，字节不会捅",
-        "url": "https://36kr.com/p/3896687363769992",
+        "title": "距离 Apple 智能发布，已经不知不觉过去两年了。",
+        "url": "https://36kr.com/p/3896830991320962",
         "source": "36氪",
-        "time": "2026-07-15 10:39"
+        "time": "2026-07-15 12:07"
       },
       {
-        "title": "字节做自动驾驶了，但张一鸣真正想要的不是车",
-        "url": "https://36kr.com/p/3896687363769992",
+        "title": "华夏幸福重整“卡壳”：226亿“置换带”兜底责任成关键",
+        "url": "https://36kr.com/p/3896733906142851",
         "source": "36氪",
-        "time": "2026-07-15 10:39"
+        "time": "2026-07-15 12:07"
+      },
+      {
+        "title": "华夏幸福重整投资协议至今未签。",
+        "url": "https://36kr.com/p/3896733906142851",
+        "source": "36氪",
+        "time": "2026-07-15 12:07"
+      },
+      {
+        "title": "为啥气候问题都这么严重了，还不着急呢？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875501.html",
+        "source": "虎嗅",
+        "time": "2026-07-15 12:07"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "曝DeepSeek启动IPO，估值涨到4800亿",
-      "url": "https://36kr.com/p/3896713817736840",
+      "title": "等了两年，国行苹果AI终于通过备案，接入千问",
+      "url": "https://36kr.com/p/3896830991320962",
       "source": "36氪",
-      "time": "2026-07-15 10:39"
+      "time": "2026-07-15 12:07"
     },
     {
-      "title": "下一代AI原生UGC平台，藏在《蛋仔派对》里",
-      "url": "https://36kr.com/p/3896755010963333",
+      "title": "距离 Apple 智能发布，已经不知不觉过去两年了。",
+      "url": "https://36kr.com/p/3896830991320962",
       "source": "36氪",
-      "time": "2026-07-15 10:39"
+      "time": "2026-07-15 12:07"
     },
     {
-      "title": "造车这层窗户纸，字节不会捅",
-      "url": "https://36kr.com/p/3896687363769992",
+      "title": "华夏幸福重整“卡壳”：226亿“置换带”兜底责任成关键",
+      "url": "https://36kr.com/p/3896733906142851",
       "source": "36氪",
-      "time": "2026-07-15 10:39"
+      "time": "2026-07-15 12:07"
     },
     {
-      "title": "字节做自动驾驶了，但张一鸣真正想要的不是车",
-      "url": "https://36kr.com/p/3896687363769992",
+      "title": "华夏幸福重整投资协议至今未签。",
+      "url": "https://36kr.com/p/3896733906142851",
       "source": "36氪",
-      "time": "2026-07-15 10:39"
+      "time": "2026-07-15 12:07"
+    },
+    {
+      "title": "为啥气候问题都这么严重了，还不着急呢？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875501.html",
+      "source": "虎嗅",
+      "time": "2026-07-15 12:07"
     },
     {
       "title": "这才是A股接下来的真剧本",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875412.html",
       "source": "虎嗅",
-      "time": "2026-07-15 10:39"
-    },
-    {
-      "title": "大模型降价之后，HPC路线怎么打Token成本战？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875457.html",
-      "source": "虎嗅",
-      "time": "2026-07-15 10:39"
+      "time": "2026-07-15 12:07"
     }
   ]
 }
