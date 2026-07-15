@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T00:10:27.041294",
+  "timestamp": "2026-07-15T03:41:31.951766",
   "total": 6,
   "sources": {
     "财联社电报": 0,
@@ -11,26 +11,25 @@
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "投资16.7亿，赚了250亿，他押中1500亿芯片巨头",
-        "url": "https://36kr.com/p/3895408756017031",
-        "source": "36氪",
-        "time": "2026-07-15 00:10"
-      }
-    ],
+    "industry": [],
     "tech": [
       {
-        "title": "自动驾驶是通往物理AI时代的捷径？",
-        "url": "https://36kr.com/p/3895465625961861",
+        "title": "Scaling Law一招鲜？首个晶体结构操作基准，顶级大模型集体翻车",
+        "url": "https://36kr.com/p/3896324152526725",
         "source": "36氪",
-        "time": "2026-07-15 00:10"
+        "time": "2026-07-15 03:41"
       },
       {
-        "title": "Agent评测，正在成为AI产品的新分水岭",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875309.html",
-        "source": "虎嗅",
-        "time": "2026-07-15 00:10"
+        "title": "Scaling Law遇原子操作瓶颈，AI for Science需转向Action Scaling",
+        "url": "https://36kr.com/p/3896324152526725",
+        "source": "36氪",
+        "time": "2026-07-15 03:41"
+      },
+      {
+        "title": "DeepSeek再启融资，710亿美元估值背后，AI竞争已经变了",
+        "url": "https://36kr.com/p/3895568122447237",
+        "source": "36氪",
+        "time": "2026-07-15 03:41"
       }
     ],
     "byd": [],
@@ -38,61 +37,61 @@
     "fitness": [],
     "other": [
       {
-        "title": "光明、君乐宝、飞鹤、新希望：谁在领跑，谁在空耗？",
-        "url": "https://36kr.com/p/3895444425246593",
+        "title": "一个月，两轮融资，DeepSeek为什么这么着急？",
+        "url": "https://36kr.com/p/3895568122447237",
         "source": "36氪",
-        "time": "2026-07-15 00:10"
+        "time": "2026-07-15 03:41"
       },
       {
-        "title": "一场乳业第二梯队四强之间的对决越发激烈",
-        "url": "https://36kr.com/p/3895444425246593",
+        "title": "雅诗兰黛放弃出售三大品牌，内部调改推进百亿重组。",
+        "url": "https://36kr.com/p/3896329703262082",
         "source": "36氪",
-        "time": "2026-07-15 00:10"
+        "time": "2026-07-15 03:41"
       },
       {
-        "title": "前阿里大牛领衔，字节自研智驾浮出水面，「华大地魔」迎来最强对手",
-        "url": "https://36kr.com/p/3895465625961861",
-        "source": "36氪",
-        "time": "2026-07-15 00:10"
+        "title": "年入120亿的软件巨头，为何要从员工公积金里省钱？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875319.html",
+        "source": "虎嗅",
+        "time": "2026-07-15 03:41"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "光明、君乐宝、飞鹤、新希望：谁在领跑，谁在空耗？",
-      "url": "https://36kr.com/p/3895444425246593",
+      "title": "Scaling Law一招鲜？首个晶体结构操作基准，顶级大模型集体翻车",
+      "url": "https://36kr.com/p/3896324152526725",
       "source": "36氪",
-      "time": "2026-07-15 00:10"
+      "time": "2026-07-15 03:41"
     },
     {
-      "title": "一场乳业第二梯队四强之间的对决越发激烈",
-      "url": "https://36kr.com/p/3895444425246593",
+      "title": "Scaling Law遇原子操作瓶颈，AI for Science需转向Action Scaling",
+      "url": "https://36kr.com/p/3896324152526725",
       "source": "36氪",
-      "time": "2026-07-15 00:10"
+      "time": "2026-07-15 03:41"
     },
     {
-      "title": "投资16.7亿，赚了250亿，他押中1500亿芯片巨头",
-      "url": "https://36kr.com/p/3895408756017031",
+      "title": "DeepSeek再启融资，710亿美元估值背后，AI竞争已经变了",
+      "url": "https://36kr.com/p/3895568122447237",
       "source": "36氪",
-      "time": "2026-07-15 00:10"
+      "time": "2026-07-15 03:41"
     },
     {
-      "title": "前阿里大牛领衔，字节自研智驾浮出水面，「华大地魔」迎来最强对手",
-      "url": "https://36kr.com/p/3895465625961861",
+      "title": "一个月，两轮融资，DeepSeek为什么这么着急？",
+      "url": "https://36kr.com/p/3895568122447237",
       "source": "36氪",
-      "time": "2026-07-15 00:10"
+      "time": "2026-07-15 03:41"
     },
     {
-      "title": "自动驾驶是通往物理AI时代的捷径？",
-      "url": "https://36kr.com/p/3895465625961861",
+      "title": "雅诗兰黛放弃出售三大品牌，内部调改推进百亿重组。",
+      "url": "https://36kr.com/p/3896329703262082",
       "source": "36氪",
-      "time": "2026-07-15 00:10"
+      "time": "2026-07-15 03:41"
     },
     {
-      "title": "Agent评测，正在成为AI产品的新分水岭",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875309.html",
+      "title": "年入120亿的软件巨头，为何要从员工公积金里省钱？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875319.html",
       "source": "虎嗅",
-      "time": "2026-07-15 00:10"
+      "time": "2026-07-15 03:41"
     }
   ]
 }
