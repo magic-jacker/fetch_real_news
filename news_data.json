@@ -1,97 +1,84 @@
 {
-  "timestamp": "2026-07-15T03:41:31.951766",
-  "total": 6,
+  "timestamp": "2026-07-15T06:03:49.065970",
+  "total": 5,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 5,
+    "36氪": 3,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "Scaling Law一招鲜？首个晶体结构操作基准，顶级大模型集体翻车",
-        "url": "https://36kr.com/p/3896324152526725",
-        "source": "36氪",
-        "time": "2026-07-15 03:41"
-      },
-      {
-        "title": "Scaling Law遇原子操作瓶颈，AI for Science需转向Action Scaling",
-        "url": "https://36kr.com/p/3896324152526725",
-        "source": "36氪",
-        "time": "2026-07-15 03:41"
-      },
-      {
-        "title": "DeepSeek再启融资，710亿美元估值背后，AI竞争已经变了",
-        "url": "https://36kr.com/p/3895568122447237",
-        "source": "36氪",
-        "time": "2026-07-15 03:41"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "一个月，两轮融资，DeepSeek为什么这么着急？",
-        "url": "https://36kr.com/p/3895568122447237",
+        "title": "U系列谢幕之后，谁来定义优衣库的基本款？",
+        "url": "https://36kr.com/p/3885699885445122",
         "source": "36氪",
-        "time": "2026-07-15 03:41"
+        "time": "2026-07-15 06:03"
       },
       {
-        "title": "雅诗兰黛放弃出售三大品牌，内部调改推进百亿重组。",
-        "url": "https://36kr.com/p/3896329703262082",
+        "title": "一场价值10亿美元的渠道重构。",
+        "url": "https://36kr.com/p/3876646017216516",
         "source": "36氪",
-        "time": "2026-07-15 03:41"
+        "time": "2026-07-15 06:03"
+      },
+      {
+        "title": "安踏品牌CEO徐阳离职，激进的零售实验结束了｜独家",
+        "url": "https://36kr.com/p/3889213745543687",
+        "source": "36氪",
+        "time": "2026-07-15 06:03"
+      },
+      {
+        "title": "理想幻灭后，年轻人如何生活？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875130.html",
+        "source": "虎嗅",
+        "time": "2026-07-15 06:03"
       },
       {
         "title": "年入120亿的软件巨头，为何要从员工公积金里省钱？",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875319.html",
         "source": "虎嗅",
-        "time": "2026-07-15 03:41"
+        "time": "2026-07-15 06:03"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "Scaling Law一招鲜？首个晶体结构操作基准，顶级大模型集体翻车",
-      "url": "https://36kr.com/p/3896324152526725",
+      "title": "U系列谢幕之后，谁来定义优衣库的基本款？",
+      "url": "https://36kr.com/p/3885699885445122",
       "source": "36氪",
-      "time": "2026-07-15 03:41"
+      "time": "2026-07-15 06:03"
     },
     {
-      "title": "Scaling Law遇原子操作瓶颈，AI for Science需转向Action Scaling",
-      "url": "https://36kr.com/p/3896324152526725",
+      "title": "一场价值10亿美元的渠道重构。",
+      "url": "https://36kr.com/p/3876646017216516",
       "source": "36氪",
-      "time": "2026-07-15 03:41"
+      "time": "2026-07-15 06:03"
     },
     {
-      "title": "DeepSeek再启融资，710亿美元估值背后，AI竞争已经变了",
-      "url": "https://36kr.com/p/3895568122447237",
+      "title": "安踏品牌CEO徐阳离职，激进的零售实验结束了｜独家",
+      "url": "https://36kr.com/p/3889213745543687",
       "source": "36氪",
-      "time": "2026-07-15 03:41"
+      "time": "2026-07-15 06:03"
     },
     {
-      "title": "一个月，两轮融资，DeepSeek为什么这么着急？",
-      "url": "https://36kr.com/p/3895568122447237",
-      "source": "36氪",
-      "time": "2026-07-15 03:41"
-    },
-    {
-      "title": "雅诗兰黛放弃出售三大品牌，内部调改推进百亿重组。",
-      "url": "https://36kr.com/p/3896329703262082",
-      "source": "36氪",
-      "time": "2026-07-15 03:41"
+      "title": "理想幻灭后，年轻人如何生活？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875130.html",
+      "source": "虎嗅",
+      "time": "2026-07-15 06:03"
     },
     {
       "title": "年入120亿的软件巨头，为何要从员工公积金里省钱？",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875319.html",
       "source": "虎嗅",
-      "time": "2026-07-15 03:41"
+      "time": "2026-07-15 06:03"
     }
   ]
 }
