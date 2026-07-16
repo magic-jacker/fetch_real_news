@@ -1,109 +1,109 @@
 {
-  "timestamp": "2026-07-16T09:06:13.217825",
+  "timestamp": "2026-07-16T11:14:27.091201",
   "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
-      {
-        "title": "年入8亿，潮汕85后卖芯片，干到全球第二，港股IPO",
-        "url": "https://36kr.com/p/3897824795756425",
-        "source": "36氪",
-        "time": "2026-07-16 09:06"
-      }
-    ],
+    "finance": [],
     "industry": [],
     "tech": [],
-    "byd": [],
+    "byd": [
+      {
+        "title": "2026汽车期中考：小鹏领跌新势力，比亚迪国内销量暴降40%",
+        "url": "https://36kr.com/p/3898184901314185",
+        "source": "36氪",
+        "time": "2026-07-16 11:14"
+      }
+    ],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "每天增长100万用户，Codex总算扬眉吐气了",
-        "url": "https://36kr.com/p/3897875085149572",
+        "title": "韩国监管重拳出击，整治杠杆ETF乱象",
+        "url": "https://36kr.com/p/3898178411677314",
         "source": "36氪",
-        "time": "2026-07-16 09:06"
+        "time": "2026-07-16 11:14"
       },
       {
-        "title": "额度重置的按钮都快被按爆了。",
-        "url": "https://36kr.com/p/3897875085149572",
+        "title": "杠杆ETFs的巨大风险",
+        "url": "https://36kr.com/p/3898178411677314",
         "source": "36氪",
-        "time": "2026-07-16 09:06"
+        "time": "2026-07-16 11:14"
       },
       {
-        "title": "中国车企的中场战事，集体出海要增长？",
-        "url": "https://36kr.com/p/3897812648641666",
+        "title": "新车批量上市遭遇市场整体下滑。",
+        "url": "https://36kr.com/p/3898184901314185",
         "source": "36氪",
-        "time": "2026-07-16 09:06"
+        "time": "2026-07-16 11:14"
       },
       {
-        "title": "有人齐头并进，有人顾此失彼",
-        "url": "https://36kr.com/p/3897812648641666",
+        "title": "找不到真人客服，用户反手“蹭”平台Token",
+        "url": "https://36kr.com/p/3898184791148162",
         "source": "36氪",
-        "time": "2026-07-16 09:06"
+        "time": "2026-07-16 11:14"
       },
       {
-        "title": "60万亿打底！史诗级大蛋糕，来了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875772.html",
+        "title": "蒋方舟：成于时代焦虑、败于时代焦虑",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875751.html",
         "source": "虎嗅",
-        "time": "2026-07-16 09:06"
+        "time": "2026-07-16 11:14"
       },
       {
-        "title": "贾浅浅研究贾平凹都靠抄袭，副教授和硕士学位没了，博士学位依然神秘",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875655.html",
+        "title": "梁文锋重仓打新，万亿长鑫被抢疯了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875821.html",
         "source": "虎嗅",
-        "time": "2026-07-16 09:06"
+        "time": "2026-07-16 11:14"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "每天增长100万用户，Codex总算扬眉吐气了",
-      "url": "https://36kr.com/p/3897875085149572",
+      "title": "韩国监管重拳出击，整治杠杆ETF乱象",
+      "url": "https://36kr.com/p/3898178411677314",
       "source": "36氪",
-      "time": "2026-07-16 09:06"
+      "time": "2026-07-16 11:14"
     },
     {
-      "title": "额度重置的按钮都快被按爆了。",
-      "url": "https://36kr.com/p/3897875085149572",
+      "title": "杠杆ETFs的巨大风险",
+      "url": "https://36kr.com/p/3898178411677314",
       "source": "36氪",
-      "time": "2026-07-16 09:06"
+      "time": "2026-07-16 11:14"
     },
     {
-      "title": "中国车企的中场战事，集体出海要增长？",
-      "url": "https://36kr.com/p/3897812648641666",
+      "title": "2026汽车期中考：小鹏领跌新势力，比亚迪国内销量暴降40%",
+      "url": "https://36kr.com/p/3898184901314185",
       "source": "36氪",
-      "time": "2026-07-16 09:06"
+      "time": "2026-07-16 11:14"
     },
     {
-      "title": "有人齐头并进，有人顾此失彼",
-      "url": "https://36kr.com/p/3897812648641666",
+      "title": "新车批量上市遭遇市场整体下滑。",
+      "url": "https://36kr.com/p/3898184901314185",
       "source": "36氪",
-      "time": "2026-07-16 09:06"
+      "time": "2026-07-16 11:14"
     },
     {
-      "title": "年入8亿，潮汕85后卖芯片，干到全球第二，港股IPO",
-      "url": "https://36kr.com/p/3897824795756425",
+      "title": "找不到真人客服，用户反手“蹭”平台Token",
+      "url": "https://36kr.com/p/3898184791148162",
       "source": "36氪",
-      "time": "2026-07-16 09:06"
+      "time": "2026-07-16 11:14"
     },
     {
-      "title": "60万亿打底！史诗级大蛋糕，来了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875772.html",
+      "title": "蒋方舟：成于时代焦虑、败于时代焦虑",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875751.html",
       "source": "虎嗅",
-      "time": "2026-07-16 09:06"
+      "time": "2026-07-16 11:14"
     },
     {
-      "title": "贾浅浅研究贾平凹都靠抄袭，副教授和硕士学位没了，博士学位依然神秘",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875655.html",
+      "title": "梁文锋重仓打新，万亿长鑫被抢疯了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875821.html",
       "source": "虎嗅",
-      "time": "2026-07-16 09:06"
+      "time": "2026-07-16 11:14"
     }
   ]
 }
