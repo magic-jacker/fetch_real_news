@@ -1,109 +1,99 @@
 {
-  "timestamp": "2026-07-16T11:14:27.091201",
-  "total": 7,
+  "timestamp": "2026-07-16T12:56:43.642467",
+  "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
-    "industry": [],
-    "tech": [],
-    "byd": [
+    "finance": [
       {
-        "title": "2026汽车期中考：小鹏领跌新势力，比亚迪国内销量暴降40%",
-        "url": "https://36kr.com/p/3898184901314185",
+        "title": "DeepSeek最快年内启动IPO，背后是“算力饥渴”？",
+        "url": "https://36kr.com/p/3898240606537092",
         "source": "36氪",
-        "time": "2026-07-16 11:14"
+        "time": "2026-07-16 12:56"
       }
     ],
+    "industry": [
+      {
+        "title": "存储涨价引发手机销量暴跌，华为和iPhone却逆势卖爆了",
+        "url": "https://36kr.com/p/3898256515777921",
+        "source": "36氪",
+        "time": "2026-07-16 12:56"
+      }
+    ],
+    "tech": [
+      {
+        "title": "大模型赛道开启融资加速竞赛",
+        "url": "https://36kr.com/p/3898240606537092",
+        "source": "36氪",
+        "time": "2026-07-16 12:56"
+      }
+    ],
+    "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "韩国监管重拳出击，整治杠杆ETF乱象",
-        "url": "https://36kr.com/p/3898178411677314",
+        "title": "饮料“一元乐享”火了，小卖店却“乐”不起来",
+        "url": "https://36kr.com/p/3898252850448003",
         "source": "36氪",
-        "time": "2026-07-16 11:14"
+        "time": "2026-07-16 12:56"
       },
       {
-        "title": "杠杆ETFs的巨大风险",
-        "url": "https://36kr.com/p/3898178411677314",
+        "title": "不涨价背后是强大的供应链控制力。",
+        "url": "https://36kr.com/p/3898256515777921",
         "source": "36氪",
-        "time": "2026-07-16 11:14"
+        "time": "2026-07-16 12:56"
       },
       {
-        "title": "新车批量上市遭遇市场整体下滑。",
-        "url": "https://36kr.com/p/3898184901314185",
-        "source": "36氪",
-        "time": "2026-07-16 11:14"
-      },
-      {
-        "title": "找不到真人客服，用户反手“蹭”平台Token",
-        "url": "https://36kr.com/p/3898184791148162",
-        "source": "36氪",
-        "time": "2026-07-16 11:14"
-      },
-      {
-        "title": "蒋方舟：成于时代焦虑、败于时代焦虑",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875751.html",
+        "title": "37次临停，8次熔断，韩股到底有多魔幻",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875895.html",
         "source": "虎嗅",
-        "time": "2026-07-16 11:14"
-      },
-      {
-        "title": "梁文锋重仓打新，万亿长鑫被抢疯了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875821.html",
-        "source": "虎嗅",
-        "time": "2026-07-16 11:14"
+        "time": "2026-07-16 12:56"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "韩国监管重拳出击，整治杠杆ETF乱象",
-      "url": "https://36kr.com/p/3898178411677314",
+      "title": "饮料“一元乐享”火了，小卖店却“乐”不起来",
+      "url": "https://36kr.com/p/3898252850448003",
       "source": "36氪",
-      "time": "2026-07-16 11:14"
+      "time": "2026-07-16 12:56"
     },
     {
-      "title": "杠杆ETFs的巨大风险",
-      "url": "https://36kr.com/p/3898178411677314",
+      "title": "存储涨价引发手机销量暴跌，华为和iPhone却逆势卖爆了",
+      "url": "https://36kr.com/p/3898256515777921",
       "source": "36氪",
-      "time": "2026-07-16 11:14"
+      "time": "2026-07-16 12:56"
     },
     {
-      "title": "2026汽车期中考：小鹏领跌新势力，比亚迪国内销量暴降40%",
-      "url": "https://36kr.com/p/3898184901314185",
+      "title": "不涨价背后是强大的供应链控制力。",
+      "url": "https://36kr.com/p/3898256515777921",
       "source": "36氪",
-      "time": "2026-07-16 11:14"
+      "time": "2026-07-16 12:56"
     },
     {
-      "title": "新车批量上市遭遇市场整体下滑。",
-      "url": "https://36kr.com/p/3898184901314185",
+      "title": "DeepSeek最快年内启动IPO，背后是“算力饥渴”？",
+      "url": "https://36kr.com/p/3898240606537092",
       "source": "36氪",
-      "time": "2026-07-16 11:14"
+      "time": "2026-07-16 12:56"
     },
     {
-      "title": "找不到真人客服，用户反手“蹭”平台Token",
-      "url": "https://36kr.com/p/3898184791148162",
+      "title": "大模型赛道开启融资加速竞赛",
+      "url": "https://36kr.com/p/3898240606537092",
       "source": "36氪",
-      "time": "2026-07-16 11:14"
+      "time": "2026-07-16 12:56"
     },
     {
-      "title": "蒋方舟：成于时代焦虑、败于时代焦虑",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875751.html",
+      "title": "37次临停，8次熔断，韩股到底有多魔幻",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875895.html",
       "source": "虎嗅",
-      "time": "2026-07-16 11:14"
-    },
-    {
-      "title": "梁文锋重仓打新，万亿长鑫被抢疯了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875821.html",
-      "source": "虎嗅",
-      "time": "2026-07-16 11:14"
+      "time": "2026-07-16 12:56"
     }
   ]
 }
