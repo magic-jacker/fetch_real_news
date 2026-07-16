@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-16T04:29:28.137287",
-  "total": 6,
+  "timestamp": "2026-07-16T06:41:20.115690",
+  "total": 5,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -10,88 +10,76 @@
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
-    "industry": [],
-    "tech": [
+    "finance": [
       {
-        "title": "不变就是死，AI出海新三样：UA融资、互动留客、自建闭环",
-        "url": "https://36kr.com/p/3896980009977476",
+        "title": "中国创新药的卖水人的黄金时代。",
+        "url": "https://36kr.com/p/3897728476562568",
         "source": "36氪",
-        "time": "2026-07-16 04:29"
-      },
-      {
-        "title": "AI短剧出海走到分岔路口",
-        "url": "https://36kr.com/p/3896980009977476",
-        "source": "36氪",
-        "time": "2026-07-16 04:29"
-      },
-      {
-        "title": "AI正在制造一个普遍巨婴的社会？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875624.html",
-        "source": "虎嗅",
-        "time": "2026-07-16 04:29"
+        "time": "2026-07-16 06:41"
       }
     ],
+    "industry": [],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "为什么低GI食品，成了智商税的新战场？",
-        "url": "https://36kr.com/p/3896999805192071",
+        "title": "新鲜零食，让子弹再飞一会儿",
+        "url": "https://36kr.com/p/3897679200667010",
         "source": "36氪",
-        "time": "2026-07-16 04:29"
+        "time": "2026-07-16 06:41"
       },
       {
-        "title": "只有卷产品质量，才能迎来更大的市场。",
-        "url": "https://36kr.com/p/3896999805192071",
+        "title": "一年利润顶过去四十年，三星为什么一直能赢？",
+        "url": "https://36kr.com/p/3897672149403528",
         "source": "36氪",
-        "time": "2026-07-16 04:29"
+        "time": "2026-07-16 06:41"
       },
       {
-        "title": "德国十万大裁员，隐形冠军，正在批量阵亡",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875574.html",
+        "title": "贾浅浅研究贾平凹都靠抄袭，副教授和硕士学位没了，博士学位依然神秘",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875655.html",
         "source": "虎嗅",
-        "time": "2026-07-16 04:29"
+        "time": "2026-07-16 06:41"
+      },
+      {
+        "title": "美国影响力最大的视频博主，是怎么抗衰的？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875736.html",
+        "source": "虎嗅",
+        "time": "2026-07-16 06:41"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "为什么低GI食品，成了智商税的新战场？",
-      "url": "https://36kr.com/p/3896999805192071",
+      "title": "中国创新药的卖水人的黄金时代。",
+      "url": "https://36kr.com/p/3897728476562568",
       "source": "36氪",
-      "time": "2026-07-16 04:29"
+      "time": "2026-07-16 06:41"
     },
     {
-      "title": "只有卷产品质量，才能迎来更大的市场。",
-      "url": "https://36kr.com/p/3896999805192071",
+      "title": "新鲜零食，让子弹再飞一会儿",
+      "url": "https://36kr.com/p/3897679200667010",
       "source": "36氪",
-      "time": "2026-07-16 04:29"
+      "time": "2026-07-16 06:41"
     },
     {
-      "title": "不变就是死，AI出海新三样：UA融资、互动留客、自建闭环",
-      "url": "https://36kr.com/p/3896980009977476",
+      "title": "一年利润顶过去四十年，三星为什么一直能赢？",
+      "url": "https://36kr.com/p/3897672149403528",
       "source": "36氪",
-      "time": "2026-07-16 04:29"
+      "time": "2026-07-16 06:41"
     },
     {
-      "title": "AI短剧出海走到分岔路口",
-      "url": "https://36kr.com/p/3896980009977476",
-      "source": "36氪",
-      "time": "2026-07-16 04:29"
-    },
-    {
-      "title": "AI正在制造一个普遍巨婴的社会？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875624.html",
+      "title": "贾浅浅研究贾平凹都靠抄袭，副教授和硕士学位没了，博士学位依然神秘",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875655.html",
       "source": "虎嗅",
-      "time": "2026-07-16 04:29"
+      "time": "2026-07-16 06:41"
     },
     {
-      "title": "德国十万大裁员，隐形冠军，正在批量阵亡",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875574.html",
+      "title": "美国影响力最大的视频博主，是怎么抗衰的？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875736.html",
       "source": "虎嗅",
-      "time": "2026-07-16 04:29"
+      "time": "2026-07-16 06:41"
     }
   ]
 }
