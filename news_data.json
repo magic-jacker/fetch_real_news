@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-17T11:00:15.632984",
+  "timestamp": "2026-07-17T12:08:51.999748",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -11,32 +11,37 @@
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "realme手机退出中国：3亿全球销量，换不来1%国内市场",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876094.html",
-        "source": "虎嗅",
-        "time": "2026-07-17 11:00"
-      }
-    ],
+    "industry": [],
     "tech": [
       {
-        "title": "对话森博科技董事长于林义：AI应用拼的不只是技术，更是实证有效的业务闭环",
-        "url": "https://36kr.com/p/3899556701128578",
+        "title": "从阶跃星辰到银河通用：WAIC 参展企业背后的资本迁徙路线",
+        "url": "https://36kr.com/p/3899679726683785",
         "source": "36氪",
-        "time": "2026-07-17 11:00"
+        "time": "2026-07-17 12:08"
       },
       {
-        "title": "2026WAIC森博于林义谈：场景炼技术造企业级AI智能体",
-        "url": "https://36kr.com/p/3899556701128578",
+        "title": "WAIC 2026「融资军团」：千亿资本涌向何方？",
+        "url": "https://36kr.com/p/3899679726683785",
         "source": "36氪",
-        "time": "2026-07-17 11:00"
+        "time": "2026-07-17 12:08"
       },
       {
-        "title": "2026最受投资人关注人工智能/具身智能企业50揭晓",
-        "url": "https://36kr.com/p/3899597215745664",
+        "title": "算法代理不对称：当AI替你决策时，你连反对的权利都没有",
+        "url": "https://36kr.com/p/3899527497335943",
         "source": "36氪",
-        "time": "2026-07-17 11:00"
+        "time": "2026-07-17 12:08"
+      },
+      {
+        "title": "终于用上AI的公司，发现业务被大模型公司抢了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876197.html",
+        "source": "虎嗅",
+        "time": "2026-07-17 12:08"
+      },
+      {
+        "title": "年轻译员的窄路：被AI冲击的翻译行业",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876156.html",
+        "source": "虎嗅",
+        "time": "2026-07-17 12:08"
       }
     ],
     "byd": [],
@@ -44,67 +49,61 @@
     "fitness": [],
     "other": [
       {
-        "title": "价值验证的时代正在到来。",
-        "url": "https://36kr.com/p/3899597215745664",
+        "title": "高温趴窝频发，小鹏X9空悬危机，撕开低价扩张下的品控考题",
+        "url": "https://36kr.com/p/3899682762983040",
         "source": "36氪",
-        "time": "2026-07-17 11:00"
+        "time": "2026-07-17 12:08"
       },
       {
-        "title": "星地协同，问答无界——天地一体化算力SatAgent技术解码",
-        "url": "https://36kr.com/p/3899524856694409",
+        "title": "智驾高歌猛进，硬件可靠性如何破局",
+        "url": "https://36kr.com/p/3899682762983040",
         "source": "36氪",
-        "time": "2026-07-17 11:00"
-      },
-      {
-        "title": "资管系高管，正在接管银行",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876100.html",
-        "source": "虎嗅",
-        "time": "2026-07-17 11:00"
+        "time": "2026-07-17 12:08"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "对话森博科技董事长于林义：AI应用拼的不只是技术，更是实证有效的业务闭环",
-      "url": "https://36kr.com/p/3899556701128578",
+      "title": "从阶跃星辰到银河通用：WAIC 参展企业背后的资本迁徙路线",
+      "url": "https://36kr.com/p/3899679726683785",
       "source": "36氪",
-      "time": "2026-07-17 11:00"
+      "time": "2026-07-17 12:08"
     },
     {
-      "title": "2026WAIC森博于林义谈：场景炼技术造企业级AI智能体",
-      "url": "https://36kr.com/p/3899556701128578",
+      "title": "WAIC 2026「融资军团」：千亿资本涌向何方？",
+      "url": "https://36kr.com/p/3899679726683785",
       "source": "36氪",
-      "time": "2026-07-17 11:00"
+      "time": "2026-07-17 12:08"
     },
     {
-      "title": "2026最受投资人关注人工智能/具身智能企业50揭晓",
-      "url": "https://36kr.com/p/3899597215745664",
+      "title": "高温趴窝频发，小鹏X9空悬危机，撕开低价扩张下的品控考题",
+      "url": "https://36kr.com/p/3899682762983040",
       "source": "36氪",
-      "time": "2026-07-17 11:00"
+      "time": "2026-07-17 12:08"
     },
     {
-      "title": "价值验证的时代正在到来。",
-      "url": "https://36kr.com/p/3899597215745664",
+      "title": "智驾高歌猛进，硬件可靠性如何破局",
+      "url": "https://36kr.com/p/3899682762983040",
       "source": "36氪",
-      "time": "2026-07-17 11:00"
+      "time": "2026-07-17 12:08"
     },
     {
-      "title": "星地协同，问答无界——天地一体化算力SatAgent技术解码",
-      "url": "https://36kr.com/p/3899524856694409",
+      "title": "算法代理不对称：当AI替你决策时，你连反对的权利都没有",
+      "url": "https://36kr.com/p/3899527497335943",
       "source": "36氪",
-      "time": "2026-07-17 11:00"
+      "time": "2026-07-17 12:08"
     },
     {
-      "title": "资管系高管，正在接管银行",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876100.html",
+      "title": "终于用上AI的公司，发现业务被大模型公司抢了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876197.html",
       "source": "虎嗅",
-      "time": "2026-07-17 11:00"
+      "time": "2026-07-17 12:08"
     },
     {
-      "title": "realme手机退出中国：3亿全球销量，换不来1%国内市场",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876094.html",
+      "title": "年轻译员的窄路：被AI冲击的翻译行业",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876156.html",
       "source": "虎嗅",
-      "time": "2026-07-17 11:00"
+      "time": "2026-07-17 12:08"
     }
   ]
 }
