@@ -1,48 +1,41 @@
 {
-  "timestamp": "2026-07-19T07:19:01.674114",
-  "total": 6,
+  "timestamp": "2026-07-19T09:23:03.826985",
+  "total": 5,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 4,
+    "36氪": 3,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "AI手机大战里，模型能力并不是最重要的",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876443.html",
-        "source": "虎嗅",
-        "time": "2026-07-19 07:19"
-      },
-      {
-        "title": "realme手机退出中国：3亿全球销量，换不来1%国内市场",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876094.html",
-        "source": "虎嗅",
-        "time": "2026-07-19 07:19"
-      }
-    ],
+    "industry": [],
     "tech": [
       {
-        "title": "在WAIC，第一次觉得AI不必那么聪明",
-        "url": "https://36kr.com/p/3900884621919369",
+        "title": "高通徐晧亮相WAIC端侧AI论坛：从智能体需求出发，持续推动计算架构创新",
+        "url": "https://36kr.com/p/3902260027967106",
         "source": "36氪",
-        "time": "2026-07-19 07:18"
+        "time": "2026-07-19 09:22"
       },
       {
-        "title": "下一阶段的AI，仍然需要更强的智能。\n但，同样需要更深的理解。",
-        "url": "https://36kr.com/p/3900884621919369",
+        "title": "徐晧博士指出，端侧的AI应用拥有非常广阔的前景，并系统性阐述了智能体浪潮对终端计算架构带来的范式变革。",
+        "url": "https://36kr.com/p/3902260027967106",
         "source": "36氪",
-        "time": "2026-07-19 07:18"
+        "time": "2026-07-19 09:22"
       },
       {
-        "title": "高校花钱查 AI，学生花钱降 AI",
-        "url": "https://36kr.com/p/3901956049257857",
+        "title": "2026WAIC展示AI硬件落地，争夺入口需解决权责等问题。",
+        "url": "https://36kr.com/p/3902307256223367",
         "source": "36氪",
-        "time": "2026-07-19 07:18"
+        "time": "2026-07-19 09:22"
+      },
+      {
+        "title": "第一个被AI做空的国家，出现了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876199.html",
+        "source": "虎嗅",
+        "time": "2026-07-19 09:23"
       }
     ],
     "byd": [],
@@ -50,49 +43,43 @@
     "fitness": [],
     "other": [
       {
-        "title": "学校买的从来不是检测，是免责；学生买的也不是检测，是清白。",
-        "url": "https://36kr.com/p/3901956049257857",
-        "source": "36氪",
-        "time": "2026-07-19 07:18"
+        "title": "留给父母提档的时间，真的不多了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876173.html",
+        "source": "虎嗅",
+        "time": "2026-07-19 09:23"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "在WAIC，第一次觉得AI不必那么聪明",
-      "url": "https://36kr.com/p/3900884621919369",
+      "title": "高通徐晧亮相WAIC端侧AI论坛：从智能体需求出发，持续推动计算架构创新",
+      "url": "https://36kr.com/p/3902260027967106",
       "source": "36氪",
-      "time": "2026-07-19 07:18"
+      "time": "2026-07-19 09:22"
     },
     {
-      "title": "下一阶段的AI，仍然需要更强的智能。\n但，同样需要更深的理解。",
-      "url": "https://36kr.com/p/3900884621919369",
+      "title": "徐晧博士指出，端侧的AI应用拥有非常广阔的前景，并系统性阐述了智能体浪潮对终端计算架构带来的范式变革。",
+      "url": "https://36kr.com/p/3902260027967106",
       "source": "36氪",
-      "time": "2026-07-19 07:18"
+      "time": "2026-07-19 09:22"
     },
     {
-      "title": "高校花钱查 AI，学生花钱降 AI",
-      "url": "https://36kr.com/p/3901956049257857",
+      "title": "2026WAIC展示AI硬件落地，争夺入口需解决权责等问题。",
+      "url": "https://36kr.com/p/3902307256223367",
       "source": "36氪",
-      "time": "2026-07-19 07:18"
+      "time": "2026-07-19 09:22"
     },
     {
-      "title": "学校买的从来不是检测，是免责；学生买的也不是检测，是清白。",
-      "url": "https://36kr.com/p/3901956049257857",
-      "source": "36氪",
-      "time": "2026-07-19 07:18"
-    },
-    {
-      "title": "AI手机大战里，模型能力并不是最重要的",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876443.html",
+      "title": "第一个被AI做空的国家，出现了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876199.html",
       "source": "虎嗅",
-      "time": "2026-07-19 07:19"
+      "time": "2026-07-19 09:23"
     },
     {
-      "title": "realme手机退出中国：3亿全球销量，换不来1%国内市场",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876094.html",
+      "title": "留给父母提档的时间，真的不多了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876173.html",
       "source": "虎嗅",
-      "time": "2026-07-19 07:19"
+      "time": "2026-07-19 09:23"
     }
   ]
 }
