@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-18T23:38:49.712480",
+  "timestamp": "2026-07-19T01:15:15.495051",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -11,25 +11,38 @@
   },
   "categories": {
     "finance": [],
-    "industry": [],
-    "tech": [
+    "industry": [
       {
-        "title": "高通徐晧亮相WAIC荣耀分论坛，详解如何构建个性化智能体终端新范式",
-        "url": "https://36kr.com/p/3901040945038978",
+        "title": "荣耀、豆包领衔，WAIC上的AI手机，开始跟你抢事做了",
+        "url": "https://36kr.com/p/3901343845598599",
         "source": "36氪",
-        "time": "2026-07-18 23:38"
+        "time": "2026-07-19 01:15"
       },
       {
-        "title": "WAIC2026的三个关键信号：算力重组、Agent交付与AI硬件闭环",
-        "url": "https://36kr.com/p/3900957398960006",
+        "title": "realme手机退出中国：3亿全球销量，换不来1%国内市场",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876094.html",
+        "source": "虎嗅",
+        "time": "2026-07-19 01:15"
+      }
+    ],
+    "tech": [
+      {
+        "title": "WAIC五位首席科学家交锋：多模态是LLM的“外挂”，还是下一代智能的“灵魂”？",
+        "url": "https://36kr.com/p/3901333823293312",
         "source": "36氪",
-        "time": "2026-07-18 23:38"
+        "time": "2026-07-19 01:15"
+      },
+      {
+        "title": "我们可能高估了Agent自主化，低估了AI对社会的改变。",
+        "url": "https://36kr.com/p/3901333823293312",
+        "source": "36氪",
+        "time": "2026-07-19 01:15"
       },
       {
         "title": "第一个被AI做空的国家，出现了",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876199.html",
         "source": "虎嗅",
-        "time": "2026-07-18 23:38"
+        "time": "2026-07-19 01:15"
       }
     ],
     "byd": [],
@@ -37,73 +50,61 @@
     "fitness": [],
     "other": [
       {
-        "title": "万亿Token调用量验证，PPIO如何打造新一代智能Token工厂？",
-        "url": "https://36kr.com/p/3901197105071748",
+        "title": "优衣库最值得买的系列，可能要没了",
+        "url": "https://36kr.com/p/3901179503051905",
         "source": "36氪",
-        "time": "2026-07-18 23:38"
+        "time": "2026-07-19 01:15"
       },
       {
-        "title": "PPIO定义的\\x26quot;智能Token工厂\\x26quot;，是一套围绕Token全生命周期进行优化的大规模生产与交付体系。",
-        "url": "https://36kr.com/p/3901197105071748",
+        "title": "中国品牌学了10年设计师联名，还是学不会优衣库？",
+        "url": "https://36kr.com/p/3901179503051905",
         "source": "36氪",
-        "time": "2026-07-18 23:38"
-      },
-      {
-        "title": "未来的智能终端不止是一种形态。",
-        "url": "https://36kr.com/p/3901040945038978",
-        "source": "36氪",
-        "time": "2026-07-18 23:38"
-      },
-      {
-        "title": "维基百科把中国标红了：谁在推动这件事，为什么是现在？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875984.html",
-        "source": "虎嗅",
-        "time": "2026-07-18 23:38"
+        "time": "2026-07-19 01:15"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "万亿Token调用量验证，PPIO如何打造新一代智能Token工厂？",
-      "url": "https://36kr.com/p/3901197105071748",
+      "title": "优衣库最值得买的系列，可能要没了",
+      "url": "https://36kr.com/p/3901179503051905",
       "source": "36氪",
-      "time": "2026-07-18 23:38"
+      "time": "2026-07-19 01:15"
     },
     {
-      "title": "PPIO定义的\\x26quot;智能Token工厂\\x26quot;，是一套围绕Token全生命周期进行优化的大规模生产与交付体系。",
-      "url": "https://36kr.com/p/3901197105071748",
+      "title": "中国品牌学了10年设计师联名，还是学不会优衣库？",
+      "url": "https://36kr.com/p/3901179503051905",
       "source": "36氪",
-      "time": "2026-07-18 23:38"
+      "time": "2026-07-19 01:15"
     },
     {
-      "title": "高通徐晧亮相WAIC荣耀分论坛，详解如何构建个性化智能体终端新范式",
-      "url": "https://36kr.com/p/3901040945038978",
+      "title": "WAIC五位首席科学家交锋：多模态是LLM的“外挂”，还是下一代智能的“灵魂”？",
+      "url": "https://36kr.com/p/3901333823293312",
       "source": "36氪",
-      "time": "2026-07-18 23:38"
+      "time": "2026-07-19 01:15"
     },
     {
-      "title": "未来的智能终端不止是一种形态。",
-      "url": "https://36kr.com/p/3901040945038978",
+      "title": "我们可能高估了Agent自主化，低估了AI对社会的改变。",
+      "url": "https://36kr.com/p/3901333823293312",
       "source": "36氪",
-      "time": "2026-07-18 23:38"
+      "time": "2026-07-19 01:15"
     },
     {
-      "title": "WAIC2026的三个关键信号：算力重组、Agent交付与AI硬件闭环",
-      "url": "https://36kr.com/p/3900957398960006",
+      "title": "荣耀、豆包领衔，WAIC上的AI手机，开始跟你抢事做了",
+      "url": "https://36kr.com/p/3901343845598599",
       "source": "36氪",
-      "time": "2026-07-18 23:38"
+      "time": "2026-07-19 01:15"
     },
     {
       "title": "第一个被AI做空的国家，出现了",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876199.html",
       "source": "虎嗅",
-      "time": "2026-07-18 23:38"
+      "time": "2026-07-19 01:15"
     },
     {
-      "title": "维基百科把中国标红了：谁在推动这件事，为什么是现在？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4875984.html",
+      "title": "realme手机退出中国：3亿全球销量，换不来1%国内市场",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876094.html",
       "source": "虎嗅",
-      "time": "2026-07-18 23:38"
+      "time": "2026-07-19 01:15"
     }
   ]
 }
