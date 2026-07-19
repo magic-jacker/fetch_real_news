@@ -1,41 +1,48 @@
 {
-  "timestamp": "2026-07-19T09:23:03.826985",
-  "total": 5,
+  "timestamp": "2026-07-19T10:48:45.995235",
+  "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 3,
+    "36氪": 4,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [],
+    "industry": [
+      {
+        "title": "WAIC2026安顿首发生命预警标准与AI中医机器人",
+        "url": "https://36kr.com/p/3902428274427525",
+        "source": "36氪",
+        "time": "2026-07-19 10:48"
+      }
+    ],
     "tech": [
       {
-        "title": "高通徐晧亮相WAIC端侧AI论坛：从智能体需求出发，持续推动计算架构创新",
-        "url": "https://36kr.com/p/3902260027967106",
+        "title": "预言“互联网泡沫”的峰会，开始讨论“AI泡沫”了",
+        "url": "https://36kr.com/p/3902307386722179",
         "source": "36氪",
-        "time": "2026-07-19 09:22"
+        "time": "2026-07-19 10:48"
       },
       {
-        "title": "徐晧博士指出，端侧的AI应用拥有非常广阔的前景，并系统性阐述了智能体浪潮对终端计算架构带来的范式变革。",
-        "url": "https://36kr.com/p/3902260027967106",
+        "title": "“每个人都在问我，AI是不是有点太贵了。”",
+        "url": "https://36kr.com/p/3902307386722179",
         "source": "36氪",
-        "time": "2026-07-19 09:22"
+        "time": "2026-07-19 10:48"
       },
       {
-        "title": "2026WAIC展示AI硬件落地，争夺入口需解决权责等问题。",
-        "url": "https://36kr.com/p/3902307256223367",
-        "source": "36氪",
-        "time": "2026-07-19 09:22"
+        "title": "AI 重构消费，但远没到能赚钱的时候",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876473.html",
+        "source": "虎嗅",
+        "time": "2026-07-19 10:48"
       },
       {
         "title": "第一个被AI做空的国家，出现了",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876199.html",
         "source": "虎嗅",
-        "time": "2026-07-19 09:23"
+        "time": "2026-07-19 10:48"
       }
     ],
     "byd": [],
@@ -43,43 +50,49 @@
     "fitness": [],
     "other": [
       {
-        "title": "留给父母提档的时间，真的不多了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876173.html",
-        "source": "虎嗅",
-        "time": "2026-07-19 09:23"
+        "title": "科氪 | 从生命预警到七诊合参，安顿“双核首发”的技术密码",
+        "url": "https://36kr.com/p/3902428274427525",
+        "source": "36氪",
+        "time": "2026-07-19 10:48"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "高通徐晧亮相WAIC端侧AI论坛：从智能体需求出发，持续推动计算架构创新",
-      "url": "https://36kr.com/p/3902260027967106",
+      "title": "科氪 | 从生命预警到七诊合参，安顿“双核首发”的技术密码",
+      "url": "https://36kr.com/p/3902428274427525",
       "source": "36氪",
-      "time": "2026-07-19 09:22"
+      "time": "2026-07-19 10:48"
     },
     {
-      "title": "徐晧博士指出，端侧的AI应用拥有非常广阔的前景，并系统性阐述了智能体浪潮对终端计算架构带来的范式变革。",
-      "url": "https://36kr.com/p/3902260027967106",
+      "title": "WAIC2026安顿首发生命预警标准与AI中医机器人",
+      "url": "https://36kr.com/p/3902428274427525",
       "source": "36氪",
-      "time": "2026-07-19 09:22"
+      "time": "2026-07-19 10:48"
     },
     {
-      "title": "2026WAIC展示AI硬件落地，争夺入口需解决权责等问题。",
-      "url": "https://36kr.com/p/3902307256223367",
+      "title": "预言“互联网泡沫”的峰会，开始讨论“AI泡沫”了",
+      "url": "https://36kr.com/p/3902307386722179",
       "source": "36氪",
-      "time": "2026-07-19 09:22"
+      "time": "2026-07-19 10:48"
+    },
+    {
+      "title": "“每个人都在问我，AI是不是有点太贵了。”",
+      "url": "https://36kr.com/p/3902307386722179",
+      "source": "36氪",
+      "time": "2026-07-19 10:48"
+    },
+    {
+      "title": "AI 重构消费，但远没到能赚钱的时候",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876473.html",
+      "source": "虎嗅",
+      "time": "2026-07-19 10:48"
     },
     {
       "title": "第一个被AI做空的国家，出现了",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876199.html",
       "source": "虎嗅",
-      "time": "2026-07-19 09:23"
-    },
-    {
-      "title": "留给父母提档的时间，真的不多了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876173.html",
-      "source": "虎嗅",
-      "time": "2026-07-19 09:23"
+      "time": "2026-07-19 10:48"
     }
   ]
 }
