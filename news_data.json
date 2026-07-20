@@ -1,109 +1,108 @@
 {
-  "timestamp": "2026-07-20T01:18:50.403437",
+  "timestamp": "2026-07-20T04:57:16.673549",
   "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "红熊AI完成数亿元A+轮融资，基于AI“记忆科学”从To B服务延伸至To C应用｜36氪首发",
-        "url": "https://36kr.com/p/3899612612494976",
-        "source": "36氪",
-        "time": "2026-07-20 01:18"
-      },
-      {
-        "title": "在经历了大模型参数量与算力的早期竞赛后，行业正逐步步入“以应用论英雄”的商业化深水区。目前，围绕大模型“记忆层（Memory）”这一维度的技术成为重要的攻坚点。",
-        "url": "https://36kr.com/p/3899612612494976",
-        "source": "36氪",
-        "time": "2026-07-20 01:18"
-      },
-      {
-        "title": "海力士的盛夏：一个国家的AI豪赌",
-        "url": "https://36kr.com/p/3902505577777031",
-        "source": "36氪",
-        "time": "2026-07-20 01:18"
-      },
-      {
-        "title": "冷门的哲学，成了“治”AI的热门",
-        "url": "https://36kr.com/p/3902516559201926",
-        "source": "36氪",
-        "time": "2026-07-20 01:18"
-      },
-      {
-        "title": "坍塌之后：重建AI交易的四条线索",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876487.html",
-        "source": "虎嗅",
-        "time": "2026-07-20 01:18"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "韩国KOSPI指数几乎变成“存储ETF”",
-        "url": "https://36kr.com/p/3902505577777031",
+        "title": "从财富载体到精神家园，宸园139开启中国豪宅的传承时代",
+        "url": "https://36kr.com/p/3903496499283587",
         "source": "36氪",
-        "time": "2026-07-20 01:18"
+        "time": "2026-07-20 04:57"
       },
       {
-        "title": "复盘2000年泡沫破裂的四大信号",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876496.html",
+        "title": "打造北京文化顶豪新标杆",
+        "url": "https://36kr.com/p/3903496499283587",
+        "source": "36氪",
+        "time": "2026-07-20 04:57"
+      },
+      {
+        "title": "专访靳玉志：「境」和「界」并不冲突，共同落实「电子螺丝钉」的战略定位",
+        "url": "https://36kr.com/p/3902068392658566",
+        "source": "36氪",
+        "time": "2026-07-20 04:57"
+      },
+      {
+        "title": "靳玉志首次回应“境”和“界”的关系",
+        "url": "https://36kr.com/p/3902068392658566",
+        "source": "36氪",
+        "time": "2026-07-20 04:57"
+      },
+      {
+        "title": "500亿隔膜龙头出海遭遇重挫，“龙二”趁机抢地盘……",
+        "url": "https://36kr.com/p/3903309897844105",
+        "source": "36氪",
+        "time": "2026-07-20 04:57"
+      },
+      {
+        "title": "“最稀缺的，不是Token，而是1000个‘亨利·福特’”",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876284.html",
         "source": "虎嗅",
-        "time": "2026-07-20 01:18"
+        "time": "2026-07-20 04:57"
+      },
+      {
+        "title": "把“Token工厂”搬回家，是不是一场好生意",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876593.html",
+        "source": "虎嗅",
+        "time": "2026-07-20 04:57"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "红熊AI完成数亿元A+轮融资，基于AI“记忆科学”从To B服务延伸至To C应用｜36氪首发",
-      "url": "https://36kr.com/p/3899612612494976",
+      "title": "从财富载体到精神家园，宸园139开启中国豪宅的传承时代",
+      "url": "https://36kr.com/p/3903496499283587",
       "source": "36氪",
-      "time": "2026-07-20 01:18"
+      "time": "2026-07-20 04:57"
     },
     {
-      "title": "在经历了大模型参数量与算力的早期竞赛后，行业正逐步步入“以应用论英雄”的商业化深水区。目前，围绕大模型“记忆层（Memory）”这一维度的技术成为重要的攻坚点。",
-      "url": "https://36kr.com/p/3899612612494976",
+      "title": "打造北京文化顶豪新标杆",
+      "url": "https://36kr.com/p/3903496499283587",
       "source": "36氪",
-      "time": "2026-07-20 01:18"
+      "time": "2026-07-20 04:57"
     },
     {
-      "title": "海力士的盛夏：一个国家的AI豪赌",
-      "url": "https://36kr.com/p/3902505577777031",
+      "title": "专访靳玉志：「境」和「界」并不冲突，共同落实「电子螺丝钉」的战略定位",
+      "url": "https://36kr.com/p/3902068392658566",
       "source": "36氪",
-      "time": "2026-07-20 01:18"
+      "time": "2026-07-20 04:57"
     },
     {
-      "title": "韩国KOSPI指数几乎变成“存储ETF”",
-      "url": "https://36kr.com/p/3902505577777031",
+      "title": "靳玉志首次回应“境”和“界”的关系",
+      "url": "https://36kr.com/p/3902068392658566",
       "source": "36氪",
-      "time": "2026-07-20 01:18"
+      "time": "2026-07-20 04:57"
     },
     {
-      "title": "冷门的哲学，成了“治”AI的热门",
-      "url": "https://36kr.com/p/3902516559201926",
+      "title": "500亿隔膜龙头出海遭遇重挫，“龙二”趁机抢地盘……",
+      "url": "https://36kr.com/p/3903309897844105",
       "source": "36氪",
-      "time": "2026-07-20 01:18"
+      "time": "2026-07-20 04:57"
     },
     {
-      "title": "复盘2000年泡沫破裂的四大信号",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876496.html",
+      "title": "“最稀缺的，不是Token，而是1000个‘亨利·福特’”",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876284.html",
       "source": "虎嗅",
-      "time": "2026-07-20 01:18"
+      "time": "2026-07-20 04:57"
     },
     {
-      "title": "坍塌之后：重建AI交易的四条线索",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876487.html",
+      "title": "把“Token工厂”搬回家，是不是一场好生意",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876593.html",
       "source": "虎嗅",
-      "time": "2026-07-20 01:18"
+      "time": "2026-07-20 04:57"
     }
   ]
 }
