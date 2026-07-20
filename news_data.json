@@ -1,108 +1,110 @@
 {
-  "timestamp": "2026-07-20T04:57:16.673549",
+  "timestamp": "2026-07-20T07:52:50.905782",
   "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [],
-    "tech": [],
+    "industry": [
+      {
+        "title": "Token工厂、世界模型、AI手机，WAIC的三大新风向",
+        "url": "https://36kr.com/p/3903510189409920",
+        "source": "36氪",
+        "time": "2026-07-20 07:52"
+      }
+    ],
+    "tech": [
+      {
+        "title": "30万人涌入WAIC，国产算力集团军出征，具身智能落地时代到来。",
+        "url": "https://36kr.com/p/3903510189409920",
+        "source": "36氪",
+        "time": "2026-07-20 07:52"
+      },
+      {
+        "title": "大模型给图片打分不再“靠嘴说”，结构图、频谱图当“物证”，用“视觉证据”来给图片打分",
+        "url": "https://36kr.com/p/3903638102673285",
+        "source": "36氪",
+        "time": "2026-07-20 07:52"
+      },
+      {
+        "title": "与协鑫、汇川、追觅十余位“智造人”，看清AI落地的真瓶颈",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876042.html",
+        "source": "虎嗅",
+        "time": "2026-07-20 07:52"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "从财富载体到精神家园，宸园139开启中国豪宅的传承时代",
-        "url": "https://36kr.com/p/3903496499283587",
+        "title": "房晟陶：创始人/一号位应该每年“消失”2-3个月",
+        "url": "https://36kr.com/p/3903461741512578",
         "source": "36氪",
-        "time": "2026-07-20 04:57"
+        "time": "2026-07-20 07:52"
       },
       {
-        "title": "打造北京文化顶豪新标杆",
-        "url": "https://36kr.com/p/3903496499283587",
+        "title": "把“建议领导多休息”落到实处",
+        "url": "https://36kr.com/p/3903461741512578",
         "source": "36氪",
-        "time": "2026-07-20 04:57"
+        "time": "2026-07-20 07:52"
       },
       {
-        "title": "专访靳玉志：「境」和「界」并不冲突，共同落实「电子螺丝钉」的战略定位",
-        "url": "https://36kr.com/p/3902068392658566",
-        "source": "36氪",
-        "time": "2026-07-20 04:57"
-      },
-      {
-        "title": "靳玉志首次回应“境”和“界”的关系",
-        "url": "https://36kr.com/p/3902068392658566",
-        "source": "36氪",
-        "time": "2026-07-20 04:57"
-      },
-      {
-        "title": "500亿隔膜龙头出海遭遇重挫，“龙二”趁机抢地盘……",
-        "url": "https://36kr.com/p/3903309897844105",
-        "source": "36氪",
-        "time": "2026-07-20 04:57"
-      },
-      {
-        "title": "“最稀缺的，不是Token，而是1000个‘亨利·福特’”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876284.html",
+        "title": "西班牙赢了决赛，FIFA赢了130亿",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876548.html",
         "source": "虎嗅",
-        "time": "2026-07-20 04:57"
-      },
-      {
-        "title": "把“Token工厂”搬回家，是不是一场好生意",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876593.html",
-        "source": "虎嗅",
-        "time": "2026-07-20 04:57"
+        "time": "2026-07-20 07:52"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "从财富载体到精神家园，宸园139开启中国豪宅的传承时代",
-      "url": "https://36kr.com/p/3903496499283587",
+      "title": "房晟陶：创始人/一号位应该每年“消失”2-3个月",
+      "url": "https://36kr.com/p/3903461741512578",
       "source": "36氪",
-      "time": "2026-07-20 04:57"
+      "time": "2026-07-20 07:52"
     },
     {
-      "title": "打造北京文化顶豪新标杆",
-      "url": "https://36kr.com/p/3903496499283587",
+      "title": "把“建议领导多休息”落到实处",
+      "url": "https://36kr.com/p/3903461741512578",
       "source": "36氪",
-      "time": "2026-07-20 04:57"
+      "time": "2026-07-20 07:52"
     },
     {
-      "title": "专访靳玉志：「境」和「界」并不冲突，共同落实「电子螺丝钉」的战略定位",
-      "url": "https://36kr.com/p/3902068392658566",
+      "title": "Token工厂、世界模型、AI手机，WAIC的三大新风向",
+      "url": "https://36kr.com/p/3903510189409920",
       "source": "36氪",
-      "time": "2026-07-20 04:57"
+      "time": "2026-07-20 07:52"
     },
     {
-      "title": "靳玉志首次回应“境”和“界”的关系",
-      "url": "https://36kr.com/p/3902068392658566",
+      "title": "30万人涌入WAIC，国产算力集团军出征，具身智能落地时代到来。",
+      "url": "https://36kr.com/p/3903510189409920",
       "source": "36氪",
-      "time": "2026-07-20 04:57"
+      "time": "2026-07-20 07:52"
     },
     {
-      "title": "500亿隔膜龙头出海遭遇重挫，“龙二”趁机抢地盘……",
-      "url": "https://36kr.com/p/3903309897844105",
+      "title": "大模型给图片打分不再“靠嘴说”，结构图、频谱图当“物证”，用“视觉证据”来给图片打分",
+      "url": "https://36kr.com/p/3903638102673285",
       "source": "36氪",
-      "time": "2026-07-20 04:57"
+      "time": "2026-07-20 07:52"
     },
     {
-      "title": "“最稀缺的，不是Token，而是1000个‘亨利·福特’”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876284.html",
+      "title": "与协鑫、汇川、追觅十余位“智造人”，看清AI落地的真瓶颈",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876042.html",
       "source": "虎嗅",
-      "time": "2026-07-20 04:57"
+      "time": "2026-07-20 07:52"
     },
     {
-      "title": "把“Token工厂”搬回家，是不是一场好生意",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876593.html",
+      "title": "西班牙赢了决赛，FIFA赢了130亿",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876548.html",
       "source": "虎嗅",
-      "time": "2026-07-20 04:57"
+      "time": "2026-07-20 07:52"
     }
   ]
 }
