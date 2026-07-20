@@ -1,30 +1,23 @@
 {
-  "timestamp": "2026-07-20T22:42:50.106995",
-  "total": 7,
+  "timestamp": "2026-07-20T23:43:37.785000",
+  "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 5,
+    "36氪": 4,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "内存短缺对手机行业的真正伤害，或许才刚刚开始",
-        "url": "https://36kr.com/p/3903872427689604",
-        "source": "36氪",
-        "time": "2026-07-20 22:42"
-      }
-    ],
+    "industry": [],
     "tech": [
       {
-        "title": "WAIC之夜：Token堆不出“AI原生”组织",
-        "url": "https://36kr.com/p/3903902532487041",
+        "title": "我们已自下而上重构了 AI 经济",
+        "url": "https://36kr.com/p/3881171359166467",
         "source": "36氪",
-        "time": "2026-07-20 22:42"
+        "time": "2026-07-20 23:43"
       }
     ],
     "byd": [],
@@ -32,79 +25,73 @@
     "fitness": [],
     "other": [
       {
-        "title": "SOCAMM2的坏处，还不只是现阶段争抢产能",
-        "url": "https://36kr.com/p/3903872427689604",
+        "title": "读着难受，却让人无比通透8句人生语录",
+        "url": "https://36kr.com/p/3875740100915209",
         "source": "36氪",
-        "time": "2026-07-20 22:42"
+        "time": "2026-07-20 23:43"
       },
       {
-        "title": "Tokenmaxing的终局与新序章",
-        "url": "https://36kr.com/p/3903902532487041",
+        "title": "真正的成长必须是由内向外的。",
+        "url": "https://36kr.com/p/3875740100915209",
         "source": "36氪",
-        "time": "2026-07-20 22:42"
+        "time": "2026-07-20 23:43"
       },
       {
-        "title": "基于超1万肿瘤样本训练，哈佛医学院等提出泛癌症基础模型COMPASS，平均性能优于22种现有方法",
-        "url": "https://36kr.com/p/3903912488502920",
+        "title": "想学得更快？建议换一种记笔记方式",
+        "url": "https://36kr.com/p/3875716742803717",
         "source": "36氪",
-        "time": "2026-07-20 22:42"
-      },
-      {
-        "title": "智谱暴跌，Kimi只是导火索",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876828.html",
-        "source": "虎嗅",
-        "time": "2026-07-20 22:42"
+        "time": "2026-07-20 23:43"
       },
       {
         "title": "谢贤离世：一个浪子和香港影视的七十年",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876805.html",
         "source": "虎嗅",
-        "time": "2026-07-20 22:42"
+        "time": "2026-07-20 23:43"
+      },
+      {
+        "title": "沉寂14年的病毒突然苏醒，两个月“杀了”828人",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876702.html",
+        "source": "虎嗅",
+        "time": "2026-07-20 23:43"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "内存短缺对手机行业的真正伤害，或许才刚刚开始",
-      "url": "https://36kr.com/p/3903872427689604",
+      "title": "读着难受，却让人无比通透8句人生语录",
+      "url": "https://36kr.com/p/3875740100915209",
       "source": "36氪",
-      "time": "2026-07-20 22:42"
+      "time": "2026-07-20 23:43"
     },
     {
-      "title": "SOCAMM2的坏处，还不只是现阶段争抢产能",
-      "url": "https://36kr.com/p/3903872427689604",
+      "title": "真正的成长必须是由内向外的。",
+      "url": "https://36kr.com/p/3875740100915209",
       "source": "36氪",
-      "time": "2026-07-20 22:42"
+      "time": "2026-07-20 23:43"
     },
     {
-      "title": "WAIC之夜：Token堆不出“AI原生”组织",
-      "url": "https://36kr.com/p/3903902532487041",
+      "title": "我们已自下而上重构了 AI 经济",
+      "url": "https://36kr.com/p/3881171359166467",
       "source": "36氪",
-      "time": "2026-07-20 22:42"
+      "time": "2026-07-20 23:43"
     },
     {
-      "title": "Tokenmaxing的终局与新序章",
-      "url": "https://36kr.com/p/3903902532487041",
+      "title": "想学得更快？建议换一种记笔记方式",
+      "url": "https://36kr.com/p/3875716742803717",
       "source": "36氪",
-      "time": "2026-07-20 22:42"
-    },
-    {
-      "title": "基于超1万肿瘤样本训练，哈佛医学院等提出泛癌症基础模型COMPASS，平均性能优于22种现有方法",
-      "url": "https://36kr.com/p/3903912488502920",
-      "source": "36氪",
-      "time": "2026-07-20 22:42"
-    },
-    {
-      "title": "智谱暴跌，Kimi只是导火索",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876828.html",
-      "source": "虎嗅",
-      "time": "2026-07-20 22:42"
+      "time": "2026-07-20 23:43"
     },
     {
       "title": "谢贤离世：一个浪子和香港影视的七十年",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876805.html",
       "source": "虎嗅",
-      "time": "2026-07-20 22:42"
+      "time": "2026-07-20 23:43"
+    },
+    {
+      "title": "沉寂14年的病毒突然苏醒，两个月“杀了”828人",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876702.html",
+      "source": "虎嗅",
+      "time": "2026-07-20 23:43"
     }
   ]
 }
