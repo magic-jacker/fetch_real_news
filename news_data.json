@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-07-21T22:55:03.974864",
-  "total": 6,
+  "timestamp": "2026-07-21T23:44:32.637828",
+  "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
@@ -14,10 +14,16 @@
     "industry": [],
     "tech": [
       {
-        "title": "WAIC最冷静的8小时：20位CEO，把AI实账摊在了虎嗅的桌上",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4877064.html",
-        "source": "虎嗅",
-        "time": "2026-07-21 22:55"
+        "title": "中国 AI，牌都打明了",
+        "url": "https://36kr.com/p/3905349135472008",
+        "source": "36氪",
+        "time": "2026-07-21 23:44"
+      },
+      {
+        "title": "上海WAIC深度观察：模型隐身，Agent疯野",
+        "url": "https://36kr.com/p/3906011261147014",
+        "source": "36氪",
+        "time": "2026-07-21 23:44"
       }
     ],
     "byd": [],
@@ -25,73 +31,79 @@
     "fitness": [],
     "other": [
       {
-        "title": "磁吸背屏扎堆来了：影石海信卖功能，OPPO荣耀做情绪搭子",
-        "url": "https://36kr.com/p/3904870603900291",
+        "title": "中国开始出自己的牌了。",
+        "url": "https://36kr.com/p/3905349135472008",
         "source": "36氪",
-        "time": "2026-07-21 22:54"
+        "time": "2026-07-21 23:44"
       },
       {
-        "title": "清华陶建华团队提出「自进化同策略蒸馏」SEED：让Agentic RL训练也懂事后监督",
-        "url": "https://36kr.com/p/3904876893013897",
+        "title": "中国车市下半场：从规模竞争走向价值竞争",
+        "url": "https://36kr.com/p/3905465162273925",
         "source": "36氪",
-        "time": "2026-07-21 22:54"
+        "time": "2026-07-21 23:44"
       },
       {
-        "title": "长程Agent训练新突破。",
-        "url": "https://36kr.com/p/3904876893013897",
+        "title": "L3商业化或成产业新增量",
+        "url": "https://36kr.com/p/3905465162273925",
         "source": "36氪",
-        "time": "2026-07-21 22:54"
+        "time": "2026-07-21 23:44"
       },
       {
-        "title": "2026体育营销下半场：品牌不造势，开始“造宇宙”",
-        "url": "https://36kr.com/p/3904955445429382",
-        "source": "36氪",
-        "time": "2026-07-21 22:54"
+        "title": "消费税调整，重量税热议，“油电同权”大幕开启",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4877160.html",
+        "source": "虎嗅",
+        "time": "2026-07-21 23:44"
       },
       {
-        "title": "从世界杯、F1，到HYROX，再到苏超，品牌在其中的角色早已不再单一",
-        "url": "https://36kr.com/p/3904955445429382",
-        "source": "36氪",
-        "time": "2026-07-21 22:54"
+        "title": "为什么现在的人越来越不会看天了？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876911.html",
+        "source": "虎嗅",
+        "time": "2026-07-21 23:44"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "磁吸背屏扎堆来了：影石海信卖功能，OPPO荣耀做情绪搭子",
-      "url": "https://36kr.com/p/3904870603900291",
+      "title": "中国 AI，牌都打明了",
+      "url": "https://36kr.com/p/3905349135472008",
       "source": "36氪",
-      "time": "2026-07-21 22:54"
+      "time": "2026-07-21 23:44"
     },
     {
-      "title": "清华陶建华团队提出「自进化同策略蒸馏」SEED：让Agentic RL训练也懂事后监督",
-      "url": "https://36kr.com/p/3904876893013897",
+      "title": "中国开始出自己的牌了。",
+      "url": "https://36kr.com/p/3905349135472008",
       "source": "36氪",
-      "time": "2026-07-21 22:54"
+      "time": "2026-07-21 23:44"
     },
     {
-      "title": "长程Agent训练新突破。",
-      "url": "https://36kr.com/p/3904876893013897",
+      "title": "中国车市下半场：从规模竞争走向价值竞争",
+      "url": "https://36kr.com/p/3905465162273925",
       "source": "36氪",
-      "time": "2026-07-21 22:54"
+      "time": "2026-07-21 23:44"
     },
     {
-      "title": "2026体育营销下半场：品牌不造势，开始“造宇宙”",
-      "url": "https://36kr.com/p/3904955445429382",
+      "title": "L3商业化或成产业新增量",
+      "url": "https://36kr.com/p/3905465162273925",
       "source": "36氪",
-      "time": "2026-07-21 22:54"
+      "time": "2026-07-21 23:44"
     },
     {
-      "title": "从世界杯、F1，到HYROX，再到苏超，品牌在其中的角色早已不再单一",
-      "url": "https://36kr.com/p/3904955445429382",
+      "title": "上海WAIC深度观察：模型隐身，Agent疯野",
+      "url": "https://36kr.com/p/3906011261147014",
       "source": "36氪",
-      "time": "2026-07-21 22:54"
+      "time": "2026-07-21 23:44"
     },
     {
-      "title": "WAIC最冷静的8小时：20位CEO，把AI实账摊在了虎嗅的桌上",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4877064.html",
+      "title": "消费税调整，重量税热议，“油电同权”大幕开启",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4877160.html",
       "source": "虎嗅",
-      "time": "2026-07-21 22:55"
+      "time": "2026-07-21 23:44"
+    },
+    {
+      "title": "为什么现在的人越来越不会看天了？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876911.html",
+      "source": "虎嗅",
+      "time": "2026-07-21 23:44"
     }
   ]
 }
