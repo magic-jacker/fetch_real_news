@@ -1,109 +1,108 @@
 {
-  "timestamp": "2026-07-21T04:38:43.015933",
+  "timestamp": "2026-07-21T07:25:10.586882",
   "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "亮相WAIC2026：从核心部件到场景方案，华沿机器人秀出“具身智能”硬实力",
-        "url": "https://36kr.com/p/3903593981626240",
-        "source": "36氪",
-        "time": "2026-07-21 04:38"
-      }
-    ],
+    "industry": [],
     "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
+        "title": "小产品逆袭，大产品落位，为什么大家都在小红书做游戏宣发 | 游戏风向标",
+        "url": "https://36kr.com/p/3905036594628224",
+        "source": "36氪",
+        "time": "2026-07-21 07:25"
+      },
+      {
+        "title": "已经不可再忽视的新阵地。",
+        "url": "https://36kr.com/p/3905036594628224",
+        "source": "36氪",
+        "time": "2026-07-21 07:25"
+      },
+      {
+        "title": "贵州为啥要开这么多有“酒”的酒店？",
+        "url": "https://36kr.com/p/3904870162089094",
+        "source": "36氪",
+        "time": "2026-07-21 07:25"
+      },
+      {
+        "title": "酒和酒店是天然CP吗？",
+        "url": "https://36kr.com/p/3904870162089094",
+        "source": "36氪",
+        "time": "2026-07-21 07:25"
+      },
+      {
         "title": "瑞士工程科技企业RTDT Laboratories研发无线智能传感贴片，实时监测风机叶片运行状态 | 瑞士创新100强",
         "url": "https://36kr.com/p/3904882386322821",
         "source": "36氪",
-        "time": "2026-07-21 04:38"
+        "time": "2026-07-21 07:25"
       },
       {
-        "title": "数分钟内即可完成部署。",
-        "url": "https://36kr.com/p/3904882386322821",
-        "source": "36氪",
-        "time": "2026-07-21 04:38"
-      },
-      {
-        "title": "证券之星第四届ESG新标杆企业奖颁奖活动圆满收官",
-        "url": "https://36kr.com/p/3904879444117127",
-        "source": "36氪",
-        "time": "2026-07-21 04:38"
-      },
-      {
-        "title": "2026证券之星ESG研讨会落幕，颁奖并论行业发展",
-        "url": "https://36kr.com/p/3904879444117127",
-        "source": "36氪",
-        "time": "2026-07-21 04:38"
-      },
-      {
-        "title": "在地下，他们正在撕开大公司的缝隙",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876943.html",
+        "title": "沉寂14年的病毒突然苏醒，两个月“杀了”828人",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876702.html",
         "source": "虎嗅",
-        "time": "2026-07-21 04:38"
+        "time": "2026-07-21 07:25"
       },
       {
-        "title": "撒娇男孩，成功俘获全世界女人的芳心",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876792.html",
+        "title": "谢贤离世：一个浪子和香港影视的七十年",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876805.html",
         "source": "虎嗅",
-        "time": "2026-07-21 04:38"
+        "time": "2026-07-21 07:25"
       }
     ]
   },
   "raw_news": [
     {
+      "title": "小产品逆袭，大产品落位，为什么大家都在小红书做游戏宣发 | 游戏风向标",
+      "url": "https://36kr.com/p/3905036594628224",
+      "source": "36氪",
+      "time": "2026-07-21 07:25"
+    },
+    {
+      "title": "已经不可再忽视的新阵地。",
+      "url": "https://36kr.com/p/3905036594628224",
+      "source": "36氪",
+      "time": "2026-07-21 07:25"
+    },
+    {
+      "title": "贵州为啥要开这么多有“酒”的酒店？",
+      "url": "https://36kr.com/p/3904870162089094",
+      "source": "36氪",
+      "time": "2026-07-21 07:25"
+    },
+    {
+      "title": "酒和酒店是天然CP吗？",
+      "url": "https://36kr.com/p/3904870162089094",
+      "source": "36氪",
+      "time": "2026-07-21 07:25"
+    },
+    {
       "title": "瑞士工程科技企业RTDT Laboratories研发无线智能传感贴片，实时监测风机叶片运行状态 | 瑞士创新100强",
       "url": "https://36kr.com/p/3904882386322821",
       "source": "36氪",
-      "time": "2026-07-21 04:38"
+      "time": "2026-07-21 07:25"
     },
     {
-      "title": "数分钟内即可完成部署。",
-      "url": "https://36kr.com/p/3904882386322821",
-      "source": "36氪",
-      "time": "2026-07-21 04:38"
-    },
-    {
-      "title": "证券之星第四届ESG新标杆企业奖颁奖活动圆满收官",
-      "url": "https://36kr.com/p/3904879444117127",
-      "source": "36氪",
-      "time": "2026-07-21 04:38"
-    },
-    {
-      "title": "2026证券之星ESG研讨会落幕，颁奖并论行业发展",
-      "url": "https://36kr.com/p/3904879444117127",
-      "source": "36氪",
-      "time": "2026-07-21 04:38"
-    },
-    {
-      "title": "亮相WAIC2026：从核心部件到场景方案，华沿机器人秀出“具身智能”硬实力",
-      "url": "https://36kr.com/p/3903593981626240",
-      "source": "36氪",
-      "time": "2026-07-21 04:38"
-    },
-    {
-      "title": "在地下，他们正在撕开大公司的缝隙",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876943.html",
+      "title": "沉寂14年的病毒突然苏醒，两个月“杀了”828人",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876702.html",
       "source": "虎嗅",
-      "time": "2026-07-21 04:38"
+      "time": "2026-07-21 07:25"
     },
     {
-      "title": "撒娇男孩，成功俘获全世界女人的芳心",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876792.html",
+      "title": "谢贤离世：一个浪子和香港影视的七十年",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876805.html",
       "source": "虎嗅",
-      "time": "2026-07-21 04:38"
+      "time": "2026-07-21 07:25"
     }
   ]
 }
