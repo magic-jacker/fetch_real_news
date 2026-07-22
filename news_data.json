@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-22T01:14:52.608429",
+  "timestamp": "2026-07-22T04:39:36.928704",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -13,24 +13,30 @@
     "finance": [],
     "industry": [
       {
-        "title": "全链条“税补”大退潮，新能源车要涨价了？",
-        "url": "https://36kr.com/p/3906020575352201",
+        "title": "连达芬奇手术机器人都开始降本了",
+        "url": "https://36kr.com/p/3906256021690244",
         "source": "36氪",
-        "time": "2026-07-22 01:14"
+        "time": "2026-07-22 04:39"
+      },
+      {
+        "title": "AI PC过时了，AC一夜爆发，Agent真的需要专属电脑？",
+        "url": "https://36kr.com/p/3906182214424194",
+        "source": "36氪",
+        "time": "2026-07-22 04:39"
       }
     ],
     "tech": [
       {
-        "title": "AMD AI大会前英伟达秀亮CPU“战果”，Vera Rubin全面量产，超300合作伙伴部署",
-        "url": "https://36kr.com/p/3906110005990533",
+        "title": "我在WAIC 2026看见的十大趋势",
+        "url": "https://36kr.com/p/3906270567699592",
         "source": "36氪",
-        "time": "2026-07-22 01:14"
+        "time": "2026-07-22 04:39"
       },
       {
-        "title": "英伟达正在把战火从GPU市场烧向CPU。",
-        "url": "https://36kr.com/p/3906110005990533",
+        "title": "人，是AI发展最宝贵的资源",
+        "url": "https://36kr.com/p/3906270567699592",
         "source": "36氪",
-        "time": "2026-07-22 01:14"
+        "time": "2026-07-22 04:39"
       }
     ],
     "byd": [],
@@ -38,73 +44,67 @@
     "fitness": [],
     "other": [
       {
-        "title": "抹茶火了，年轻人为什么爱上这杯「绿色咖啡」？",
-        "url": "https://36kr.com/p/3906112495506566",
+        "title": "一份亮眼到近乎无可挑剔的财报，为何换来的却是资本市场的当头一棒?",
+        "url": "https://36kr.com/p/3906256021690244",
         "source": "36氪",
-        "time": "2026-07-22 01:14"
+        "time": "2026-07-22 04:39"
       },
       {
-        "title": "它是食品饮料消费进入健康管理阶段之后，市场给出的一个新的答案。",
-        "url": "https://36kr.com/p/3906112495506566",
-        "source": "36氪",
-        "time": "2026-07-22 01:14"
-      },
-      {
-        "title": "10年7相：英国实力与野心之错位",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4877209.html",
+        "title": "怎么一窝蜂就来了这么多“超节点”？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876918.html",
         "source": "虎嗅",
-        "time": "2026-07-22 01:14"
+        "time": "2026-07-22 04:39"
       },
       {
-        "title": "刺激消费：让动物精神回归",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4877217.html",
+        "title": "当共识越来越快，年轻投资人在赌什么？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4877273.html",
         "source": "虎嗅",
-        "time": "2026-07-22 01:14"
+        "time": "2026-07-22 04:39"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "AMD AI大会前英伟达秀亮CPU“战果”，Vera Rubin全面量产，超300合作伙伴部署",
-      "url": "https://36kr.com/p/3906110005990533",
+      "title": "连达芬奇手术机器人都开始降本了",
+      "url": "https://36kr.com/p/3906256021690244",
       "source": "36氪",
-      "time": "2026-07-22 01:14"
+      "time": "2026-07-22 04:39"
     },
     {
-      "title": "英伟达正在把战火从GPU市场烧向CPU。",
-      "url": "https://36kr.com/p/3906110005990533",
+      "title": "一份亮眼到近乎无可挑剔的财报，为何换来的却是资本市场的当头一棒?",
+      "url": "https://36kr.com/p/3906256021690244",
       "source": "36氪",
-      "time": "2026-07-22 01:14"
+      "time": "2026-07-22 04:39"
     },
     {
-      "title": "抹茶火了，年轻人为什么爱上这杯「绿色咖啡」？",
-      "url": "https://36kr.com/p/3906112495506566",
+      "title": "我在WAIC 2026看见的十大趋势",
+      "url": "https://36kr.com/p/3906270567699592",
       "source": "36氪",
-      "time": "2026-07-22 01:14"
+      "time": "2026-07-22 04:39"
     },
     {
-      "title": "它是食品饮料消费进入健康管理阶段之后，市场给出的一个新的答案。",
-      "url": "https://36kr.com/p/3906112495506566",
+      "title": "人，是AI发展最宝贵的资源",
+      "url": "https://36kr.com/p/3906270567699592",
       "source": "36氪",
-      "time": "2026-07-22 01:14"
+      "time": "2026-07-22 04:39"
     },
     {
-      "title": "全链条“税补”大退潮，新能源车要涨价了？",
-      "url": "https://36kr.com/p/3906020575352201",
+      "title": "AI PC过时了，AC一夜爆发，Agent真的需要专属电脑？",
+      "url": "https://36kr.com/p/3906182214424194",
       "source": "36氪",
-      "time": "2026-07-22 01:14"
+      "time": "2026-07-22 04:39"
     },
     {
-      "title": "10年7相：英国实力与野心之错位",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4877209.html",
+      "title": "怎么一窝蜂就来了这么多“超节点”？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876918.html",
       "source": "虎嗅",
-      "time": "2026-07-22 01:14"
+      "time": "2026-07-22 04:39"
     },
     {
-      "title": "刺激消费：让动物精神回归",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4877217.html",
+      "title": "当共识越来越快，年轻投资人在赌什么？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4877273.html",
       "source": "虎嗅",
-      "time": "2026-07-22 01:14"
+      "time": "2026-07-22 04:39"
     }
   ]
 }
