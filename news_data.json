@@ -1,42 +1,41 @@
 {
-  "timestamp": "2026-07-22T04:39:36.928704",
-  "total": 7,
+  "timestamp": "2026-07-22T07:27:06.250637",
+  "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "连达芬奇手术机器人都开始降本了",
-        "url": "https://36kr.com/p/3906256021690244",
-        "source": "36氪",
-        "time": "2026-07-22 04:39"
-      },
-      {
-        "title": "AI PC过时了，AC一夜爆发，Agent真的需要专属电脑？",
-        "url": "https://36kr.com/p/3906182214424194",
-        "source": "36氪",
-        "time": "2026-07-22 04:39"
-      }
-    ],
+    "industry": [],
     "tech": [
       {
-        "title": "我在WAIC 2026看见的十大趋势",
-        "url": "https://36kr.com/p/3906270567699592",
+        "title": "当AI画得像真的一样，我们拿什么证明它是假的？这招够狠",
+        "url": "https://36kr.com/p/3906293372376193",
         "source": "36氪",
-        "time": "2026-07-22 04:39"
+        "time": "2026-07-22 07:26"
       },
       {
-        "title": "人，是AI发展最宝贵的资源",
-        "url": "https://36kr.com/p/3906270567699592",
+        "title": "新模靠边站，谷歌Gemini 4要来了，公司史上最大炼模启动",
+        "url": "https://36kr.com/p/3906321496872065",
         "source": "36氪",
-        "time": "2026-07-22 04:39"
+        "time": "2026-07-22 07:26"
+      },
+      {
+        "title": "Gemini 3.5 Pro还在测试中。",
+        "url": "https://36kr.com/p/3906321496872065",
+        "source": "36氪",
+        "time": "2026-07-22 07:26"
+      },
+      {
+        "title": "硬氪首发 | 前华为智驾骨干入局AI船舶，已获亿元订单，专攻休闲艇",
+        "url": "https://36kr.com/p/3906468088042886",
+        "source": "36氪",
+        "time": "2026-07-22 07:26"
       }
     ],
     "byd": [],
@@ -44,67 +43,55 @@
     "fitness": [],
     "other": [
       {
-        "title": "一份亮眼到近乎无可挑剔的财报，为何换来的却是资本市场的当头一棒?",
-        "url": "https://36kr.com/p/3906256021690244",
+        "title": "人类记录信息的方式一直在变化，但我们对「真实性」的需求从未改变",
+        "url": "https://36kr.com/p/3906293372376193",
         "source": "36氪",
-        "time": "2026-07-22 04:39"
+        "time": "2026-07-22 07:26"
       },
       {
-        "title": "怎么一窝蜂就来了这么多“超节点”？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876918.html",
+        "title": "一位游荡者的新疆消费观察",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4877301.html",
         "source": "虎嗅",
-        "time": "2026-07-22 04:39"
-      },
-      {
-        "title": "当共识越来越快，年轻投资人在赌什么？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4877273.html",
-        "source": "虎嗅",
-        "time": "2026-07-22 04:39"
+        "time": "2026-07-22 07:27"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "连达芬奇手术机器人都开始降本了",
-      "url": "https://36kr.com/p/3906256021690244",
+      "title": "当AI画得像真的一样，我们拿什么证明它是假的？这招够狠",
+      "url": "https://36kr.com/p/3906293372376193",
       "source": "36氪",
-      "time": "2026-07-22 04:39"
+      "time": "2026-07-22 07:26"
     },
     {
-      "title": "一份亮眼到近乎无可挑剔的财报，为何换来的却是资本市场的当头一棒?",
-      "url": "https://36kr.com/p/3906256021690244",
+      "title": "人类记录信息的方式一直在变化，但我们对「真实性」的需求从未改变",
+      "url": "https://36kr.com/p/3906293372376193",
       "source": "36氪",
-      "time": "2026-07-22 04:39"
+      "time": "2026-07-22 07:26"
     },
     {
-      "title": "我在WAIC 2026看见的十大趋势",
-      "url": "https://36kr.com/p/3906270567699592",
+      "title": "新模靠边站，谷歌Gemini 4要来了，公司史上最大炼模启动",
+      "url": "https://36kr.com/p/3906321496872065",
       "source": "36氪",
-      "time": "2026-07-22 04:39"
+      "time": "2026-07-22 07:26"
     },
     {
-      "title": "人，是AI发展最宝贵的资源",
-      "url": "https://36kr.com/p/3906270567699592",
+      "title": "Gemini 3.5 Pro还在测试中。",
+      "url": "https://36kr.com/p/3906321496872065",
       "source": "36氪",
-      "time": "2026-07-22 04:39"
+      "time": "2026-07-22 07:26"
     },
     {
-      "title": "AI PC过时了，AC一夜爆发，Agent真的需要专属电脑？",
-      "url": "https://36kr.com/p/3906182214424194",
+      "title": "硬氪首发 | 前华为智驾骨干入局AI船舶，已获亿元订单，专攻休闲艇",
+      "url": "https://36kr.com/p/3906468088042886",
       "source": "36氪",
-      "time": "2026-07-22 04:39"
+      "time": "2026-07-22 07:26"
     },
     {
-      "title": "怎么一窝蜂就来了这么多“超节点”？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4876918.html",
+      "title": "一位游荡者的新疆消费观察",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4877301.html",
       "source": "虎嗅",
-      "time": "2026-07-22 04:39"
-    },
-    {
-      "title": "当共识越来越快，年轻投资人在赌什么？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4877273.html",
-      "source": "虎嗅",
-      "time": "2026-07-22 04:39"
+      "time": "2026-07-22 07:27"
     }
   ]
 }
