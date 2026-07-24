@@ -1,29 +1,37 @@
 {
-  "timestamp": "2026-07-24T01:17:28.063069",
-  "total": 6,
+  "timestamp": "2026-07-24T04:40:08.184179",
+  "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 4,
+    "36氪": 5,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
-    "industry": [],
+    "finance": [
+      {
+        "title": "文旅IPO潮背后：高负债、低转化，芒果系IP也难救？",
+        "url": "https://36kr.com/p/3908314790090116",
+        "source": "36氪",
+        "time": "2026-07-24 04:40"
+      }
+    ],
+    "industry": [
+      {
+        "title": "首提“100%新能源外送”，决策层提出增加新能源消纳新办法",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4877808.html",
+        "source": "虎嗅",
+        "time": "2026-07-24 04:40"
+      }
+    ],
     "tech": [
       {
-        "title": "为什么现在游戏对AI更重要了",
-        "url": "https://36kr.com/p/3908807871026312",
-        "source": "36氪",
-        "time": "2026-07-24 01:17"
-      },
-      {
-        "title": "人工智能的快速发展正在从根本上重塑我们理解游戏价值的底层逻辑。游戏过去已经为AI的算力基础设施和算法发展提供了重要助力。",
-        "url": "https://36kr.com/p/3908807871026312",
-        "source": "36氪",
-        "time": "2026-07-24 01:17"
+        "title": "刚拿完菲尔兹奖，他扭头加盟OpenAI",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4877832.html",
+        "source": "虎嗅",
+        "time": "2026-07-24 04:40"
       }
     ],
     "byd": [],
@@ -31,67 +39,73 @@
     "fitness": [],
     "other": [
       {
-        "title": "感受别人的情绪也会有黑暗的一面。",
-        "url": "https://36kr.com/p/3908843554575491",
+        "title": "文旅+IP，增量不增利",
+        "url": "https://36kr.com/p/3908314790090116",
         "source": "36氪",
-        "time": "2026-07-24 01:17"
+        "time": "2026-07-24 04:40"
       },
       {
-        "title": "横扫一切的字节，为何偏偏啃不动付费网文？",
-        "url": "https://36kr.com/p/3908888136373385",
+        "title": "卖掉蓝瓶咖啡后，雀巢新帅继续“瘦身”：49亿欧元出售巴黎水等业务",
+        "url": "https://36kr.com/p/3909113118184837",
         "source": "36氪",
-        "time": "2026-07-24 01:17"
+        "time": "2026-07-24 04:40"
       },
       {
-        "title": "Kimi K3还有4天开源，美国人这次是真急眼了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4877795.html",
-        "source": "虎嗅",
-        "time": "2026-07-24 01:17"
+        "title": "新帅费耐睿改革初见成效",
+        "url": "https://36kr.com/p/3909113118184837",
+        "source": "36氪",
+        "time": "2026-07-24 04:40"
       },
       {
-        "title": "短期的故事一周内有头绪，聊点长期的话题",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4877805.html",
-        "source": "虎嗅",
-        "time": "2026-07-24 01:17"
+        "title": "7-Eleven杀入新鲜零食赛道",
+        "url": "https://36kr.com/p/3909104208123776",
+        "source": "36氪",
+        "time": "2026-07-24 04:40"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "为什么现在游戏对AI更重要了",
-      "url": "https://36kr.com/p/3908807871026312",
+      "title": "文旅IPO潮背后：高负债、低转化，芒果系IP也难救？",
+      "url": "https://36kr.com/p/3908314790090116",
       "source": "36氪",
-      "time": "2026-07-24 01:17"
+      "time": "2026-07-24 04:40"
     },
     {
-      "title": "人工智能的快速发展正在从根本上重塑我们理解游戏价值的底层逻辑。游戏过去已经为AI的算力基础设施和算法发展提供了重要助力。",
-      "url": "https://36kr.com/p/3908807871026312",
+      "title": "文旅+IP，增量不增利",
+      "url": "https://36kr.com/p/3908314790090116",
       "source": "36氪",
-      "time": "2026-07-24 01:17"
+      "time": "2026-07-24 04:40"
     },
     {
-      "title": "感受别人的情绪也会有黑暗的一面。",
-      "url": "https://36kr.com/p/3908843554575491",
+      "title": "卖掉蓝瓶咖啡后，雀巢新帅继续“瘦身”：49亿欧元出售巴黎水等业务",
+      "url": "https://36kr.com/p/3909113118184837",
       "source": "36氪",
-      "time": "2026-07-24 01:17"
+      "time": "2026-07-24 04:40"
     },
     {
-      "title": "横扫一切的字节，为何偏偏啃不动付费网文？",
-      "url": "https://36kr.com/p/3908888136373385",
+      "title": "新帅费耐睿改革初见成效",
+      "url": "https://36kr.com/p/3909113118184837",
       "source": "36氪",
-      "time": "2026-07-24 01:17"
+      "time": "2026-07-24 04:40"
     },
     {
-      "title": "Kimi K3还有4天开源，美国人这次是真急眼了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4877795.html",
+      "title": "7-Eleven杀入新鲜零食赛道",
+      "url": "https://36kr.com/p/3909104208123776",
+      "source": "36氪",
+      "time": "2026-07-24 04:40"
+    },
+    {
+      "title": "刚拿完菲尔兹奖，他扭头加盟OpenAI",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4877832.html",
       "source": "虎嗅",
-      "time": "2026-07-24 01:17"
+      "time": "2026-07-24 04:40"
     },
     {
-      "title": "短期的故事一周内有头绪，聊点长期的话题",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4877805.html",
+      "title": "首提“100%新能源外送”，决策层提出增加新能源消纳新办法",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4877808.html",
       "source": "虎嗅",
-      "time": "2026-07-24 01:17"
+      "time": "2026-07-24 04:40"
     }
   ]
 }
