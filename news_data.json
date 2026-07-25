@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-25T09:14:55.806881",
-  "total": 6,
+  "timestamp": "2026-07-25T10:49:03.037338",
+  "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 4,
+    "36氪": 5,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
@@ -17,13 +17,19 @@
         "title": "OpenAI下一代模型，被曝8月提前上线",
         "url": "https://36kr.com/p/3910793600734599",
         "source": "36氪",
-        "time": "2026-07-25 09:14"
+        "time": "2026-07-25 10:48"
       },
       {
         "title": "AI给「未来的自己」留字条，官方迟钝一周才发觉",
         "url": "https://36kr.com/p/3910793600734599",
         "source": "36氪",
-        "time": "2026-07-25 09:14"
+        "time": "2026-07-25 10:48"
+      },
+      {
+        "title": "从蛋形足疗仪到AI睡眠垫，健康硬件如何走出“一锤子买卖”？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878127.html",
+        "source": "虎嗅",
+        "time": "2026-07-25 10:49"
       }
     ],
     "byd": [],
@@ -31,67 +37,73 @@
     "fitness": [],
     "other": [
       {
-        "title": "东方甄选闷声赚麻了，但还不足以躺赢。",
-        "url": "https://36kr.com/p/3910672756365187",
+        "title": "拉升再暴跌，赛道只景气了一个月？",
+        "url": "https://36kr.com/p/3910831434667140",
         "source": "36氪",
-        "time": "2026-07-25 09:14"
+        "time": "2026-07-25 10:48"
       },
       {
-        "title": "王虹的生活极度自律，熟悉她的人形容她投入数学的状态“像修女或精英运动员”。",
-        "url": "https://36kr.com/p/3910675206739077",
+        "title": "贝莱德又掏了3000亿",
+        "url": "https://36kr.com/p/3910798327469441",
         "source": "36氪",
-        "time": "2026-07-25 09:14"
+        "time": "2026-07-25 10:48"
       },
       {
-        "title": "CPU卖爆了，英特尔却像那个干什么都辛酸的中年人",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878106.html",
-        "source": "虎嗅",
-        "time": "2026-07-25 09:14"
+        "title": "买下了世界上最贵的数据中心。",
+        "url": "https://36kr.com/p/3910798327469441",
+        "source": "36氪",
+        "time": "2026-07-25 10:48"
       },
       {
-        "title": "韩国散户，开始啃12元的面包了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878017.html",
+        "title": "携程罚单的真正影响，不是酒店变便宜，是平台“抽税权”的终结",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878139.html",
         "source": "虎嗅",
-        "time": "2026-07-25 09:14"
+        "time": "2026-07-25 10:49"
       }
     ]
   },
   "raw_news": [
     {
+      "title": "拉升再暴跌，赛道只景气了一个月？",
+      "url": "https://36kr.com/p/3910831434667140",
+      "source": "36氪",
+      "time": "2026-07-25 10:48"
+    },
+    {
+      "title": "贝莱德又掏了3000亿",
+      "url": "https://36kr.com/p/3910798327469441",
+      "source": "36氪",
+      "time": "2026-07-25 10:48"
+    },
+    {
+      "title": "买下了世界上最贵的数据中心。",
+      "url": "https://36kr.com/p/3910798327469441",
+      "source": "36氪",
+      "time": "2026-07-25 10:48"
+    },
+    {
       "title": "OpenAI下一代模型，被曝8月提前上线",
       "url": "https://36kr.com/p/3910793600734599",
       "source": "36氪",
-      "time": "2026-07-25 09:14"
+      "time": "2026-07-25 10:48"
     },
     {
       "title": "AI给「未来的自己」留字条，官方迟钝一周才发觉",
       "url": "https://36kr.com/p/3910793600734599",
       "source": "36氪",
-      "time": "2026-07-25 09:14"
+      "time": "2026-07-25 10:48"
     },
     {
-      "title": "东方甄选闷声赚麻了，但还不足以躺赢。",
-      "url": "https://36kr.com/p/3910672756365187",
-      "source": "36氪",
-      "time": "2026-07-25 09:14"
-    },
-    {
-      "title": "王虹的生活极度自律，熟悉她的人形容她投入数学的状态“像修女或精英运动员”。",
-      "url": "https://36kr.com/p/3910675206739077",
-      "source": "36氪",
-      "time": "2026-07-25 09:14"
-    },
-    {
-      "title": "CPU卖爆了，英特尔却像那个干什么都辛酸的中年人",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878106.html",
+      "title": "从蛋形足疗仪到AI睡眠垫，健康硬件如何走出“一锤子买卖”？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878127.html",
       "source": "虎嗅",
-      "time": "2026-07-25 09:14"
+      "time": "2026-07-25 10:49"
     },
     {
-      "title": "韩国散户，开始啃12元的面包了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878017.html",
+      "title": "携程罚单的真正影响，不是酒店变便宜，是平台“抽税权”的终结",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878139.html",
       "source": "虎嗅",
-      "time": "2026-07-25 09:14"
+      "time": "2026-07-25 10:49"
     }
   ]
 }
