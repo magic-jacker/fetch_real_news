@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-25T01:18:23.530533",
+  "timestamp": "2026-07-25T04:35:15.781440",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -11,100 +11,98 @@
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "Agent手机的三条路线与一场权力游戏",
-        "url": "https://36kr.com/p/3909566283306372",
-        "source": "36氪",
-        "time": "2026-07-25 01:18"
-      }
-    ],
-    "tech": [
-      {
-        "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
-        "url": "https://36kr.com/p/3910351337821318",
-        "source": "36氪",
-        "time": "2026-07-25 01:18"
-      },
-      {
-        "title": "通篇不提中国AI的公开信",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878067.html",
-        "source": "虎嗅",
-        "time": "2026-07-25 01:18"
-      }
-    ],
+    "industry": [],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "距上次中国企业家登上该刊物封面，已过去整整8年。",
-        "url": "https://36kr.com/p/3910351337821318",
+        "title": "买不起大疆、影石的年轻人，排队租运动相机",
+        "url": "https://36kr.com/p/3909822802580872",
         "source": "36氪",
-        "time": "2026-07-25 01:18"
+        "time": "2026-07-25 04:34"
       },
       {
-        "title": "博学的人身上的三种学习特质",
-        "url": "https://36kr.com/p/3762348325716743",
+        "title": "05后的“高考三件套”不香了？",
+        "url": "https://36kr.com/p/3909822802580872",
         "source": "36氪",
-        "time": "2026-07-25 01:18"
+        "time": "2026-07-25 04:34"
       },
       {
-        "title": "追随热忱、输出教学、刻意跨界联结三大核心特质，能帮助你打破被动学习的固有模式。",
-        "url": "https://36kr.com/p/3762348325716743",
+        "title": "江淮汽车，成了高端但“埋”了牛散",
+        "url": "https://36kr.com/p/3910368326391681",
         "source": "36氪",
-        "time": "2026-07-25 01:18"
+        "time": "2026-07-25 04:34"
       },
       {
-        "title": "一个中部普通地级市，凭什么敢争“万亿”？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878038.html",
+        "title": "尊界售价已经上天，但江淮利润却没落地",
+        "url": "https://36kr.com/p/3910368326391681",
+        "source": "36氪",
+        "time": "2026-07-25 04:34"
+      },
+      {
+        "title": "被你质疑“不行”的燃油车，又杀回来了",
+        "url": "https://36kr.com/p/3910332145407110",
+        "source": "36氪",
+        "time": "2026-07-25 04:34"
+      },
+      {
+        "title": "CPU卖爆了，英特尔却像那个干什么都辛酸的中年人",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878106.html",
         "source": "虎嗅",
-        "time": "2026-07-25 01:18"
+        "time": "2026-07-25 04:35"
+      },
+      {
+        "title": "大厂员工从来不是中产，只是高薪耗材！",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878092.html",
+        "source": "虎嗅",
+        "time": "2026-07-25 04:35"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
-      "url": "https://36kr.com/p/3910351337821318",
+      "title": "买不起大疆、影石的年轻人，排队租运动相机",
+      "url": "https://36kr.com/p/3909822802580872",
       "source": "36氪",
-      "time": "2026-07-25 01:18"
+      "time": "2026-07-25 04:34"
     },
     {
-      "title": "距上次中国企业家登上该刊物封面，已过去整整8年。",
-      "url": "https://36kr.com/p/3910351337821318",
+      "title": "05后的“高考三件套”不香了？",
+      "url": "https://36kr.com/p/3909822802580872",
       "source": "36氪",
-      "time": "2026-07-25 01:18"
+      "time": "2026-07-25 04:34"
     },
     {
-      "title": "博学的人身上的三种学习特质",
-      "url": "https://36kr.com/p/3762348325716743",
+      "title": "江淮汽车，成了高端但“埋”了牛散",
+      "url": "https://36kr.com/p/3910368326391681",
       "source": "36氪",
-      "time": "2026-07-25 01:18"
+      "time": "2026-07-25 04:34"
     },
     {
-      "title": "追随热忱、输出教学、刻意跨界联结三大核心特质，能帮助你打破被动学习的固有模式。",
-      "url": "https://36kr.com/p/3762348325716743",
+      "title": "尊界售价已经上天，但江淮利润却没落地",
+      "url": "https://36kr.com/p/3910368326391681",
       "source": "36氪",
-      "time": "2026-07-25 01:18"
+      "time": "2026-07-25 04:34"
     },
     {
-      "title": "Agent手机的三条路线与一场权力游戏",
-      "url": "https://36kr.com/p/3909566283306372",
+      "title": "被你质疑“不行”的燃油车，又杀回来了",
+      "url": "https://36kr.com/p/3910332145407110",
       "source": "36氪",
-      "time": "2026-07-25 01:18"
+      "time": "2026-07-25 04:34"
     },
     {
-      "title": "通篇不提中国AI的公开信",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878067.html",
+      "title": "CPU卖爆了，英特尔却像那个干什么都辛酸的中年人",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878106.html",
       "source": "虎嗅",
-      "time": "2026-07-25 01:18"
+      "time": "2026-07-25 04:35"
     },
     {
-      "title": "一个中部普通地级市，凭什么敢争“万亿”？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878038.html",
+      "title": "大厂员工从来不是中产，只是高薪耗材！",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878092.html",
       "source": "虎嗅",
-      "time": "2026-07-25 01:18"
+      "time": "2026-07-25 04:35"
     }
   ]
 }
