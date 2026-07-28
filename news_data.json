@@ -1,43 +1,23 @@
 {
-  "timestamp": "2026-07-28T07:28:11.906112",
-  "total": 6,
+  "timestamp": "2026-07-28T10:03:19.885048",
+  "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
-      {
-        "title": "海力士登陆美股不到三周破发，原因找到了",
-        "url": "https://36kr.com/p/3914947934721409",
-        "source": "36氪",
-        "time": "2026-07-28 07:28"
-      }
-    ],
-    "industry": [
-      {
-        "title": "多重因素引发半导体板块抛售，美韩科技股联动风险加剧",
-        "url": "https://36kr.com/p/3914947934721409",
-        "source": "36氪",
-        "time": "2026-07-28 07:28"
-      }
-    ],
+    "finance": [],
+    "industry": [],
     "tech": [
       {
-        "title": "AI视频生成7月大战：资本超200亿扎堆入场，谁进决赛圈了？",
-        "url": "https://36kr.com/p/3914940463601029",
+        "title": "“我的文字不是AI的免费午餐”",
+        "url": "https://36kr.com/p/3915064525608320",
         "source": "36氪",
-        "time": "2026-07-28 07:28"
-      },
-      {
-        "title": "七月还没过完，AI视频生成赛道已经热到发烫。",
-        "url": "https://36kr.com/p/3914940463601029",
-        "source": "36氪",
-        "time": "2026-07-28 07:28"
+        "time": "2026-07-28 10:03"
       }
     ],
     "byd": [],
@@ -45,55 +25,85 @@
     "fitness": [],
     "other": [
       {
-        "title": "从“学渣”到狂卖1.68亿册，东野圭吾吃透人性生意",
-        "url": "https://36kr.com/p/3914927980057993",
+        "title": "Anthropic被罚15亿美元，给全球数据“白嫖”敲响警钟",
+        "url": "https://36kr.com/p/3915064525608320",
         "source": "36氪",
-        "time": "2026-07-28 07:28"
+        "time": "2026-07-28 10:03"
       },
       {
-        "title": "抗衰界的洗澡水，有点贵",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4877980.html",
+        "title": "LeCun连续转发，新作VISReg攻克JEPA世界模型「表征坍塌」核心难题",
+        "url": "https://36kr.com/p/3915058026894727",
+        "source": "36氪",
+        "time": "2026-07-28 10:03"
+      },
+      {
+        "title": "VISReg解耦尺度形状正则，解决SSL表征坍塌，性能优异。",
+        "url": "https://36kr.com/p/3915058026894727",
+        "source": "36氪",
+        "time": "2026-07-28 10:03"
+      },
+      {
+        "title": "长鑫科技上市，拯救了一家保险公司",
+        "url": "https://36kr.com/p/3915054079972480",
+        "source": "36氪",
+        "time": "2026-07-28 10:03"
+      },
+      {
+        "title": "国产光刻机突传年产5台，张江高科终于等到了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878771.html",
         "source": "虎嗅",
-        "time": "2026-07-28 07:28"
+        "time": "2026-07-28 10:03"
+      },
+      {
+        "title": "全球大跌，市场在等什么？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878740.html",
+        "source": "虎嗅",
+        "time": "2026-07-28 10:03"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "海力士登陆美股不到三周破发，原因找到了",
-      "url": "https://36kr.com/p/3914947934721409",
+      "title": "Anthropic被罚15亿美元，给全球数据“白嫖”敲响警钟",
+      "url": "https://36kr.com/p/3915064525608320",
       "source": "36氪",
-      "time": "2026-07-28 07:28"
+      "time": "2026-07-28 10:03"
     },
     {
-      "title": "多重因素引发半导体板块抛售，美韩科技股联动风险加剧",
-      "url": "https://36kr.com/p/3914947934721409",
+      "title": "“我的文字不是AI的免费午餐”",
+      "url": "https://36kr.com/p/3915064525608320",
       "source": "36氪",
-      "time": "2026-07-28 07:28"
+      "time": "2026-07-28 10:03"
     },
     {
-      "title": "AI视频生成7月大战：资本超200亿扎堆入场，谁进决赛圈了？",
-      "url": "https://36kr.com/p/3914940463601029",
+      "title": "LeCun连续转发，新作VISReg攻克JEPA世界模型「表征坍塌」核心难题",
+      "url": "https://36kr.com/p/3915058026894727",
       "source": "36氪",
-      "time": "2026-07-28 07:28"
+      "time": "2026-07-28 10:03"
     },
     {
-      "title": "七月还没过完，AI视频生成赛道已经热到发烫。",
-      "url": "https://36kr.com/p/3914940463601029",
+      "title": "VISReg解耦尺度形状正则，解决SSL表征坍塌，性能优异。",
+      "url": "https://36kr.com/p/3915058026894727",
       "source": "36氪",
-      "time": "2026-07-28 07:28"
+      "time": "2026-07-28 10:03"
     },
     {
-      "title": "从“学渣”到狂卖1.68亿册，东野圭吾吃透人性生意",
-      "url": "https://36kr.com/p/3914927980057993",
+      "title": "长鑫科技上市，拯救了一家保险公司",
+      "url": "https://36kr.com/p/3915054079972480",
       "source": "36氪",
-      "time": "2026-07-28 07:28"
+      "time": "2026-07-28 10:03"
     },
     {
-      "title": "抗衰界的洗澡水，有点贵",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4877980.html",
+      "title": "国产光刻机突传年产5台，张江高科终于等到了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878771.html",
       "source": "虎嗅",
-      "time": "2026-07-28 07:28"
+      "time": "2026-07-28 10:03"
+    },
+    {
+      "title": "全球大跌，市场在等什么？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878740.html",
+      "source": "虎嗅",
+      "time": "2026-07-28 10:03"
     }
   ]
 }
