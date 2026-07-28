@@ -1,23 +1,42 @@
 {
-  "timestamp": "2026-07-28T10:03:19.885048",
+  "timestamp": "2026-07-28T12:17:40.651376",
   "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [],
+    "industry": [
+      {
+        "title": "全球芯片首破1.5万亿美元，SIA最新报告全解读",
+        "url": "https://36kr.com/p/3915125234537606",
+        "source": "36氪",
+        "time": "2026-07-28 12:17"
+      },
+      {
+        "title": "53.4%！美国半导体份额重回1984年高点。",
+        "url": "https://36kr.com/p/3915125234537606",
+        "source": "36氪",
+        "time": "2026-07-28 12:17"
+      }
+    ],
     "tech": [
       {
-        "title": "“我的文字不是AI的免费午餐”",
-        "url": "https://36kr.com/p/3915064525608320",
+        "title": "他让GPT-5.6 Sol连跑33小时攻关费马大定理，被系统强制终止",
+        "url": "https://36kr.com/p/3915198304245121",
         "source": "36氪",
-        "time": "2026-07-28 10:03"
+        "time": "2026-07-28 12:17"
+      },
+      {
+        "title": "播放量超2亿，吸粉几十万，第一代AI明星出现了？",
+        "url": "https://36kr.com/p/3915199790355593",
+        "source": "36氪",
+        "time": "2026-07-28 12:17"
       }
     ],
     "byd": [],
@@ -25,85 +44,67 @@
     "fitness": [],
     "other": [
       {
-        "title": "Anthropic被罚15亿美元，给全球数据“白嫖”敲响警钟",
-        "url": "https://36kr.com/p/3915064525608320",
+        "title": "一直让模型「继续」，真能攻克数学难题吗？",
+        "url": "https://36kr.com/p/3915198304245121",
         "source": "36氪",
-        "time": "2026-07-28 10:03"
+        "time": "2026-07-28 12:17"
       },
       {
-        "title": "LeCun连续转发，新作VISReg攻克JEPA世界模型「表征坍塌」核心难题",
-        "url": "https://36kr.com/p/3915058026894727",
-        "source": "36氪",
-        "time": "2026-07-28 10:03"
-      },
-      {
-        "title": "VISReg解耦尺度形状正则，解决SSL表征坍塌，性能优异。",
-        "url": "https://36kr.com/p/3915058026894727",
-        "source": "36氪",
-        "time": "2026-07-28 10:03"
-      },
-      {
-        "title": "长鑫科技上市，拯救了一家保险公司",
-        "url": "https://36kr.com/p/3915054079972480",
-        "source": "36氪",
-        "time": "2026-07-28 10:03"
-      },
-      {
-        "title": "国产光刻机突传年产5台，张江高科终于等到了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878771.html",
+        "title": "哪些北大老师为王虹写了去法国的推荐信？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878787.html",
         "source": "虎嗅",
-        "time": "2026-07-28 10:03"
+        "time": "2026-07-28 12:17"
       },
       {
         "title": "全球大跌，市场在等什么？",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878740.html",
         "source": "虎嗅",
-        "time": "2026-07-28 10:03"
+        "time": "2026-07-28 12:17"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "Anthropic被罚15亿美元，给全球数据“白嫖”敲响警钟",
-      "url": "https://36kr.com/p/3915064525608320",
+      "title": "他让GPT-5.6 Sol连跑33小时攻关费马大定理，被系统强制终止",
+      "url": "https://36kr.com/p/3915198304245121",
       "source": "36氪",
-      "time": "2026-07-28 10:03"
+      "time": "2026-07-28 12:17"
     },
     {
-      "title": "“我的文字不是AI的免费午餐”",
-      "url": "https://36kr.com/p/3915064525608320",
+      "title": "一直让模型「继续」，真能攻克数学难题吗？",
+      "url": "https://36kr.com/p/3915198304245121",
       "source": "36氪",
-      "time": "2026-07-28 10:03"
+      "time": "2026-07-28 12:17"
     },
     {
-      "title": "LeCun连续转发，新作VISReg攻克JEPA世界模型「表征坍塌」核心难题",
-      "url": "https://36kr.com/p/3915058026894727",
+      "title": "播放量超2亿，吸粉几十万，第一代AI明星出现了？",
+      "url": "https://36kr.com/p/3915199790355593",
       "source": "36氪",
-      "time": "2026-07-28 10:03"
+      "time": "2026-07-28 12:17"
     },
     {
-      "title": "VISReg解耦尺度形状正则，解决SSL表征坍塌，性能优异。",
-      "url": "https://36kr.com/p/3915058026894727",
+      "title": "全球芯片首破1.5万亿美元，SIA最新报告全解读",
+      "url": "https://36kr.com/p/3915125234537606",
       "source": "36氪",
-      "time": "2026-07-28 10:03"
+      "time": "2026-07-28 12:17"
     },
     {
-      "title": "长鑫科技上市，拯救了一家保险公司",
-      "url": "https://36kr.com/p/3915054079972480",
+      "title": "53.4%！美国半导体份额重回1984年高点。",
+      "url": "https://36kr.com/p/3915125234537606",
       "source": "36氪",
-      "time": "2026-07-28 10:03"
+      "time": "2026-07-28 12:17"
     },
     {
-      "title": "国产光刻机突传年产5台，张江高科终于等到了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878771.html",
+      "title": "哪些北大老师为王虹写了去法国的推荐信？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878787.html",
       "source": "虎嗅",
-      "time": "2026-07-28 10:03"
+      "time": "2026-07-28 12:17"
     },
     {
       "title": "全球大跌，市场在等什么？",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878740.html",
       "source": "虎嗅",
-      "time": "2026-07-28 10:03"
+      "time": "2026-07-28 12:17"
     }
   ]
 }
