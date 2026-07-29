@@ -1,30 +1,41 @@
 {
-  "timestamp": "2026-07-29T04:37:59.160051",
+  "timestamp": "2026-07-29T07:34:35.451263",
   "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "有了 10000mAh 大电池，为什么手机电量还是不够用？",
-        "url": "https://36kr.com/p/3916201248484994",
-        "source": "36氪",
-        "time": "2026-07-29 04:37"
-      }
-    ],
+    "industry": [],
     "tech": [
       {
-        "title": "研究实锤：世界模型根本不懂物理定律，属于它的“ChatGPT时刻”还很远",
-        "url": "https://36kr.com/p/3916201629199753",
+        "title": "“盗版Win11要被封杀？”微软发布TPM新规引发恐慌，真相来了：其实没打算追究个人用户",
+        "url": "https://36kr.com/p/3916379116694917",
         "source": "36氪",
-        "time": "2026-07-29 04:37"
+        "time": "2026-07-29 07:34"
+      },
+      {
+        "title": "微软更关注的可能是：用户是否一直留在 Windows 生态中。",
+        "url": "https://36kr.com/p/3916379116694917",
+        "source": "36氪",
+        "time": "2026-07-29 07:34"
+      },
+      {
+        "title": "OpenAI和Anthropic罕见联手：AI，该踩刹车了",
+        "url": "https://36kr.com/p/3916380210720133",
+        "source": "36氪",
+        "time": "2026-07-29 07:34"
+      },
+      {
+        "title": "共同呼吁给AI发展减速",
+        "url": "https://36kr.com/p/3916380210720133",
+        "source": "36氪",
+        "time": "2026-07-29 07:34"
       }
     ],
     "byd": [],
@@ -32,79 +43,67 @@
     "fitness": [],
     "other": [
       {
-        "title": "SOTA视频模型的得分也仅为 0.473",
-        "url": "https://36kr.com/p/3916201629199753",
+        "title": "Claude最大规模MCP升级，月下载狂飙破4亿",
+        "url": "https://36kr.com/p/3916379879861638",
         "source": "36氪",
-        "time": "2026-07-29 04:37"
+        "time": "2026-07-29 07:34"
       },
       {
-        "title": "充电越快，电量越多，用得越多，电量越少。",
-        "url": "https://36kr.com/p/3916201248484994",
-        "source": "36氪",
-        "time": "2026-07-29 04:37"
-      },
-      {
-        "title": "订单翻了10倍，这家触觉感知公司又融资了",
-        "url": "https://36kr.com/p/3916194621222281",
-        "source": "36氪",
-        "time": "2026-07-29 04:37"
-      },
-      {
-        "title": "老板让我部署免费的K3，我先算了一笔“承担不起”的机房账",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878926.html",
+        "title": "海力士史上最赚钱的季度，为何仍“不及预期”？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878988.html",
         "source": "虎嗅",
-        "time": "2026-07-29 04:37"
+        "time": "2026-07-29 07:34"
       },
       {
         "title": "马斯克两个核心资产，正在同时遭遇市场拷问",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878977.html",
         "source": "虎嗅",
-        "time": "2026-07-29 04:37"
+        "time": "2026-07-29 07:34"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "研究实锤：世界模型根本不懂物理定律，属于它的“ChatGPT时刻”还很远",
-      "url": "https://36kr.com/p/3916201629199753",
+      "title": "“盗版Win11要被封杀？”微软发布TPM新规引发恐慌，真相来了：其实没打算追究个人用户",
+      "url": "https://36kr.com/p/3916379116694917",
       "source": "36氪",
-      "time": "2026-07-29 04:37"
+      "time": "2026-07-29 07:34"
     },
     {
-      "title": "SOTA视频模型的得分也仅为 0.473",
-      "url": "https://36kr.com/p/3916201629199753",
+      "title": "微软更关注的可能是：用户是否一直留在 Windows 生态中。",
+      "url": "https://36kr.com/p/3916379116694917",
       "source": "36氪",
-      "time": "2026-07-29 04:37"
+      "time": "2026-07-29 07:34"
     },
     {
-      "title": "有了 10000mAh 大电池，为什么手机电量还是不够用？",
-      "url": "https://36kr.com/p/3916201248484994",
+      "title": "OpenAI和Anthropic罕见联手：AI，该踩刹车了",
+      "url": "https://36kr.com/p/3916380210720133",
       "source": "36氪",
-      "time": "2026-07-29 04:37"
+      "time": "2026-07-29 07:34"
     },
     {
-      "title": "充电越快，电量越多，用得越多，电量越少。",
-      "url": "https://36kr.com/p/3916201248484994",
+      "title": "共同呼吁给AI发展减速",
+      "url": "https://36kr.com/p/3916380210720133",
       "source": "36氪",
-      "time": "2026-07-29 04:37"
+      "time": "2026-07-29 07:34"
     },
     {
-      "title": "订单翻了10倍，这家触觉感知公司又融资了",
-      "url": "https://36kr.com/p/3916194621222281",
+      "title": "Claude最大规模MCP升级，月下载狂飙破4亿",
+      "url": "https://36kr.com/p/3916379879861638",
       "source": "36氪",
-      "time": "2026-07-29 04:37"
+      "time": "2026-07-29 07:34"
     },
     {
-      "title": "老板让我部署免费的K3，我先算了一笔“承担不起”的机房账",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878926.html",
+      "title": "海力士史上最赚钱的季度，为何仍“不及预期”？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878988.html",
       "source": "虎嗅",
-      "time": "2026-07-29 04:37"
+      "time": "2026-07-29 07:34"
     },
     {
       "title": "马斯克两个核心资产，正在同时遭遇市场拷问",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878977.html",
       "source": "虎嗅",
-      "time": "2026-07-29 04:37"
+      "time": "2026-07-29 07:34"
     }
   ]
 }
