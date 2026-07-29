@@ -1,109 +1,85 @@
 {
-  "timestamp": "2026-07-29T07:34:35.451263",
-  "total": 7,
+  "timestamp": "2026-07-29T10:23:29.911473",
+  "total": 5,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 5,
+    "36氪": 3,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [],
-    "tech": [
+    "industry": [
       {
-        "title": "“盗版Win11要被封杀？”微软发布TPM新规引发恐慌，真相来了：其实没打算追究个人用户",
-        "url": "https://36kr.com/p/3916379116694917",
-        "source": "36氪",
-        "time": "2026-07-29 07:34"
-      },
-      {
-        "title": "微软更关注的可能是：用户是否一直留在 Windows 生态中。",
-        "url": "https://36kr.com/p/3916379116694917",
-        "source": "36氪",
-        "time": "2026-07-29 07:34"
-      },
-      {
-        "title": "OpenAI和Anthropic罕见联手：AI，该踩刹车了",
-        "url": "https://36kr.com/p/3916380210720133",
-        "source": "36氪",
-        "time": "2026-07-29 07:34"
-      },
-      {
-        "title": "共同呼吁给AI发展减速",
-        "url": "https://36kr.com/p/3916380210720133",
-        "source": "36氪",
-        "time": "2026-07-29 07:34"
+        "title": "我们究竟需要什么样的AI手机？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879048.html",
+        "source": "虎嗅",
+        "time": "2026-07-29 10:23"
       }
     ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "Claude最大规模MCP升级，月下载狂飙破4亿",
-        "url": "https://36kr.com/p/3916379879861638",
+        "title": "“奥尔特曼”最新访谈：AGI即将到来，但权力集中才是真正威胁",
+        "url": "https://36kr.com/p/3916462339446658",
         "source": "36氪",
-        "time": "2026-07-29 07:34"
+        "time": "2026-07-29 10:23"
       },
       {
-        "title": "海力士史上最赚钱的季度，为何仍“不及预期”？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878988.html",
-        "source": "虎嗅",
-        "time": "2026-07-29 07:34"
+        "title": "算力将成为史上最稀缺的商品。",
+        "url": "https://36kr.com/p/3916462339446658",
+        "source": "36氪",
+        "time": "2026-07-29 10:23"
+      },
+      {
+        "title": "海外市场并不缺流量，缺的是能让用户逛起来的平台。",
+        "url": "https://36kr.com/p/3916565180608134",
+        "source": "36氪",
+        "time": "2026-07-29 10:23"
       },
       {
         "title": "马斯克两个核心资产，正在同时遭遇市场拷问",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878977.html",
         "source": "虎嗅",
-        "time": "2026-07-29 07:34"
+        "time": "2026-07-29 10:23"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "“盗版Win11要被封杀？”微软发布TPM新规引发恐慌，真相来了：其实没打算追究个人用户",
-      "url": "https://36kr.com/p/3916379116694917",
+      "title": "“奥尔特曼”最新访谈：AGI即将到来，但权力集中才是真正威胁",
+      "url": "https://36kr.com/p/3916462339446658",
       "source": "36氪",
-      "time": "2026-07-29 07:34"
+      "time": "2026-07-29 10:23"
     },
     {
-      "title": "微软更关注的可能是：用户是否一直留在 Windows 生态中。",
-      "url": "https://36kr.com/p/3916379116694917",
+      "title": "算力将成为史上最稀缺的商品。",
+      "url": "https://36kr.com/p/3916462339446658",
       "source": "36氪",
-      "time": "2026-07-29 07:34"
+      "time": "2026-07-29 10:23"
     },
     {
-      "title": "OpenAI和Anthropic罕见联手：AI，该踩刹车了",
-      "url": "https://36kr.com/p/3916380210720133",
+      "title": "海外市场并不缺流量，缺的是能让用户逛起来的平台。",
+      "url": "https://36kr.com/p/3916565180608134",
       "source": "36氪",
-      "time": "2026-07-29 07:34"
-    },
-    {
-      "title": "共同呼吁给AI发展减速",
-      "url": "https://36kr.com/p/3916380210720133",
-      "source": "36氪",
-      "time": "2026-07-29 07:34"
-    },
-    {
-      "title": "Claude最大规模MCP升级，月下载狂飙破4亿",
-      "url": "https://36kr.com/p/3916379879861638",
-      "source": "36氪",
-      "time": "2026-07-29 07:34"
-    },
-    {
-      "title": "海力士史上最赚钱的季度，为何仍“不及预期”？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878988.html",
-      "source": "虎嗅",
-      "time": "2026-07-29 07:34"
+      "time": "2026-07-29 10:23"
     },
     {
       "title": "马斯克两个核心资产，正在同时遭遇市场拷问",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878977.html",
       "source": "虎嗅",
-      "time": "2026-07-29 07:34"
+      "time": "2026-07-29 10:23"
+    },
+    {
+      "title": "我们究竟需要什么样的AI手机？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879048.html",
+      "source": "虎嗅",
+      "time": "2026-07-29 10:23"
     }
   ]
 }
