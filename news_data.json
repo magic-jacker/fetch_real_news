@@ -1,97 +1,108 @@
 {
-  "timestamp": "2026-07-29T23:27:29.265897",
-  "total": 6,
+  "timestamp": "2026-07-30T00:52:27.632473",
+  "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "让AI先吃，这个国民级健康难题有解了",
-        "url": "https://36kr.com/p/3916800672656773",
-        "source": "36氪",
-        "time": "2026-07-29 23:27"
-      },
-      {
-        "title": "人工智能经济的宏观逻辑：K型复苏还是历史的拐点？",
-        "url": "https://36kr.com/p/3916465286655622",
-        "source": "36氪",
-        "time": "2026-07-29 23:27"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "“我初学编程，只是为了考试作弊”，CC之父自曝经历，揭秘Claude Code狂删超80%系统提示词真相",
-        "url": "https://36kr.com/p/3916538775727746",
+        "title": "从合作到持股，Uber为何一年两次“加仓”Momenta？",
+        "url": "https://36kr.com/p/3917410301111685",
         "source": "36氪",
-        "time": "2026-07-29 23:27"
+        "time": "2026-07-30 00:52"
       },
       {
-        "title": "“不要只学习计算机科学本身，更重要的是要学会如何应用它。”",
-        "url": "https://36kr.com/p/3916538775727746",
+        "title": "一年两投 Momenta ，Uber看懂了自动驾驶终局。",
+        "url": "https://36kr.com/p/3917410301111685",
         "source": "36氪",
-        "time": "2026-07-29 23:27"
+        "time": "2026-07-30 00:52"
       },
       {
-        "title": "确保生产力仍然服务于人。",
-        "url": "https://36kr.com/p/3916465286655622",
+        "title": "刚刚，月之暗面被曝又融237亿",
+        "url": "https://36kr.com/p/3916645536591494",
         "source": "36氪",
-        "time": "2026-07-29 23:27"
+        "time": "2026-07-30 00:52"
       },
       {
-        "title": "第三次世界大战打不起来，因为“天下大乱，形势大好”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879081.html",
+        "title": "全球协作搞不好，90%的管理者都找错了原因",
+        "url": "https://36kr.com/p/3917380860751488",
+        "source": "36氪",
+        "time": "2026-07-30 00:52"
+      },
+      {
+        "title": "影响全球协作的因素有哪些？",
+        "url": "https://36kr.com/p/3917380860751488",
+        "source": "36氪",
+        "time": "2026-07-30 00:52"
+      },
+      {
+        "title": "盛夏坐欧洲河轮的中国人，集体骂街",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879250.html",
         "source": "虎嗅",
-        "time": "2026-07-29 23:27"
+        "time": "2026-07-30 00:52"
+      },
+      {
+        "title": "击败阿根廷，硬刚美以：西班牙夺冠背后的政治与隐忧",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879235.html",
+        "source": "虎嗅",
+        "time": "2026-07-30 00:52"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "让AI先吃，这个国民级健康难题有解了",
-      "url": "https://36kr.com/p/3916800672656773",
+      "title": "从合作到持股，Uber为何一年两次“加仓”Momenta？",
+      "url": "https://36kr.com/p/3917410301111685",
       "source": "36氪",
-      "time": "2026-07-29 23:27"
+      "time": "2026-07-30 00:52"
     },
     {
-      "title": "“我初学编程，只是为了考试作弊”，CC之父自曝经历，揭秘Claude Code狂删超80%系统提示词真相",
-      "url": "https://36kr.com/p/3916538775727746",
+      "title": "一年两投 Momenta ，Uber看懂了自动驾驶终局。",
+      "url": "https://36kr.com/p/3917410301111685",
       "source": "36氪",
-      "time": "2026-07-29 23:27"
+      "time": "2026-07-30 00:52"
     },
     {
-      "title": "“不要只学习计算机科学本身，更重要的是要学会如何应用它。”",
-      "url": "https://36kr.com/p/3916538775727746",
+      "title": "刚刚，月之暗面被曝又融237亿",
+      "url": "https://36kr.com/p/3916645536591494",
       "source": "36氪",
-      "time": "2026-07-29 23:27"
+      "time": "2026-07-30 00:52"
     },
     {
-      "title": "人工智能经济的宏观逻辑：K型复苏还是历史的拐点？",
-      "url": "https://36kr.com/p/3916465286655622",
+      "title": "全球协作搞不好，90%的管理者都找错了原因",
+      "url": "https://36kr.com/p/3917380860751488",
       "source": "36氪",
-      "time": "2026-07-29 23:27"
+      "time": "2026-07-30 00:52"
     },
     {
-      "title": "确保生产力仍然服务于人。",
-      "url": "https://36kr.com/p/3916465286655622",
+      "title": "影响全球协作的因素有哪些？",
+      "url": "https://36kr.com/p/3917380860751488",
       "source": "36氪",
-      "time": "2026-07-29 23:27"
+      "time": "2026-07-30 00:52"
     },
     {
-      "title": "第三次世界大战打不起来，因为“天下大乱，形势大好”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879081.html",
+      "title": "盛夏坐欧洲河轮的中国人，集体骂街",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879250.html",
       "source": "虎嗅",
-      "time": "2026-07-29 23:27"
+      "time": "2026-07-30 00:52"
+    },
+    {
+      "title": "击败阿根廷，硬刚美以：西班牙夺冠背后的政治与隐忧",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879235.html",
+      "source": "虎嗅",
+      "time": "2026-07-30 00:52"
     }
   ]
 }
