@@ -1,85 +1,98 @@
 {
-  "timestamp": "2026-07-30T09:07:54.572345",
-  "total": 5,
+  "timestamp": "2026-07-30T11:25:34.659339",
+  "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 4,
+    "36氪": 5,
     "钛媒体": 0,
     "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
-    "industry": [
+    "finance": [
       {
-        "title": "荣耀的创新路径在于，把具身智能能力以及机械结构植入手机本体。",
-        "url": "https://36kr.com/p/3917809838009728",
+        "title": "山东新首富，又收获一个IPO",
+        "url": "https://36kr.com/p/3917968586075777",
         "source": "36氪",
-        "time": "2026-07-30 09:07"
+        "time": "2026-07-30 11:25"
       }
     ],
-    "tech": [],
+    "industry": [],
+    "tech": [
+      {
+        "title": "刚刚，谷歌诺奖团队解散了，AlphaFold部分核心成员投奔Anthropic",
+        "url": "https://36kr.com/p/3918030983851401",
+        "source": "36氪",
+        "time": "2026-07-30 11:25"
+      },
+      {
+        "title": "谷歌理想主义之死：得了诺奖，免不了调岗？",
+        "url": "https://36kr.com/p/3918030983851401",
+        "source": "36氪",
+        "time": "2026-07-30 11:25"
+      },
+      {
+        "title": "10万科学家免费用1年，OpenAI把科研流水线搬进ChatGPT",
+        "url": "https://36kr.com/p/3918031055023751",
+        "source": "36氪",
+        "time": "2026-07-30 11:25"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "资本退潮前夜，月之暗面何以“登月”？",
-        "url": "https://36kr.com/p/3917700218328708",
+        "title": "Anthropic早就在场，只是打法不同",
+        "url": "https://36kr.com/p/3918031055023751",
         "source": "36氪",
-        "time": "2026-07-30 09:07"
+        "time": "2026-07-30 11:25"
       },
       {
-        "title": "字节真正像一家To B公司一样思考。",
-        "url": "https://36kr.com/p/3917750378534530",
-        "source": "36氪",
-        "time": "2026-07-30 09:07"
-      },
-      {
-        "title": "Robot Phone发布在即，李健治下的荣耀能否“杀出”新未来？",
-        "url": "https://36kr.com/p/3917809838009728",
-        "source": "36氪",
-        "time": "2026-07-30 09:07"
-      },
-      {
-        "title": "房产落，万物生：一轮新的消费升级正在发生",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879340.html",
+        "title": "车企下一块必争之地出现了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4877061.html",
         "source": "虎嗅",
-        "time": "2026-07-30 09:07"
+        "time": "2026-07-30 11:25"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "资本退潮前夜，月之暗面何以“登月”？",
-      "url": "https://36kr.com/p/3917700218328708",
+      "title": "刚刚，谷歌诺奖团队解散了，AlphaFold部分核心成员投奔Anthropic",
+      "url": "https://36kr.com/p/3918030983851401",
       "source": "36氪",
-      "time": "2026-07-30 09:07"
+      "time": "2026-07-30 11:25"
     },
     {
-      "title": "字节真正像一家To B公司一样思考。",
-      "url": "https://36kr.com/p/3917750378534530",
+      "title": "谷歌理想主义之死：得了诺奖，免不了调岗？",
+      "url": "https://36kr.com/p/3918030983851401",
       "source": "36氪",
-      "time": "2026-07-30 09:07"
+      "time": "2026-07-30 11:25"
     },
     {
-      "title": "Robot Phone发布在即，李健治下的荣耀能否“杀出”新未来？",
-      "url": "https://36kr.com/p/3917809838009728",
+      "title": "10万科学家免费用1年，OpenAI把科研流水线搬进ChatGPT",
+      "url": "https://36kr.com/p/3918031055023751",
       "source": "36氪",
-      "time": "2026-07-30 09:07"
+      "time": "2026-07-30 11:25"
     },
     {
-      "title": "荣耀的创新路径在于，把具身智能能力以及机械结构植入手机本体。",
-      "url": "https://36kr.com/p/3917809838009728",
+      "title": "Anthropic早就在场，只是打法不同",
+      "url": "https://36kr.com/p/3918031055023751",
       "source": "36氪",
-      "time": "2026-07-30 09:07"
+      "time": "2026-07-30 11:25"
     },
     {
-      "title": "房产落，万物生：一轮新的消费升级正在发生",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879340.html",
+      "title": "山东新首富，又收获一个IPO",
+      "url": "https://36kr.com/p/3917968586075777",
+      "source": "36氪",
+      "time": "2026-07-30 11:25"
+    },
+    {
+      "title": "车企下一块必争之地出现了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4877061.html",
       "source": "虎嗅",
-      "time": "2026-07-30 09:07"
+      "time": "2026-07-30 11:25"
     }
   ]
 }
