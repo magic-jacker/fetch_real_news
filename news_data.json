@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T11:25:34.659339",
+  "timestamp": "2026-07-30T12:58:58.289854",
   "total": 6,
   "sources": {
     "财联社电报": 0,
@@ -10,33 +10,14 @@
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
-      {
-        "title": "山东新首富，又收获一个IPO",
-        "url": "https://36kr.com/p/3917968586075777",
-        "source": "36氪",
-        "time": "2026-07-30 11:25"
-      }
-    ],
+    "finance": [],
     "industry": [],
     "tech": [
       {
-        "title": "刚刚，谷歌诺奖团队解散了，AlphaFold部分核心成员投奔Anthropic",
-        "url": "https://36kr.com/p/3918030983851401",
-        "source": "36氪",
-        "time": "2026-07-30 11:25"
-      },
-      {
-        "title": "谷歌理想主义之死：得了诺奖，免不了调岗？",
-        "url": "https://36kr.com/p/3918030983851401",
-        "source": "36氪",
-        "time": "2026-07-30 11:25"
-      },
-      {
-        "title": "10万科学家免费用1年，OpenAI把科研流水线搬进ChatGPT",
-        "url": "https://36kr.com/p/3918031055023751",
-        "source": "36氪",
-        "time": "2026-07-30 11:25"
+        "title": "Meta还要给自己“加戏”",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879484.html",
+        "source": "虎嗅",
+        "time": "2026-07-30 12:58"
       }
     ],
     "byd": [],
@@ -44,55 +25,73 @@
     "fitness": [],
     "other": [
       {
-        "title": "Anthropic早就在场，只是打法不同",
-        "url": "https://36kr.com/p/3918031055023751",
+        "title": "中国消费品行业高质量发展行动暨宝洁创新开放日成功举办 | 最前线",
+        "url": "https://36kr.com/p/3917901395209859",
         "source": "36氪",
-        "time": "2026-07-30 11:25"
+        "time": "2026-07-30 12:58"
       },
       {
-        "title": "车企下一块必争之地出现了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4877061.html",
-        "source": "虎嗅",
-        "time": "2026-07-30 11:25"
+        "title": "真正持续为消费者创造价值的企业，永远有未来。",
+        "url": "https://36kr.com/p/3917901395209859",
+        "source": "36氪",
+        "time": "2026-07-30 12:58"
+      },
+      {
+        "title": "Al，清华校友赢麻了，北大怎么样？",
+        "url": "https://36kr.com/p/3918058934414979",
+        "source": "36氪",
+        "time": "2026-07-30 12:58"
+      },
+      {
+        "title": "新的产业前沿，一直站着北大人。",
+        "url": "https://36kr.com/p/3918058934414979",
+        "source": "36氪",
+        "time": "2026-07-30 12:58"
+      },
+      {
+        "title": "沪圈大厂今日官宣，46天流水超4亿：MMO要变天了？",
+        "url": "https://36kr.com/p/3918025775033731",
+        "source": "36氪",
+        "time": "2026-07-30 12:58"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "刚刚，谷歌诺奖团队解散了，AlphaFold部分核心成员投奔Anthropic",
-      "url": "https://36kr.com/p/3918030983851401",
+      "title": "中国消费品行业高质量发展行动暨宝洁创新开放日成功举办 | 最前线",
+      "url": "https://36kr.com/p/3917901395209859",
       "source": "36氪",
-      "time": "2026-07-30 11:25"
+      "time": "2026-07-30 12:58"
     },
     {
-      "title": "谷歌理想主义之死：得了诺奖，免不了调岗？",
-      "url": "https://36kr.com/p/3918030983851401",
+      "title": "真正持续为消费者创造价值的企业，永远有未来。",
+      "url": "https://36kr.com/p/3917901395209859",
       "source": "36氪",
-      "time": "2026-07-30 11:25"
+      "time": "2026-07-30 12:58"
     },
     {
-      "title": "10万科学家免费用1年，OpenAI把科研流水线搬进ChatGPT",
-      "url": "https://36kr.com/p/3918031055023751",
+      "title": "Al，清华校友赢麻了，北大怎么样？",
+      "url": "https://36kr.com/p/3918058934414979",
       "source": "36氪",
-      "time": "2026-07-30 11:25"
+      "time": "2026-07-30 12:58"
     },
     {
-      "title": "Anthropic早就在场，只是打法不同",
-      "url": "https://36kr.com/p/3918031055023751",
+      "title": "新的产业前沿，一直站着北大人。",
+      "url": "https://36kr.com/p/3918058934414979",
       "source": "36氪",
-      "time": "2026-07-30 11:25"
+      "time": "2026-07-30 12:58"
     },
     {
-      "title": "山东新首富，又收获一个IPO",
-      "url": "https://36kr.com/p/3917968586075777",
+      "title": "沪圈大厂今日官宣，46天流水超4亿：MMO要变天了？",
+      "url": "https://36kr.com/p/3918025775033731",
       "source": "36氪",
-      "time": "2026-07-30 11:25"
+      "time": "2026-07-30 12:58"
     },
     {
-      "title": "车企下一块必争之地出现了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4877061.html",
+      "title": "Meta还要给自己“加戏”",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879484.html",
       "source": "虎嗅",
-      "time": "2026-07-30 11:25"
+      "time": "2026-07-30 12:58"
     }
   ]
 }
