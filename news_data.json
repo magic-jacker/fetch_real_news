@@ -1,110 +1,108 @@
 {
-  "timestamp": "2026-07-31T01:03:26.375286",
+  "timestamp": "2026-07-31T04:49:29.282216",
   "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "芯片产能，快被抢光了？",
-        "url": "https://36kr.com/p/3918818805001600",
-        "source": "36氪",
-        "time": "2026-07-31 01:03"
-      },
-      {
-        "title": "AI芯片供应链进入预付款时代，开启产能争夺战。",
-        "url": "https://36kr.com/p/3918818805001600",
-        "source": "36氪",
-        "time": "2026-07-31 01:03"
-      }
-    ],
-    "tech": [
-      {
-        "title": "突发，GPT-5.6今起大降价",
-        "url": "https://36kr.com/p/3918835009351298",
-        "source": "36氪",
-        "time": "2026-07-31 01:03"
-      }
-    ],
+    "industry": [],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "别只顾着还技术债了，品牌债可能更致命",
-        "url": "https://36kr.com/p/3918798380134017",
+        "title": "国产二次元游戏的动画战争，才刚刚打响",
+        "url": "https://36kr.com/p/3918313703599489",
         "source": "36氪",
-        "time": "2026-07-31 01:03"
+        "time": "2026-07-31 04:49"
       },
       {
-        "title": "品牌负债可以有效衡量一家企业是否拥有增长所需的品牌吸引力与用户信任。",
-        "url": "https://36kr.com/p/3918798380134017",
+        "title": "“被游戏耽误的动画公司”持续增加",
+        "url": "https://36kr.com/p/3918313703599489",
         "source": "36氪",
-        "time": "2026-07-31 01:03"
+        "time": "2026-07-31 04:49"
       },
       {
-        "title": "当爱马仕CEO开始关心中国猪肉价格",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879560.html",
-        "source": "虎嗅",
-        "time": "2026-07-31 01:03"
+        "title": "L2的小蓝灯要灭了，L3的小蓝灯要亮起来",
+        "url": "https://36kr.com/p/3918245811121538",
+        "source": "36氪",
+        "time": "2026-07-31 04:49"
       },
       {
-        "title": "摩根家族如何保住了百年信托",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879553.html",
+        "title": "我国禁用L2智驾小蓝灯，L3智驾灯待标准修订。",
+        "url": "https://36kr.com/p/3918245811121538",
+        "source": "36氪",
+        "time": "2026-07-31 04:49"
+      },
+      {
+        "title": "不可复制的东野圭吾，悄悄养活了中国悬疑影视",
+        "url": "https://36kr.com/p/3918915570150792",
+        "source": "36氪",
+        "time": "2026-07-31 04:49"
+      },
+      {
+        "title": "电车新一轮大逃杀，谁会率先出局",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879632.html",
         "source": "虎嗅",
-        "time": "2026-07-31 01:03"
+        "time": "2026-07-31 04:49"
+      },
+      {
+        "title": "深度分析：谁在害怕中国模型？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879641.html",
+        "source": "虎嗅",
+        "time": "2026-07-31 04:49"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "突发，GPT-5.6今起大降价",
-      "url": "https://36kr.com/p/3918835009351298",
+      "title": "国产二次元游戏的动画战争，才刚刚打响",
+      "url": "https://36kr.com/p/3918313703599489",
       "source": "36氪",
-      "time": "2026-07-31 01:03"
+      "time": "2026-07-31 04:49"
     },
     {
-      "title": "芯片产能，快被抢光了？",
-      "url": "https://36kr.com/p/3918818805001600",
+      "title": "“被游戏耽误的动画公司”持续增加",
+      "url": "https://36kr.com/p/3918313703599489",
       "source": "36氪",
-      "time": "2026-07-31 01:03"
+      "time": "2026-07-31 04:49"
     },
     {
-      "title": "AI芯片供应链进入预付款时代，开启产能争夺战。",
-      "url": "https://36kr.com/p/3918818805001600",
+      "title": "L2的小蓝灯要灭了，L3的小蓝灯要亮起来",
+      "url": "https://36kr.com/p/3918245811121538",
       "source": "36氪",
-      "time": "2026-07-31 01:03"
+      "time": "2026-07-31 04:49"
     },
     {
-      "title": "别只顾着还技术债了，品牌债可能更致命",
-      "url": "https://36kr.com/p/3918798380134017",
+      "title": "我国禁用L2智驾小蓝灯，L3智驾灯待标准修订。",
+      "url": "https://36kr.com/p/3918245811121538",
       "source": "36氪",
-      "time": "2026-07-31 01:03"
+      "time": "2026-07-31 04:49"
     },
     {
-      "title": "品牌负债可以有效衡量一家企业是否拥有增长所需的品牌吸引力与用户信任。",
-      "url": "https://36kr.com/p/3918798380134017",
+      "title": "不可复制的东野圭吾，悄悄养活了中国悬疑影视",
+      "url": "https://36kr.com/p/3918915570150792",
       "source": "36氪",
-      "time": "2026-07-31 01:03"
+      "time": "2026-07-31 04:49"
     },
     {
-      "title": "当爱马仕CEO开始关心中国猪肉价格",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879560.html",
+      "title": "电车新一轮大逃杀，谁会率先出局",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879632.html",
       "source": "虎嗅",
-      "time": "2026-07-31 01:03"
+      "time": "2026-07-31 04:49"
     },
     {
-      "title": "摩根家族如何保住了百年信托",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879553.html",
+      "title": "深度分析：谁在害怕中国模型？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879641.html",
       "source": "虎嗅",
-      "time": "2026-07-31 01:03"
+      "time": "2026-07-31 04:49"
     }
   ]
 }
