@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-31T22:03:25.056597",
+  "timestamp": "2026-07-31T23:27:18.532947",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -14,16 +14,22 @@
     "industry": [],
     "tech": [
       {
-        "title": "世界模型走向生命科学：AI开始预演生命的未来",
-        "url": "https://36kr.com/p/3919391204415360",
+        "title": "谷歌收紧ADB访问，安卓ROOT变得越来越难",
+        "url": "https://36kr.com/p/3918224810651272",
         "source": "36氪",
-        "time": "2026-07-31 22:03"
+        "time": "2026-07-31 23:27"
       },
       {
-        "title": "AI为何会让互联网大厂的叙事“塌方”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879747.html",
+        "title": "虽说是为了用户的安全，可谷歌还没做到“打扫干净屋子再请客”。",
+        "url": "https://36kr.com/p/3918224810651272",
+        "source": "36氪",
+        "time": "2026-07-31 23:27"
+      },
+      {
+        "title": "25岁“AI股神”死于黎明前：160亿美元清仓，次日AI股暴涨",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879814.html",
         "source": "虎嗅",
-        "time": "2026-07-31 22:03"
+        "time": "2026-07-31 23:27"
       }
     ],
     "byd": [],
@@ -31,79 +37,73 @@
     "fitness": [],
     "other": [
       {
+        "title": "“稳中有变”，点点互动再造千万级Merge-2新品",
+        "url": "https://36kr.com/p/3918176670166658",
+        "source": "36氪",
+        "time": "2026-07-31 23:27"
+      },
+      {
+        "title": "在成熟题材中放大已有成功经验。",
+        "url": "https://36kr.com/p/3918176670166658",
+        "source": "36氪",
+        "time": "2026-07-31 23:27"
+      },
+      {
         "title": "国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目",
         "url": "https://36kr.com/p/3919386961177985",
         "source": "36氪",
-        "time": "2026-07-31 22:03"
+        "time": "2026-07-31 23:27"
       },
       {
-        "title": "基模厂商不会吃掉Memory层，主动智能会率先发生在Memory企业。",
-        "url": "https://36kr.com/p/3919386961177985",
-        "source": "36氪",
-        "time": "2026-07-31 22:03"
-      },
-      {
-        "title": "世界模型让生命科学即将进入“可计算演化”时代。",
-        "url": "https://36kr.com/p/3919391204415360",
-        "source": "36氪",
-        "time": "2026-07-31 22:03"
-      },
-      {
-        "title": "车型越多，死得越快？全球车企正在抛弃车海战术",
-        "url": "https://36kr.com/p/3919400657163911",
-        "source": "36氪",
-        "time": "2026-07-31 22:03"
-      },
-      {
-        "title": "DeepSeek又更新了，这次梁文锋没放大招｜进击的独角兽",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879740.html",
+        "title": "办公级Agent三国杀一触即发",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879841.html",
         "source": "虎嗅",
-        "time": "2026-07-31 22:03"
+        "time": "2026-07-31 23:27"
       }
     ]
   },
   "raw_news": [
     {
+      "title": "“稳中有变”，点点互动再造千万级Merge-2新品",
+      "url": "https://36kr.com/p/3918176670166658",
+      "source": "36氪",
+      "time": "2026-07-31 23:27"
+    },
+    {
+      "title": "在成熟题材中放大已有成功经验。",
+      "url": "https://36kr.com/p/3918176670166658",
+      "source": "36氪",
+      "time": "2026-07-31 23:27"
+    },
+    {
+      "title": "谷歌收紧ADB访问，安卓ROOT变得越来越难",
+      "url": "https://36kr.com/p/3918224810651272",
+      "source": "36氪",
+      "time": "2026-07-31 23:27"
+    },
+    {
+      "title": "虽说是为了用户的安全，可谷歌还没做到“打扫干净屋子再请客”。",
+      "url": "https://36kr.com/p/3918224810651272",
+      "source": "36氪",
+      "time": "2026-07-31 23:27"
+    },
+    {
       "title": "国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目",
       "url": "https://36kr.com/p/3919386961177985",
       "source": "36氪",
-      "time": "2026-07-31 22:03"
+      "time": "2026-07-31 23:27"
     },
     {
-      "title": "基模厂商不会吃掉Memory层，主动智能会率先发生在Memory企业。",
-      "url": "https://36kr.com/p/3919386961177985",
-      "source": "36氪",
-      "time": "2026-07-31 22:03"
-    },
-    {
-      "title": "世界模型走向生命科学：AI开始预演生命的未来",
-      "url": "https://36kr.com/p/3919391204415360",
-      "source": "36氪",
-      "time": "2026-07-31 22:03"
-    },
-    {
-      "title": "世界模型让生命科学即将进入“可计算演化”时代。",
-      "url": "https://36kr.com/p/3919391204415360",
-      "source": "36氪",
-      "time": "2026-07-31 22:03"
-    },
-    {
-      "title": "车型越多，死得越快？全球车企正在抛弃车海战术",
-      "url": "https://36kr.com/p/3919400657163911",
-      "source": "36氪",
-      "time": "2026-07-31 22:03"
-    },
-    {
-      "title": "AI为何会让互联网大厂的叙事“塌方”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879747.html",
+      "title": "办公级Agent三国杀一触即发",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879841.html",
       "source": "虎嗅",
-      "time": "2026-07-31 22:03"
+      "time": "2026-07-31 23:27"
     },
     {
-      "title": "DeepSeek又更新了，这次梁文锋没放大招｜进击的独角兽",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879740.html",
+      "title": "25岁“AI股神”死于黎明前：160亿美元清仓，次日AI股暴涨",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879814.html",
       "source": "虎嗅",
-      "time": "2026-07-31 22:03"
+      "time": "2026-07-31 23:27"
     }
   ]
 }
