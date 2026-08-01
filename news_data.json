@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T08:58:20.617013",
+  "timestamp": "2026-08-01T10:37:47.219071",
   "total": 4,
   "sources": {
     "财联社电报": 0,
@@ -17,13 +17,13 @@
         "title": "特斯拉科技故事很美，但现实承压。",
         "url": "https://36kr.com/p/3920596475997824",
         "source": "36氪",
-        "time": "2026-08-01 08:58"
+        "time": "2026-08-01 10:37"
       },
       {
         "title": "刚刚，OpenAI全新模型Astra曝光！",
         "url": "https://36kr.com/p/3920424297852291",
         "source": "36氪",
-        "time": "2026-08-01 08:58"
+        "time": "2026-08-01 10:37"
       }
     ],
     "byd": [],
@@ -31,16 +31,16 @@
     "fitness": [],
     "other": [
       {
-        "title": "为什么年轻人，开始爱上一个注定毁灭的世界？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879475.html",
-        "source": "虎嗅",
-        "time": "2026-08-01 08:58"
-      },
-      {
         "title": "给狂跌“43%”的长安汽车辟个谣",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878797.html",
         "source": "虎嗅",
-        "time": "2026-08-01 08:58"
+        "time": "2026-08-01 10:37"
+      },
+      {
+        "title": "SHEIN最终还是中国公司",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879905.html",
+        "source": "虎嗅",
+        "time": "2026-08-01 10:37"
       }
     ]
   },
@@ -49,25 +49,25 @@
       "title": "特斯拉科技故事很美，但现实承压。",
       "url": "https://36kr.com/p/3920596475997824",
       "source": "36氪",
-      "time": "2026-08-01 08:58"
+      "time": "2026-08-01 10:37"
     },
     {
       "title": "刚刚，OpenAI全新模型Astra曝光！",
       "url": "https://36kr.com/p/3920424297852291",
       "source": "36氪",
-      "time": "2026-08-01 08:58"
-    },
-    {
-      "title": "为什么年轻人，开始爱上一个注定毁灭的世界？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879475.html",
-      "source": "虎嗅",
-      "time": "2026-08-01 08:58"
+      "time": "2026-08-01 10:37"
     },
     {
       "title": "给狂跌“43%”的长安汽车辟个谣",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878797.html",
       "source": "虎嗅",
-      "time": "2026-08-01 08:58"
+      "time": "2026-08-01 10:37"
+    },
+    {
+      "title": "SHEIN最终还是中国公司",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879905.html",
+      "source": "虎嗅",
+      "time": "2026-08-01 10:37"
     }
   ]
 }
