@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-01T17:47:20.337947",
-  "total": 4,
+  "timestamp": "2026-08-01T18:46:20.452527",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -17,57 +17,32 @@
         "title": "特斯拉科技故事很美，但现实承压。",
         "url": "https://36kr.com/p/3920596475997824",
         "source": "36氪",
-        "time": "2026-08-01 17:47"
+        "time": "2026-08-01 18:45"
       },
       {
         "title": "刚刚，OpenAI全新模型Astra曝光！",
         "url": "https://36kr.com/p/3920424297852291",
         "source": "36氪",
-        "time": "2026-08-01 17:47"
+        "time": "2026-08-01 18:45"
       }
     ],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "终于还是有人问了，邓煜王虹的获奖研究到底有什么用？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879990.html",
-        "source": "虎嗅",
-        "time": "2026-08-01 17:47"
-      },
-      {
-        "title": "上海地铁时隔21年拟全线调价，释放了哪些信号？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879926.html",
-        "source": "虎嗅",
-        "time": "2026-08-01 17:47"
-      }
-    ]
+    "other": []
   },
   "raw_news": [
     {
       "title": "特斯拉科技故事很美，但现实承压。",
       "url": "https://36kr.com/p/3920596475997824",
       "source": "36氪",
-      "time": "2026-08-01 17:47"
+      "time": "2026-08-01 18:45"
     },
     {
       "title": "刚刚，OpenAI全新模型Astra曝光！",
       "url": "https://36kr.com/p/3920424297852291",
       "source": "36氪",
-      "time": "2026-08-01 17:47"
-    },
-    {
-      "title": "终于还是有人问了，邓煜王虹的获奖研究到底有什么用？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879990.html",
-      "source": "虎嗅",
-      "time": "2026-08-01 17:47"
-    },
-    {
-      "title": "上海地铁时隔21年拟全线调价，释放了哪些信号？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879926.html",
-      "source": "虎嗅",
-      "time": "2026-08-01 17:47"
+      "time": "2026-08-01 18:45"
     }
   ]
 }
