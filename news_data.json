@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-08-01T23:23:49.194768",
-  "total": 4,
+  "timestamp": "2026-08-02T01:02:39.474178",
+  "total": 5,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 2,
+    "36氪": 4,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
@@ -14,16 +14,22 @@
     "industry": [],
     "tech": [
       {
+        "title": "如何让自己变得让人工智能永远也无法取代",
+        "url": "https://36kr.com/p/3889181574625798",
+        "source": "36氪",
+        "time": "2026-08-02 01:02"
+      },
+      {
         "title": "特斯拉科技故事很美，但现实承压。",
         "url": "https://36kr.com/p/3920596475997824",
         "source": "36氪",
-        "time": "2026-08-01 23:23"
+        "time": "2026-08-02 01:02"
       },
       {
         "title": "刚刚，OpenAI全新模型Astra曝光！",
         "url": "https://36kr.com/p/3920424297852291",
         "source": "36氪",
-        "time": "2026-08-01 23:23"
+        "time": "2026-08-02 01:02"
       }
     ],
     "byd": [],
@@ -31,43 +37,49 @@
     "fitness": [],
     "other": [
       {
-        "title": "一封价值1100亿的道歉信",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880007.html",
-        "source": "虎嗅",
-        "time": "2026-08-01 23:23"
+        "title": "这5项技能将决定你的未来",
+        "url": "https://36kr.com/p/3889181574625798",
+        "source": "36氪",
+        "time": "2026-08-02 01:02"
       },
       {
-        "title": "库克最会赚的钱，继任未必收得到",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879960.html",
+        "title": "当“安慰人”成为最赚钱的生意，你的“痛苦税”就停不下来了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880009.html",
         "source": "虎嗅",
-        "time": "2026-08-01 23:23"
+        "time": "2026-08-02 01:02"
       }
     ]
   },
   "raw_news": [
     {
+      "title": "如何让自己变得让人工智能永远也无法取代",
+      "url": "https://36kr.com/p/3889181574625798",
+      "source": "36氪",
+      "time": "2026-08-02 01:02"
+    },
+    {
+      "title": "这5项技能将决定你的未来",
+      "url": "https://36kr.com/p/3889181574625798",
+      "source": "36氪",
+      "time": "2026-08-02 01:02"
+    },
+    {
       "title": "特斯拉科技故事很美，但现实承压。",
       "url": "https://36kr.com/p/3920596475997824",
       "source": "36氪",
-      "time": "2026-08-01 23:23"
+      "time": "2026-08-02 01:02"
     },
     {
       "title": "刚刚，OpenAI全新模型Astra曝光！",
       "url": "https://36kr.com/p/3920424297852291",
       "source": "36氪",
-      "time": "2026-08-01 23:23"
+      "time": "2026-08-02 01:02"
     },
     {
-      "title": "一封价值1100亿的道歉信",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880007.html",
+      "title": "当“安慰人”成为最赚钱的生意，你的“痛苦税”就停不下来了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880009.html",
       "source": "虎嗅",
-      "time": "2026-08-01 23:23"
-    },
-    {
-      "title": "库克最会赚的钱，继任未必收得到",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879960.html",
-      "source": "虎嗅",
-      "time": "2026-08-01 23:23"
+      "time": "2026-08-02 01:02"
     }
   ]
 }
