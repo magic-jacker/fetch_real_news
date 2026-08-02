@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-08-02T01:02:39.474178",
-  "total": 5,
+  "timestamp": "2026-08-02T04:45:18.773363",
+  "total": 6,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 4,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
@@ -14,22 +14,16 @@
     "industry": [],
     "tech": [
       {
-        "title": "如何让自己变得让人工智能永远也无法取代",
-        "url": "https://36kr.com/p/3889181574625798",
+        "title": "“榨”出硅的极限：怎么让GPU不“闲着”？",
+        "url": "https://36kr.com/p/3920675282163337",
         "source": "36氪",
-        "time": "2026-08-02 01:02"
+        "time": "2026-08-02 04:45"
       },
       {
-        "title": "特斯拉科技故事很美，但现实承压。",
-        "url": "https://36kr.com/p/3920596475997824",
+        "title": "AI Infra的效率革命",
+        "url": "https://36kr.com/p/3920675282163337",
         "source": "36氪",
-        "time": "2026-08-02 01:02"
-      },
-      {
-        "title": "刚刚，OpenAI全新模型Astra曝光！",
-        "url": "https://36kr.com/p/3920424297852291",
-        "source": "36氪",
-        "time": "2026-08-02 01:02"
+        "time": "2026-08-02 04:45"
       }
     ],
     "byd": [],
@@ -37,49 +31,67 @@
     "fitness": [],
     "other": [
       {
-        "title": "这5项技能将决定你的未来",
-        "url": "https://36kr.com/p/3889181574625798",
+        "title": "25岁，爆仓，婚礼前亏1000亿",
+        "url": "https://36kr.com/p/3920705787178377",
         "source": "36氪",
-        "time": "2026-08-02 01:02"
+        "time": "2026-08-02 04:45"
       },
       {
-        "title": "当“安慰人”成为最赚钱的生意，你的“痛苦税”就停不下来了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880009.html",
+        "title": "新势力7月洗牌：零跑独破10万，“蔚小理米”困在3万档",
+        "url": "https://36kr.com/p/3921711432871300",
+        "source": "36氪",
+        "time": "2026-08-02 04:45"
+      },
+      {
+        "title": "一所互联网三无大学，正在批量生产流量机器",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878839.html",
         "source": "虎嗅",
-        "time": "2026-08-02 01:02"
+        "time": "2026-08-02 04:45"
+      },
+      {
+        "title": "为什么2026年的离职博主做不下去了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880028.html",
+        "source": "虎嗅",
+        "time": "2026-08-02 04:45"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "如何让自己变得让人工智能永远也无法取代",
-      "url": "https://36kr.com/p/3889181574625798",
+      "title": "“榨”出硅的极限：怎么让GPU不“闲着”？",
+      "url": "https://36kr.com/p/3920675282163337",
       "source": "36氪",
-      "time": "2026-08-02 01:02"
+      "time": "2026-08-02 04:45"
     },
     {
-      "title": "这5项技能将决定你的未来",
-      "url": "https://36kr.com/p/3889181574625798",
+      "title": "AI Infra的效率革命",
+      "url": "https://36kr.com/p/3920675282163337",
       "source": "36氪",
-      "time": "2026-08-02 01:02"
+      "time": "2026-08-02 04:45"
     },
     {
-      "title": "特斯拉科技故事很美，但现实承压。",
-      "url": "https://36kr.com/p/3920596475997824",
+      "title": "25岁，爆仓，婚礼前亏1000亿",
+      "url": "https://36kr.com/p/3920705787178377",
       "source": "36氪",
-      "time": "2026-08-02 01:02"
+      "time": "2026-08-02 04:45"
     },
     {
-      "title": "刚刚，OpenAI全新模型Astra曝光！",
-      "url": "https://36kr.com/p/3920424297852291",
+      "title": "新势力7月洗牌：零跑独破10万，“蔚小理米”困在3万档",
+      "url": "https://36kr.com/p/3921711432871300",
       "source": "36氪",
-      "time": "2026-08-02 01:02"
+      "time": "2026-08-02 04:45"
     },
     {
-      "title": "当“安慰人”成为最赚钱的生意，你的“痛苦税”就停不下来了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880009.html",
+      "title": "一所互联网三无大学，正在批量生产流量机器",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4878839.html",
       "source": "虎嗅",
-      "time": "2026-08-02 01:02"
+      "time": "2026-08-02 04:45"
+    },
+    {
+      "title": "为什么2026年的离职博主做不下去了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880028.html",
+      "source": "虎嗅",
+      "time": "2026-08-02 04:45"
     }
   ]
 }
