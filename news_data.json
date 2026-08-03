@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T11:51:00.833610",
+  "timestamp": "2026-08-03T14:07:29.621335",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -10,102 +10,99 @@
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
-      {
-        "title": "港股IPO前夕，智元首席科学家罗剑岚从官网名单消失",
-        "url": "https://36kr.com/p/3923634748124552",
-        "source": "36氪",
-        "time": "2026-08-03 11:50"
-      }
-    ],
-    "industry": [
-      {
-        "title": "“一个半星期”的差距：曾经的“机器人王国”日本，正在全力追赶中国",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880266.html",
-        "source": "虎嗅",
-        "time": "2026-08-03 11:50"
-      }
-    ],
-    "tech": [
-      {
-        "title": "从实验到产线——AI 工作流的规模化挑战与协作生态 | 2026 ChinaJoy AI未来生态大会",
-        "url": "https://36kr.com/p/3923717502072969",
-        "source": "36氪",
-        "time": "2026-08-03 11:50"
-      }
-    ],
+    "finance": [],
+    "industry": [],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "刚刚450亿美元爆仓、如今婚礼照办，华尔街00后股神发致歉信：彻底失败",
-        "url": "https://36kr.com/p/3923709128620416",
+        "title": "金灿荣：这本书最狠的地方，是把五百年切成了三段",
+        "url": "https://36kr.com/p/3923860406958469",
         "source": "36氪",
-        "time": "2026-08-03 11:50"
+        "time": "2026-08-03 14:07"
       },
       {
-        "title": "放弃了自己此前的投资理念。",
-        "url": "https://36kr.com/p/3923709128620416",
+        "title": "国际关系学者金灿荣推荐《全球化巨浪》",
+        "url": "https://36kr.com/p/3923860406958469",
         "source": "36氪",
-        "time": "2026-08-03 11:50"
+        "time": "2026-08-03 14:07"
       },
       {
-        "title": "智元下架了首席科学家罗剑岚",
-        "url": "https://36kr.com/p/3923634748124552",
+        "title": "这一届中国企业家，彻底变了",
+        "url": "https://36kr.com/p/3923721497917824",
         "source": "36氪",
-        "time": "2026-08-03 11:50"
+        "time": "2026-08-03 14:07"
       },
       {
-        "title": "美国人已经为多肽而疯狂，这是你可能关心的5个问题",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879730.html",
+        "title": "中国经济，正在给企业家换一道命题。",
+        "url": "https://36kr.com/p/3923721497917824",
+        "source": "36氪",
+        "time": "2026-08-03 14:07"
+      },
+      {
+        "title": "从“伺候剧组”到“服务游客”，横店正在尝试“to c”生意？",
+        "url": "https://36kr.com/p/3923632851332482",
+        "source": "36氪",
+        "time": "2026-08-03 14:07"
+      },
+      {
+        "title": "大厂囤算力，拼多多囤楼",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880290.html",
         "source": "虎嗅",
-        "time": "2026-08-03 11:50"
+        "time": "2026-08-03 14:07"
+      },
+      {
+        "title": "一位90后数学家的逆流追梦路",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880198.html",
+        "source": "虎嗅",
+        "time": "2026-08-03 14:07"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "刚刚450亿美元爆仓、如今婚礼照办，华尔街00后股神发致歉信：彻底失败",
-      "url": "https://36kr.com/p/3923709128620416",
+      "title": "金灿荣：这本书最狠的地方，是把五百年切成了三段",
+      "url": "https://36kr.com/p/3923860406958469",
       "source": "36氪",
-      "time": "2026-08-03 11:50"
+      "time": "2026-08-03 14:07"
     },
     {
-      "title": "放弃了自己此前的投资理念。",
-      "url": "https://36kr.com/p/3923709128620416",
+      "title": "国际关系学者金灿荣推荐《全球化巨浪》",
+      "url": "https://36kr.com/p/3923860406958469",
       "source": "36氪",
-      "time": "2026-08-03 11:50"
+      "time": "2026-08-03 14:07"
     },
     {
-      "title": "智元下架了首席科学家罗剑岚",
-      "url": "https://36kr.com/p/3923634748124552",
+      "title": "这一届中国企业家，彻底变了",
+      "url": "https://36kr.com/p/3923721497917824",
       "source": "36氪",
-      "time": "2026-08-03 11:50"
+      "time": "2026-08-03 14:07"
     },
     {
-      "title": "港股IPO前夕，智元首席科学家罗剑岚从官网名单消失",
-      "url": "https://36kr.com/p/3923634748124552",
+      "title": "中国经济，正在给企业家换一道命题。",
+      "url": "https://36kr.com/p/3923721497917824",
       "source": "36氪",
-      "time": "2026-08-03 11:50"
+      "time": "2026-08-03 14:07"
     },
     {
-      "title": "从实验到产线——AI 工作流的规模化挑战与协作生态 | 2026 ChinaJoy AI未来生态大会",
-      "url": "https://36kr.com/p/3923717502072969",
+      "title": "从“伺候剧组”到“服务游客”，横店正在尝试“to c”生意？",
+      "url": "https://36kr.com/p/3923632851332482",
       "source": "36氪",
-      "time": "2026-08-03 11:50"
+      "time": "2026-08-03 14:07"
     },
     {
-      "title": "美国人已经为多肽而疯狂，这是你可能关心的5个问题",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4879730.html",
+      "title": "大厂囤算力，拼多多囤楼",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880290.html",
       "source": "虎嗅",
-      "time": "2026-08-03 11:50"
+      "time": "2026-08-03 14:07"
     },
     {
-      "title": "“一个半星期”的差距：曾经的“机器人王国”日本，正在全力追赶中国",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880266.html",
+      "title": "一位90后数学家的逆流追梦路",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880198.html",
       "source": "虎嗅",
-      "time": "2026-08-03 11:50"
+      "time": "2026-08-03 14:07"
     }
   ]
 }
