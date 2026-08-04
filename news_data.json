@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T10:06:43.211195",
+  "timestamp": "2026-08-04T12:22:29.408212",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -11,19 +11,20 @@
   },
   "categories": {
     "finance": [],
-    "industry": [],
+    "industry": [
+      {
+        "title": "存储战争HBF战线开打，中国长江存储能上桌吗？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880566.html",
+        "source": "虎嗅",
+        "time": "2026-08-04 12:22"
+      }
+    ],
     "tech": [
       {
-        "title": "这才是AI for Science该有的样子。",
-        "url": "https://36kr.com/p/3924989565302921",
+        "title": "1亿美元投给吴恩达，Coursera的AI战略为何“两条腿走路”？",
+        "url": "https://36kr.com/p/3924697676446085",
         "source": "36氪",
-        "time": "2026-08-04 10:06"
-      },
-      {
-        "title": "AI气穴超阿波罗登月，谷歌烧光2000亿美元，押注21世纪最大赌局",
-        "url": "https://36kr.com/p/3925011210156421",
-        "source": "36氪",
-        "time": "2026-08-04 10:06"
+        "time": "2026-08-04 12:22"
       }
     ],
     "byd": [],
@@ -31,79 +32,79 @@
     "fitness": [],
     "other": [
       {
-        "title": "开源版Claude Science来了，零依赖、MIT协议，内置30+项科研Skills",
-        "url": "https://36kr.com/p/3924989565302921",
+        "title": "吴恩达：“现在是时候再次改变教育了。”",
+        "url": "https://36kr.com/p/3924697676446085",
         "source": "36氪",
-        "time": "2026-08-04 10:06"
+        "time": "2026-08-04 12:22"
       },
       {
-        "title": "“人粮”爆火，打工人“时间贫困”的解药?",
-        "url": "https://36kr.com/p/3924989779687560",
+        "title": "首日破发后逆转，中际旭创市值突破1.3万亿",
+        "url": "https://36kr.com/p/3924929134892933",
         "source": "36氪",
-        "time": "2026-08-04 10:06"
+        "time": "2026-08-04 12:22"
       },
       {
-        "title": "年轻人连吃饭都嫌麻烦了",
-        "url": "https://36kr.com/p/3924989779687560",
+        "title": "中际旭创H股获资本加仓，业绩向好股价大涨。",
+        "url": "https://36kr.com/p/3924929134892933",
         "source": "36氪",
-        "time": "2026-08-04 10:06"
+        "time": "2026-08-04 12:22"
       },
       {
-        "title": "美日试图按住“末日循环”？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880491.html",
+        "title": "日产4-6月扭亏为盈，在华销量放缓令前景不明",
+        "url": "https://36kr.com/p/3924930562390403",
+        "source": "36氪",
+        "time": "2026-08-04 12:22"
+      },
+      {
+        "title": "徽商银行“最好的夏天”",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880504.html",
         "source": "虎嗅",
-        "time": "2026-08-04 10:06"
-      },
-      {
-        "title": "市场越热，越要学会“不动”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880480.html",
-        "source": "虎嗅",
-        "time": "2026-08-04 10:06"
+        "time": "2026-08-04 12:22"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "开源版Claude Science来了，零依赖、MIT协议，内置30+项科研Skills",
-      "url": "https://36kr.com/p/3924989565302921",
+      "title": "1亿美元投给吴恩达，Coursera的AI战略为何“两条腿走路”？",
+      "url": "https://36kr.com/p/3924697676446085",
       "source": "36氪",
-      "time": "2026-08-04 10:06"
+      "time": "2026-08-04 12:22"
     },
     {
-      "title": "这才是AI for Science该有的样子。",
-      "url": "https://36kr.com/p/3924989565302921",
+      "title": "吴恩达：“现在是时候再次改变教育了。”",
+      "url": "https://36kr.com/p/3924697676446085",
       "source": "36氪",
-      "time": "2026-08-04 10:06"
+      "time": "2026-08-04 12:22"
     },
     {
-      "title": "“人粮”爆火，打工人“时间贫困”的解药?",
-      "url": "https://36kr.com/p/3924989779687560",
+      "title": "首日破发后逆转，中际旭创市值突破1.3万亿",
+      "url": "https://36kr.com/p/3924929134892933",
       "source": "36氪",
-      "time": "2026-08-04 10:06"
+      "time": "2026-08-04 12:22"
     },
     {
-      "title": "年轻人连吃饭都嫌麻烦了",
-      "url": "https://36kr.com/p/3924989779687560",
+      "title": "中际旭创H股获资本加仓，业绩向好股价大涨。",
+      "url": "https://36kr.com/p/3924929134892933",
       "source": "36氪",
-      "time": "2026-08-04 10:06"
+      "time": "2026-08-04 12:22"
     },
     {
-      "title": "AI气穴超阿波罗登月，谷歌烧光2000亿美元，押注21世纪最大赌局",
-      "url": "https://36kr.com/p/3925011210156421",
+      "title": "日产4-6月扭亏为盈，在华销量放缓令前景不明",
+      "url": "https://36kr.com/p/3924930562390403",
       "source": "36氪",
-      "time": "2026-08-04 10:06"
+      "time": "2026-08-04 12:22"
     },
     {
-      "title": "美日试图按住“末日循环”？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880491.html",
+      "title": "徽商银行“最好的夏天”",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880504.html",
       "source": "虎嗅",
-      "time": "2026-08-04 10:06"
+      "time": "2026-08-04 12:22"
     },
     {
-      "title": "市场越热，越要学会“不动”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880480.html",
+      "title": "存储战争HBF战线开打，中国长江存储能上桌吗？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880566.html",
       "source": "虎嗅",
-      "time": "2026-08-04 10:06"
+      "time": "2026-08-04 12:22"
     }
   ]
 }
