@@ -1,84 +1,109 @@
 {
-  "timestamp": "2026-08-04T07:27:51.755050",
-  "total": 5,
+  "timestamp": "2026-08-04T10:06:43.211195",
+  "total": 7,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 5,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "这才是AI for Science该有的样子。",
+        "url": "https://36kr.com/p/3924989565302921",
+        "source": "36氪",
+        "time": "2026-08-04 10:06"
+      },
+      {
+        "title": "AI气穴超阿波罗登月，谷歌烧光2000亿美元，押注21世纪最大赌局",
+        "url": "https://36kr.com/p/3925011210156421",
+        "source": "36氪",
+        "time": "2026-08-04 10:06"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "Kimi K3与DeepSeek V4之间，隔着原生多模态的时间差",
-        "url": "https://36kr.com/p/3924826666301831",
+        "title": "开源版Claude Science来了，零依赖、MIT协议，内置30+项科研Skills",
+        "url": "https://36kr.com/p/3924989565302921",
         "source": "36氪",
-        "time": "2026-08-04 07:27"
+        "time": "2026-08-04 10:06"
       },
       {
-        "title": "Coding之外，关于原生多模态的争论从未停止",
-        "url": "https://36kr.com/p/3924826666301831",
+        "title": "“人粮”爆火，打工人“时间贫困”的解药?",
+        "url": "https://36kr.com/p/3924989779687560",
         "source": "36氪",
-        "time": "2026-08-04 07:27"
+        "time": "2026-08-04 10:06"
       },
       {
-        "title": "金茂又开始独立搞酒店了……",
-        "url": "https://36kr.com/p/3923653312731008",
+        "title": "年轻人连吃饭都嫌麻烦了",
+        "url": "https://36kr.com/p/3924989779687560",
         "source": "36氪",
-        "time": "2026-08-04 07:27"
+        "time": "2026-08-04 10:06"
       },
       {
-        "title": "告别凯悦，崇明酒店换牌背后，金茂的一场长期试验",
-        "url": "https://36kr.com/p/3923653312731008",
-        "source": "36氪",
-        "time": "2026-08-04 07:27"
+        "title": "美日试图按住“末日循环”？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880491.html",
+        "source": "虎嗅",
+        "time": "2026-08-04 10:06"
       },
       {
-        "title": "排队一小时，代购费比面包贵，谁带火了这家“盐面包”专门店？",
-        "url": "https://36kr.com/p/3923615756507008",
-        "source": "36氪",
-        "time": "2026-08-04 07:27"
+        "title": "市场越热，越要学会“不动”",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880480.html",
+        "source": "虎嗅",
+        "time": "2026-08-04 10:06"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "Kimi K3与DeepSeek V4之间，隔着原生多模态的时间差",
-      "url": "https://36kr.com/p/3924826666301831",
+      "title": "开源版Claude Science来了，零依赖、MIT协议，内置30+项科研Skills",
+      "url": "https://36kr.com/p/3924989565302921",
       "source": "36氪",
-      "time": "2026-08-04 07:27"
+      "time": "2026-08-04 10:06"
     },
     {
-      "title": "Coding之外，关于原生多模态的争论从未停止",
-      "url": "https://36kr.com/p/3924826666301831",
+      "title": "这才是AI for Science该有的样子。",
+      "url": "https://36kr.com/p/3924989565302921",
       "source": "36氪",
-      "time": "2026-08-04 07:27"
+      "time": "2026-08-04 10:06"
     },
     {
-      "title": "金茂又开始独立搞酒店了……",
-      "url": "https://36kr.com/p/3923653312731008",
+      "title": "“人粮”爆火，打工人“时间贫困”的解药?",
+      "url": "https://36kr.com/p/3924989779687560",
       "source": "36氪",
-      "time": "2026-08-04 07:27"
+      "time": "2026-08-04 10:06"
     },
     {
-      "title": "告别凯悦，崇明酒店换牌背后，金茂的一场长期试验",
-      "url": "https://36kr.com/p/3923653312731008",
+      "title": "年轻人连吃饭都嫌麻烦了",
+      "url": "https://36kr.com/p/3924989779687560",
       "source": "36氪",
-      "time": "2026-08-04 07:27"
+      "time": "2026-08-04 10:06"
     },
     {
-      "title": "排队一小时，代购费比面包贵，谁带火了这家“盐面包”专门店？",
-      "url": "https://36kr.com/p/3923615756507008",
+      "title": "AI气穴超阿波罗登月，谷歌烧光2000亿美元，押注21世纪最大赌局",
+      "url": "https://36kr.com/p/3925011210156421",
       "source": "36氪",
-      "time": "2026-08-04 07:27"
+      "time": "2026-08-04 10:06"
+    },
+    {
+      "title": "美日试图按住“末日循环”？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880491.html",
+      "source": "虎嗅",
+      "time": "2026-08-04 10:06"
+    },
+    {
+      "title": "市场越热，越要学会“不动”",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880480.html",
+      "source": "虎嗅",
+      "time": "2026-08-04 10:06"
     }
   ]
 }
