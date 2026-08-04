@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T23:56:12.052828",
+  "timestamp": "2026-08-04T01:20:09.119779",
   "total": 7,
   "sources": {
     "财联社电报": 0,
@@ -11,20 +11,13 @@
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "又一国产模型重磅开源，有声视频编辑全球第一，16家芯片及平台首日适配",
-        "url": "https://36kr.com/p/3923895999068550",
-        "source": "36氪",
-        "time": "2026-08-03 23:55"
-      }
-    ],
+    "industry": [],
     "tech": [
       {
-        "title": "AI基建正长出新一轮环保增量，这4个方向值得关注",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880385.html",
-        "source": "虎嗅",
-        "time": "2026-08-03 23:56"
+        "title": "警惕AI通缩陷阱：效率提上来了，利润却被卷没了",
+        "url": "https://36kr.com/p/3924460202604937",
+        "source": "36氪",
+        "time": "2026-08-04 01:19"
       }
     ],
     "byd": [],
@@ -32,79 +25,85 @@
     "fitness": [],
     "other": [
       {
-        "title": "手绘图直接变海报，国产开源多模态模型把图片玩“活”了",
-        "url": "https://36kr.com/p/3923896040503431",
+        "title": "你是不是把自身能力不足，误解成了组织必须解决的重大问题？",
+        "url": "https://36kr.com/p/3923828608849795",
         "source": "36氪",
-        "time": "2026-08-03 23:55"
+        "time": "2026-08-04 01:19"
       },
       {
-        "title": "正式版将在近期推出并开源。",
-        "url": "https://36kr.com/p/3923896040503431",
+        "title": "遇困先辨个人能力不足还是组织系统问题",
+        "url": "https://36kr.com/p/3923828608849795",
         "source": "36氪",
-        "time": "2026-08-03 23:55"
+        "time": "2026-08-04 01:19"
       },
       {
-        "title": "瑞幸：走出“外卖后遗症”，“小蓝杯”开启顺风局？",
-        "url": "https://36kr.com/p/3923916336052355",
+        "title": "千台重卡、十万轻卡：小马智行给出Robotruck量产时间表",
+        "url": "https://36kr.com/p/3924428082083974",
         "source": "36氪",
-        "time": "2026-08-03 23:55"
+        "time": "2026-08-04 01:19"
       },
       {
-        "title": "整体表现明显好于市场预期",
-        "url": "https://36kr.com/p/3923916336052355",
+        "title": "从千台Robotaxi到量产Robotruck。",
+        "url": "https://36kr.com/p/3924428082083974",
         "source": "36氪",
-        "time": "2026-08-03 23:55"
+        "time": "2026-08-04 01:19"
       },
       {
-        "title": "补贴政策在催你买车，却没人管你有没有地方停车",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880389.html",
+        "title": "罕见病“保险移民”：哪有药，哪省钱，就搬到哪里",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880402.html",
         "source": "虎嗅",
-        "time": "2026-08-03 23:56"
+        "time": "2026-08-04 01:20"
+      },
+      {
+        "title": "越南低价游，悄悄围猎中国老人",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880397.html",
+        "source": "虎嗅",
+        "time": "2026-08-04 01:20"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "又一国产模型重磅开源，有声视频编辑全球第一，16家芯片及平台首日适配",
-      "url": "https://36kr.com/p/3923895999068550",
+      "title": "你是不是把自身能力不足，误解成了组织必须解决的重大问题？",
+      "url": "https://36kr.com/p/3923828608849795",
       "source": "36氪",
-      "time": "2026-08-03 23:55"
+      "time": "2026-08-04 01:19"
     },
     {
-      "title": "手绘图直接变海报，国产开源多模态模型把图片玩“活”了",
-      "url": "https://36kr.com/p/3923896040503431",
+      "title": "遇困先辨个人能力不足还是组织系统问题",
+      "url": "https://36kr.com/p/3923828608849795",
       "source": "36氪",
-      "time": "2026-08-03 23:55"
+      "time": "2026-08-04 01:19"
     },
     {
-      "title": "正式版将在近期推出并开源。",
-      "url": "https://36kr.com/p/3923896040503431",
+      "title": "千台重卡、十万轻卡：小马智行给出Robotruck量产时间表",
+      "url": "https://36kr.com/p/3924428082083974",
       "source": "36氪",
-      "time": "2026-08-03 23:55"
+      "time": "2026-08-04 01:19"
     },
     {
-      "title": "瑞幸：走出“外卖后遗症”，“小蓝杯”开启顺风局？",
-      "url": "https://36kr.com/p/3923916336052355",
+      "title": "从千台Robotaxi到量产Robotruck。",
+      "url": "https://36kr.com/p/3924428082083974",
       "source": "36氪",
-      "time": "2026-08-03 23:55"
+      "time": "2026-08-04 01:19"
     },
     {
-      "title": "整体表现明显好于市场预期",
-      "url": "https://36kr.com/p/3923916336052355",
+      "title": "警惕AI通缩陷阱：效率提上来了，利润却被卷没了",
+      "url": "https://36kr.com/p/3924460202604937",
       "source": "36氪",
-      "time": "2026-08-03 23:55"
+      "time": "2026-08-04 01:19"
     },
     {
-      "title": "补贴政策在催你买车，却没人管你有没有地方停车",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880389.html",
+      "title": "罕见病“保险移民”：哪有药，哪省钱，就搬到哪里",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880402.html",
       "source": "虎嗅",
-      "time": "2026-08-03 23:56"
+      "time": "2026-08-04 01:20"
     },
     {
-      "title": "AI基建正长出新一轮环保增量，这4个方向值得关注",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880385.html",
+      "title": "越南低价游，悄悄围猎中国老人",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880397.html",
       "source": "虎嗅",
-      "time": "2026-08-03 23:56"
+      "time": "2026-08-04 01:20"
     }
   ]
 }
