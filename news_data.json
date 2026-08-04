@@ -1,30 +1,23 @@
 {
-  "timestamp": "2026-08-04T12:22:29.408212",
-  "total": 7,
+  "timestamp": "2026-08-04T14:55:26.754502",
+  "total": 5,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 5,
+    "36氪": 3,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "存储战争HBF战线开打，中国长江存储能上桌吗？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880566.html",
-        "source": "虎嗅",
-        "time": "2026-08-04 12:22"
-      }
-    ],
+    "industry": [],
     "tech": [
       {
-        "title": "1亿美元投给吴恩达，Coursera的AI战略为何“两条腿走路”？",
-        "url": "https://36kr.com/p/3924697676446085",
+        "title": "免费AI攻入教育，好未来们的护城河还剩多宽？",
+        "url": "https://36kr.com/p/3925013685491329",
         "source": "36氪",
-        "time": "2026-08-04 12:22"
+        "time": "2026-08-04 14:55"
       }
     ],
     "byd": [],
@@ -32,79 +25,61 @@
     "fitness": [],
     "other": [
       {
-        "title": "吴恩达：“现在是时候再次改变教育了。”",
-        "url": "https://36kr.com/p/3924697676446085",
+        "title": "Anthropic CEO担心：招来的人只认钱不在乎使命，百万年薪的反噬？",
+        "url": "https://36kr.com/p/3925131751815305",
         "source": "36氪",
-        "time": "2026-08-04 12:22"
+        "time": "2026-08-04 14:55"
       },
       {
-        "title": "首日破发后逆转，中际旭创市值突破1.3万亿",
-        "url": "https://36kr.com/p/3924929134892933",
+        "title": "半年入账25亿，沪上阿姨跨过万店危险期",
+        "url": "https://36kr.com/p/3925138962454149",
         "source": "36氪",
-        "time": "2026-08-04 12:22"
+        "time": "2026-08-04 14:55"
       },
       {
-        "title": "中际旭创H股获资本加仓，业绩向好股价大涨。",
-        "url": "https://36kr.com/p/3924929134892933",
-        "source": "36氪",
-        "time": "2026-08-04 12:22"
-      },
-      {
-        "title": "日产4-6月扭亏为盈，在华销量放缓令前景不明",
-        "url": "https://36kr.com/p/3924930562390403",
-        "source": "36氪",
-        "time": "2026-08-04 12:22"
-      },
-      {
-        "title": "徽商银行“最好的夏天”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880504.html",
+        "title": "反转信号已现，药明只是导火索",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880601.html",
         "source": "虎嗅",
-        "time": "2026-08-04 12:22"
+        "time": "2026-08-04 14:55"
+      },
+      {
+        "title": "美日试图按住“末日循环”？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880491.html",
+        "source": "虎嗅",
+        "time": "2026-08-04 14:55"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "1亿美元投给吴恩达，Coursera的AI战略为何“两条腿走路”？",
-      "url": "https://36kr.com/p/3924697676446085",
+      "title": "Anthropic CEO担心：招来的人只认钱不在乎使命，百万年薪的反噬？",
+      "url": "https://36kr.com/p/3925131751815305",
       "source": "36氪",
-      "time": "2026-08-04 12:22"
+      "time": "2026-08-04 14:55"
     },
     {
-      "title": "吴恩达：“现在是时候再次改变教育了。”",
-      "url": "https://36kr.com/p/3924697676446085",
+      "title": "半年入账25亿，沪上阿姨跨过万店危险期",
+      "url": "https://36kr.com/p/3925138962454149",
       "source": "36氪",
-      "time": "2026-08-04 12:22"
+      "time": "2026-08-04 14:55"
     },
     {
-      "title": "首日破发后逆转，中际旭创市值突破1.3万亿",
-      "url": "https://36kr.com/p/3924929134892933",
+      "title": "免费AI攻入教育，好未来们的护城河还剩多宽？",
+      "url": "https://36kr.com/p/3925013685491329",
       "source": "36氪",
-      "time": "2026-08-04 12:22"
+      "time": "2026-08-04 14:55"
     },
     {
-      "title": "中际旭创H股获资本加仓，业绩向好股价大涨。",
-      "url": "https://36kr.com/p/3924929134892933",
-      "source": "36氪",
-      "time": "2026-08-04 12:22"
-    },
-    {
-      "title": "日产4-6月扭亏为盈，在华销量放缓令前景不明",
-      "url": "https://36kr.com/p/3924930562390403",
-      "source": "36氪",
-      "time": "2026-08-04 12:22"
-    },
-    {
-      "title": "徽商银行“最好的夏天”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880504.html",
+      "title": "反转信号已现，药明只是导火索",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880601.html",
       "source": "虎嗅",
-      "time": "2026-08-04 12:22"
+      "time": "2026-08-04 14:55"
     },
     {
-      "title": "存储战争HBF战线开打，中国长江存储能上桌吗？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880566.html",
+      "title": "美日试图按住“末日循环”？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880491.html",
       "source": "虎嗅",
-      "time": "2026-08-04 12:22"
+      "time": "2026-08-04 14:55"
     }
   ]
 }
