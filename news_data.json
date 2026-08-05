@@ -1,110 +1,48 @@
 {
-  "timestamp": "2026-08-05T01:13:55.680110",
-  "total": 7,
+  "timestamp": "2026-08-05T04:34:05.033271",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
-    "36氪": 5,
+    "36氪": 0,
     "钛媒体": 0,
     "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
-      {
-        "title": "外资密集调研，127家A股公司",
-        "url": "https://36kr.com/p/3925925488736647",
-        "source": "36氪",
-        "time": "2026-08-05 01:13"
-      },
-      {
-        "title": "7月外资持续调研A股，聚焦科技配置更多元",
-        "url": "https://36kr.com/p/3925925488736647",
-        "source": "36氪",
-        "time": "2026-08-05 01:13"
-      }
-    ],
-    "industry": [
-      {
-        "title": "养猪也要用芯片，这玩意终于造出来了",
-        "url": "https://36kr.com/p/3925924071750016",
-        "source": "36氪",
-        "time": "2026-08-05 01:13"
-      }
-    ],
+    "finance": [],
+    "industry": [],
     "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "国家科技进步一等奖，颁给养猪？？？",
-        "url": "https://36kr.com/p/3925924071750016",
-        "source": "36氪",
-        "time": "2026-08-05 01:13"
-      },
-      {
-        "title": "运营商干掉了流量卡，他们真的玩不起了",
-        "url": "https://36kr.com/p/3925919407421830",
-        "source": "36氪",
-        "time": "2026-08-05 01:13"
-      },
-      {
-        "title": "一艘26岁老船卖出4200万美元，价格甚至超过两岁时？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880670.html",
+        "title": "MacBook Air 快断货了，等等党不能再等了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880726.html",
         "source": "虎嗅",
-        "time": "2026-08-05 01:13"
+        "time": "2026-08-05 04:34"
       },
       {
-        "title": "数字流浪的未来：你住在网上，但却无家可归",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880663.html",
+        "title": "禁中国光模块先伤到美国自己",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880719.html",
         "source": "虎嗅",
-        "time": "2026-08-05 01:13"
+        "time": "2026-08-05 04:34"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "外资密集调研，127家A股公司",
-      "url": "https://36kr.com/p/3925925488736647",
-      "source": "36氪",
-      "time": "2026-08-05 01:13"
-    },
-    {
-      "title": "7月外资持续调研A股，聚焦科技配置更多元",
-      "url": "https://36kr.com/p/3925925488736647",
-      "source": "36氪",
-      "time": "2026-08-05 01:13"
-    },
-    {
-      "title": "养猪也要用芯片，这玩意终于造出来了",
-      "url": "https://36kr.com/p/3925924071750016",
-      "source": "36氪",
-      "time": "2026-08-05 01:13"
-    },
-    {
-      "title": "国家科技进步一等奖，颁给养猪？？？",
-      "url": "https://36kr.com/p/3925924071750016",
-      "source": "36氪",
-      "time": "2026-08-05 01:13"
-    },
-    {
-      "title": "运营商干掉了流量卡，他们真的玩不起了",
-      "url": "https://36kr.com/p/3925919407421830",
-      "source": "36氪",
-      "time": "2026-08-05 01:13"
-    },
-    {
-      "title": "一艘26岁老船卖出4200万美元，价格甚至超过两岁时？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880670.html",
+      "title": "MacBook Air 快断货了，等等党不能再等了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880726.html",
       "source": "虎嗅",
-      "time": "2026-08-05 01:13"
+      "time": "2026-08-05 04:34"
     },
     {
-      "title": "数字流浪的未来：你住在网上，但却无家可归",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880663.html",
+      "title": "禁中国光模块先伤到美国自己",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880719.html",
       "source": "虎嗅",
-      "time": "2026-08-05 01:13"
+      "time": "2026-08-05 04:34"
     }
   ]
 }
