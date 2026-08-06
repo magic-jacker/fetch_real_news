@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T06:19:12.798568",
+  "timestamp": "2026-08-06T09:17:21.037818",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -12,37 +12,38 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "谷歌AI大换血，背后究竟发生了什么？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881091.html",
+        "source": "虎嗅",
+        "time": "2026-08-06 09:17"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "星巴克卖身、库迪踩刹车，只有瑞幸不敢停",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881054.html",
+        "title": "中国车主，终于不用再做“小白鼠”",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881053.html",
         "source": "虎嗅",
-        "time": "2026-08-06 06:19"
-      },
-      {
-        "title": "关于DeepSeek API涨价的评论",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881088.html",
-        "source": "虎嗅",
-        "time": "2026-08-06 06:19"
+        "time": "2026-08-06 09:17"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "星巴克卖身、库迪踩刹车，只有瑞幸不敢停",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881054.html",
+      "title": "中国车主，终于不用再做“小白鼠”",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881053.html",
       "source": "虎嗅",
-      "time": "2026-08-06 06:19"
+      "time": "2026-08-06 09:17"
     },
     {
-      "title": "关于DeepSeek API涨价的评论",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881088.html",
+      "title": "谷歌AI大换血，背后究竟发生了什么？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881091.html",
       "source": "虎嗅",
-      "time": "2026-08-06 06:19"
+      "time": "2026-08-06 09:17"
     }
   ]
 }
