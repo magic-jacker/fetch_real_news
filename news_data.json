@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-08-06T03:46:35.205568",
-  "total": 1,
+  "timestamp": "2026-08-06T06:19:12.798568",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
@@ -18,19 +18,31 @@
     "fitness": [],
     "other": [
       {
-        "title": "人们想念张雪峰，是K型分化下的无声叹息",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881009.html",
+        "title": "星巴克卖身、库迪踩刹车，只有瑞幸不敢停",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881054.html",
         "source": "虎嗅",
-        "time": "2026-08-06 03:46"
+        "time": "2026-08-06 06:19"
+      },
+      {
+        "title": "关于DeepSeek API涨价的评论",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881088.html",
+        "source": "虎嗅",
+        "time": "2026-08-06 06:19"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "人们想念张雪峰，是K型分化下的无声叹息",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881009.html",
+      "title": "星巴克卖身、库迪踩刹车，只有瑞幸不敢停",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881054.html",
       "source": "虎嗅",
-      "time": "2026-08-06 03:46"
+      "time": "2026-08-06 06:19"
+    },
+    {
+      "title": "关于DeepSeek API涨价的评论",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881088.html",
+      "source": "虎嗅",
+      "time": "2026-08-06 06:19"
     }
   ]
 }
