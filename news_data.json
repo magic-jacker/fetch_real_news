@@ -1,48 +1,36 @@
 {
-  "timestamp": "2026-08-07T03:41:21.309982",
-  "total": 2,
+  "timestamp": "2026-08-07T05:25:34.636314",
+  "total": 1,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
+    "finance": [
+      {
+        "title": "东鹏饮料：黄金时代落幕之后",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881357.html",
+        "source": "虎嗅",
+        "time": "2026-08-07 05:25"
+      }
+    ],
     "industry": [],
     "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "欧洲的这场“慢”仗，源于十年前犯下的错",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881328.html",
-        "source": "虎嗅",
-        "time": "2026-08-07 03:41"
-      },
-      {
-        "title": "梁文锋，告别“价格屠夫”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881341.html",
-        "source": "虎嗅",
-        "time": "2026-08-07 03:41"
-      }
-    ]
+    "other": []
   },
   "raw_news": [
     {
-      "title": "欧洲的这场“慢”仗，源于十年前犯下的错",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881328.html",
+      "title": "东鹏饮料：黄金时代落幕之后",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881357.html",
       "source": "虎嗅",
-      "time": "2026-08-07 03:41"
-    },
-    {
-      "title": "梁文锋，告别“价格屠夫”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881341.html",
-      "source": "虎嗅",
-      "time": "2026-08-07 03:41"
+      "time": "2026-08-07 05:25"
     }
   ]
 }
