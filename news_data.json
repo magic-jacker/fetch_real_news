@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-07T06:38:45.139798",
-  "total": 0,
+  "timestamp": "2026-08-07T08:02:33.258176",
+  "total": 1,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,7 +16,21 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "“蒸馏”你的大脑，脑机这门生意竟然价值上亿",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881437.html",
+        "source": "虎嗅",
+        "time": "2026-08-07 08:02"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "“蒸馏”你的大脑，脑机这门生意竟然价值上亿",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881437.html",
+      "source": "虎嗅",
+      "time": "2026-08-07 08:02"
+    }
+  ]
 }
