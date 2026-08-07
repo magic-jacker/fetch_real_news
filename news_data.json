@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-08-07T08:02:33.258176",
-  "total": 1,
+  "timestamp": "2026-08-07T09:27:50.734566",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
@@ -18,19 +18,31 @@
     "fitness": [],
     "other": [
       {
+        "title": "兴业银行“亲儿子”，跳不出宿命",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881463.html",
+        "source": "虎嗅",
+        "time": "2026-08-07 09:27"
+      },
+      {
         "title": "“蒸馏”你的大脑，脑机这门生意竟然价值上亿",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881437.html",
         "source": "虎嗅",
-        "time": "2026-08-07 08:02"
+        "time": "2026-08-07 09:27"
       }
     ]
   },
   "raw_news": [
     {
+      "title": "兴业银行“亲儿子”，跳不出宿命",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881463.html",
+      "source": "虎嗅",
+      "time": "2026-08-07 09:27"
+    },
+    {
       "title": "“蒸馏”你的大脑，脑机这门生意竟然价值上亿",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881437.html",
       "source": "虎嗅",
-      "time": "2026-08-07 08:02"
+      "time": "2026-08-07 09:27"
     }
   ]
 }
