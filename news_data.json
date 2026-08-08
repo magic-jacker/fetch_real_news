@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-08T04:00:45.198431",
-  "total": 0,
+  "timestamp": "2026-08-08T05:12:03.810266",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,7 +16,33 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "工龄三个月的年轻人，挤满了折扣零食店",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881586.html",
+        "source": "虎嗅",
+        "time": "2026-08-08 05:12"
+      },
+      {
+        "title": "Jeff Dean离开Google后首亮相：拆解在Google“前半生”，解密新公司的一切",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881614.html",
+        "source": "虎嗅",
+        "time": "2026-08-08 05:12"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "工龄三个月的年轻人，挤满了折扣零食店",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881586.html",
+      "source": "虎嗅",
+      "time": "2026-08-08 05:12"
+    },
+    {
+      "title": "Jeff Dean离开Google后首亮相：拆解在Google“前半生”，解密新公司的一切",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881614.html",
+      "source": "虎嗅",
+      "time": "2026-08-08 05:12"
+    }
+  ]
 }
