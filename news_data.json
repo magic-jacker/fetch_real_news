@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-08T10:29:38.307418",
+  "timestamp": "2026-08-08T11:00:23.174887",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -17,7 +17,7 @@
         "title": "4700亿美元蒸发后, 美国终于暴露封杀中国AI的真实算盘",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881636.html",
         "source": "虎嗅",
-        "time": "2026-08-08 10:29"
+        "time": "2026-08-08 11:00"
       }
     ],
     "byd": [],
@@ -25,25 +25,25 @@
     "fitness": [],
     "other": [
       {
-        "title": "没人比余承东更懂尊界V800",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881630.html",
+        "title": "肯尼亚总统鲁托：1981年，中国比我们还穷",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881681.html",
         "source": "虎嗅",
-        "time": "2026-08-08 10:29"
+        "time": "2026-08-08 11:00"
       }
     ]
   },
   "raw_news": [
     {
+      "title": "肯尼亚总统鲁托：1981年，中国比我们还穷",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881681.html",
+      "source": "虎嗅",
+      "time": "2026-08-08 11:00"
+    },
+    {
       "title": "4700亿美元蒸发后, 美国终于暴露封杀中国AI的真实算盘",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881636.html",
       "source": "虎嗅",
-      "time": "2026-08-08 10:29"
-    },
-    {
-      "title": "没人比余承东更懂尊界V800",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881630.html",
-      "source": "虎嗅",
-      "time": "2026-08-08 10:29"
+      "time": "2026-08-08 11:00"
     }
   ]
 }
