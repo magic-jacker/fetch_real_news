@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-08T08:03:55.377520",
-  "total": 2,
+  "timestamp": "2026-08-08T09:06:24.322362",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -12,38 +12,11 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "4700亿美元蒸发后, 美国终于暴露封杀中国AI的真实算盘",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881636.html",
-        "source": "虎嗅",
-        "time": "2026-08-08 08:03"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "没人比余承东更懂尊界V800",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881630.html",
-        "source": "虎嗅",
-        "time": "2026-08-08 08:03"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "没人比余承东更懂尊界V800",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881630.html",
-      "source": "虎嗅",
-      "time": "2026-08-08 08:03"
-    },
-    {
-      "title": "4700亿美元蒸发后, 美国终于暴露封杀中国AI的真实算盘",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881636.html",
-      "source": "虎嗅",
-      "time": "2026-08-08 08:03"
-    }
-  ]
+  "raw_news": []
 }
