@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-08T23:49:37.404160",
+  "timestamp": "2026-08-09T00:39:51.342293",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -12,38 +12,37 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "4700亿美元蒸发后, 美国终于暴露封杀中国AI的真实算盘",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881636.html",
-        "source": "虎嗅",
-        "time": "2026-08-08 23:49"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "肯尼亚总统鲁托：1981年，中国比我们还穷",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881681.html",
+        "title": "中国车企为什么不去菲律宾建厂",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881719.html",
         "source": "虎嗅",
-        "time": "2026-08-08 23:49"
+        "time": "2026-08-09 00:39"
+      },
+      {
+        "title": "被黄色烂梗吞噬的10后小学生",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880269.html",
+        "source": "虎嗅",
+        "time": "2026-08-09 00:39"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "肯尼亚总统鲁托：1981年，中国比我们还穷",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881681.html",
+      "title": "中国车企为什么不去菲律宾建厂",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881719.html",
       "source": "虎嗅",
-      "time": "2026-08-08 23:49"
+      "time": "2026-08-09 00:39"
     },
     {
-      "title": "4700亿美元蒸发后, 美国终于暴露封杀中国AI的真实算盘",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881636.html",
+      "title": "被黄色烂梗吞噬的10后小学生",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880269.html",
       "source": "虎嗅",
-      "time": "2026-08-08 23:49"
+      "time": "2026-08-09 00:39"
     }
   ]
 }
