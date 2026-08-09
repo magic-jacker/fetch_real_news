@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-09T06:05:32.908073",
-  "total": 0,
+  "timestamp": "2026-08-09T07:27:58.798078",
+  "total": 1,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -12,11 +12,25 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "人类最恐惧的事情还是发生了：AI们拉了个群密谋大事",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881766.html",
+        "source": "虎嗅",
+        "time": "2026-08-09 07:27"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": []
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "人类最恐惧的事情还是发生了：AI们拉了个群密谋大事",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881766.html",
+      "source": "虎嗅",
+      "time": "2026-08-09 07:27"
+    }
+  ]
 }
