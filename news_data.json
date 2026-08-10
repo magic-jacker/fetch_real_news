@@ -1,22 +1,49 @@
 {
-  "timestamp": "2026-08-10T06:09:42.335846",
-  "total": 0,
+  "timestamp": "2026-08-10T08:10:06.483061",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [],
+    "industry": [
+      {
+        "title": "到处停电的古巴，硬被中国光伏拉回了现代社会",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881933.html",
+        "source": "虎嗅",
+        "time": "2026-08-10 08:10"
+      }
+    ],
     "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "独家｜对话网易前副总裁汪源：Agent需要的不是更多Skill",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881942.html",
+        "source": "虎嗅",
+        "time": "2026-08-10 08:10"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "独家｜对话网易前副总裁汪源：Agent需要的不是更多Skill",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881942.html",
+      "source": "虎嗅",
+      "time": "2026-08-10 08:10"
+    },
+    {
+      "title": "到处停电的古巴，硬被中国光伏拉回了现代社会",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881933.html",
+      "source": "虎嗅",
+      "time": "2026-08-10 08:10"
+    }
+  ]
 }
