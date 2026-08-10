@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-10T00:41:34.992865",
-  "total": 0,
+  "timestamp": "2026-08-10T03:03:08.765053",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -12,11 +12,38 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "WorkBuddy、千问办公、豆包加速布局，AI办公市场格局将如何演变？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880439.html",
+        "source": "虎嗅",
+        "time": "2026-08-10 03:03"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "指望县城编制“避世”，只不过是饮鸩止渴",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881856.html",
+        "source": "虎嗅",
+        "time": "2026-08-10 03:03"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "指望县城编制“避世”，只不过是饮鸩止渴",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881856.html",
+      "source": "虎嗅",
+      "time": "2026-08-10 03:03"
+    },
+    {
+      "title": "WorkBuddy、千问办公、豆包加速布局，AI办公市场格局将如何演变？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4880439.html",
+      "source": "虎嗅",
+      "time": "2026-08-10 03:03"
+    }
+  ]
 }
