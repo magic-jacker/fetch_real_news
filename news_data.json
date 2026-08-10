@@ -1,49 +1,48 @@
 {
-  "timestamp": "2026-08-10T11:38:23.725227",
+  "timestamp": "2026-08-10T12:36:38.611126",
   "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "到处停电的古巴，硬被中国光伏拉回了现代社会",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881933.html",
-        "source": "虎嗅",
-        "time": "2026-08-10 11:38"
-      }
-    ],
+    "industry": [],
     "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
+        "title": "程序员正在集体“自费上班”：为了保住工作，每月倒贴买token",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882039.html",
+        "source": "虎嗅",
+        "time": "2026-08-10 12:36"
+      },
+      {
         "title": "三年关掉60%门店，称重快餐开始“纠偏”",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881996.html",
         "source": "虎嗅",
-        "time": "2026-08-10 11:38"
+        "time": "2026-08-10 12:36"
       }
     ]
   },
   "raw_news": [
     {
+      "title": "程序员正在集体“自费上班”：为了保住工作，每月倒贴买token",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882039.html",
+      "source": "虎嗅",
+      "time": "2026-08-10 12:36"
+    },
+    {
       "title": "三年关掉60%门店，称重快餐开始“纠偏”",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881996.html",
       "source": "虎嗅",
-      "time": "2026-08-10 11:38"
-    },
-    {
-      "title": "到处停电的古巴，硬被中国光伏拉回了现代社会",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881933.html",
-      "source": "虎嗅",
-      "time": "2026-08-10 11:38"
+      "time": "2026-08-10 12:36"
     }
   ]
 }
