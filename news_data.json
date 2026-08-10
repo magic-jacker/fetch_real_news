@@ -1,49 +1,22 @@
 {
-  "timestamp": "2026-08-10T04:59:34.635369",
-  "total": 2,
+  "timestamp": "2026-08-10T06:09:42.335846",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "AI时代的最大误会：注意力不是你需要的一切",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881825.html",
-        "source": "虎嗅",
-        "time": "2026-08-10 04:59"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "中国车把日本车打成了奢侈品",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881885.html",
-        "source": "虎嗅",
-        "time": "2026-08-10 04:59"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "AI时代的最大误会：注意力不是你需要的一切",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881825.html",
-      "source": "虎嗅",
-      "time": "2026-08-10 04:59"
-    },
-    {
-      "title": "中国车把日本车打成了奢侈品",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881885.html",
-      "source": "虎嗅",
-      "time": "2026-08-10 04:59"
-    }
-  ]
+  "raw_news": []
 }
