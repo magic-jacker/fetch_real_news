@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-10T12:36:38.611126",
+  "timestamp": "2026-08-10T14:08:58.743685",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -18,31 +18,31 @@
     "fitness": [],
     "other": [
       {
-        "title": "程序员正在集体“自费上班”：为了保住工作，每月倒贴买token",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882039.html",
+        "title": "Claude Tag可能是一个10x Claude Code级别的产品",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882076.html",
         "source": "虎嗅",
-        "time": "2026-08-10 12:36"
+        "time": "2026-08-10 14:08"
       },
       {
-        "title": "三年关掉60%门店，称重快餐开始“纠偏”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881996.html",
+        "title": "150元一股的宇树，抢疯了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882040.html",
         "source": "虎嗅",
-        "time": "2026-08-10 12:36"
+        "time": "2026-08-10 14:08"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "程序员正在集体“自费上班”：为了保住工作，每月倒贴买token",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882039.html",
+      "title": "Claude Tag可能是一个10x Claude Code级别的产品",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882076.html",
       "source": "虎嗅",
-      "time": "2026-08-10 12:36"
+      "time": "2026-08-10 14:08"
     },
     {
-      "title": "三年关掉60%门店，称重快餐开始“纠偏”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881996.html",
+      "title": "150元一股的宇树，抢疯了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882040.html",
       "source": "虎嗅",
-      "time": "2026-08-10 12:36"
+      "time": "2026-08-10 14:08"
     }
   ]
 }
