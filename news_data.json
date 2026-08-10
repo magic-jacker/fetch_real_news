@@ -1,48 +1,49 @@
 {
-  "timestamp": "2026-08-10T22:02:56.666781",
+  "timestamp": "2026-08-10T23:01:40.177174",
   "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "两个月裁掉63%效率反升，被AI清算的从来不是人",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882111.html",
+        "source": "虎嗅",
+        "time": "2026-08-10 23:01"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "Claude Tag可能是一个10x Claude Code级别的产品",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882076.html",
+        "title": "豆包推荐酒店拿佣金：意图经济来袭，你的欲望就是新的货币",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882108.html",
         "source": "虎嗅",
-        "time": "2026-08-10 22:02"
-      },
-      {
-        "title": "150元一股的宇树，抢疯了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882040.html",
-        "source": "虎嗅",
-        "time": "2026-08-10 22:02"
+        "time": "2026-08-10 23:01"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "Claude Tag可能是一个10x Claude Code级别的产品",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882076.html",
+      "title": "豆包推荐酒店拿佣金：意图经济来袭，你的欲望就是新的货币",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882108.html",
       "source": "虎嗅",
-      "time": "2026-08-10 22:02"
+      "time": "2026-08-10 23:01"
     },
     {
-      "title": "150元一股的宇树，抢疯了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882040.html",
+      "title": "两个月裁掉63%效率反升，被AI清算的从来不是人",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882111.html",
       "source": "虎嗅",
-      "time": "2026-08-10 22:02"
+      "time": "2026-08-10 23:01"
     }
   ]
 }
