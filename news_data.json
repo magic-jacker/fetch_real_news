@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-08-10T10:53:20.117953",
+  "timestamp": "2026-08-10T11:38:23.725227",
   "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
@@ -16,7 +16,7 @@
         "title": "到处停电的古巴，硬被中国光伏拉回了现代社会",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881933.html",
         "source": "虎嗅",
-        "time": "2026-08-10 10:53"
+        "time": "2026-08-10 11:38"
       }
     ],
     "tech": [],
@@ -25,25 +25,25 @@
     "fitness": [],
     "other": [
       {
-        "title": "中国车把日本车打成了奢侈品",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881885.html",
+        "title": "三年关掉60%门店，称重快餐开始“纠偏”",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881996.html",
         "source": "虎嗅",
-        "time": "2026-08-10 10:53"
+        "time": "2026-08-10 11:38"
       }
     ]
   },
   "raw_news": [
     {
+      "title": "三年关掉60%门店，称重快餐开始“纠偏”",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881996.html",
+      "source": "虎嗅",
+      "time": "2026-08-10 11:38"
+    },
+    {
       "title": "到处停电的古巴，硬被中国光伏拉回了现代社会",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881933.html",
       "source": "虎嗅",
-      "time": "2026-08-10 10:53"
-    },
-    {
-      "title": "中国车把日本车打成了奢侈品",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881885.html",
-      "source": "虎嗅",
-      "time": "2026-08-10 10:53"
+      "time": "2026-08-10 11:38"
     }
   ]
 }
