@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-10T23:55:37.694214",
+  "timestamp": "2026-08-11T00:44:40.893024",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -12,38 +12,37 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "两个月裁掉63%效率反升，被AI清算的从来不是人",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882111.html",
-        "source": "虎嗅",
-        "time": "2026-08-10 23:55"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
+        "title": "4%佣金与认知窄门：“智能税”如何没收商户的存在权",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882114.html",
+        "source": "虎嗅",
+        "time": "2026-08-11 00:44"
+      },
+      {
         "title": "豆包推荐酒店拿佣金：意图经济来袭，你的欲望就是新的货币",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882108.html",
         "source": "虎嗅",
-        "time": "2026-08-10 23:55"
+        "time": "2026-08-11 00:44"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "两个月裁掉63%效率反升，被AI清算的从来不是人",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882111.html",
+      "title": "4%佣金与认知窄门：“智能税”如何没收商户的存在权",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882114.html",
       "source": "虎嗅",
-      "time": "2026-08-10 23:55"
+      "time": "2026-08-11 00:44"
     },
     {
       "title": "豆包推荐酒店拿佣金：意图经济来袭，你的欲望就是新的货币",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882108.html",
       "source": "虎嗅",
-      "time": "2026-08-10 23:55"
+      "time": "2026-08-11 00:44"
     }
   ]
 }
