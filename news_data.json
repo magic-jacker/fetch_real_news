@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-12T05:10:36.736089",
-  "total": 0,
+  "timestamp": "2026-08-12T06:49:03.216622",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,7 +16,33 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "Manus独立了，却错过了Agent窗口期",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882527.html",
+        "source": "虎嗅",
+        "time": "2026-08-12 06:49"
+      },
+      {
+        "title": "剪映员工离职创业已出现“人传人”现象",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882486.html",
+        "source": "虎嗅",
+        "time": "2026-08-12 06:49"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "Manus独立了，却错过了Agent窗口期",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882527.html",
+      "source": "虎嗅",
+      "time": "2026-08-12 06:49"
+    },
+    {
+      "title": "剪映员工离职创业已出现“人传人”现象",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882486.html",
+      "source": "虎嗅",
+      "time": "2026-08-12 06:49"
+    }
+  ]
 }
