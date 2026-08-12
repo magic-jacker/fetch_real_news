@@ -1,48 +1,49 @@
 {
-  "timestamp": "2026-08-12T12:36:44.340129",
+  "timestamp": "2026-08-12T14:09:33.142343",
   "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "马斯克上天之后，AI算力又瞄准了大海",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882503.html",
+        "source": "虎嗅",
+        "time": "2026-08-12 14:09"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "降了速的昂跑反而更值钱",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882445.html",
+        "title": "Manus独立了，却错过了Agent窗口期",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882527.html",
         "source": "虎嗅",
-        "time": "2026-08-12 12:36"
-      },
-      {
-        "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882645.html",
-        "source": "虎嗅",
-        "time": "2026-08-12 12:36"
+        "time": "2026-08-12 14:09"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "降了速的昂跑反而更值钱",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882445.html",
+      "title": "Manus独立了，却错过了Agent窗口期",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882527.html",
       "source": "虎嗅",
-      "time": "2026-08-12 12:36"
+      "time": "2026-08-12 14:09"
     },
     {
-      "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882645.html",
+      "title": "马斯克上天之后，AI算力又瞄准了大海",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882503.html",
       "source": "虎嗅",
-      "time": "2026-08-12 12:36"
+      "time": "2026-08-12 14:09"
     }
   ]
 }
