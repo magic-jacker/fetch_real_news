@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-12T22:07:06.931898",
+  "timestamp": "2026-08-12T23:06:48.379054",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -12,38 +12,38 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
+    "tech": [],
+    "byd": [
       {
-        "title": "马斯克上天之后，AI算力又瞄准了大海",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882503.html",
+        "title": "失速35.6%，比亚迪国内大跌，吉利重启销冠之争",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882410.html",
         "source": "虎嗅",
-        "time": "2026-08-12 22:07"
+        "time": "2026-08-12 23:06"
       }
     ],
-    "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "Manus独立了，却错过了Agent窗口期",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882527.html",
+        "title": "猫山王从148跌到14块，东南亚榴莲全崩了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882698.html",
         "source": "虎嗅",
-        "time": "2026-08-12 22:07"
+        "time": "2026-08-12 23:06"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "Manus独立了，却错过了Agent窗口期",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882527.html",
+      "title": "猫山王从148跌到14块，东南亚榴莲全崩了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882698.html",
       "source": "虎嗅",
-      "time": "2026-08-12 22:07"
+      "time": "2026-08-12 23:06"
     },
     {
-      "title": "马斯克上天之后，AI算力又瞄准了大海",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882503.html",
+      "title": "失速35.6%，比亚迪国内大跌，吉利重启销冠之争",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882410.html",
       "source": "虎嗅",
-      "time": "2026-08-12 22:07"
+      "time": "2026-08-12 23:06"
     }
   ]
 }
