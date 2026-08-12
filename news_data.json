@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-08-11T23:08:19.786061",
-  "total": 1,
+  "timestamp": "2026-08-12T00:04:17.912116",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
@@ -16,21 +16,7 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "啊？原来酸奶不能“促消化”？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882025.html",
-        "source": "虎嗅",
-        "time": "2026-08-11 23:08"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "啊？原来酸奶不能“促消化”？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882025.html",
-      "source": "虎嗅",
-      "time": "2026-08-11 23:08"
-    }
-  ]
+  "raw_news": []
 }
