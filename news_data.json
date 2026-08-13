@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-13T08:08:51.524629",
-  "total": 0,
+  "timestamp": "2026-08-13T09:36:19.980015",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -11,12 +11,39 @@
   },
   "categories": {
     "finance": [],
-    "industry": [],
-    "tech": [],
+    "industry": [
+      {
+        "title": "以日为镜，医药行业的转折时刻到了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882863.html",
+        "source": "虎嗅",
+        "time": "2026-08-13 09:36"
+      }
+    ],
+    "tech": [
+      {
+        "title": "AI设计出了新病毒，世界离“生化危机”还有多远？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882249.html",
+        "source": "虎嗅",
+        "time": "2026-08-13 09:36"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": []
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "以日为镜，医药行业的转折时刻到了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882863.html",
+      "source": "虎嗅",
+      "time": "2026-08-13 09:36"
+    },
+    {
+      "title": "AI设计出了新病毒，世界离“生化危机”还有多远？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882249.html",
+      "source": "虎嗅",
+      "time": "2026-08-13 09:36"
+    }
+  ]
 }
