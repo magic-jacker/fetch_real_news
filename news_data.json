@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T11:35:57.177086",
+  "timestamp": "2026-08-13T12:37:24.512809",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -11,39 +11,38 @@
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "以日为镜，医药行业的转折时刻到了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882863.html",
-        "source": "虎嗅",
-        "time": "2026-08-13 11:35"
-      }
-    ],
+    "industry": [],
     "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "拓竹瞄上的新蛋糕，被打印假牙的90后先咬了一口",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882672.html",
+        "title": "大货车司机，为什么要花1万元加装空调？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882879.html",
         "source": "虎嗅",
-        "time": "2026-08-13 11:35"
+        "time": "2026-08-13 12:37"
+      },
+      {
+        "title": "模型、品牌和创业者，最后拼的其实都是生态位",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882904.html",
+        "source": "虎嗅",
+        "time": "2026-08-13 12:37"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "以日为镜，医药行业的转折时刻到了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882863.html",
+      "title": "大货车司机，为什么要花1万元加装空调？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882879.html",
       "source": "虎嗅",
-      "time": "2026-08-13 11:35"
+      "time": "2026-08-13 12:37"
     },
     {
-      "title": "拓竹瞄上的新蛋糕，被打印假牙的90后先咬了一口",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882672.html",
+      "title": "模型、品牌和创业者，最后拼的其实都是生态位",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882904.html",
       "source": "虎嗅",
-      "time": "2026-08-13 11:35"
+      "time": "2026-08-13 12:37"
     }
   ]
 }
