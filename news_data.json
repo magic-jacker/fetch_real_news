@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-13T06:51:44.831986",
-  "total": 2,
+  "timestamp": "2026-08-13T08:08:51.524629",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,33 +16,7 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "字幕组这次可能要彻底死透了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882734.html",
-        "source": "虎嗅",
-        "time": "2026-08-13 06:51"
-      },
-      {
-        "title": "为什么3亿老年人，撑不起一个银发连锁巨头？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882803.html",
-        "source": "虎嗅",
-        "time": "2026-08-13 06:51"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "字幕组这次可能要彻底死透了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882734.html",
-      "source": "虎嗅",
-      "time": "2026-08-13 06:51"
-    },
-    {
-      "title": "为什么3亿老年人，撑不起一个银发连锁巨头？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882803.html",
-      "source": "虎嗅",
-      "time": "2026-08-13 06:51"
-    }
-  ]
+  "raw_news": []
 }
