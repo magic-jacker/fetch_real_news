@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T12:33:12.093176",
+  "timestamp": "2026-08-14T14:05:17.959201",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -11,15 +11,15 @@
   },
   "categories": {
     "finance": [],
-    "industry": [
+    "industry": [],
+    "tech": [
       {
-        "title": "独家|智元机器人内部管理曝光：20余个天才被神秘隔离",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883165.html",
+        "title": "从超级个体到组织收益，AI卡在哪？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883140.html",
         "source": "虎嗅",
-        "time": "2026-08-14 12:33"
+        "time": "2026-08-14 14:05"
       }
     ],
-    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
@@ -28,22 +28,22 @@
         "title": "猫山王从148跌到14块，东南亚榴莲全崩了",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882698.html",
         "source": "虎嗅",
-        "time": "2026-08-14 12:33"
+        "time": "2026-08-14 14:05"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "独家|智元机器人内部管理曝光：20余个天才被神秘隔离",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883165.html",
+      "title": "从超级个体到组织收益，AI卡在哪？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883140.html",
       "source": "虎嗅",
-      "time": "2026-08-14 12:33"
+      "time": "2026-08-14 14:05"
     },
     {
       "title": "猫山王从148跌到14块，东南亚榴莲全崩了",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882698.html",
       "source": "虎嗅",
-      "time": "2026-08-14 12:33"
+      "time": "2026-08-14 14:05"
     }
   ]
 }
