@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T22:44:34.827069",
+  "timestamp": "2026-08-14T23:09:08.099231",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -12,38 +12,37 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "从超级个体到组织收益，AI卡在哪？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883140.html",
-        "source": "虎嗅",
-        "time": "2026-08-14 22:44"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "猫山王从148跌到14块，东南亚榴莲全崩了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882698.html",
+        "title": "从台湾帮派谈判到中国总裁丨独家对话江口达雄",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881524.html",
         "source": "虎嗅",
-        "time": "2026-08-14 22:44"
+        "time": "2026-08-14 23:09"
+      },
+      {
+        "title": "月薪七八千已经是绝大多数人一辈子达不到的高峰？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882818.html",
+        "source": "虎嗅",
+        "time": "2026-08-14 23:09"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "从超级个体到组织收益，AI卡在哪？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883140.html",
+      "title": "从台湾帮派谈判到中国总裁丨独家对话江口达雄",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4881524.html",
       "source": "虎嗅",
-      "time": "2026-08-14 22:44"
+      "time": "2026-08-14 23:09"
     },
     {
-      "title": "猫山王从148跌到14块，东南亚榴莲全崩了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882698.html",
+      "title": "月薪七八千已经是绝大多数人一辈子达不到的高峰？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882818.html",
       "source": "虎嗅",
-      "time": "2026-08-14 22:44"
+      "time": "2026-08-14 23:09"
     }
   ]
 }
