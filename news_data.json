@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-14T18:11:04.021998",
-  "total": 2,
+  "timestamp": "2026-08-14T19:24:26.070095",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -12,38 +12,11 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "从超级个体到组织收益，AI卡在哪？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883140.html",
-        "source": "虎嗅",
-        "time": "2026-08-14 18:11"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "猫山王从148跌到14块，东南亚榴莲全崩了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882698.html",
-        "source": "虎嗅",
-        "time": "2026-08-14 18:11"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "从超级个体到组织收益，AI卡在哪？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883140.html",
-      "source": "虎嗅",
-      "time": "2026-08-14 18:11"
-    },
-    {
-      "title": "猫山王从148跌到14块，东南亚榴莲全崩了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882698.html",
-      "source": "虎嗅",
-      "time": "2026-08-14 18:11"
-    }
-  ]
+  "raw_news": []
 }
