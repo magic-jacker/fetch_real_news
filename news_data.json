@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-08-13T23:07:49.360457",
-  "total": 1,
+  "timestamp": "2026-08-14T00:03:07.727057",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
@@ -18,19 +18,31 @@
     "fitness": [],
     "other": [
       {
-        "title": "拆迁又回来了，但房地产的循环已经变了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882994.html",
+        "title": "造车狂奔十年，烂摊子全留给了车主",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883017.html",
         "source": "虎嗅",
-        "time": "2026-08-13 23:07"
+        "time": "2026-08-14 00:03"
+      },
+      {
+        "title": "硅谷大厂又不需要伦理学家了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883020.html",
+        "source": "虎嗅",
+        "time": "2026-08-14 00:03"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "拆迁又回来了，但房地产的循环已经变了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882994.html",
+      "title": "造车狂奔十年，烂摊子全留给了车主",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883017.html",
       "source": "虎嗅",
-      "time": "2026-08-13 23:07"
+      "time": "2026-08-14 00:03"
+    },
+    {
+      "title": "硅谷大厂又不需要伦理学家了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883020.html",
+      "source": "虎嗅",
+      "time": "2026-08-14 00:03"
     }
   ]
 }
