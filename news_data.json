@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T09:31:22.962886",
+  "timestamp": "2026-08-14T10:44:15.552346",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -11,38 +11,39 @@
   },
   "categories": {
     "finance": [],
-    "industry": [],
+    "industry": [
+      {
+        "title": "独家|智元机器人内部管理曝光：20余个天才被神秘隔离",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883165.html",
+        "source": "虎嗅",
+        "time": "2026-08-14 10:44"
+      }
+    ],
     "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "复旦王水牛事件与裤裆民族主义的衰落",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883066.html",
+        "title": "Agent的坠落，只用了一个夏天",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883167.html",
         "source": "虎嗅",
-        "time": "2026-08-14 09:31"
-      },
-      {
-        "title": "“中国在骗人？”英国教授硬核反击：是你们自己不想搞清洁能源",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883129.html",
-        "source": "虎嗅",
-        "time": "2026-08-14 09:31"
+        "time": "2026-08-14 10:44"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "复旦王水牛事件与裤裆民族主义的衰落",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883066.html",
+      "title": "独家|智元机器人内部管理曝光：20余个天才被神秘隔离",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883165.html",
       "source": "虎嗅",
-      "time": "2026-08-14 09:31"
+      "time": "2026-08-14 10:44"
     },
     {
-      "title": "“中国在骗人？”英国教授硬核反击：是你们自己不想搞清洁能源",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883129.html",
+      "title": "Agent的坠落，只用了一个夏天",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883167.html",
       "source": "虎嗅",
-      "time": "2026-08-14 09:31"
+      "time": "2026-08-14 10:44"
     }
   ]
 }
