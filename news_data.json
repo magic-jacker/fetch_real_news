@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T04:00:35.797765",
+  "timestamp": "2026-08-15T04:52:22.169955",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -12,38 +12,37 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "我的AI恋人，消失在这个夏天",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883043.html",
-        "source": "虎嗅",
-        "time": "2026-08-15 04:00"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "北美华人超市的隐秘江湖",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883309.html",
+        "title": "不是年轻人不想结婚，是婚姻市场的“流动性”干了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883304.html",
         "source": "虎嗅",
-        "time": "2026-08-15 04:00"
+        "time": "2026-08-15 04:52"
+      },
+      {
+        "title": "月薪七八千已经是绝大多数人一辈子达不到的高峰？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882818.html",
+        "source": "虎嗅",
+        "time": "2026-08-15 04:52"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "我的AI恋人，消失在这个夏天",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883043.html",
+      "title": "不是年轻人不想结婚，是婚姻市场的“流动性”干了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883304.html",
       "source": "虎嗅",
-      "time": "2026-08-15 04:00"
+      "time": "2026-08-15 04:52"
     },
     {
-      "title": "北美华人超市的隐秘江湖",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883309.html",
+      "title": "月薪七八千已经是绝大多数人一辈子达不到的高峰？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882818.html",
       "source": "虎嗅",
-      "time": "2026-08-15 04:00"
+      "time": "2026-08-15 04:52"
     }
   ]
 }
