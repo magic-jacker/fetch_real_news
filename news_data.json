@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T12:11:12.735665",
+  "timestamp": "2026-08-15T13:03:56.595801",
   "total": 1,
   "sources": {
     "财联社电报": 0,
@@ -11,26 +11,26 @@
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "宇树的610亿发行市值，多少属于机器人，多少属于人形故事",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883356.html",
-        "source": "虎嗅",
-        "time": "2026-08-15 12:11"
-      }
-    ],
+    "industry": [],
     "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "山东怎么办？八点建设性意见",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883343.html",
+        "source": "虎嗅",
+        "time": "2026-08-15 13:03"
+      }
+    ]
   },
   "raw_news": [
     {
-      "title": "宇树的610亿发行市值，多少属于机器人，多少属于人形故事",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883356.html",
+      "title": "山东怎么办？八点建设性意见",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883343.html",
       "source": "虎嗅",
-      "time": "2026-08-15 12:11"
+      "time": "2026-08-15 13:03"
     }
   ]
 }
