@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-08-15T13:03:56.595801",
-  "total": 1,
+  "timestamp": "2026-08-15T13:47:37.100815",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
@@ -18,19 +18,31 @@
     "fitness": [],
     "other": [
       {
-        "title": "山东怎么办？八点建设性意见",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883343.html",
+        "title": "马斯克的猎物，Cursor的宿命",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883385.html",
         "source": "虎嗅",
-        "time": "2026-08-15 13:03"
+        "time": "2026-08-15 13:47"
+      },
+      {
+        "title": "猪周期反转，牧原的天花板究竟有多高？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882750.html",
+        "source": "虎嗅",
+        "time": "2026-08-15 13:47"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "山东怎么办？八点建设性意见",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883343.html",
+      "title": "马斯克的猎物，Cursor的宿命",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883385.html",
       "source": "虎嗅",
-      "time": "2026-08-15 13:03"
+      "time": "2026-08-15 13:47"
+    },
+    {
+      "title": "猪周期反转，牧原的天花板究竟有多高？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882750.html",
+      "source": "虎嗅",
+      "time": "2026-08-15 13:47"
     }
   ]
 }
