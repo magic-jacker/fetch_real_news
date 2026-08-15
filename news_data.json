@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-15T05:46:53.970185",
-  "total": 0,
+  "timestamp": "2026-08-15T06:15:15.524227",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -12,11 +12,38 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "AI正在批量制造“幽灵”",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883331.html",
+        "source": "虎嗅",
+        "time": "2026-08-15 06:15"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "《奥德赛》：不止是仲树热，是诺兰与孔子的隔空对谈",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883321.html",
+        "source": "虎嗅",
+        "time": "2026-08-15 06:15"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "《奥德赛》：不止是仲树热，是诺兰与孔子的隔空对谈",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883321.html",
+      "source": "虎嗅",
+      "time": "2026-08-15 06:15"
+    },
+    {
+      "title": "AI正在批量制造“幽灵”",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883331.html",
+      "source": "虎嗅",
+      "time": "2026-08-15 06:15"
+    }
+  ]
 }
