@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T07:03:10.661567",
+  "timestamp": "2026-08-15T07:48:46.397351",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -12,38 +12,37 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "AI正在批量制造“幽灵”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883331.html",
-        "source": "虎嗅",
-        "time": "2026-08-15 07:03"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "这次，牧原的天花板究竟有多高？",
+        "title": "猪周期反转，牧原的天花板究竟有多高？",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882750.html",
         "source": "虎嗅",
-        "time": "2026-08-15 07:03"
+        "time": "2026-08-15 07:48"
+      },
+      {
+        "title": "海外销量增长20%，李健还在焦虑荣耀高端化",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883344.html",
+        "source": "虎嗅",
+        "time": "2026-08-15 07:48"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "这次，牧原的天花板究竟有多高？",
+      "title": "猪周期反转，牧原的天花板究竟有多高？",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882750.html",
       "source": "虎嗅",
-      "time": "2026-08-15 07:03"
+      "time": "2026-08-15 07:48"
     },
     {
-      "title": "AI正在批量制造“幽灵”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883331.html",
+      "title": "海外销量增长20%，李健还在焦虑荣耀高端化",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883344.html",
       "source": "虎嗅",
-      "time": "2026-08-15 07:03"
+      "time": "2026-08-15 07:48"
     }
   ]
 }
