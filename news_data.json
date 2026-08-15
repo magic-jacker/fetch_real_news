@@ -1,22 +1,49 @@
 {
-  "timestamp": "2026-08-15T01:55:23.216141",
-  "total": 0,
+  "timestamp": "2026-08-15T02:41:28.559437",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "我的AI恋人，消失在这个夏天",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883043.html",
+        "source": "虎嗅",
+        "time": "2026-08-15 02:41"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "北美华人超市的隐秘江湖",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883309.html",
+        "source": "虎嗅",
+        "time": "2026-08-15 02:41"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "我的AI恋人，消失在这个夏天",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883043.html",
+      "source": "虎嗅",
+      "time": "2026-08-15 02:41"
+    },
+    {
+      "title": "北美华人超市的隐秘江湖",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883309.html",
+      "source": "虎嗅",
+      "time": "2026-08-15 02:41"
+    }
+  ]
 }
