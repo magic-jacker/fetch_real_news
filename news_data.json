@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-17T07:28:26.813843",
-  "total": 2,
+  "timestamp": "2026-08-17T08:06:14.749540",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -12,38 +12,11 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "大厂校招狂卷AI，应届生懵了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883539.html",
-        "source": "虎嗅",
-        "time": "2026-08-17 07:28"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "中国商人在中东，听够了沈腾被说的那句“不够甜”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883630.html",
-        "source": "虎嗅",
-        "time": "2026-08-17 07:28"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "中国商人在中东，听够了沈腾被说的那句“不够甜”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883630.html",
-      "source": "虎嗅",
-      "time": "2026-08-17 07:28"
-    },
-    {
-      "title": "大厂校招狂卷AI，应届生懵了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883539.html",
-      "source": "虎嗅",
-      "time": "2026-08-17 07:28"
-    }
-  ]
+  "raw_news": []
 }
