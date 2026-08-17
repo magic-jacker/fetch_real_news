@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-17T05:55:26.094557",
-  "total": 1,
+  "timestamp": "2026-08-17T06:25:44.431588",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,21 +16,7 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "茅台危险，股价怎么走？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883499.html",
-        "source": "虎嗅",
-        "time": "2026-08-17 05:55"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "茅台危险，股价怎么走？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883499.html",
-      "source": "虎嗅",
-      "time": "2026-08-17 05:55"
-    }
-  ]
+  "raw_news": []
 }
