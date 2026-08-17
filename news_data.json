@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T12:15:11.179417",
+  "timestamp": "2026-08-17T13:11:55.380889",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -12,38 +12,37 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "小米的“满分答卷”，和一场仍在继续的裁员",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883692.html",
-        "source": "虎嗅",
-        "time": "2026-08-17 12:15"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "冰红茶，又救了一次康师傅",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883673.html",
+        "title": "最近重新想明白的几件事",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883719.html",
         "source": "虎嗅",
-        "time": "2026-08-17 12:15"
+        "time": "2026-08-17 13:11"
+      },
+      {
+        "title": "反蒸馏：张一鸣到底是沽名钓誉，还是正本清源？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883749.html",
+        "source": "虎嗅",
+        "time": "2026-08-17 13:11"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "冰红茶，又救了一次康师傅",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883673.html",
+      "title": "最近重新想明白的几件事",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883719.html",
       "source": "虎嗅",
-      "time": "2026-08-17 12:15"
+      "time": "2026-08-17 13:11"
     },
     {
-      "title": "小米的“满分答卷”，和一场仍在继续的裁员",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883692.html",
+      "title": "反蒸馏：张一鸣到底是沽名钓誉，还是正本清源？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883749.html",
       "source": "虎嗅",
-      "time": "2026-08-17 12:15"
+      "time": "2026-08-17 13:11"
     }
   ]
 }
