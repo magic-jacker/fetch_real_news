@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T01:58:56.101367",
+  "timestamp": "2026-08-17T02:55:46.243087",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -12,38 +12,37 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "近距离看硅谷AI一周后，我的七条体感",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883531.html",
-        "source": "虎嗅",
-        "time": "2026-08-17 01:58"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
+        "title": "两个数字都是真的：94%的人回来了，83%的人留下了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883534.html",
+        "source": "虎嗅",
+        "time": "2026-08-17 02:55"
+      },
+      {
         "title": "牛来其实属于劣币战胜假币",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883538.html",
         "source": "虎嗅",
-        "time": "2026-08-17 01:58"
+        "time": "2026-08-17 02:55"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "近距离看硅谷AI一周后，我的七条体感",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883531.html",
+      "title": "两个数字都是真的：94%的人回来了，83%的人留下了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883534.html",
       "source": "虎嗅",
-      "time": "2026-08-17 01:58"
+      "time": "2026-08-17 02:55"
     },
     {
       "title": "牛来其实属于劣币战胜假币",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883538.html",
       "source": "虎嗅",
-      "time": "2026-08-17 01:58"
+      "time": "2026-08-17 02:55"
     }
   ]
 }
