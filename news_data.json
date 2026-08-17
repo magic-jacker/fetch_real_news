@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-17T08:06:14.749540",
-  "total": 0,
+  "timestamp": "2026-08-17T09:04:35.655855",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -12,11 +12,38 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "你的AI可能“抱团”骗你？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883671.html",
+        "source": "虎嗅",
+        "time": "2026-08-17 09:04"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "日本麒麟啤酒，怎么开始卖保健品了？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883154.html",
+        "source": "虎嗅",
+        "time": "2026-08-17 09:04"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "日本麒麟啤酒，怎么开始卖保健品了？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883154.html",
+      "source": "虎嗅",
+      "time": "2026-08-17 09:04"
+    },
+    {
+      "title": "你的AI可能“抱团”骗你？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883671.html",
+      "source": "虎嗅",
+      "time": "2026-08-17 09:04"
+    }
+  ]
 }
