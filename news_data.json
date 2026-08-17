@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-16T23:39:33.283144",
+  "timestamp": "2026-08-17T00:26:07.426895",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -12,37 +12,38 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "近距离看硅谷AI一周后，我的七条体感",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883531.html",
+        "source": "虎嗅",
+        "time": "2026-08-17 00:26"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "DeepSeek涨价背后：中国正在把“智能”变成一种工业品",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883517.html",
+        "title": "从7169元到300万，《牛来》被网友“发行”了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883480.html",
         "source": "虎嗅",
-        "time": "2026-08-16 23:39"
-      },
-      {
-        "title": "如今，1分真快值100万了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882893.html",
-        "source": "虎嗅",
-        "time": "2026-08-16 23:39"
+        "time": "2026-08-17 00:26"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "DeepSeek涨价背后：中国正在把“智能”变成一种工业品",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883517.html",
+      "title": "近距离看硅谷AI一周后，我的七条体感",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883531.html",
       "source": "虎嗅",
-      "time": "2026-08-16 23:39"
+      "time": "2026-08-17 00:26"
     },
     {
-      "title": "如今，1分真快值100万了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4882893.html",
+      "title": "从7169元到300万，《牛来》被网友“发行”了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883480.html",
       "source": "虎嗅",
-      "time": "2026-08-16 23:39"
+      "time": "2026-08-17 00:26"
     }
   ]
 }
