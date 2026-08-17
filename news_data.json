@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T11:45:58.818443",
+  "timestamp": "2026-08-17T12:15:11.179417",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -12,37 +12,38 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "小米的“满分答卷”，和一场仍在继续的裁员",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883692.html",
+        "source": "虎嗅",
+        "time": "2026-08-17 12:15"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "日本麒麟啤酒，怎么开始卖保健品了？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883154.html",
-        "source": "虎嗅",
-        "time": "2026-08-17 11:45"
-      },
-      {
         "title": "冰红茶，又救了一次康师傅",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883673.html",
         "source": "虎嗅",
-        "time": "2026-08-17 11:45"
+        "time": "2026-08-17 12:15"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "日本麒麟啤酒，怎么开始卖保健品了？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883154.html",
-      "source": "虎嗅",
-      "time": "2026-08-17 11:45"
-    },
-    {
       "title": "冰红茶，又救了一次康师傅",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883673.html",
       "source": "虎嗅",
-      "time": "2026-08-17 11:45"
+      "time": "2026-08-17 12:15"
+    },
+    {
+      "title": "小米的“满分答卷”，和一场仍在继续的裁员",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883692.html",
+      "source": "虎嗅",
+      "time": "2026-08-17 12:15"
     }
   ]
 }
