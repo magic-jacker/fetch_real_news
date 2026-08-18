@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T23:09:52.781812",
+  "timestamp": "2026-08-18T23:41:54.945249",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -11,14 +11,7 @@
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "电价涨七倍的德国，被国产阳台光伏救了老命",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884053.html",
-        "source": "虎嗅",
-        "time": "2026-08-18 23:09"
-      }
-    ],
+    "industry": [],
     "tech": [],
     "byd": [],
     "tencent": [],
@@ -28,7 +21,13 @@
         "title": "钟睒睒到底在怕什么？去趟书店你就懂了",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884017.html",
         "source": "虎嗅",
-        "time": "2026-08-18 23:09"
+        "time": "2026-08-18 23:41"
+      },
+      {
+        "title": "《住房公积金管理条例》的修改，哪些变化值得关注？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884062.html",
+        "source": "虎嗅",
+        "time": "2026-08-18 23:41"
       }
     ]
   },
@@ -37,13 +36,13 @@
       "title": "钟睒睒到底在怕什么？去趟书店你就懂了",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884017.html",
       "source": "虎嗅",
-      "time": "2026-08-18 23:09"
+      "time": "2026-08-18 23:41"
     },
     {
-      "title": "电价涨七倍的德国，被国产阳台光伏救了老命",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884053.html",
+      "title": "《住房公积金管理条例》的修改，哪些变化值得关注？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884062.html",
       "source": "虎嗅",
-      "time": "2026-08-18 23:09"
+      "time": "2026-08-18 23:41"
     }
   ]
 }
