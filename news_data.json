@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-18T09:54:42.679096",
-  "total": 0,
+  "timestamp": "2026-08-18T10:14:36.757992",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -11,12 +11,39 @@
   },
   "categories": {
     "finance": [],
-    "industry": [],
+    "industry": [
+      {
+        "title": "独家｜一个爱折腾的95后，靠做机器人“大脑”拿到5个亿",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883925.html",
+        "source": "虎嗅",
+        "time": "2026-08-18 10:14"
+      }
+    ],
     "tech": [],
-    "byd": [],
+    "byd": [
+      {
+        "title": "比亚迪放权、吉利收权：都在为多品牌内耗买单？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883665.html",
+        "source": "虎嗅",
+        "time": "2026-08-18 10:14"
+      }
+    ],
     "tencent": [],
     "fitness": [],
     "other": []
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "比亚迪放权、吉利收权：都在为多品牌内耗买单？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883665.html",
+      "source": "虎嗅",
+      "time": "2026-08-18 10:14"
+    },
+    {
+      "title": "独家｜一个爱折腾的95后，靠做机器人“大脑”拿到5个亿",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883925.html",
+      "source": "虎嗅",
+      "time": "2026-08-18 10:14"
+    }
+  ]
 }
