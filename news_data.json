@@ -1,24 +1,17 @@
 {
-  "timestamp": "2026-08-18T10:51:42.139570",
-  "total": 2,
+  "timestamp": "2026-08-18T11:13:05.437334",
+  "total": 1,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "独家｜一个爱折腾的95后，靠做机器人“大脑”拿到5个亿",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883925.html",
-        "source": "虎嗅",
-        "time": "2026-08-18 10:51"
-      }
-    ],
+    "industry": [],
     "tech": [],
     "byd": [],
     "tencent": [],
@@ -28,7 +21,7 @@
         "title": "中国车出海爆仓，但赚了个寂寞",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883688.html",
         "source": "虎嗅",
-        "time": "2026-08-18 10:51"
+        "time": "2026-08-18 11:12"
       }
     ]
   },
@@ -37,13 +30,7 @@
       "title": "中国车出海爆仓，但赚了个寂寞",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883688.html",
       "source": "虎嗅",
-      "time": "2026-08-18 10:51"
-    },
-    {
-      "title": "独家｜一个爱折腾的95后，靠做机器人“大脑”拿到5个亿",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883925.html",
-      "source": "虎嗅",
-      "time": "2026-08-18 10:51"
+      "time": "2026-08-18 11:12"
     }
   ]
 }
