@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-08-18T13:14:11.922824",
-  "total": 0,
+  "timestamp": "2026-08-18T14:01:46.217931",
+  "total": 1,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
@@ -16,7 +16,21 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "中国车出海爆仓，但赚了个寂寞",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883688.html",
+        "source": "虎嗅",
+        "time": "2026-08-18 14:01"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "中国车出海爆仓，但赚了个寂寞",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883688.html",
+      "source": "虎嗅",
+      "time": "2026-08-18 14:01"
+    }
+  ]
 }
