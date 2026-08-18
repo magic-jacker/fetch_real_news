@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T10:14:36.757992",
+  "timestamp": "2026-08-18T10:51:42.139570",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -16,34 +16,34 @@
         "title": "独家｜一个爱折腾的95后，靠做机器人“大脑”拿到5个亿",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883925.html",
         "source": "虎嗅",
-        "time": "2026-08-18 10:14"
+        "time": "2026-08-18 10:51"
       }
     ],
     "tech": [],
-    "byd": [
-      {
-        "title": "比亚迪放权、吉利收权：都在为多品牌内耗买单？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883665.html",
-        "source": "虎嗅",
-        "time": "2026-08-18 10:14"
-      }
-    ],
+    "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "中国车出海爆仓，但赚了个寂寞",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883688.html",
+        "source": "虎嗅",
+        "time": "2026-08-18 10:51"
+      }
+    ]
   },
   "raw_news": [
     {
-      "title": "比亚迪放权、吉利收权：都在为多品牌内耗买单？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883665.html",
+      "title": "中国车出海爆仓，但赚了个寂寞",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883688.html",
       "source": "虎嗅",
-      "time": "2026-08-18 10:14"
+      "time": "2026-08-18 10:51"
     },
     {
       "title": "独家｜一个爱折腾的95后，靠做机器人“大脑”拿到5个亿",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883925.html",
       "source": "虎嗅",
-      "time": "2026-08-18 10:14"
+      "time": "2026-08-18 10:51"
     }
   ]
 }
