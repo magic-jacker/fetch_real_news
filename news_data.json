@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-08-19T18:13:51.310463",
-  "total": 2,
+  "timestamp": "2026-08-19T18:58:14.134623",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
@@ -16,33 +16,7 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "市场大调整的信号越来越强了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884216.html",
-        "source": "虎嗅",
-        "time": "2026-08-19 18:13"
-      },
-      {
-        "title": "4400亿元的宇树，造富了多少人？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884316.html",
-        "source": "虎嗅",
-        "time": "2026-08-19 18:13"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "市场大调整的信号越来越强了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884216.html",
-      "source": "虎嗅",
-      "time": "2026-08-19 18:13"
-    },
-    {
-      "title": "4400亿元的宇树，造富了多少人？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884316.html",
-      "source": "虎嗅",
-      "time": "2026-08-19 18:13"
-    }
-  ]
+  "raw_news": []
 }
