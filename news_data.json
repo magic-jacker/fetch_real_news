@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-08-19T00:26:24.347335",
-  "total": 2,
+  "timestamp": "2026-08-19T01:57:53.368613",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
@@ -16,33 +16,7 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "发布会不是用来发布老板的",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883952.html",
-        "source": "虎嗅",
-        "time": "2026-08-19 00:26"
-      },
-      {
-        "title": "瑞幸七夕联名“翻车”，为什么焦虑的巨头需要“防御式卷联名”？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884032.html",
-        "source": "虎嗅",
-        "time": "2026-08-19 00:26"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "发布会不是用来发布老板的",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4883952.html",
-      "source": "虎嗅",
-      "time": "2026-08-19 00:26"
-    },
-    {
-      "title": "瑞幸七夕联名“翻车”，为什么焦虑的巨头需要“防御式卷联名”？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884032.html",
-      "source": "虎嗅",
-      "time": "2026-08-19 00:26"
-    }
-  ]
+  "raw_news": []
 }
