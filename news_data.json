@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-20T10:17:09.866879",
-  "total": 0,
+  "timestamp": "2026-08-20T10:53:14.081944",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -12,11 +12,37 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "OpenAI的高增长，踩刹车了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884571.html",
+        "source": "虎嗅",
+        "time": "2026-08-20 10:53"
+      },
+      {
+        "title": "最难用上的Oura戒指，揭开了AI硬件的真实战场",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884478.html",
+        "source": "虎嗅",
+        "time": "2026-08-20 10:53"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": []
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "OpenAI的高增长，踩刹车了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884571.html",
+      "source": "虎嗅",
+      "time": "2026-08-20 10:53"
+    },
+    {
+      "title": "最难用上的Oura戒指，揭开了AI硬件的真实战场",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884478.html",
+      "source": "虎嗅",
+      "time": "2026-08-20 10:53"
+    }
+  ]
 }
