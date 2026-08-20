@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-20T20:14:00.522863",
-  "total": 2,
+  "timestamp": "2026-08-20T20:52:06.052678",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -12,38 +12,11 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "OpenAI的高增长，踩刹车了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884571.html",
-        "source": "虎嗅",
-        "time": "2026-08-20 20:13"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "暴击美债，逼财政部出手，五大巨头疯了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884674.html",
-        "source": "虎嗅",
-        "time": "2026-08-20 20:13"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "暴击美债，逼财政部出手，五大巨头疯了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884674.html",
-      "source": "虎嗅",
-      "time": "2026-08-20 20:13"
-    },
-    {
-      "title": "OpenAI的高增长，踩刹车了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884571.html",
-      "source": "虎嗅",
-      "time": "2026-08-20 20:13"
-    }
-  ]
+  "raw_news": []
 }
