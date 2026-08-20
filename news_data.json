@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-20T23:13:19.296370",
-  "total": 0,
+  "timestamp": "2026-08-20T23:45:30.503544",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -11,12 +11,39 @@
   },
   "categories": {
     "finance": [],
-    "industry": [],
+    "industry": [
+      {
+        "title": "恒瑞医药的拐点，藏在四个信号里",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884724.html",
+        "source": "虎嗅",
+        "time": "2026-08-20 23:45"
+      }
+    ],
     "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "暴击美债，逼财政部出手，五大巨头疯了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884674.html",
+        "source": "虎嗅",
+        "time": "2026-08-20 23:45"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "恒瑞医药的拐点，藏在四个信号里",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884724.html",
+      "source": "虎嗅",
+      "time": "2026-08-20 23:45"
+    },
+    {
+      "title": "暴击美债，逼财政部出手，五大巨头疯了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884674.html",
+      "source": "虎嗅",
+      "time": "2026-08-20 23:45"
+    }
+  ]
 }
