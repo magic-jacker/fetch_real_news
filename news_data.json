@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-21T11:47:58.411572",
-  "total": 1,
+  "timestamp": "2026-08-21T12:18:29.710343",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,21 +16,7 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "李宁的长期主义，正在交短期的学费",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884980.html",
-        "source": "虎嗅",
-        "time": "2026-08-21 11:47"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "李宁的长期主义，正在交短期的学费",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884980.html",
-      "source": "虎嗅",
-      "time": "2026-08-21 11:47"
-    }
-  ]
+  "raw_news": []
 }
