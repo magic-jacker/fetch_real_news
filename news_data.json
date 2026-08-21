@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-21T00:29:13.353243",
-  "total": 2,
+  "timestamp": "2026-08-21T02:07:13.157086",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -11,39 +11,12 @@
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "恒瑞医药的拐点，藏在四个信号里",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884724.html",
-        "source": "虎嗅",
-        "time": "2026-08-21 00:29"
-      }
-    ],
+    "industry": [],
     "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "“医生，豆包说你诊断错了”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884627.html",
-        "source": "虎嗅",
-        "time": "2026-08-21 00:29"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "恒瑞医药的拐点，藏在四个信号里",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884724.html",
-      "source": "虎嗅",
-      "time": "2026-08-21 00:29"
-    },
-    {
-      "title": "“医生，豆包说你诊断错了”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884627.html",
-      "source": "虎嗅",
-      "time": "2026-08-21 00:29"
-    }
-  ]
+  "raw_news": []
 }
