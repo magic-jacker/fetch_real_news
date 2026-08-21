@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-21T08:22:40.769969",
-  "total": 2,
+  "timestamp": "2026-08-21T09:04:17.415374",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -12,38 +12,11 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "强化学习之父：“我没疯，是整个AI圈疯了”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884864.html",
-        "source": "虎嗅",
-        "time": "2026-08-21 08:22"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "Anthropic撑不起2万亿美元",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884326.html",
-        "source": "虎嗅",
-        "time": "2026-08-21 08:22"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "Anthropic撑不起2万亿美元",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884326.html",
-      "source": "虎嗅",
-      "time": "2026-08-21 08:22"
-    },
-    {
-      "title": "强化学习之父：“我没疯，是整个AI圈疯了”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884864.html",
-      "source": "虎嗅",
-      "time": "2026-08-21 08:22"
-    }
-  ]
+  "raw_news": []
 }
