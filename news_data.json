@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T10:53:24.009940",
+  "timestamp": "2026-08-21T11:13:49.753557",
   "total": 1,
   "sources": {
     "财联社电报": 0,
@@ -12,25 +12,25 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "百度AI云增长50%，没能打消焦虑",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884551.html",
+        "source": "虎嗅",
+        "time": "2026-08-21 11:13"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "Anthropic撑不起2万亿美元",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884326.html",
-        "source": "虎嗅",
-        "time": "2026-08-21 10:53"
-      }
-    ]
+    "other": []
   },
   "raw_news": [
     {
-      "title": "Anthropic撑不起2万亿美元",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884326.html",
+      "title": "百度AI云增长50%，没能打消焦虑",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884551.html",
       "source": "虎嗅",
-      "time": "2026-08-21 10:53"
+      "time": "2026-08-21 11:13"
     }
   ]
 }
