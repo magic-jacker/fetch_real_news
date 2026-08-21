@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T06:33:18.931343",
+  "timestamp": "2026-08-21T07:32:27.048833",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -14,10 +14,10 @@
     "industry": [],
     "tech": [
       {
-        "title": "WorkBuddy与创业者同桌：AI办公赛道还剩什么壁垒？| AI 100闭门会",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884579.html",
+        "title": "强化学习之父：“我没疯，是整个AI圈疯了”",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884864.html",
         "source": "虎嗅",
-        "time": "2026-08-21 06:33"
+        "time": "2026-08-21 07:32"
       }
     ],
     "byd": [],
@@ -25,25 +25,25 @@
     "fitness": [],
     "other": [
       {
-        "title": "现在，一些潮人居然开始把咸菜当零嘴了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884631.html",
+        "title": "超市货架上，摆满了三四年前的白酒",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884706.html",
         "source": "虎嗅",
-        "time": "2026-08-21 06:33"
+        "time": "2026-08-21 07:32"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "WorkBuddy与创业者同桌：AI办公赛道还剩什么壁垒？| AI 100闭门会",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884579.html",
+      "title": "超市货架上，摆满了三四年前的白酒",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884706.html",
       "source": "虎嗅",
-      "time": "2026-08-21 06:33"
+      "time": "2026-08-21 07:32"
     },
     {
-      "title": "现在，一些潮人居然开始把咸菜当零嘴了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884631.html",
+      "title": "强化学习之父：“我没疯，是整个AI圈疯了”",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4884864.html",
       "source": "虎嗅",
-      "time": "2026-08-21 06:33"
+      "time": "2026-08-21 07:32"
     }
   ]
 }
