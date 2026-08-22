@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T06:16:20.125771",
+  "timestamp": "2026-08-22T07:05:33.477405",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -12,7 +12,14 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "越会用AI 的人，学习能力退化得越快",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885107.html",
+        "source": "虎嗅",
+        "time": "2026-08-22 07:05"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
@@ -21,13 +28,7 @@
         "title": "日本新增5项对华出口管制，中国产业界这次不怕了",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885105.html",
         "source": "虎嗅",
-        "time": "2026-08-22 06:16"
-      },
-      {
-        "title": "中国人为什么要拼命还钱",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885072.html",
-        "source": "虎嗅",
-        "time": "2026-08-22 06:16"
+        "time": "2026-08-22 07:05"
       }
     ]
   },
@@ -36,13 +37,13 @@
       "title": "日本新增5项对华出口管制，中国产业界这次不怕了",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885105.html",
       "source": "虎嗅",
-      "time": "2026-08-22 06:16"
+      "time": "2026-08-22 07:05"
     },
     {
-      "title": "中国人为什么要拼命还钱",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885072.html",
+      "title": "越会用AI 的人，学习能力退化得越快",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885107.html",
       "source": "虎嗅",
-      "time": "2026-08-22 06:16"
+      "time": "2026-08-22 07:05"
     }
   ]
 }
