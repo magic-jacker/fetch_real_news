@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-22T05:15:30.859476",
-  "total": 0,
+  "timestamp": "2026-08-22T05:48:14.842832",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,7 +16,33 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "日本新增5项对华出口管制，中国产业界这次不怕了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885105.html",
+        "source": "虎嗅",
+        "time": "2026-08-22 05:48"
+      },
+      {
+        "title": "中国人为什么要拼命还钱",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885072.html",
+        "source": "虎嗅",
+        "time": "2026-08-22 05:48"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "日本新增5项对华出口管制，中国产业界这次不怕了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885105.html",
+      "source": "虎嗅",
+      "time": "2026-08-22 05:48"
+    },
+    {
+      "title": "中国人为什么要拼命还钱",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885072.html",
+      "source": "虎嗅",
+      "time": "2026-08-22 05:48"
+    }
+  ]
 }
