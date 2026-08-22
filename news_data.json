@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-22T04:55:08.745783",
-  "total": 2,
+  "timestamp": "2026-08-22T05:15:30.859476",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,33 +16,7 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "中国人为什么要拼命还钱",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885072.html",
-        "source": "虎嗅",
-        "time": "2026-08-22 04:55"
-      },
-      {
-        "title": "北大张丹丹教授能不能主动去享受一下灵活就业的“福利”？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885080.html",
-        "source": "虎嗅",
-        "time": "2026-08-22 04:55"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "中国人为什么要拼命还钱",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885072.html",
-      "source": "虎嗅",
-      "time": "2026-08-22 04:55"
-    },
-    {
-      "title": "北大张丹丹教授能不能主动去享受一下灵活就业的“福利”？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885080.html",
-      "source": "虎嗅",
-      "time": "2026-08-22 04:55"
-    }
-  ]
+  "raw_news": []
 }
