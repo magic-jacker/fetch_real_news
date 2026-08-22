@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T08:52:46.797608",
+  "timestamp": "2026-08-22T09:14:13.573626",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -12,14 +12,7 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "越会用AI 的人，学习能力退化得越快",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885107.html",
-        "source": "虎嗅",
-        "time": "2026-08-22 08:52"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
@@ -28,7 +21,13 @@
         "title": "日本新增5项对华出口管制，中国产业界这次不怕了",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885105.html",
         "source": "虎嗅",
-        "time": "2026-08-22 08:52"
+        "time": "2026-08-22 09:14"
+      },
+      {
+        "title": "一纸28亿对赌，压垮老牌巨头",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885129.html",
+        "source": "虎嗅",
+        "time": "2026-08-22 09:14"
       }
     ]
   },
@@ -37,13 +36,13 @@
       "title": "日本新增5项对华出口管制，中国产业界这次不怕了",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885105.html",
       "source": "虎嗅",
-      "time": "2026-08-22 08:52"
+      "time": "2026-08-22 09:14"
     },
     {
-      "title": "越会用AI 的人，学习能力退化得越快",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885107.html",
+      "title": "一纸28亿对赌，压垮老牌巨头",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885129.html",
       "source": "虎嗅",
-      "time": "2026-08-22 08:52"
+      "time": "2026-08-22 09:14"
     }
   ]
 }
