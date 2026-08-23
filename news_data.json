@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-23T15:42:41.060381",
-  "total": 0,
+  "timestamp": "2026-08-23T16:09:17.698653",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -12,11 +12,38 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "戚薇授权AI短剧，观众为什么坐不住了？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885240.html",
+        "source": "虎嗅",
+        "time": "2026-08-23 16:09"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "张丹丹在学术上是扶不起的，不要再强行挽尊了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885277.html",
+        "source": "虎嗅",
+        "time": "2026-08-23 16:09"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "戚薇授权AI短剧，观众为什么坐不住了？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885240.html",
+      "source": "虎嗅",
+      "time": "2026-08-23 16:09"
+    },
+    {
+      "title": "张丹丹在学术上是扶不起的，不要再强行挽尊了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885277.html",
+      "source": "虎嗅",
+      "time": "2026-08-23 16:09"
+    }
+  ]
 }
