@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-23T09:48:17.827162",
+  "timestamp": "2026-08-23T10:09:48.108085",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -16,34 +16,34 @@
         "title": "机器人越来越便宜，高端会成新战场？",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885265.html",
         "source": "虎嗅",
-        "time": "2026-08-23 09:48"
+        "time": "2026-08-23 10:09"
       }
     ],
-    "tech": [
-      {
-        "title": "戚薇授权AI短剧，观众为什么坐不住了？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885240.html",
-        "source": "虎嗅",
-        "time": "2026-08-23 09:48"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "张丹丹在学术上是扶不起的，不要再强行挽尊了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885277.html",
+        "source": "虎嗅",
+        "time": "2026-08-23 10:09"
+      }
+    ]
   },
   "raw_news": [
     {
       "title": "机器人越来越便宜，高端会成新战场？",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885265.html",
       "source": "虎嗅",
-      "time": "2026-08-23 09:48"
+      "time": "2026-08-23 10:09"
     },
     {
-      "title": "戚薇授权AI短剧，观众为什么坐不住了？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885240.html",
+      "title": "张丹丹在学术上是扶不起的，不要再强行挽尊了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885277.html",
       "source": "虎嗅",
-      "time": "2026-08-23 09:48"
+      "time": "2026-08-23 10:09"
     }
   ]
 }
