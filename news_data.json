@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-24T03:27:37.404630",
-  "total": 2,
+  "timestamp": "2026-08-24T04:12:41.801896",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,33 +16,7 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "北上广最挤的地铁线，人开始变少了？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885345.html",
-        "source": "虎嗅",
-        "time": "2026-08-24 03:27"
-      },
-      {
-        "title": "2026上半场的共识与非共识",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885394.html",
-        "source": "虎嗅",
-        "time": "2026-08-24 03:27"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "北上广最挤的地铁线，人开始变少了？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885345.html",
-      "source": "虎嗅",
-      "time": "2026-08-24 03:27"
-    },
-    {
-      "title": "2026上半场的共识与非共识",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885394.html",
-      "source": "虎嗅",
-      "time": "2026-08-24 03:27"
-    }
-  ]
+  "raw_news": []
 }
