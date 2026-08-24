@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-23T23:40:55.005413",
+  "timestamp": "2026-08-24T00:28:09.721322",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -14,10 +14,10 @@
     "industry": [],
     "tech": [
       {
-        "title": "戚薇授权AI短剧，观众为什么坐不住了？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885240.html",
+        "title": "他们追踪2万多中学生发现，AI会让考试成绩大幅下滑",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885326.html",
         "source": "虎嗅",
-        "time": "2026-08-23 23:40"
+        "time": "2026-08-24 00:28"
       }
     ],
     "byd": [],
@@ -25,25 +25,25 @@
     "fitness": [],
     "other": [
       {
-        "title": "16万家企业“迁回”之后，地方政府拿什么抢项目？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885318.html",
+        "title": "电动化时代，V8为何卷土重来？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885329.html",
         "source": "虎嗅",
-        "time": "2026-08-23 23:40"
+        "time": "2026-08-24 00:28"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "戚薇授权AI短剧，观众为什么坐不住了？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885240.html",
+      "title": "电动化时代，V8为何卷土重来？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885329.html",
       "source": "虎嗅",
-      "time": "2026-08-23 23:40"
+      "time": "2026-08-24 00:28"
     },
     {
-      "title": "16万家企业“迁回”之后，地方政府拿什么抢项目？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885318.html",
+      "title": "他们追踪2万多中学生发现，AI会让考试成绩大幅下滑",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885326.html",
       "source": "虎嗅",
-      "time": "2026-08-23 23:40"
+      "time": "2026-08-24 00:28"
     }
   ]
 }
