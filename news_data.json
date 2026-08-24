@@ -1,49 +1,22 @@
 {
-  "timestamp": "2026-08-24T00:28:09.721322",
-  "total": 2,
+  "timestamp": "2026-08-24T02:06:13.058641",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "他们追踪2万多中学生发现，AI会让考试成绩大幅下滑",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885326.html",
-        "source": "虎嗅",
-        "time": "2026-08-24 00:28"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "电动化时代，V8为何卷土重来？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885329.html",
-        "source": "虎嗅",
-        "time": "2026-08-24 00:28"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "电动化时代，V8为何卷土重来？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885329.html",
-      "source": "虎嗅",
-      "time": "2026-08-24 00:28"
-    },
-    {
-      "title": "他们追踪2万多中学生发现，AI会让考试成绩大幅下滑",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885326.html",
-      "source": "虎嗅",
-      "time": "2026-08-24 00:28"
-    }
-  ]
+  "raw_news": []
 }
