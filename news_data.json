@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-24T12:18:57.096960",
-  "total": 2,
+  "timestamp": "2026-08-24T13:26:50.352885",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -12,38 +12,11 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "美智库: “我们摸底了中美1181家企业, 发现中国AI在物理世界的布局让人担忧”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885484.html",
-        "source": "虎嗅",
-        "time": "2026-08-24 12:18"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "你的“易疲劳体质”，可能是童年创伤留下的痕迹",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885579.html",
-        "source": "虎嗅",
-        "time": "2026-08-24 12:18"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "美智库: “我们摸底了中美1181家企业, 发现中国AI在物理世界的布局让人担忧”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885484.html",
-      "source": "虎嗅",
-      "time": "2026-08-24 12:18"
-    },
-    {
-      "title": "你的“易疲劳体质”，可能是童年创伤留下的痕迹",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885579.html",
-      "source": "虎嗅",
-      "time": "2026-08-24 12:18"
-    }
-  ]
+  "raw_news": []
 }
