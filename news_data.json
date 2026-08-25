@@ -1,22 +1,49 @@
 {
-  "timestamp": "2026-08-25T04:26:00.859636",
-  "total": 0,
+  "timestamp": "2026-08-25T05:00:23.968299",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "Kimi涨价、OpenAI降价：中国“土AI”冲击美国“山大王”",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885743.html",
+        "source": "虎嗅",
+        "time": "2026-08-25 05:00"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "不想让中介赚差价，找网友买房的年轻人“每小时省1000块”",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885685.html",
+        "source": "虎嗅",
+        "time": "2026-08-25 05:00"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "不想让中介赚差价，找网友买房的年轻人“每小时省1000块”",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885685.html",
+      "source": "虎嗅",
+      "time": "2026-08-25 05:00"
+    },
+    {
+      "title": "Kimi涨价、OpenAI降价：中国“土AI”冲击美国“山大王”",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885743.html",
+      "source": "虎嗅",
+      "time": "2026-08-25 05:00"
+    }
+  ]
 }
