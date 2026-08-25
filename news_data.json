@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-25T00:27:35.711967",
-  "total": 2,
+  "timestamp": "2026-08-25T01:58:14.257095",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,33 +16,7 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "世道变坏，就是从是非不分开始的",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885670.html",
-        "source": "虎嗅",
-        "time": "2026-08-25 00:27"
-      },
-      {
-        "title": "4天消失2000亿，宇树为何遭遇抛售？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885641.html",
-        "source": "虎嗅",
-        "time": "2026-08-25 00:27"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "世道变坏，就是从是非不分开始的",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885670.html",
-      "source": "虎嗅",
-      "time": "2026-08-25 00:27"
-    },
-    {
-      "title": "4天消失2000亿，宇树为何遭遇抛售？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885641.html",
-      "source": "虎嗅",
-      "time": "2026-08-25 00:27"
-    }
-  ]
+  "raw_news": []
 }
