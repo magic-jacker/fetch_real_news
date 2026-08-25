@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-08-25T09:04:13.350998",
-  "total": 2,
+  "timestamp": "2026-08-25T09:56:56.096807",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
@@ -16,33 +16,7 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "3万店之后，鸣鸣很忙还有什么“弹药”？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885780.html",
-        "source": "虎嗅",
-        "time": "2026-08-25 09:04"
-      },
-      {
-        "title": "427万辆车召回警示：造车十余年，连个门把手都造不好？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885806.html",
-        "source": "虎嗅",
-        "time": "2026-08-25 09:04"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "3万店之后，鸣鸣很忙还有什么“弹药”？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885780.html",
-      "source": "虎嗅",
-      "time": "2026-08-25 09:04"
-    },
-    {
-      "title": "427万辆车召回警示：造车十余年，连个门把手都造不好？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885806.html",
-      "source": "虎嗅",
-      "time": "2026-08-25 09:04"
-    }
-  ]
+  "raw_news": []
 }
