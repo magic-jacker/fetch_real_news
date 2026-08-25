@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-25T19:50:25.807640",
-  "total": 2,
+  "timestamp": "2026-08-25T20:13:29.775224",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,33 +16,7 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "427万辆车召回警示：造车十余年，连个门把手都造不好？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885806.html",
-        "source": "虎嗅",
-        "time": "2026-08-25 19:50"
-      },
-      {
-        "title": "拼多多：电商“邪修”，终成“本分老登”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885889.html",
-        "source": "虎嗅",
-        "time": "2026-08-25 19:50"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "427万辆车召回警示：造车十余年，连个门把手都造不好？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885806.html",
-      "source": "虎嗅",
-      "time": "2026-08-25 19:50"
-    },
-    {
-      "title": "拼多多：电商“邪修”，终成“本分老登”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885889.html",
-      "source": "虎嗅",
-      "time": "2026-08-25 19:50"
-    }
-  ]
+  "raw_news": []
 }
