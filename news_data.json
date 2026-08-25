@@ -1,49 +1,36 @@
 {
-  "timestamp": "2026-08-25T05:30:32.401176",
-  "total": 2,
+  "timestamp": "2026-08-25T06:21:17.441694",
+  "total": 1,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "Kimi涨价、OpenAI降价：中国“土AI”冲击美国“山大王”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885743.html",
-        "source": "虎嗅",
-        "time": "2026-08-25 05:30"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "不想让中介赚差价，找网友买房的年轻人“每小时省1000块”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885685.html",
+        "title": "嫦娥七号按下暂停键，中国航天的“下一盘大棋”浮出水面",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885734.html",
         "source": "虎嗅",
-        "time": "2026-08-25 05:30"
+        "time": "2026-08-25 06:21"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "不想让中介赚差价，找网友买房的年轻人“每小时省1000块”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885685.html",
+      "title": "嫦娥七号按下暂停键，中国航天的“下一盘大棋”浮出水面",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885734.html",
       "source": "虎嗅",
-      "time": "2026-08-25 05:30"
-    },
-    {
-      "title": "Kimi涨价、OpenAI降价：中国“土AI”冲击美国“山大王”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885743.html",
-      "source": "虎嗅",
-      "time": "2026-08-25 05:30"
+      "time": "2026-08-25 06:21"
     }
   ]
 }
