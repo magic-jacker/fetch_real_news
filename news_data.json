@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-08-26T05:01:02.662348",
-  "total": 1,
+  "timestamp": "2026-08-26T05:55:09.066780",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
@@ -16,10 +16,17 @@
         "title": "抢跑的Mac mini，提前亮出苹果的芯片和AI野心",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885983.html",
         "source": "虎嗅",
-        "time": "2026-08-26 05:01"
+        "time": "2026-08-26 05:55"
       }
     ],
-    "tech": [],
+    "tech": [
+      {
+        "title": "Sam Altman：我们高估了AI改变世界的速度",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886076.html",
+        "source": "虎嗅",
+        "time": "2026-08-26 05:55"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
@@ -30,7 +37,13 @@
       "title": "抢跑的Mac mini，提前亮出苹果的芯片和AI野心",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885983.html",
       "source": "虎嗅",
-      "time": "2026-08-26 05:01"
+      "time": "2026-08-26 05:55"
+    },
+    {
+      "title": "Sam Altman：我们高估了AI改变世界的速度",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886076.html",
+      "source": "虎嗅",
+      "time": "2026-08-26 05:55"
     }
   ]
 }
