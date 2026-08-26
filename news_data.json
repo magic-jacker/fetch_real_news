@@ -1,49 +1,49 @@
 {
-  "timestamp": "2026-08-26T12:21:31.370501",
+  "timestamp": "2026-08-26T13:29:37.911690",
   "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
+    "finance": [
+      {
+        "title": "黄金涨破4700美元，但聪明钱在等一次大跌",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886220.html",
+        "source": "虎嗅",
+        "time": "2026-08-26 13:29"
+      }
+    ],
     "industry": [],
     "tech": [
       {
         "title": "比尔·盖茨万字长文警告：动荡的AI时代已经到来，这次不一样",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886228.html",
         "source": "虎嗅",
-        "time": "2026-08-26 12:21"
+        "time": "2026-08-26 13:29"
       }
     ],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "城商行一哥，不敢慢下来",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886139.html",
-        "source": "虎嗅",
-        "time": "2026-08-26 12:21"
-      }
-    ]
+    "other": []
   },
   "raw_news": [
     {
-      "title": "城商行一哥，不敢慢下来",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886139.html",
+      "title": "黄金涨破4700美元，但聪明钱在等一次大跌",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886220.html",
       "source": "虎嗅",
-      "time": "2026-08-26 12:21"
+      "time": "2026-08-26 13:29"
     },
     {
       "title": "比尔·盖茨万字长文警告：动荡的AI时代已经到来，这次不一样",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886228.html",
       "source": "虎嗅",
-      "time": "2026-08-26 12:21"
+      "time": "2026-08-26 13:29"
     }
   ]
 }
