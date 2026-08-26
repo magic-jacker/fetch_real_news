@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-26T06:23:23.669324",
+  "timestamp": "2026-08-26T07:14:45.714618",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -11,39 +11,39 @@
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "抢跑的Mac mini，提前亮出苹果的芯片和AI野心",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885983.html",
-        "source": "虎嗅",
-        "time": "2026-08-26 06:23"
-      }
-    ],
+    "industry": [],
     "tech": [
       {
-        "title": "Sam Altman：我们高估了AI改变世界的速度",
+        "title": "Sam Altman最新访谈：我在几件事上判断错了，AI改变世界没那么快",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886076.html",
         "source": "虎嗅",
-        "time": "2026-08-26 06:23"
+        "time": "2026-08-26 07:14"
       }
     ],
     "byd": [],
     "tencent": [],
-    "fitness": [],
+    "fitness": [
+      {
+        "title": "Claude成功设计出蛋白质，人类距离“攻克大部分疾病”，还有多远？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885495.html",
+        "source": "虎嗅",
+        "time": "2026-08-26 07:14"
+      }
+    ],
     "other": []
   },
   "raw_news": [
     {
-      "title": "抢跑的Mac mini，提前亮出苹果的芯片和AI野心",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885983.html",
+      "title": "Claude成功设计出蛋白质，人类距离“攻克大部分疾病”，还有多远？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885495.html",
       "source": "虎嗅",
-      "time": "2026-08-26 06:23"
+      "time": "2026-08-26 07:14"
     },
     {
-      "title": "Sam Altman：我们高估了AI改变世界的速度",
+      "title": "Sam Altman最新访谈：我在几件事上判断错了，AI改变世界没那么快",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886076.html",
       "source": "虎嗅",
-      "time": "2026-08-26 06:23"
+      "time": "2026-08-26 07:14"
     }
   ]
 }
