@@ -1,49 +1,22 @@
 {
-  "timestamp": "2026-08-26T00:28:38.980509",
-  "total": 2,
+  "timestamp": "2026-08-26T02:08:02.066581",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "历史无法预见AI的未来",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885981.html",
-        "source": "虎嗅",
-        "time": "2026-08-26 00:28"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "电商直播间，挤满时薪5毛的“金币猎人”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885957.html",
-        "source": "虎嗅",
-        "time": "2026-08-26 00:28"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "电商直播间，挤满时薪5毛的“金币猎人”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885957.html",
-      "source": "虎嗅",
-      "time": "2026-08-26 00:28"
-    },
-    {
-      "title": "历史无法预见AI的未来",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885981.html",
-      "source": "虎嗅",
-      "time": "2026-08-26 00:28"
-    }
-  ]
+  "raw_news": []
 }
