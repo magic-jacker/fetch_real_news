@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-26T04:09:08.506104",
+  "timestamp": "2026-08-26T05:01:02.662348",
   "total": 1,
   "sources": {
     "财联社电报": 0,
@@ -11,26 +11,26 @@
   },
   "categories": {
     "finance": [],
-    "industry": [],
+    "industry": [
+      {
+        "title": "抢跑的Mac mini，提前亮出苹果的芯片和AI野心",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885983.html",
+        "source": "虎嗅",
+        "time": "2026-08-26 05:01"
+      }
+    ],
     "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "中国旅行社，不会卖中国了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886012.html",
-        "source": "虎嗅",
-        "time": "2026-08-26 04:09"
-      }
-    ]
+    "other": []
   },
   "raw_news": [
     {
-      "title": "中国旅行社，不会卖中国了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886012.html",
+      "title": "抢跑的Mac mini，提前亮出苹果的芯片和AI野心",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885983.html",
       "source": "虎嗅",
-      "time": "2026-08-26 04:09"
+      "time": "2026-08-26 05:01"
     }
   ]
 }
