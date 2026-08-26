@@ -1,25 +1,18 @@
 {
-  "timestamp": "2026-08-26T07:14:45.714618",
+  "timestamp": "2026-08-26T08:04:26.760519",
   "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "Sam Altman最新访谈：我在几件事上判断错了，AI改变世界没那么快",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886076.html",
-        "source": "虎嗅",
-        "time": "2026-08-26 07:14"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [
@@ -27,23 +20,30 @@
         "title": "Claude成功设计出蛋白质，人类距离“攻克大部分疾病”，还有多远？",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885495.html",
         "source": "虎嗅",
-        "time": "2026-08-26 07:14"
+        "time": "2026-08-26 08:04"
       }
     ],
-    "other": []
+    "other": [
+      {
+        "title": "县城里，靠直播谋生的人",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886085.html",
+        "source": "虎嗅",
+        "time": "2026-08-26 08:04"
+      }
+    ]
   },
   "raw_news": [
     {
       "title": "Claude成功设计出蛋白质，人类距离“攻克大部分疾病”，还有多远？",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885495.html",
       "source": "虎嗅",
-      "time": "2026-08-26 07:14"
+      "time": "2026-08-26 08:04"
     },
     {
-      "title": "Sam Altman最新访谈：我在几件事上判断错了，AI改变世界没那么快",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886076.html",
+      "title": "县城里，靠直播谋生的人",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886085.html",
       "source": "虎嗅",
-      "time": "2026-08-26 07:14"
+      "time": "2026-08-26 08:04"
     }
   ]
 }
