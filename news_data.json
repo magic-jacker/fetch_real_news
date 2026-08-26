@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-26T11:51:58.425671",
+  "timestamp": "2026-08-26T12:21:31.370501",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -12,7 +12,14 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "比尔·盖茨万字长文警告：动荡的AI时代已经到来，这次不一样",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886228.html",
+        "source": "虎嗅",
+        "time": "2026-08-26 12:21"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
@@ -21,13 +28,7 @@
         "title": "城商行一哥，不敢慢下来",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886139.html",
         "source": "虎嗅",
-        "time": "2026-08-26 11:51"
-      },
-      {
-        "title": "县城里，靠直播谋生的人",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886085.html",
-        "source": "虎嗅",
-        "time": "2026-08-26 11:51"
+        "time": "2026-08-26 12:21"
       }
     ]
   },
@@ -36,13 +37,13 @@
       "title": "城商行一哥，不敢慢下来",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886139.html",
       "source": "虎嗅",
-      "time": "2026-08-26 11:51"
+      "time": "2026-08-26 12:21"
     },
     {
-      "title": "县城里，靠直播谋生的人",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886085.html",
+      "title": "比尔·盖茨万字长文警告：动荡的AI时代已经到来，这次不一样",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886228.html",
       "source": "虎嗅",
-      "time": "2026-08-26 11:51"
+      "time": "2026-08-26 12:21"
     }
   ]
 }
