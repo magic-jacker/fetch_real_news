@@ -1,25 +1,18 @@
 {
-  "timestamp": "2026-08-26T03:29:10.368223",
-  "total": 2,
+  "timestamp": "2026-08-26T04:09:08.506104",
+  "total": 1,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "2026钠电突围：从“锂价备胎”到AIDC刚需，欧洲7GWh订单只是起点？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886028.html",
-        "source": "虎嗅",
-        "time": "2026-08-26 03:29"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
@@ -28,22 +21,16 @@
         "title": "中国旅行社，不会卖中国了",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886012.html",
         "source": "虎嗅",
-        "time": "2026-08-26 03:29"
+        "time": "2026-08-26 04:09"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "2026钠电突围：从“锂价备胎”到AIDC刚需，欧洲7GWh订单只是起点？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886028.html",
-      "source": "虎嗅",
-      "time": "2026-08-26 03:29"
-    },
-    {
       "title": "中国旅行社，不会卖中国了",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886012.html",
       "source": "虎嗅",
-      "time": "2026-08-26 03:29"
+      "time": "2026-08-26 04:09"
     }
   ]
 }
