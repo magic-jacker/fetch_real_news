@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-08-26T10:02:26.790302",
-  "total": 2,
+  "timestamp": "2026-08-26T10:56:13.592195",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
@@ -15,35 +15,8 @@
     "tech": [],
     "byd": [],
     "tencent": [],
-    "fitness": [
-      {
-        "title": "Claude成功设计出蛋白质，人类距离“攻克大部分疾病”，还有多远？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885495.html",
-        "source": "虎嗅",
-        "time": "2026-08-26 10:02"
-      }
-    ],
-    "other": [
-      {
-        "title": "县城里，靠直播谋生的人",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886085.html",
-        "source": "虎嗅",
-        "time": "2026-08-26 10:02"
-      }
-    ]
+    "fitness": [],
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "Claude成功设计出蛋白质，人类距离“攻克大部分疾病”，还有多远？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885495.html",
-      "source": "虎嗅",
-      "time": "2026-08-26 10:02"
-    },
-    {
-      "title": "县城里，靠直播谋生的人",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886085.html",
-      "source": "虎嗅",
-      "time": "2026-08-26 10:02"
-    }
-  ]
+  "raw_news": []
 }
