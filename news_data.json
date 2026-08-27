@@ -1,49 +1,36 @@
 {
-  "timestamp": "2026-08-27T00:53:41.180316",
-  "total": 2,
+  "timestamp": "2026-08-27T10:41:17.638778",
+  "total": 1,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "人工智能正在改变年长员工的职业轨迹",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886301.html",
-        "source": "虎嗅",
-        "time": "2026-08-27 00:53"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "坐飞机主动升了一回舱，发现完全不是那么回事儿",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886253.html",
+        "title": "卖一辆赚600、半年亏40亿，新势力该重算规模账了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886363.html",
         "source": "虎嗅",
-        "time": "2026-08-27 00:53"
+        "time": "2026-08-27 10:41"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "人工智能正在改变年长员工的职业轨迹",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886301.html",
+      "title": "卖一辆赚600、半年亏40亿，新势力该重算规模账了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886363.html",
       "source": "虎嗅",
-      "time": "2026-08-27 00:53"
-    },
-    {
-      "title": "坐飞机主动升了一回舱，发现完全不是那么回事儿",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886253.html",
-      "source": "虎嗅",
-      "time": "2026-08-27 00:53"
+      "time": "2026-08-27 10:41"
     }
   ]
 }
