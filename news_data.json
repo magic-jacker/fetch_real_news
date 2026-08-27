@@ -1,18 +1,25 @@
 {
-  "timestamp": "2026-08-27T10:41:17.638778",
-  "total": 1,
+  "timestamp": "2026-08-27T20:49:18.735780",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "亚马逊帮英伟达力挽狂澜",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886520.html",
+        "source": "虎嗅",
+        "time": "2026-08-27 20:49"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
@@ -21,16 +28,22 @@
         "title": "卖一辆赚600、半年亏40亿，新势力该重算规模账了",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886363.html",
         "source": "虎嗅",
-        "time": "2026-08-27 10:41"
+        "time": "2026-08-27 20:49"
       }
     ]
   },
   "raw_news": [
     {
+      "title": "亚马逊帮英伟达力挽狂澜",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886520.html",
+      "source": "虎嗅",
+      "time": "2026-08-27 20:49"
+    },
+    {
       "title": "卖一辆赚600、半年亏40亿，新势力该重算规模账了",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886363.html",
       "source": "虎嗅",
-      "time": "2026-08-27 10:41"
+      "time": "2026-08-27 20:49"
     }
   ]
 }
