@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-27T20:49:18.735780",
+  "timestamp": "2026-08-28T04:58:24.765260",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -14,10 +14,10 @@
     "industry": [],
     "tech": [
       {
-        "title": "亚马逊帮英伟达力挽狂澜",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886520.html",
+        "title": "跟黄仁勋学做生意，一颗GPU不止赚一次钱",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886580.html",
         "source": "虎嗅",
-        "time": "2026-08-27 20:49"
+        "time": "2026-08-28 04:58"
       }
     ],
     "byd": [],
@@ -25,25 +25,25 @@
     "fitness": [],
     "other": [
       {
-        "title": "卖一辆赚600、半年亏40亿，新势力该重算规模账了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886363.html",
+        "title": "一年四轮融资，太空数据中心的生意怎么做",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885177.html",
         "source": "虎嗅",
-        "time": "2026-08-27 20:49"
+        "time": "2026-08-28 04:58"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "亚马逊帮英伟达力挽狂澜",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886520.html",
+      "title": "一年四轮融资，太空数据中心的生意怎么做",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4885177.html",
       "source": "虎嗅",
-      "time": "2026-08-27 20:49"
+      "time": "2026-08-28 04:58"
     },
     {
-      "title": "卖一辆赚600、半年亏40亿，新势力该重算规模账了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886363.html",
+      "title": "跟黄仁勋学做生意，一颗GPU不止赚一次钱",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4886580.html",
       "source": "虎嗅",
-      "time": "2026-08-27 20:49"
+      "time": "2026-08-28 04:58"
     }
   ]
 }
