@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-08-30T05:36:00.793752",
-  "total": 0,
+  "timestamp": "2026-08-30T10:46:08.642941",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
@@ -16,7 +16,33 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "房贷延长到40年，房地产为什么回不到十年前？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887093.html",
+        "source": "虎嗅",
+        "time": "2026-08-30 10:46"
+      },
+      {
+        "title": "中国民航飞行员，从紧缺到“过剩”的二十年",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887119.html",
+        "source": "虎嗅",
+        "time": "2026-08-30 10:46"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "房贷延长到40年，房地产为什么回不到十年前？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887093.html",
+      "source": "虎嗅",
+      "time": "2026-08-30 10:46"
+    },
+    {
+      "title": "中国民航飞行员，从紧缺到“过剩”的二十年",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887119.html",
+      "source": "虎嗅",
+      "time": "2026-08-30 10:46"
+    }
+  ]
 }
