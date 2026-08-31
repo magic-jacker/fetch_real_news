@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-30T23:57:58.975347",
-  "total": 2,
+  "timestamp": "2026-08-31T02:49:03.888092",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,33 +16,7 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "中选之后，“特朗普交易”要反噬了？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887152.html",
-        "source": "虎嗅",
-        "time": "2026-08-30 23:57"
-      },
-      {
-        "title": "长鑫之后，合肥押注核聚变",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887162.html",
-        "source": "虎嗅",
-        "time": "2026-08-30 23:57"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "中选之后，“特朗普交易”要反噬了？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887152.html",
-      "source": "虎嗅",
-      "time": "2026-08-30 23:57"
-    },
-    {
-      "title": "长鑫之后，合肥押注核聚变",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887162.html",
-      "source": "虎嗅",
-      "time": "2026-08-30 23:57"
-    }
-  ]
+  "raw_news": []
 }
