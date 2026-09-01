@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-01T15:14:57.212561",
-  "total": 2,
+  "timestamp": "2026-09-01T18:39:12.403250",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -12,38 +12,11 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "引爆端侧AI行情的，居然是只鸭子？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887733.html",
-        "source": "虎嗅",
-        "time": "2026-09-01 15:14"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "销量暴涨371%，中国车企却在欧洲被经销商追欠款半年",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887618.html",
-        "source": "虎嗅",
-        "time": "2026-09-01 15:14"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "销量暴涨371%，中国车企却在欧洲被经销商追欠款半年",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887618.html",
-      "source": "虎嗅",
-      "time": "2026-09-01 15:14"
-    },
-    {
-      "title": "引爆端侧AI行情的，居然是只鸭子？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887733.html",
-      "source": "虎嗅",
-      "time": "2026-09-01 15:14"
-    }
-  ]
+  "raw_news": []
 }
