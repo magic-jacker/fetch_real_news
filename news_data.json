@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-01T00:50:09.166248",
+  "timestamp": "2026-09-01T05:46:53.756054",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -12,37 +12,38 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "一家校园招聘平台，一年多出10亿美元的AI训练生意",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887584.html",
+        "source": "虎嗅",
+        "time": "2026-09-01 05:46"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "房贷拉长到40年只是表象，楼市真正的改变大多数人没看懂",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887462.html",
+        "title": "Club Med，上市能治旧病吗？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887547.html",
         "source": "虎嗅",
-        "time": "2026-09-01 00:50"
-      },
-      {
-        "title": "商场负一楼的“小山姆”，留不住00后年轻人",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887454.html",
-        "source": "虎嗅",
-        "time": "2026-09-01 00:50"
+        "time": "2026-09-01 05:46"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "房贷拉长到40年只是表象，楼市真正的改变大多数人没看懂",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887462.html",
+      "title": "Club Med，上市能治旧病吗？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887547.html",
       "source": "虎嗅",
-      "time": "2026-09-01 00:50"
+      "time": "2026-09-01 05:46"
     },
     {
-      "title": "商场负一楼的“小山姆”，留不住00后年轻人",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887454.html",
+      "title": "一家校园招聘平台，一年多出10亿美元的AI训练生意",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887584.html",
       "source": "虎嗅",
-      "time": "2026-09-01 00:50"
+      "time": "2026-09-01 05:46"
     }
   ]
 }
