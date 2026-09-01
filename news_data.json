@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-01T05:46:53.756054",
+  "timestamp": "2026-09-01T10:35:25.241460",
   "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
@@ -14,10 +14,10 @@
     "industry": [],
     "tech": [
       {
-        "title": "一家校园招聘平台，一年多出10亿美元的AI训练生意",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887584.html",
+        "title": "史上最卷9月，小米华为拼了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887585.html",
         "source": "虎嗅",
-        "time": "2026-09-01 05:46"
+        "time": "2026-09-01 10:35"
       }
     ],
     "byd": [],
@@ -25,25 +25,25 @@
     "fitness": [],
     "other": [
       {
-        "title": "Club Med，上市能治旧病吗？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887547.html",
+        "title": "销量暴涨371%，中国车企却在欧洲被经销商追欠款半年",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887618.html",
         "source": "虎嗅",
-        "time": "2026-09-01 05:46"
+        "time": "2026-09-01 10:35"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "Club Med，上市能治旧病吗？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887547.html",
+      "title": "销量暴涨371%，中国车企却在欧洲被经销商追欠款半年",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887618.html",
       "source": "虎嗅",
-      "time": "2026-09-01 05:46"
+      "time": "2026-09-01 10:35"
     },
     {
-      "title": "一家校园招聘平台，一年多出10亿美元的AI训练生意",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887584.html",
+      "title": "史上最卷9月，小米华为拼了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887585.html",
       "source": "虎嗅",
-      "time": "2026-09-01 05:46"
+      "time": "2026-09-01 10:35"
     }
   ]
 }
