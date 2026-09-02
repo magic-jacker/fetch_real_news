@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-02T10:25:25.536277",
+  "timestamp": "2026-09-02T14:34:37.656670",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -12,38 +12,37 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "取关库克、折叠屏被拆完，苹果新CEO开局没底牌",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887995.html",
-        "source": "虎嗅",
-        "time": "2026-09-02 10:25"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "牧原只剩1元降本空间，猪周期反转信号来了？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887572.html",
+        "title": "刷不完的短视频，杀死绝味鸭脖",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4888037.html",
         "source": "虎嗅",
-        "time": "2026-09-02 10:25"
+        "time": "2026-09-02 14:34"
+      },
+      {
+        "title": "10个纽约和欧洲不同的生活感受",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4888048.html",
+        "source": "虎嗅",
+        "time": "2026-09-02 14:34"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "取关库克、折叠屏被拆完，苹果新CEO开局没底牌",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887995.html",
+      "title": "刷不完的短视频，杀死绝味鸭脖",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4888037.html",
       "source": "虎嗅",
-      "time": "2026-09-02 10:25"
+      "time": "2026-09-02 14:34"
     },
     {
-      "title": "牧原只剩1元降本空间，猪周期反转信号来了？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887572.html",
+      "title": "10个纽约和欧洲不同的生活感受",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4888048.html",
       "source": "虎嗅",
-      "time": "2026-09-02 10:25"
+      "time": "2026-09-02 14:34"
     }
   ]
 }
