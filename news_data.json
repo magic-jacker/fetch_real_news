@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-01T23:26:40.949292",
+  "timestamp": "2026-09-02T01:09:12.586639",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -12,37 +12,38 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "人类历史上第一次大规模AI失控始末",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887794.html",
+        "source": "虎嗅",
+        "time": "2026-09-02 01:09"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "安踏，快被自己养大的“小弟”挤下主位了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887647.html",
+        "title": "经济舱最后的羊毛，被航司盯上了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887796.html",
         "source": "虎嗅",
-        "time": "2026-09-01 23:26"
-      },
-      {
-        "title": "拼豆正式进入大考研时代",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887322.html",
-        "source": "虎嗅",
-        "time": "2026-09-01 23:26"
+        "time": "2026-09-02 01:09"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "安踏，快被自己养大的“小弟”挤下主位了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887647.html",
+      "title": "人类历史上第一次大规模AI失控始末",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887794.html",
       "source": "虎嗅",
-      "time": "2026-09-01 23:26"
+      "time": "2026-09-02 01:09"
     },
     {
-      "title": "拼豆正式进入大考研时代",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887322.html",
+      "title": "经济舱最后的羊毛，被航司盯上了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887796.html",
       "source": "虎嗅",
-      "time": "2026-09-01 23:26"
+      "time": "2026-09-02 01:09"
     }
   ]
 }
