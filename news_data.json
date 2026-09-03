@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-03T05:57:13.866081",
-  "total": 0,
+  "timestamp": "2026-09-03T10:23:34.313039",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,7 +16,33 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "国民神车被点名，中国汽车开还“速成债”",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887688.html",
+        "source": "虎嗅",
+        "time": "2026-09-03 10:23"
+      },
+      {
+        "title": "电池税开征，纯电车利润快归零了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4888258.html",
+        "source": "虎嗅",
+        "time": "2026-09-03 10:23"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "国民神车被点名，中国汽车开还“速成债”",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887688.html",
+      "source": "虎嗅",
+      "time": "2026-09-03 10:23"
+    },
+    {
+      "title": "电池税开征，纯电车利润快归零了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4888258.html",
+      "source": "虎嗅",
+      "time": "2026-09-03 10:23"
+    }
+  ]
 }
