@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-02T23:24:07.245086",
-  "total": 2,
+  "timestamp": "2026-09-03T01:13:46.921086",
+  "total": 1,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
@@ -18,31 +18,19 @@
     "fitness": [],
     "other": [
       {
-        "title": "江浙沪小县城工资崩塌了，是真的么？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887901.html",
+        "title": "从创业国度到战争国度：以色列的战争经济学",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4888115.html",
         "source": "虎嗅",
-        "time": "2026-09-02 23:24"
-      },
-      {
-        "title": "雨下了50多天，生意被浇凉了：小生意人的漫长夏季",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887994.html",
-        "source": "虎嗅",
-        "time": "2026-09-02 23:24"
+        "time": "2026-09-03 01:13"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "江浙沪小县城工资崩塌了，是真的么？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887901.html",
+      "title": "从创业国度到战争国度：以色列的战争经济学",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4888115.html",
       "source": "虎嗅",
-      "time": "2026-09-02 23:24"
-    },
-    {
-      "title": "雨下了50多天，生意被浇凉了：小生意人的漫长夏季",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4887994.html",
-      "source": "虎嗅",
-      "time": "2026-09-02 23:24"
+      "time": "2026-09-03 01:13"
     }
   ]
 }
