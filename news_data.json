@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-03T23:21:19.928682",
-  "total": 2,
+  "timestamp": "2026-09-04T01:05:18.118511",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,33 +16,7 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "一个反常现象：外国科技圈开始往中国跑",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4888336.html",
-        "source": "虎嗅",
-        "time": "2026-09-03 23:21"
-      },
-      {
-        "title": "电池税开征，纯电车利润快归零了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4888258.html",
-        "source": "虎嗅",
-        "time": "2026-09-03 23:21"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "一个反常现象：外国科技圈开始往中国跑",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4888336.html",
-      "source": "虎嗅",
-      "time": "2026-09-03 23:21"
-    },
-    {
-      "title": "电池税开征，纯电车利润快归零了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4888258.html",
-      "source": "虎嗅",
-      "time": "2026-09-03 23:21"
-    }
-  ]
+  "raw_news": []
 }
