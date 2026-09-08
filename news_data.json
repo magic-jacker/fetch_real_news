@@ -1,49 +1,22 @@
 {
-  "timestamp": "2026-09-08T05:23:37.960874",
-  "total": 2,
+  "timestamp": "2026-09-08T09:51:59.843101",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "特斯拉“毛坯车”，国产车学不会",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4889220.html",
-        "source": "虎嗅",
-        "time": "2026-09-08 05:23"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "长寿产业已经乱成一锅粥了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4889409.html",
-        "source": "虎嗅",
-        "time": "2026-09-08 05:23"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "长寿产业已经乱成一锅粥了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4889409.html",
-      "source": "虎嗅",
-      "time": "2026-09-08 05:23"
-    },
-    {
-      "title": "特斯拉“毛坯车”，国产车学不会",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4889220.html",
-      "source": "虎嗅",
-      "time": "2026-09-08 05:23"
-    }
-  ]
+  "raw_news": []
 }
