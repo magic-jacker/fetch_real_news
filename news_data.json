@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-08T22:46:34.931167",
+  "timestamp": "2026-09-09T00:45:20.557546",
   "total": 1,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
@@ -18,19 +18,19 @@
     "fitness": [],
     "other": [
       {
-        "title": "5元4元小店开了又关，餐饮进入“苦行时代”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4889581.html",
+        "title": "南北经济失衡的惯性，终于被打破了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4889649.html",
         "source": "虎嗅",
-        "time": "2026-09-08 22:46"
+        "time": "2026-09-09 00:45"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "5元4元小店开了又关，餐饮进入“苦行时代”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4889581.html",
+      "title": "南北经济失衡的惯性，终于被打破了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4889649.html",
       "source": "虎嗅",
-      "time": "2026-09-08 22:46"
+      "time": "2026-09-09 00:45"
     }
   ]
 }
