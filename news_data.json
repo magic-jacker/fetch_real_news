@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-09T22:37:59.549255",
+  "timestamp": "2026-09-10T00:40:33.383688",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -10,14 +10,7 @@
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
-      {
-        "title": "冲刺IPO的DeepSeek并不缺钱",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4889937.html",
-        "source": "虎嗅",
-        "time": "2026-09-09 22:37"
-      }
-    ],
+    "finance": [],
     "industry": [],
     "tech": [],
     "byd": [],
@@ -25,25 +18,31 @@
     "fitness": [],
     "other": [
       {
-        "title": "星宇股份的麻烦才刚开始",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4889495.html",
+        "title": "就业、服务质量和价格的下降螺旋",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4889940.html",
         "source": "虎嗅",
-        "time": "2026-09-09 22:37"
+        "time": "2026-09-10 00:40"
+      },
+      {
+        "title": "越来越多的老板，不再想把公司做大了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4889959.html",
+        "source": "虎嗅",
+        "time": "2026-09-10 00:40"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "星宇股份的麻烦才刚开始",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4889495.html",
+      "title": "就业、服务质量和价格的下降螺旋",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4889940.html",
       "source": "虎嗅",
-      "time": "2026-09-09 22:37"
+      "time": "2026-09-10 00:40"
     },
     {
-      "title": "冲刺IPO的DeepSeek并不缺钱",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4889937.html",
+      "title": "越来越多的老板，不再想把公司做大了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4889959.html",
       "source": "虎嗅",
-      "time": "2026-09-09 22:37"
+      "time": "2026-09-10 00:40"
     }
   ]
 }
