@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10T05:23:16.136571",
+  "timestamp": "2026-09-10T09:52:17.883547",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -10,40 +10,40 @@
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
+    "finance": [],
+    "industry": [],
+    "tech": [
       {
-        "title": "DeepSeek冲刺IPO，Kimi们可能要重新定价了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890025.html",
+        "title": "二十年前的大危机，让这个北方小城拿到了AI时代的大结果",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890101.html",
         "source": "虎嗅",
-        "time": "2026-09-10 05:23"
+        "time": "2026-09-10 09:52"
       }
     ],
-    "industry": [],
-    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "18万吨！中国三文鱼消费冲上全球第二，日料店却不是主力",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890042.html",
+        "title": "人类史上首次，老人比小孩多了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890111.html",
         "source": "虎嗅",
-        "time": "2026-09-10 05:23"
+        "time": "2026-09-10 09:52"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "DeepSeek冲刺IPO，Kimi们可能要重新定价了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890025.html",
+      "title": "二十年前的大危机，让这个北方小城拿到了AI时代的大结果",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890101.html",
       "source": "虎嗅",
-      "time": "2026-09-10 05:23"
+      "time": "2026-09-10 09:52"
     },
     {
-      "title": "18万吨！中国三文鱼消费冲上全球第二，日料店却不是主力",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890042.html",
+      "title": "人类史上首次，老人比小孩多了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890111.html",
       "source": "虎嗅",
-      "time": "2026-09-10 05:23"
+      "time": "2026-09-10 09:52"
     }
   ]
 }
