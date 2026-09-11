@@ -1,49 +1,49 @@
 {
-  "timestamp": "2026-09-11T06:41:17.693640",
+  "timestamp": "2026-09-11T11:51:45.756079",
   "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "世界模型爆火，GPT-6把手伸向机器人：具身大脑到底谁说了算？| AI 100 闭门会",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890182.html",
-        "source": "虎嗅",
-        "time": "2026-09-11 06:41"
-      }
-    ],
+    "industry": [],
     "tech": [],
     "byd": [],
-    "tencent": [],
+    "tencent": [
+      {
+        "title": "微信不是支持RSS，只是在用RSS进货",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890527.html",
+        "source": "虎嗅",
+        "time": "2026-09-11 11:51"
+      }
+    ],
     "fitness": [],
     "other": [
       {
-        "title": "美国传统势力和科技势力的决断时刻",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890313.html",
+        "title": "他们曾经以为，可以在诺基亚干到退休",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890482.html",
         "source": "虎嗅",
-        "time": "2026-09-11 06:41"
+        "time": "2026-09-11 11:51"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "世界模型爆火，GPT-6把手伸向机器人：具身大脑到底谁说了算？| AI 100 闭门会",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890182.html",
+      "title": "微信不是支持RSS，只是在用RSS进货",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890527.html",
       "source": "虎嗅",
-      "time": "2026-09-11 06:41"
+      "time": "2026-09-11 11:51"
     },
     {
-      "title": "美国传统势力和科技势力的决断时刻",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890313.html",
+      "title": "他们曾经以为，可以在诺基亚干到退休",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890482.html",
       "source": "虎嗅",
-      "time": "2026-09-11 06:41"
+      "time": "2026-09-11 11:51"
     }
   ]
 }
