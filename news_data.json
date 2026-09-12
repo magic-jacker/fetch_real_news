@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-12T09:49:26.058678",
-  "total": 0,
+  "timestamp": "2026-09-12T13:11:25.403950",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -12,11 +12,38 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "燧原的命，攥在腾讯手里",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890638.html",
+        "source": "虎嗅",
+        "time": "2026-09-12 13:11"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "东亚女生又开始抢着当“好嫁女”了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4889889.html",
+        "source": "虎嗅",
+        "time": "2026-09-12 13:11"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "燧原的命，攥在腾讯手里",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890638.html",
+      "source": "虎嗅",
+      "time": "2026-09-12 13:11"
+    },
+    {
+      "title": "东亚女生又开始抢着当“好嫁女”了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4889889.html",
+      "source": "虎嗅",
+      "time": "2026-09-12 13:11"
+    }
+  ]
 }
