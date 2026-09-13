@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-13T01:11:35.814424",
+  "timestamp": "2026-09-13T06:20:38.742526",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -12,38 +12,37 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "中国大模型创始人在政治上很愚蠢",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890721.html",
-        "source": "虎嗅",
-        "time": "2026-09-13 01:11"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "出海即盈利，7家车企净赚了400亿",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890729.html",
+        "title": "被热搜遗忘的战争，越打越玄了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890147.html",
         "source": "虎嗅",
-        "time": "2026-09-13 01:11"
+        "time": "2026-09-13 06:20"
+      },
+      {
+        "title": "新鲜零食火了，但钱还没敢进来",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890753.html",
+        "source": "虎嗅",
+        "time": "2026-09-13 06:20"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "中国大模型创始人在政治上很愚蠢",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890721.html",
+      "title": "被热搜遗忘的战争，越打越玄了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890147.html",
       "source": "虎嗅",
-      "time": "2026-09-13 01:11"
+      "time": "2026-09-13 06:20"
     },
     {
-      "title": "出海即盈利，7家车企净赚了400亿",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890729.html",
+      "title": "新鲜零食火了，但钱还没敢进来",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890753.html",
       "source": "虎嗅",
-      "time": "2026-09-13 01:11"
+      "time": "2026-09-13 06:20"
     }
   ]
 }
