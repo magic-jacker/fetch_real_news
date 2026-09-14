@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-14T13:09:32.024996",
+  "timestamp": "2026-09-14T18:44:09.151178",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -14,35 +14,36 @@
     "industry": [],
     "tech": [
       {
-        "title": "迟到七年的折叠屏：苹果把首创权让给了三星，把定价权留给了自己",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890953.html",
+        "title": "花2万报AI培训班的年轻人，没有等到“包就业”",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4891083.html",
         "source": "虎嗅",
-        "time": "2026-09-14 13:09"
-      },
-      {
-        "title": "曾经拼命加速的AI巨头，终于开始怕AI了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4891014.html",
-        "source": "虎嗅",
-        "time": "2026-09-14 13:09"
+        "time": "2026-09-14 18:44"
       }
     ],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "巨头喊减速，华尔街急了，谁捡漏？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4891045.html",
+        "source": "虎嗅",
+        "time": "2026-09-14 18:44"
+      }
+    ]
   },
   "raw_news": [
     {
-      "title": "迟到七年的折叠屏：苹果把首创权让给了三星，把定价权留给了自己",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890953.html",
+      "title": "花2万报AI培训班的年轻人，没有等到“包就业”",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4891083.html",
       "source": "虎嗅",
-      "time": "2026-09-14 13:09"
+      "time": "2026-09-14 18:44"
     },
     {
-      "title": "曾经拼命加速的AI巨头，终于开始怕AI了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4891014.html",
+      "title": "巨头喊减速，华尔街急了，谁捡漏？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4891045.html",
       "source": "虎嗅",
-      "time": "2026-09-14 13:09"
+      "time": "2026-09-14 18:44"
     }
   ]
 }
