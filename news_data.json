@@ -1,22 +1,49 @@
 {
-  "timestamp": "2026-09-15T05:30:54.330267",
-  "total": 0,
+  "timestamp": "2026-09-15T10:32:48.822757",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "微软开始强调“人类控制权”：AI再强，也必须能被人叫停",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4891302.html",
+        "source": "虎嗅",
+        "time": "2026-09-15 10:32"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "大批中国商家被迫退出！山姆“死对头”关停旗下电商平台",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4891314.html",
+        "source": "虎嗅",
+        "time": "2026-09-15 10:32"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "微软开始强调“人类控制权”：AI再强，也必须能被人叫停",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4891302.html",
+      "source": "虎嗅",
+      "time": "2026-09-15 10:32"
+    },
+    {
+      "title": "大批中国商家被迫退出！山姆“死对头”关停旗下电商平台",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4891314.html",
+      "source": "虎嗅",
+      "time": "2026-09-15 10:32"
+    }
+  ]
 }
