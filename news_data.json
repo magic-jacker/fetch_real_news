@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-16T00:32:34.782100",
+  "timestamp": "2026-09-16T05:23:16.159767",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -10,40 +10,40 @@
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
-    "industry": [],
-    "tech": [
+    "finance": [
       {
-        "title": "把问界“交还”赛力斯，华为依然很“狡猾”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4891481.html",
+        "title": "荣耀重写系统，也在为IPO清障",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4891585.html",
         "source": "虎嗅",
-        "time": "2026-09-16 00:32"
+        "time": "2026-09-16 05:23"
       }
     ],
+    "industry": [],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "中秋国庆，反向旅游的年轻人傻眼了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4891185.html",
+        "title": "见证历史：销量榜前十上居然一辆燃油车都没有了！",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4891530.html",
         "source": "虎嗅",
-        "time": "2026-09-16 00:32"
+        "time": "2026-09-16 05:23"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "把问界“交还”赛力斯，华为依然很“狡猾”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4891481.html",
+      "title": "荣耀重写系统，也在为IPO清障",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4891585.html",
       "source": "虎嗅",
-      "time": "2026-09-16 00:32"
+      "time": "2026-09-16 05:23"
     },
     {
-      "title": "中秋国庆，反向旅游的年轻人傻眼了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4891185.html",
+      "title": "见证历史：销量榜前十上居然一辆燃油车都没有了！",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4891530.html",
       "source": "虎嗅",
-      "time": "2026-09-16 00:32"
+      "time": "2026-09-16 05:23"
     }
   ]
 }
