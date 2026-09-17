@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-17T20:24:22.596286",
+  "timestamp": "2026-09-17T22:55:38.242603",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -12,14 +12,7 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "从离开OpenAI，到拒绝五角大楼，Anthropic的四个侧面",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4892067.html",
-        "source": "虎嗅",
-        "time": "2026-09-17 20:24"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
@@ -28,7 +21,13 @@
         "title": "中国汽车：尾大不掉，必须出清",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4892005.html",
         "source": "虎嗅",
-        "time": "2026-09-17 20:24"
+        "time": "2026-09-17 22:55"
+      },
+      {
+        "title": "换血换骨换器官：车企赌命只为一块小电瓶？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890949.html",
+        "source": "虎嗅",
+        "time": "2026-09-17 22:55"
       }
     ]
   },
@@ -37,13 +36,13 @@
       "title": "中国汽车：尾大不掉，必须出清",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4892005.html",
       "source": "虎嗅",
-      "time": "2026-09-17 20:24"
+      "time": "2026-09-17 22:55"
     },
     {
-      "title": "从离开OpenAI，到拒绝五角大楼，Anthropic的四个侧面",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4892067.html",
+      "title": "换血换骨换器官：车企赌命只为一块小电瓶？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4890949.html",
       "source": "虎嗅",
-      "time": "2026-09-17 20:24"
+      "time": "2026-09-17 22:55"
     }
   ]
 }
