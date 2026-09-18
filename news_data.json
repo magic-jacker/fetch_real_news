@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-18T05:19:59.090169",
-  "total": 2,
+  "timestamp": "2026-09-18T09:54:49.720727",
+  "total": 1,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
@@ -17,33 +17,20 @@
         "title": "a16z合伙人：以为大众想用AI提高效率，是科技圈最大的误判",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4892190.html",
         "source": "虎嗅",
-        "time": "2026-09-18 05:19"
+        "time": "2026-09-18 09:54"
       }
     ],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "90%的机会被大厂拿走，创业者的10%生存法则",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4889378.html",
-        "source": "虎嗅",
-        "time": "2026-09-18 05:19"
-      }
-    ]
+    "other": []
   },
   "raw_news": [
     {
       "title": "a16z合伙人：以为大众想用AI提高效率，是科技圈最大的误判",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4892190.html",
       "source": "虎嗅",
-      "time": "2026-09-18 05:19"
-    },
-    {
-      "title": "90%的机会被大厂拿走，创业者的10%生存法则",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4889378.html",
-      "source": "虎嗅",
-      "time": "2026-09-18 05:19"
+      "time": "2026-09-18 09:54"
     }
   ]
 }
