@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-18T09:54:49.720727",
-  "total": 1,
+  "timestamp": "2026-09-18T13:55:50.550998",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
@@ -14,23 +14,36 @@
     "industry": [],
     "tech": [
       {
-        "title": "a16z合伙人：以为大众想用AI提高效率，是科技圈最大的误判",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4892190.html",
+        "title": "iPhone 18首发日走访：黄牛都不看Pro，谁还在买",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4892271.html",
         "source": "虎嗅",
-        "time": "2026-09-18 09:54"
+        "time": "2026-09-18 13:55"
       }
     ],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "与百亿私募气象学家聊厄尔尼诺",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4892319.html",
+        "source": "虎嗅",
+        "time": "2026-09-18 13:55"
+      }
+    ]
   },
   "raw_news": [
     {
-      "title": "a16z合伙人：以为大众想用AI提高效率，是科技圈最大的误判",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4892190.html",
+      "title": "与百亿私募气象学家聊厄尔尼诺",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4892319.html",
       "source": "虎嗅",
-      "time": "2026-09-18 09:54"
+      "time": "2026-09-18 13:55"
+    },
+    {
+      "title": "iPhone 18首发日走访：黄牛都不看Pro，谁还在买",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4892271.html",
+      "source": "虎嗅",
+      "time": "2026-09-18 13:55"
     }
   ]
 }
