@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-19T23:41:19.244385",
-  "total": 0,
+  "timestamp": "2026-09-20T01:49:02.752064",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,7 +16,33 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "三倍预算办赛仍被吐槽，名古屋亚运的钱花哪了？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4892519.html",
+        "source": "虎嗅",
+        "time": "2026-09-20 01:49"
+      },
+      {
+        "title": "人的心气，可能是这个世界上最滞后的指标",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4892450.html",
+        "source": "虎嗅",
+        "time": "2026-09-20 01:49"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "三倍预算办赛仍被吐槽，名古屋亚运的钱花哪了？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4892519.html",
+      "source": "虎嗅",
+      "time": "2026-09-20 01:49"
+    },
+    {
+      "title": "人的心气，可能是这个世界上最滞后的指标",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4892450.html",
+      "source": "虎嗅",
+      "time": "2026-09-20 01:49"
+    }
+  ]
 }
