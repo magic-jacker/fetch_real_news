@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-20T07:09:11.271575",
-  "total": 0,
+  "timestamp": "2026-09-20T12:30:16.936714",
+  "total": 1,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -12,11 +12,25 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "“大车”的红利期结束了：从华为松手问界说起",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4892605.html",
+        "source": "虎嗅",
+        "time": "2026-09-20 12:30"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": []
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "“大车”的红利期结束了：从华为松手问界说起",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4892605.html",
+      "source": "虎嗅",
+      "time": "2026-09-20 12:30"
+    }
+  ]
 }
