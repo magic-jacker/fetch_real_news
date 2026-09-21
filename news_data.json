@@ -1,30 +1,23 @@
 {
-  "timestamp": "2026-09-20T23:19:28.368066",
-  "total": 2,
+  "timestamp": "2026-09-21T01:16:31.480102",
+  "total": 1,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "5000辆越南VinFast电动车装船发欧洲与东南亚：中国车企不该轻视这个对手了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4892663.html",
-        "source": "虎嗅",
-        "time": "2026-09-20 23:19"
-      }
-    ],
+    "industry": [],
     "tech": [
       {
-        "title": "“大车”的红利期结束了：从华为松手问界说起",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4892605.html",
+        "title": "当AI替你完成了工作，一个人要靠什么能力被市场付钱？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4892726.html",
         "source": "虎嗅",
-        "time": "2026-09-20 23:19"
+        "time": "2026-09-21 01:16"
       }
     ],
     "byd": [],
@@ -34,16 +27,10 @@
   },
   "raw_news": [
     {
-      "title": "5000辆越南VinFast电动车装船发欧洲与东南亚：中国车企不该轻视这个对手了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4892663.html",
+      "title": "当AI替你完成了工作，一个人要靠什么能力被市场付钱？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4892726.html",
       "source": "虎嗅",
-      "time": "2026-09-20 23:19"
-    },
-    {
-      "title": "“大车”的红利期结束了：从华为松手问界说起",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4892605.html",
-      "source": "虎嗅",
-      "time": "2026-09-20 23:19"
+      "time": "2026-09-21 01:16"
     }
   ]
 }
