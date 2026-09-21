@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-21T01:16:31.480102",
+  "timestamp": "2026-09-21T06:34:37.206050",
   "total": 1,
   "sources": {
     "财联社电报": 0,
@@ -12,25 +12,25 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "当AI替你完成了工作，一个人要靠什么能力被市场付钱？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4892726.html",
-        "source": "虎嗅",
-        "time": "2026-09-21 01:16"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "为什么在商K上班，必须得买手环？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4892782.html",
+        "source": "虎嗅",
+        "time": "2026-09-21 06:34"
+      }
+    ]
   },
   "raw_news": [
     {
-      "title": "当AI替你完成了工作，一个人要靠什么能力被市场付钱？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4892726.html",
+      "title": "为什么在商K上班，必须得买手环？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4892782.html",
       "source": "虎嗅",
-      "time": "2026-09-21 01:16"
+      "time": "2026-09-21 06:34"
     }
   ]
 }
