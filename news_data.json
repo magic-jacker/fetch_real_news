@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-23T17:16:58.290091",
-  "total": 2,
+  "timestamp": "2026-09-23T20:32:12.789093",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -12,38 +12,11 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "AI不会毁灭人类，只是加速人类的自毁",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4893591.html",
-        "source": "虎嗅",
-        "time": "2026-09-23 17:16"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "李巍: 南美20天, 我在美国“后院”看见中国的远方",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4893606.html",
-        "source": "虎嗅",
-        "time": "2026-09-23 17:16"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "AI不会毁灭人类，只是加速人类的自毁",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4893591.html",
-      "source": "虎嗅",
-      "time": "2026-09-23 17:16"
-    },
-    {
-      "title": "李巍: 南美20天, 我在美国“后院”看见中国的远方",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4893606.html",
-      "source": "虎嗅",
-      "time": "2026-09-23 17:16"
-    }
-  ]
+  "raw_news": []
 }
