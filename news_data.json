@@ -1,49 +1,22 @@
 {
-  "timestamp": "2026-09-23T01:56:31.320998",
-  "total": 2,
+  "timestamp": "2026-09-23T06:56:36.564453",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
-      {
-        "title": "“黄金回家潮”，美元要崩盘了吗？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4893338.html",
-        "source": "虎嗅",
-        "time": "2026-09-23 01:56"
-      }
-    ],
+    "finance": [],
     "industry": [],
     "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "民企500强区域版图洗牌：谁在崛起，谁在“失血”？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4893321.html",
-        "source": "虎嗅",
-        "time": "2026-09-23 01:56"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "“黄金回家潮”，美元要崩盘了吗？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4893338.html",
-      "source": "虎嗅",
-      "time": "2026-09-23 01:56"
-    },
-    {
-      "title": "民企500强区域版图洗牌：谁在崛起，谁在“失血”？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4893321.html",
-      "source": "虎嗅",
-      "time": "2026-09-23 01:56"
-    }
-  ]
+  "raw_news": []
 }
