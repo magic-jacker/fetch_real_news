@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-24T23:35:59.738102",
-  "total": 2,
+  "timestamp": "2026-09-25T02:02:39.760650",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,33 +16,7 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "让大脑真正休息的方式，它被我们严重低估了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4893849.html",
-        "source": "虎嗅",
-        "time": "2026-09-24 23:35"
-      },
-      {
-        "title": "当“思考”开始像电一样便宜",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4893889.html",
-        "source": "虎嗅",
-        "time": "2026-09-24 23:35"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "让大脑真正休息的方式，它被我们严重低估了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4893849.html",
-      "source": "虎嗅",
-      "time": "2026-09-24 23:35"
-    },
-    {
-      "title": "当“思考”开始像电一样便宜",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4893889.html",
-      "source": "虎嗅",
-      "time": "2026-09-24 23:35"
-    }
-  ]
+  "raw_news": []
 }
