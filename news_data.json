@@ -1,22 +1,36 @@
 {
-  "timestamp": "2026-09-25T23:58:55.092676",
-  "total": 0,
+  "timestamp": "2026-09-26T03:12:09.308670",
+  "total": 1,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "没有英伟达，大模型也能跑？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4893261.html",
+        "source": "虎嗅",
+        "time": "2026-09-26 03:12"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": []
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "没有英伟达，大模型也能跑？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4893261.html",
+      "source": "虎嗅",
+      "time": "2026-09-26 03:12"
+    }
+  ]
 }
