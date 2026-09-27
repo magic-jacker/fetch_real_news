@@ -1,36 +1,48 @@
 {
-  "timestamp": "2026-09-26T22:19:38.153042",
-  "total": 1,
+  "timestamp": "2026-09-27T00:42:41.340237",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
-    "byd": [],
-    "tencent": [
+    "tech": [
       {
-        "title": "QQ从未下桌，但如何成为经典",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4893426.html",
+        "title": "苹果续约之前，高通在夏威夷刚讲了一个更大的故事",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894069.html",
         "source": "虎嗅",
-        "time": "2026-09-26 22:19"
+        "time": "2026-09-27 00:42"
+      },
+      {
+        "title": "Harvey估值155亿美元，法律AI的钱究竟好不好赚？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4893572.html",
+        "source": "虎嗅",
+        "time": "2026-09-27 00:42"
       }
     ],
+    "byd": [],
+    "tencent": [],
     "fitness": [],
     "other": []
   },
   "raw_news": [
     {
-      "title": "QQ从未下桌，但如何成为经典",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4893426.html",
+      "title": "苹果续约之前，高通在夏威夷刚讲了一个更大的故事",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894069.html",
       "source": "虎嗅",
-      "time": "2026-09-26 22:19"
+      "time": "2026-09-27 00:42"
+    },
+    {
+      "title": "Harvey估值155亿美元，法律AI的钱究竟好不好赚？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4893572.html",
+      "source": "虎嗅",
+      "time": "2026-09-27 00:42"
     }
   ]
 }
