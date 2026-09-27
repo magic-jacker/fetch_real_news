@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-27T00:42:41.340237",
+  "timestamp": "2026-09-27T05:54:45.982670",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -14,35 +14,36 @@
     "industry": [],
     "tech": [
       {
-        "title": "苹果续约之前，高通在夏威夷刚讲了一个更大的故事",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894069.html",
+        "title": "让刺破AI泡沫的加息风暴，来得更猛烈些吧",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894089.html",
         "source": "虎嗅",
-        "time": "2026-09-27 00:42"
-      },
-      {
-        "title": "Harvey估值155亿美元，法律AI的钱究竟好不好赚？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4893572.html",
-        "source": "虎嗅",
-        "time": "2026-09-27 00:42"
+        "time": "2026-09-27 05:54"
       }
     ],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "一位流亡教授的观察报告：一个文明是怎样失去自己的？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894098.html",
+        "source": "虎嗅",
+        "time": "2026-09-27 05:54"
+      }
+    ]
   },
   "raw_news": [
     {
-      "title": "苹果续约之前，高通在夏威夷刚讲了一个更大的故事",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894069.html",
+      "title": "一位流亡教授的观察报告：一个文明是怎样失去自己的？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894098.html",
       "source": "虎嗅",
-      "time": "2026-09-27 00:42"
+      "time": "2026-09-27 05:54"
     },
     {
-      "title": "Harvey估值155亿美元，法律AI的钱究竟好不好赚？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4893572.html",
+      "title": "让刺破AI泡沫的加息风暴，来得更猛烈些吧",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894089.html",
       "source": "虎嗅",
-      "time": "2026-09-27 00:42"
+      "time": "2026-09-27 05:54"
     }
   ]
 }
