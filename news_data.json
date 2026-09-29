@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-29T13:08:53.531612",
-  "total": 0,
+  "timestamp": "2026-09-29T18:43:03.847597",
+  "total": 1,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
@@ -16,7 +16,21 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "外卖小哥的电瓶车，为什么能跑一天？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894547.html",
+        "source": "虎嗅",
+        "time": "2026-09-29 18:43"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "外卖小哥的电瓶车，为什么能跑一天？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894547.html",
+      "source": "虎嗅",
+      "time": "2026-09-29 18:43"
+    }
+  ]
 }
