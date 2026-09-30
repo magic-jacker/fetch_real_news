@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-30T14:17:38.962203",
-  "total": 0,
+  "timestamp": "2026-09-30T19:30:22.766868",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,7 +16,33 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "每24条视频跑出3条爆品：美妆内容开始拼“命中率”",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894574.html",
+        "source": "虎嗅",
+        "time": "2026-09-30 19:30"
+      },
+      {
+        "title": "黄仁勋最反感的人递表了，招股书80页都在警告风险",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894914.html",
+        "source": "虎嗅",
+        "time": "2026-09-30 19:30"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "每24条视频跑出3条爆品：美妆内容开始拼“命中率”",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894574.html",
+      "source": "虎嗅",
+      "time": "2026-09-30 19:30"
+    },
+    {
+      "title": "黄仁勋最反感的人递表了，招股书80页都在警告风险",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894914.html",
+      "source": "虎嗅",
+      "time": "2026-09-30 19:30"
+    }
+  ]
 }
