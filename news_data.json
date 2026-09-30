@@ -1,16 +1,23 @@
 {
-  "timestamp": "2026-09-30T19:30:22.766868",
+  "timestamp": "2026-09-30T23:14:33.942778",
   "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
+    "finance": [
+      {
+        "title": "大成基金的“三不像”困局",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894877.html",
+        "source": "虎嗅",
+        "time": "2026-09-30 23:14"
+      }
+    ],
     "industry": [],
     "tech": [],
     "byd": [],
@@ -18,31 +25,25 @@
     "fitness": [],
     "other": [
       {
-        "title": "每24条视频跑出3条爆品：美妆内容开始拼“命中率”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894574.html",
+        "title": "社会化程度高的人，有一个最明显的特征",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894708.html",
         "source": "虎嗅",
-        "time": "2026-09-30 19:30"
-      },
-      {
-        "title": "黄仁勋最反感的人递表了，招股书80页都在警告风险",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894914.html",
-        "source": "虎嗅",
-        "time": "2026-09-30 19:30"
+        "time": "2026-09-30 23:14"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "每24条视频跑出3条爆品：美妆内容开始拼“命中率”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894574.html",
+      "title": "大成基金的“三不像”困局",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894877.html",
       "source": "虎嗅",
-      "time": "2026-09-30 19:30"
+      "time": "2026-09-30 23:14"
     },
     {
-      "title": "黄仁勋最反感的人递表了，招股书80页都在警告风险",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894914.html",
+      "title": "社会化程度高的人，有一个最明显的特征",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894708.html",
       "source": "虎嗅",
-      "time": "2026-09-30 19:30"
+      "time": "2026-09-30 23:14"
     }
   ]
 }
