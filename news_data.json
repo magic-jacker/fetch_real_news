@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-01T02:14:08.220342",
+  "timestamp": "2026-10-01T09:07:36.324482",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -12,37 +12,38 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "Gemini 4能追回多少？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895025.html",
+        "source": "虎嗅",
+        "time": "2026-10-01 09:07"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "中国轮胎海外工厂遭遇俄罗斯等五国调查",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894965.html",
+        "title": "一个拼音“jianche”，全露馅了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894945.html",
         "source": "虎嗅",
-        "time": "2026-10-01 02:14"
-      },
-      {
-        "title": "社会化程度高的人，有一个最明显的特征",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894708.html",
-        "source": "虎嗅",
-        "time": "2026-10-01 02:14"
+        "time": "2026-10-01 09:07"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "中国轮胎海外工厂遭遇俄罗斯等五国调查",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894965.html",
+      "title": "Gemini 4能追回多少？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895025.html",
       "source": "虎嗅",
-      "time": "2026-10-01 02:14"
+      "time": "2026-10-01 09:07"
     },
     {
-      "title": "社会化程度高的人，有一个最明显的特征",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894708.html",
+      "title": "一个拼音“jianche”，全露馅了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894945.html",
       "source": "虎嗅",
-      "time": "2026-10-01 02:14"
+      "time": "2026-10-01 09:07"
     }
   ]
 }
