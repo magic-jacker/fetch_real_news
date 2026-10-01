@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-01T09:07:36.324482",
+  "timestamp": "2026-10-01T16:33:26.716646",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -14,10 +14,10 @@
     "industry": [],
     "tech": [
       {
-        "title": "Gemini 4能追回多少？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895025.html",
+        "title": "一台华为Mate万元旗舰，套上了59元积木壳",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895072.html",
         "source": "虎嗅",
-        "time": "2026-10-01 09:07"
+        "time": "2026-10-01 16:33"
       }
     ],
     "byd": [],
@@ -28,22 +28,22 @@
         "title": "一个拼音“jianche”，全露馅了",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894945.html",
         "source": "虎嗅",
-        "time": "2026-10-01 09:07"
+        "time": "2026-10-01 16:33"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "Gemini 4能追回多少？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895025.html",
+      "title": "一台华为Mate万元旗舰，套上了59元积木壳",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895072.html",
       "source": "虎嗅",
-      "time": "2026-10-01 09:07"
+      "time": "2026-10-01 16:33"
     },
     {
       "title": "一个拼音“jianche”，全露馅了",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894945.html",
       "source": "虎嗅",
-      "time": "2026-10-01 09:07"
+      "time": "2026-10-01 16:33"
     }
   ]
 }
