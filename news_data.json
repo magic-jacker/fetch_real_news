@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-02T12:59:01.683047",
+  "timestamp": "2026-10-02T18:11:20.968589",
   "total": 1,
   "sources": {
     "财联社电报": 0,
@@ -11,26 +11,26 @@
   },
   "categories": {
     "finance": [],
-    "industry": [],
+    "industry": [
+      {
+        "title": "华为芯片接连突破，国产模型四处找货",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895142.html",
+        "source": "虎嗅",
+        "time": "2026-10-02 18:11"
+      }
+    ],
     "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "亲测：住在高加索农村，跟湖南乡下有什么不同？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895158.html",
-        "source": "虎嗅",
-        "time": "2026-10-02 12:58"
-      }
-    ]
+    "other": []
   },
   "raw_news": [
     {
-      "title": "亲测：住在高加索农村，跟湖南乡下有什么不同？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895158.html",
+      "title": "华为芯片接连突破，国产模型四处找货",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895142.html",
       "source": "虎嗅",
-      "time": "2026-10-02 12:58"
+      "time": "2026-10-02 18:11"
     }
   ]
 }
