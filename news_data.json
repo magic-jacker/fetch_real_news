@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-02T22:22:56.839412",
+  "timestamp": "2026-10-03T01:15:01.237306",
   "total": 1,
   "sources": {
     "财联社电报": 0,
@@ -11,26 +11,26 @@
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "华为芯片接连突破，国产模型四处找货",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895142.html",
-        "source": "虎嗅",
-        "time": "2026-10-02 22:22"
-      }
-    ],
+    "industry": [],
     "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "倒反天罡！德国人准备关掉自己的工厂，同时从中国进口了 17.5 万辆新车",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895050.html",
+        "source": "虎嗅",
+        "time": "2026-10-03 01:14"
+      }
+    ]
   },
   "raw_news": [
     {
-      "title": "华为芯片接连突破，国产模型四处找货",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895142.html",
+      "title": "倒反天罡！德国人准备关掉自己的工厂，同时从中国进口了 17.5 万辆新车",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895050.html",
       "source": "虎嗅",
-      "time": "2026-10-02 22:22"
+      "time": "2026-10-03 01:14"
     }
   ]
 }
