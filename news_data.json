@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-04T07:29:34.266955",
-  "total": 0,
+  "timestamp": "2026-10-04T13:22:11.641322",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,7 +16,33 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "人山人海，为何没换来盆满钵满？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895335.html",
+        "source": "虎嗅",
+        "time": "2026-10-04 13:22"
+      },
+      {
+        "title": "为何不救沙特？美国拒绝打击胡塞背后，是一场中东战略大撤退",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895370.html",
+        "source": "虎嗅",
+        "time": "2026-10-04 13:22"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "人山人海，为何没换来盆满钵满？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895335.html",
+      "source": "虎嗅",
+      "time": "2026-10-04 13:22"
+    },
+    {
+      "title": "为何不救沙特？美国拒绝打击胡塞背后，是一场中东战略大撤退",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895370.html",
+      "source": "虎嗅",
+      "time": "2026-10-04 13:22"
+    }
+  ]
 }
