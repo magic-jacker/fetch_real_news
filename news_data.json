@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-10-03T22:28:50.902960",
-  "total": 2,
+  "timestamp": "2026-10-04T01:47:01.152050",
+  "total": 1,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
@@ -21,13 +21,7 @@
         "title": "放假以后，我突然觉得世界有点假",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895241.html",
         "source": "虎嗅",
-        "time": "2026-10-03 22:28"
-      },
-      {
-        "title": "一篇讲透，我们对越南的误解与易踩的坑",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895285.html",
-        "source": "虎嗅",
-        "time": "2026-10-03 22:28"
+        "time": "2026-10-04 01:46"
       }
     ]
   },
@@ -36,13 +30,7 @@
       "title": "放假以后，我突然觉得世界有点假",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895241.html",
       "source": "虎嗅",
-      "time": "2026-10-03 22:28"
-    },
-    {
-      "title": "一篇讲透，我们对越南的误解与易踩的坑",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895285.html",
-      "source": "虎嗅",
-      "time": "2026-10-03 22:28"
+      "time": "2026-10-04 01:46"
     }
   ]
 }
