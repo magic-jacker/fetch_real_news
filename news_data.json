@@ -1,48 +1,49 @@
 {
-  "timestamp": "2026-10-05T02:31:19.265453",
+  "timestamp": "2026-10-05T09:39:37.887534",
   "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "AI，为什么总在画美女？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895422.html",
+        "source": "虎嗅",
+        "time": "2026-10-05 09:39"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "日产高管警告：中国汽车进入美国只是时间问题",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895397.html",
+        "title": "大学生旅游攻略，坑麻国庆出行的中年人",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895412.html",
         "source": "虎嗅",
-        "time": "2026-10-05 02:31"
-      },
-      {
-        "title": "人山人海，为何没换来盆满钵满？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895335.html",
-        "source": "虎嗅",
-        "time": "2026-10-05 02:31"
+        "time": "2026-10-05 09:39"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "日产高管警告：中国汽车进入美国只是时间问题",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895397.html",
+      "title": "大学生旅游攻略，坑麻国庆出行的中年人",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895412.html",
       "source": "虎嗅",
-      "time": "2026-10-05 02:31"
+      "time": "2026-10-05 09:39"
     },
     {
-      "title": "人山人海，为何没换来盆满钵满？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895335.html",
+      "title": "AI，为什么总在画美女？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895422.html",
       "source": "虎嗅",
-      "time": "2026-10-05 02:31"
+      "time": "2026-10-05 09:39"
     }
   ]
 }
