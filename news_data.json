@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-10-04T23:38:41.961600",
+  "timestamp": "2026-10-05T02:31:19.265453",
   "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
@@ -18,31 +18,31 @@
     "fitness": [],
     "other": [
       {
+        "title": "日产高管警告：中国汽车进入美国只是时间问题",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895397.html",
+        "source": "虎嗅",
+        "time": "2026-10-05 02:31"
+      },
+      {
         "title": "人山人海，为何没换来盆满钵满？",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895335.html",
         "source": "虎嗅",
-        "time": "2026-10-04 23:38"
-      },
-      {
-        "title": "为何不救沙特？美国拒绝打击胡塞背后，是一场中东战略大撤退",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895370.html",
-        "source": "虎嗅",
-        "time": "2026-10-04 23:38"
+        "time": "2026-10-05 02:31"
       }
     ]
   },
   "raw_news": [
     {
+      "title": "日产高管警告：中国汽车进入美国只是时间问题",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895397.html",
+      "source": "虎嗅",
+      "time": "2026-10-05 02:31"
+    },
+    {
       "title": "人山人海，为何没换来盆满钵满？",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895335.html",
       "source": "虎嗅",
-      "time": "2026-10-04 23:38"
-    },
-    {
-      "title": "为何不救沙特？美国拒绝打击胡塞背后，是一场中东战略大撤退",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895370.html",
-      "source": "虎嗅",
-      "time": "2026-10-04 23:38"
+      "time": "2026-10-05 02:31"
     }
   ]
 }
