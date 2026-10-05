@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-05T09:39:37.887534",
+  "timestamp": "2026-10-05T18:53:15.344181",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -12,38 +12,37 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "AI，为什么总在画美女？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895422.html",
-        "source": "虎嗅",
-        "time": "2026-10-05 09:39"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
+        "title": "第一代长寿之城，为什么在消失？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894469.html",
+        "source": "虎嗅",
+        "time": "2026-10-05 18:53"
+      },
+      {
         "title": "大学生旅游攻略，坑麻国庆出行的中年人",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895412.html",
         "source": "虎嗅",
-        "time": "2026-10-05 09:39"
+        "time": "2026-10-05 18:53"
       }
     ]
   },
   "raw_news": [
     {
+      "title": "第一代长寿之城，为什么在消失？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4894469.html",
+      "source": "虎嗅",
+      "time": "2026-10-05 18:53"
+    },
+    {
       "title": "大学生旅游攻略，坑麻国庆出行的中年人",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895412.html",
       "source": "虎嗅",
-      "time": "2026-10-05 09:39"
-    },
-    {
-      "title": "AI，为什么总在画美女？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895422.html",
-      "source": "虎嗅",
-      "time": "2026-10-05 09:39"
+      "time": "2026-10-05 18:53"
     }
   ]
 }
