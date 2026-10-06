@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-06T13:41:55.430647",
-  "total": 2,
+  "timestamp": "2026-10-06T19:08:53.822839",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -12,38 +12,11 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "华为轮值董事长：晟腾中国份额已超英伟达，当前瓶颈是供货",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895561.html",
-        "source": "虎嗅",
-        "time": "2026-10-06 13:41"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "万亿砸向高速充电桩，排队为何仍是无解？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895549.html",
-        "source": "虎嗅",
-        "time": "2026-10-06 13:41"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "万亿砸向高速充电桩，排队为何仍是无解？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895549.html",
-      "source": "虎嗅",
-      "time": "2026-10-06 13:41"
-    },
-    {
-      "title": "华为轮值董事长：晟腾中国份额已超英伟达，当前瓶颈是供货",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895561.html",
-      "source": "虎嗅",
-      "time": "2026-10-06 13:41"
-    }
-  ]
+  "raw_news": []
 }
