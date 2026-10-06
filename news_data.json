@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-06T00:24:46.879926",
-  "total": 2,
+  "timestamp": "2026-10-06T06:35:09.644699",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,33 +16,7 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "四箭齐发的7000亿到底流向谁？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895482.html",
-        "source": "虎嗅",
-        "time": "2026-10-06 00:24"
-      },
-      {
-        "title": "印度赚钱印度花，一分别想带回家",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895481.html",
-        "source": "虎嗅",
-        "time": "2026-10-06 00:24"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "四箭齐发的7000亿到底流向谁？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895482.html",
-      "source": "虎嗅",
-      "time": "2026-10-06 00:24"
-    },
-    {
-      "title": "印度赚钱印度花，一分别想带回家",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895481.html",
-      "source": "虎嗅",
-      "time": "2026-10-06 00:24"
-    }
-  ]
+  "raw_news": []
 }
