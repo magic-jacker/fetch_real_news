@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-07T09:04:03.598845",
+  "timestamp": "2026-10-07T16:41:38.538269",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -11,39 +11,38 @@
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "过了个国庆，新能源成“传家宝”了？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895286.html",
-        "source": "虎嗅",
-        "time": "2026-10-07 09:04"
-      }
-    ],
-    "tech": [
-      {
-        "title": "你放假，AI在进化：一文补完OpenAI与Anthropic的假期动态",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895623.html",
-        "source": "虎嗅",
-        "time": "2026-10-07 09:04"
-      }
-    ],
+    "industry": [],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "美国版 DeepSeek 交卷了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895638.html",
+        "source": "虎嗅",
+        "time": "2026-10-07 16:41"
+      },
+      {
+        "title": "“让游客免费住学生宿舍”引发争议之后  祁连县更大的麻烦来了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895636.html",
+        "source": "虎嗅",
+        "time": "2026-10-07 16:41"
+      }
+    ]
   },
   "raw_news": [
     {
-      "title": "过了个国庆，新能源成“传家宝”了？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895286.html",
+      "title": "美国版 DeepSeek 交卷了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895638.html",
       "source": "虎嗅",
-      "time": "2026-10-07 09:04"
+      "time": "2026-10-07 16:41"
     },
     {
-      "title": "你放假，AI在进化：一文补完OpenAI与Anthropic的假期动态",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895623.html",
+      "title": "“让游客免费住学生宿舍”引发争议之后  祁连县更大的麻烦来了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895636.html",
       "source": "虎嗅",
-      "time": "2026-10-07 09:04"
+      "time": "2026-10-07 16:41"
     }
   ]
 }
