@@ -1,48 +1,49 @@
 {
-  "timestamp": "2026-10-08T01:22:28.256652",
+  "timestamp": "2026-10-08T07:34:35.986306",
   "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
-    "industry": [],
+    "industry": [
+      {
+        "title": "全球油车第一次失守五成：中国车拿走了一半的电动车，只赚到1.5%",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895807.html",
+        "source": "虎嗅",
+        "time": "2026-10-08 07:34"
+      }
+    ],
     "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "国庆每天3亿人出游，旅行社却撑不住了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895705.html",
+        "title": "Manus完成超5亿美元融资，下一步与巨头争夺Agent入口",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895809.html",
         "source": "虎嗅",
-        "time": "2026-10-08 01:22"
-      },
-      {
-        "title": "比超级智能更先到来的，是超级愚蠢",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895695.html",
-        "source": "虎嗅",
-        "time": "2026-10-08 01:22"
+        "time": "2026-10-08 07:34"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "国庆每天3亿人出游，旅行社却撑不住了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895705.html",
+      "title": "Manus完成超5亿美元融资，下一步与巨头争夺Agent入口",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895809.html",
       "source": "虎嗅",
-      "time": "2026-10-08 01:22"
+      "time": "2026-10-08 07:34"
     },
     {
-      "title": "比超级智能更先到来的，是超级愚蠢",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895695.html",
+      "title": "全球油车第一次失守五成：中国车拿走了一半的电动车，只赚到1.5%",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895807.html",
       "source": "虎嗅",
-      "time": "2026-10-08 01:22"
+      "time": "2026-10-08 07:34"
     }
   ]
 }
