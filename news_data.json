@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-08T07:34:35.986306",
+  "timestamp": "2026-10-08T14:59:04.235911",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -11,39 +11,38 @@
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "全球油车第一次失守五成：中国车拿走了一半的电动车，只赚到1.5%",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895807.html",
-        "source": "虎嗅",
-        "time": "2026-10-08 07:34"
-      }
-    ],
+    "industry": [],
     "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "Manus完成超5亿美元融资，下一步与巨头争夺Agent入口",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895809.html",
+        "title": "科技股跌成一片，鼠疫概念却成了香饽饽",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895901.html",
         "source": "虎嗅",
-        "time": "2026-10-08 07:34"
+        "time": "2026-10-08 14:59"
+      },
+      {
+        "title": "残雪和村上春树再一次陪跑，诺贝尔文学奖真的有“榜首魔咒”？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895972.html",
+        "source": "虎嗅",
+        "time": "2026-10-08 14:59"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "Manus完成超5亿美元融资，下一步与巨头争夺Agent入口",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895809.html",
+      "title": "科技股跌成一片，鼠疫概念却成了香饽饽",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895901.html",
       "source": "虎嗅",
-      "time": "2026-10-08 07:34"
+      "time": "2026-10-08 14:59"
     },
     {
-      "title": "全球油车第一次失守五成：中国车拿走了一半的电动车，只赚到1.5%",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895807.html",
+      "title": "残雪和村上春树再一次陪跑，诺贝尔文学奖真的有“榜首魔咒”？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895972.html",
       "source": "虎嗅",
-      "time": "2026-10-08 07:34"
+      "time": "2026-10-08 14:59"
     }
   ]
 }
