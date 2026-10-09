@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-09T00:31:51.976067",
-  "total": 0,
+  "timestamp": "2026-10-09T06:50:54.666407",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,7 +16,33 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "波士顿动力，等来救兵？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895692.html",
+        "source": "虎嗅",
+        "time": "2026-10-09 06:50"
+      },
+      {
+        "title": "一脚急刹踩断的踏板，和那条没人当回事的及格线",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4896110.html",
+        "source": "虎嗅",
+        "time": "2026-10-09 06:50"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "波士顿动力，等来救兵？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895692.html",
+      "source": "虎嗅",
+      "time": "2026-10-09 06:50"
+    },
+    {
+      "title": "一脚急刹踩断的踏板，和那条没人当回事的及格线",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4896110.html",
+      "source": "虎嗅",
+      "time": "2026-10-09 06:50"
+    }
+  ]
 }
