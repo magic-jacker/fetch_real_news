@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-08T20:28:13.861915",
-  "total": 2,
+  "timestamp": "2026-10-09T00:31:51.976067",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,33 +16,7 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "科技股跌成一片，鼠疫概念却成了香饽饽",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895901.html",
-        "source": "虎嗅",
-        "time": "2026-10-08 20:28"
-      },
-      {
-        "title": "残雪和村上春树再一次陪跑，诺贝尔文学奖真的有“榜首魔咒”？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895972.html",
-        "source": "虎嗅",
-        "time": "2026-10-08 20:28"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "科技股跌成一片，鼠疫概念却成了香饽饽",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895901.html",
-      "source": "虎嗅",
-      "time": "2026-10-08 20:28"
-    },
-    {
-      "title": "残雪和村上春树再一次陪跑，诺贝尔文学奖真的有“榜首魔咒”？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4895972.html",
-      "source": "虎嗅",
-      "time": "2026-10-08 20:28"
-    }
-  ]
+  "raw_news": []
 }
