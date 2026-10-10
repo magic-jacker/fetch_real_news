@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-10-10T02:27:09.053867",
-  "total": 1,
+  "timestamp": "2026-10-10T08:44:11.067594",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
@@ -16,21 +16,7 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "“尊界V800踏板支架断裂”事件后，门店销售称客流少了但无人退车，“目前跟我们说的是会升级”，专家建议排查供应商、检测与安装环节",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4896304.html",
-        "source": "虎嗅",
-        "time": "2026-10-10 02:27"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "“尊界V800踏板支架断裂”事件后，门店销售称客流少了但无人退车，“目前跟我们说的是会升级”，专家建议排查供应商、检测与安装环节",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4896304.html",
-      "source": "虎嗅",
-      "time": "2026-10-10 02:27"
-    }
-  ]
+  "raw_news": []
 }
