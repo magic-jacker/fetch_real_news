@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-13T01:28:08.622771",
-  "total": 2,
+  "timestamp": "2026-10-13T07:59:02.922845",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,33 +16,7 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "政府想拯救经济，为什么必须先理解每一个人？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4896962.html",
-        "source": "虎嗅",
-        "time": "2026-10-13 01:28"
-      },
-      {
-        "title": "具身智能的钱，正在自己转圈",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4896697.html",
-        "source": "虎嗅",
-        "time": "2026-10-13 01:28"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "政府想拯救经济，为什么必须先理解每一个人？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4896962.html",
-      "source": "虎嗅",
-      "time": "2026-10-13 01:28"
-    },
-    {
-      "title": "具身智能的钱，正在自己转圈",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4896697.html",
-      "source": "虎嗅",
-      "time": "2026-10-13 01:28"
-    }
-  ]
+  "raw_news": []
 }
