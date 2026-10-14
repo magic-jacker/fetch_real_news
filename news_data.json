@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-14T03:31:01.106376",
+  "timestamp": "2026-10-14T09:03:40.269728",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -12,37 +12,38 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "苹果六年憋一个大招，就这？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897357.html",
+        "source": "虎嗅",
+        "time": "2026-10-14 09:03"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "政治赎买：旧权力的价格与新国家的难产",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897339.html",
+        "title": "“速成车”，正在消耗海外市场对中国汽车的信任",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897276.html",
         "source": "虎嗅",
-        "time": "2026-10-14 03:30"
-      },
-      {
-        "title": "中欧谈判：所谓混动汽车出口砍半是怎么回事",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897337.html",
-        "source": "虎嗅",
-        "time": "2026-10-14 03:30"
+        "time": "2026-10-14 09:03"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "政治赎买：旧权力的价格与新国家的难产",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897339.html",
+      "title": "苹果六年憋一个大招，就这？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897357.html",
       "source": "虎嗅",
-      "time": "2026-10-14 03:30"
+      "time": "2026-10-14 09:03"
     },
     {
-      "title": "中欧谈判：所谓混动汽车出口砍半是怎么回事",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897337.html",
+      "title": "“速成车”，正在消耗海外市场对中国汽车的信任",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897276.html",
       "source": "虎嗅",
-      "time": "2026-10-14 03:30"
+      "time": "2026-10-14 09:03"
     }
   ]
 }
