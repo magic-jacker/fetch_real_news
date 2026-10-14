@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-14T09:03:40.269728",
+  "timestamp": "2026-10-14T14:34:28.669910",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -12,38 +12,37 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "苹果六年憋一个大招，就这？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897357.html",
-        "source": "虎嗅",
-        "time": "2026-10-14 09:03"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "“速成车”，正在消耗海外市场对中国汽车的信任",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897276.html",
+        "title": "后轮掉了两次，奇瑞没回答的三个问题",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897367.html",
         "source": "虎嗅",
-        "time": "2026-10-14 09:03"
+        "time": "2026-10-14 14:34"
+      },
+      {
+        "title": "“1999年那一幕，正在重演”",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897487.html",
+        "source": "虎嗅",
+        "time": "2026-10-14 14:34"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "苹果六年憋一个大招，就这？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897357.html",
+      "title": "后轮掉了两次，奇瑞没回答的三个问题",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897367.html",
       "source": "虎嗅",
-      "time": "2026-10-14 09:03"
+      "time": "2026-10-14 14:34"
     },
     {
-      "title": "“速成车”，正在消耗海外市场对中国汽车的信任",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897276.html",
+      "title": "“1999年那一幕，正在重演”",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897487.html",
       "source": "虎嗅",
-      "time": "2026-10-14 09:03"
+      "time": "2026-10-14 14:34"
     }
   ]
 }
