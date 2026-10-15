@@ -1,48 +1,49 @@
 {
-  "timestamp": "2026-10-15T10:07:05.866335",
+  "timestamp": "2026-10-15T15:08:24.406115",
   "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "为什么Anthropic不做Personal AI",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897847.html",
+        "source": "虎嗅",
+        "time": "2026-10-15 15:08"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "最像正规军，最“不会出事”的P2P大佬，倒了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897693.html",
+        "title": "雅思停考风波背后：主办方近5财年累计净亏损1.84亿英镑",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897810.html",
         "source": "虎嗅",
-        "time": "2026-10-15 10:07"
-      },
-      {
-        "title": "5位HR揭露“软裁员”全过程，如何把员工逼到自愿离职",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897625.html",
-        "source": "虎嗅",
-        "time": "2026-10-15 10:07"
+        "time": "2026-10-15 15:08"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "最像正规军，最“不会出事”的P2P大佬，倒了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897693.html",
+      "title": "为什么Anthropic不做Personal AI",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897847.html",
       "source": "虎嗅",
-      "time": "2026-10-15 10:07"
+      "time": "2026-10-15 15:08"
     },
     {
-      "title": "5位HR揭露“软裁员”全过程，如何把员工逼到自愿离职",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897625.html",
+      "title": "雅思停考风波背后：主办方近5财年累计净亏损1.84亿英镑",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897810.html",
       "source": "虎嗅",
-      "time": "2026-10-15 10:07"
+      "time": "2026-10-15 15:08"
     }
   ]
 }
