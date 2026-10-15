@@ -1,49 +1,22 @@
 {
-  "timestamp": "2026-10-15T19:15:54.556708",
-  "total": 2,
+  "timestamp": "2026-10-15T22:29:40.485233",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "为什么Anthropic不做Personal AI",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897847.html",
-        "source": "虎嗅",
-        "time": "2026-10-15 19:15"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "雅思停考风波背后：主办方近5财年累计净亏损1.84亿英镑",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897810.html",
-        "source": "虎嗅",
-        "time": "2026-10-15 19:15"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "为什么Anthropic不做Personal AI",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897847.html",
-      "source": "虎嗅",
-      "time": "2026-10-15 19:15"
-    },
-    {
-      "title": "雅思停考风波背后：主办方近5财年累计净亏损1.84亿英镑",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897810.html",
-      "source": "虎嗅",
-      "time": "2026-10-15 19:15"
-    }
-  ]
+  "raw_news": []
 }
