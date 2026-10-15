@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-10-15T00:37:43.450312",
-  "total": 2,
+  "timestamp": "2026-10-15T05:20:43.415175",
+  "total": 1,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
@@ -18,31 +18,19 @@
     "fitness": [],
     "other": [
       {
-        "title": "梁建章：中国如何维持800万的出生人口？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897607.html",
+        "title": "阿里的秘密藏在40g里",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897642.html",
         "source": "虎嗅",
-        "time": "2026-10-15 00:37"
-      },
-      {
-        "title": "双面田柯宇：一次无法自圆其说的“行侠仗义”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897608.html",
-        "source": "虎嗅",
-        "time": "2026-10-15 00:37"
+        "time": "2026-10-15 05:20"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "梁建章：中国如何维持800万的出生人口？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897607.html",
+      "title": "阿里的秘密藏在40g里",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897642.html",
       "source": "虎嗅",
-      "time": "2026-10-15 00:37"
-    },
-    {
-      "title": "双面田柯宇：一次无法自圆其说的“行侠仗义”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897608.html",
-      "source": "虎嗅",
-      "time": "2026-10-15 00:37"
+      "time": "2026-10-15 05:20"
     }
   ]
 }
