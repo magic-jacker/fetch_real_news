@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-16T18:11:52.859981",
-  "total": 0,
+  "timestamp": "2026-10-16T21:25:02.213145",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -11,12 +11,39 @@
   },
   "categories": {
     "finance": [],
-    "industry": [],
+    "industry": [
+      {
+        "title": "新能源车大变局：疯狂扩张结束，真正的淘汰赛开始了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898034.html",
+        "source": "虎嗅",
+        "time": "2026-10-16 21:25"
+      }
+    ],
     "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "Anthropic估值打折，下一个轮到谁？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898072.html",
+        "source": "虎嗅",
+        "time": "2026-10-16 21:25"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "Anthropic估值打折，下一个轮到谁？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898072.html",
+      "source": "虎嗅",
+      "time": "2026-10-16 21:25"
+    },
+    {
+      "title": "新能源车大变局：疯狂扩张结束，真正的淘汰赛开始了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898034.html",
+      "source": "虎嗅",
+      "time": "2026-10-16 21:25"
+    }
+  ]
 }
