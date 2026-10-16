@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-16T05:11:37.019308",
+  "timestamp": "2026-10-16T09:57:22.397325",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -12,37 +12,37 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "感谢AI加持，iPad也能玩Switch游戏了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898044.html",
+        "source": "虎嗅",
+        "time": "2026-10-16 09:57"
+      },
+      {
+        "title": "英伟达只投不做的生意，这家中国公司想接住",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898011.html",
+        "source": "虎嗅",
+        "time": "2026-10-16 09:57"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "剑桥高级研究员：现在的长寿研究，通通都是垃圾",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897792.html",
-        "source": "虎嗅",
-        "time": "2026-10-16 05:11"
-      },
-      {
-        "title": "曾经的顶流艺人，如今的澳洲旅行博主Danielle",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897904.html",
-        "source": "虎嗅",
-        "time": "2026-10-16 05:11"
-      }
-    ]
+    "other": []
   },
   "raw_news": [
     {
-      "title": "剑桥高级研究员：现在的长寿研究，通通都是垃圾",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897792.html",
+      "title": "感谢AI加持，iPad也能玩Switch游戏了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898044.html",
       "source": "虎嗅",
-      "time": "2026-10-16 05:11"
+      "time": "2026-10-16 09:57"
     },
     {
-      "title": "曾经的顶流艺人，如今的澳洲旅行博主Danielle",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897904.html",
+      "title": "英伟达只投不做的生意，这家中国公司想接住",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898011.html",
       "source": "虎嗅",
-      "time": "2026-10-16 05:11"
+      "time": "2026-10-16 09:57"
     }
   ]
 }
