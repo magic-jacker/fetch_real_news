@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-10-16T23:42:39.849613",
-  "total": 2,
+  "timestamp": "2026-10-17T01:43:07.576743",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
@@ -16,33 +16,7 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "混动车对欧出口限额，砍掉百万销量，中国车企天塌了？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898188.html",
-        "source": "虎嗅",
-        "time": "2026-10-16 23:42"
-      },
-      {
-        "title": "亚洲股市雪崩，一场被预言的溃败",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897772.html",
-        "source": "虎嗅",
-        "time": "2026-10-16 23:42"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "混动车对欧出口限额，砍掉百万销量，中国车企天塌了？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898188.html",
-      "source": "虎嗅",
-      "time": "2026-10-16 23:42"
-    },
-    {
-      "title": "亚洲股市雪崩，一场被预言的溃败",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4897772.html",
-      "source": "虎嗅",
-      "time": "2026-10-16 23:42"
-    }
-  ]
+  "raw_news": []
 }
