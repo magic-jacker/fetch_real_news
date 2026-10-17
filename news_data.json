@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-17T10:59:19.460395",
-  "total": 0,
+  "timestamp": "2026-10-17T14:02:44.909976",
+  "total": 1,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,7 +16,21 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "这种矿石，可能改变中美稀土博弈",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898313.html",
+        "source": "虎嗅",
+        "time": "2026-10-17 14:02"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "这种矿石，可能改变中美稀土博弈",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898313.html",
+      "source": "虎嗅",
+      "time": "2026-10-17 14:02"
+    }
+  ]
 }
