@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-10-18T21:57:47.742432",
-  "total": 2,
+  "timestamp": "2026-10-18T23:50:27.383667",
+  "total": 1,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
@@ -18,31 +18,19 @@
     "fitness": [],
     "other": [
       {
-        "title": "疯狂砸钱后，中国车出海开始纯过日子",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898416.html",
+        "title": "年轻人越来越少，谁来养活越来越多的退休者？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898372.html",
         "source": "虎嗅",
-        "time": "2026-10-18 21:57"
-      },
-      {
-        "title": "花一个月工资，在大兴安岭盘个院子",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898393.html",
-        "source": "虎嗅",
-        "time": "2026-10-18 21:57"
+        "time": "2026-10-18 23:50"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "疯狂砸钱后，中国车出海开始纯过日子",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898416.html",
+      "title": "年轻人越来越少，谁来养活越来越多的退休者？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898372.html",
       "source": "虎嗅",
-      "time": "2026-10-18 21:57"
-    },
-    {
-      "title": "花一个月工资，在大兴安岭盘个院子",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898393.html",
-      "source": "虎嗅",
-      "time": "2026-10-18 21:57"
+      "time": "2026-10-18 23:50"
     }
   ]
 }
