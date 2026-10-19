@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-10-19T07:08:00.210460",
-  "total": 1,
+  "timestamp": "2026-10-19T14:47:13.639646",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
@@ -18,19 +18,31 @@
     "fitness": [],
     "other": [
       {
-        "title": "离开字节的人：36位创业者，带走了方法，也带走了边界",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898514.html",
+        "title": "大闸蟹跌价正挤压一整条生意链",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898684.html",
         "source": "虎嗅",
-        "time": "2026-10-19 07:07"
+        "time": "2026-10-19 14:47"
+      },
+      {
+        "title": "为了活下去，日本车开始卖身“富士康”",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898620.html",
+        "source": "虎嗅",
+        "time": "2026-10-19 14:47"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "离开字节的人：36位创业者，带走了方法，也带走了边界",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898514.html",
+      "title": "大闸蟹跌价正挤压一整条生意链",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898684.html",
       "source": "虎嗅",
-      "time": "2026-10-19 07:07"
+      "time": "2026-10-19 14:47"
+    },
+    {
+      "title": "为了活下去，日本车开始卖身“富士康”",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898620.html",
+      "source": "虎嗅",
+      "time": "2026-10-19 14:47"
     }
   ]
 }
