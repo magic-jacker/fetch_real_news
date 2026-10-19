@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-19T20:15:34.948904",
-  "total": 2,
+  "timestamp": "2026-10-19T23:48:54.869569",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,33 +16,7 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "大闸蟹跌价正挤压一整条生意链",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898684.html",
-        "source": "虎嗅",
-        "time": "2026-10-19 20:15"
-      },
-      {
-        "title": "为了活下去，日本车开始卖身“富士康”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898620.html",
-        "source": "虎嗅",
-        "time": "2026-10-19 20:15"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "大闸蟹跌价正挤压一整条生意链",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898684.html",
-      "source": "虎嗅",
-      "time": "2026-10-19 20:15"
-    },
-    {
-      "title": "为了活下去，日本车开始卖身“富士康”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898620.html",
-      "source": "虎嗅",
-      "time": "2026-10-19 20:15"
-    }
-  ]
+  "raw_news": []
 }
