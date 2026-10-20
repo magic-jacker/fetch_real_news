@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-20T13:04:08.183689",
+  "timestamp": "2026-10-20T18:01:43.323729",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -11,39 +11,39 @@
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "芯片都能造的比亚迪，为什么不造轮胎？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898920.html",
-        "source": "虎嗅",
-        "time": "2026-10-20 13:04"
-      }
-    ],
+    "industry": [],
     "tech": [
       {
         "title": "AI公司员工眼中的2030年，与普通人完全不同",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898901.html",
         "source": "虎嗅",
-        "time": "2026-10-20 13:04"
+        "time": "2026-10-20 18:01"
       }
     ],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "我找到几位大厂优秀女性，问她们为什么战略性怀孕",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898961.html",
+        "source": "虎嗅",
+        "time": "2026-10-20 18:01"
+      }
+    ]
   },
   "raw_news": [
     {
-      "title": "芯片都能造的比亚迪，为什么不造轮胎？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898920.html",
+      "title": "我找到几位大厂优秀女性，问她们为什么战略性怀孕",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898961.html",
       "source": "虎嗅",
-      "time": "2026-10-20 13:04"
+      "time": "2026-10-20 18:01"
     },
     {
       "title": "AI公司员工眼中的2030年，与普通人完全不同",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898901.html",
       "source": "虎嗅",
-      "time": "2026-10-20 13:04"
+      "time": "2026-10-20 18:01"
     }
   ]
 }
