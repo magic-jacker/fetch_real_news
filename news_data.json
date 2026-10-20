@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-20T02:14:37.400656",
+  "timestamp": "2026-10-20T07:46:02.175735",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -12,37 +12,37 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "离开字节、华为和英伟达，这批最年轻的人正在造世界",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898660.html",
+        "source": "虎嗅",
+        "time": "2026-10-20 07:46"
+      },
+      {
+        "title": "AI公司员工眼中的2030年，与普通人完全不同",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898901.html",
+        "source": "虎嗅",
+        "time": "2026-10-20 07:46"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "硅谷的“下一个PayPal 黑帮”，为什么成了华人打华人",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898795.html",
-        "source": "虎嗅",
-        "time": "2026-10-20 02:14"
-      },
-      {
-        "title": "越忙越穷，外卖链条上的12个打工人",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898785.html",
-        "source": "虎嗅",
-        "time": "2026-10-20 02:14"
-      }
-    ]
+    "other": []
   },
   "raw_news": [
     {
-      "title": "硅谷的“下一个PayPal 黑帮”，为什么成了华人打华人",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898795.html",
+      "title": "离开字节、华为和英伟达，这批最年轻的人正在造世界",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898660.html",
       "source": "虎嗅",
-      "time": "2026-10-20 02:14"
+      "time": "2026-10-20 07:46"
     },
     {
-      "title": "越忙越穷，外卖链条上的12个打工人",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898785.html",
+      "title": "AI公司员工眼中的2030年，与普通人完全不同",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898901.html",
       "source": "虎嗅",
-      "time": "2026-10-20 02:14"
+      "time": "2026-10-20 07:46"
     }
   ]
 }
