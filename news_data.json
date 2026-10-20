@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-19T23:48:54.869569",
-  "total": 0,
+  "timestamp": "2026-10-20T02:14:37.400656",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,7 +16,33 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "硅谷的“下一个PayPal 黑帮”，为什么成了华人打华人",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898795.html",
+        "source": "虎嗅",
+        "time": "2026-10-20 02:14"
+      },
+      {
+        "title": "越忙越穷，外卖链条上的12个打工人",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898785.html",
+        "source": "虎嗅",
+        "time": "2026-10-20 02:14"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "硅谷的“下一个PayPal 黑帮”，为什么成了华人打华人",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898795.html",
+      "source": "虎嗅",
+      "time": "2026-10-20 02:14"
+    },
+    {
+      "title": "越忙越穷，外卖链条上的12个打工人",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4898785.html",
+      "source": "虎嗅",
+      "time": "2026-10-20 02:14"
+    }
+  ]
 }
