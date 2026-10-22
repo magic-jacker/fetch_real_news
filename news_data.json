@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-22T12:07:57.073298",
+  "timestamp": "2026-10-22T17:21:33.892470",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -14,10 +14,10 @@
     "industry": [],
     "tech": [
       {
-        "title": "黄仁勋推出AI“预制菜”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899568.html",
+        "title": "扎克伯格杀回来了，但Meta还没赢",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899688.html",
         "source": "虎嗅",
-        "time": "2026-10-22 12:07"
+        "time": "2026-10-22 17:21"
       }
     ],
     "byd": [],
@@ -25,25 +25,25 @@
     "fitness": [],
     "other": [
       {
-        "title": "长安拆“长城”，三个悬念",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899255.html",
+        "title": "宝马集团把买断价开到487万，员工挤崩系统",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899539.html",
         "source": "虎嗅",
-        "time": "2026-10-22 12:07"
+        "time": "2026-10-22 17:21"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "黄仁勋推出AI“预制菜”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899568.html",
+      "title": "宝马集团把买断价开到487万，员工挤崩系统",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899539.html",
       "source": "虎嗅",
-      "time": "2026-10-22 12:07"
+      "time": "2026-10-22 17:21"
     },
     {
-      "title": "长安拆“长城”，三个悬念",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899255.html",
+      "title": "扎克伯格杀回来了，但Meta还没赢",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899688.html",
       "source": "虎嗅",
-      "time": "2026-10-22 12:07"
+      "time": "2026-10-22 17:21"
     }
   ]
 }
