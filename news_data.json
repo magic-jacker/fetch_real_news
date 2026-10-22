@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-22T17:21:33.892470",
-  "total": 2,
+  "timestamp": "2026-10-22T20:37:52.719145",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -12,38 +12,11 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "扎克伯格杀回来了，但Meta还没赢",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899688.html",
-        "source": "虎嗅",
-        "time": "2026-10-22 17:21"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "宝马集团把买断价开到487万，员工挤崩系统",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899539.html",
-        "source": "虎嗅",
-        "time": "2026-10-22 17:21"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "宝马集团把买断价开到487万，员工挤崩系统",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899539.html",
-      "source": "虎嗅",
-      "time": "2026-10-22 17:21"
-    },
-    {
-      "title": "扎克伯格杀回来了，但Meta还没赢",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899688.html",
-      "source": "虎嗅",
-      "time": "2026-10-22 17:21"
-    }
-  ]
+  "raw_news": []
 }
