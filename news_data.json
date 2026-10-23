@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-23T07:44:13.086209",
+  "timestamp": "2026-10-23T12:53:31.918812",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -11,39 +11,38 @@
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "手机大洗牌：华为苹果守住了，小米OV在失血",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899854.html",
-        "source": "虎嗅",
-        "time": "2026-10-23 07:44"
-      }
-    ],
+    "industry": [],
     "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "单季卖出864亿元，欧莱雅猛踩油门",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899842.html",
+        "title": "流感季将至，一半中国人却对流感疫苗“不感冒”",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899224.html",
         "source": "虎嗅",
-        "time": "2026-10-23 07:44"
+        "time": "2026-10-23 12:53"
+      },
+      {
+        "title": "法国年轻人，为什么爱拿动漫搞政治？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899678.html",
+        "source": "虎嗅",
+        "time": "2026-10-23 12:53"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "手机大洗牌：华为苹果守住了，小米OV在失血",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899854.html",
+      "title": "流感季将至，一半中国人却对流感疫苗“不感冒”",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899224.html",
       "source": "虎嗅",
-      "time": "2026-10-23 07:44"
+      "time": "2026-10-23 12:53"
     },
     {
-      "title": "单季卖出864亿元，欧莱雅猛踩油门",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899842.html",
+      "title": "法国年轻人，为什么爱拿动漫搞政治？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899678.html",
       "source": "虎嗅",
-      "time": "2026-10-23 07:44"
+      "time": "2026-10-23 12:53"
     }
   ]
 }
