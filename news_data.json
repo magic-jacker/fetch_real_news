@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-10-23T12:53:31.918812",
-  "total": 2,
+  "timestamp": "2026-10-23T17:31:43.604940",
+  "total": 1,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
@@ -21,13 +21,7 @@
         "title": "流感季将至，一半中国人却对流感疫苗“不感冒”",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899224.html",
         "source": "虎嗅",
-        "time": "2026-10-23 12:53"
-      },
-      {
-        "title": "法国年轻人，为什么爱拿动漫搞政治？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899678.html",
-        "source": "虎嗅",
-        "time": "2026-10-23 12:53"
+        "time": "2026-10-23 17:31"
       }
     ]
   },
@@ -36,13 +30,7 @@
       "title": "流感季将至，一半中国人却对流感疫苗“不感冒”",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899224.html",
       "source": "虎嗅",
-      "time": "2026-10-23 12:53"
-    },
-    {
-      "title": "法国年轻人，为什么爱拿动漫搞政治？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899678.html",
-      "source": "虎嗅",
-      "time": "2026-10-23 12:53"
+      "time": "2026-10-23 17:31"
     }
   ]
 }
