@@ -1,48 +1,49 @@
 {
-  "timestamp": "2026-10-22T23:42:03.424841",
+  "timestamp": "2026-10-23T02:06:26.786912",
   "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "对话Google Labs负责人：大团队正在拖垮AI产品创新",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899762.html",
+        "source": "虎嗅",
+        "time": "2026-10-23 02:06"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "“我们被灌输了一种根本无法维持的生活方式”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899755.html",
+        "title": "中国亿万富豪，有点不一样了……",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899764.html",
         "source": "虎嗅",
-        "time": "2026-10-22 23:42"
-      },
-      {
-        "title": "我发现大部分中国人都缺少一种核心能力",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899413.html",
-        "source": "虎嗅",
-        "time": "2026-10-22 23:42"
+        "time": "2026-10-23 02:06"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "“我们被灌输了一种根本无法维持的生活方式”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899755.html",
+      "title": "中国亿万富豪，有点不一样了……",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899764.html",
       "source": "虎嗅",
-      "time": "2026-10-22 23:42"
+      "time": "2026-10-23 02:06"
     },
     {
-      "title": "我发现大部分中国人都缺少一种核心能力",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899413.html",
+      "title": "对话Google Labs负责人：大团队正在拖垮AI产品创新",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899762.html",
       "source": "虎嗅",
-      "time": "2026-10-22 23:42"
+      "time": "2026-10-23 02:06"
     }
   ]
 }
