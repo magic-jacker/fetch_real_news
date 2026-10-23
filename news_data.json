@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-23T02:06:26.786912",
+  "timestamp": "2026-10-23T07:44:13.086209",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -11,39 +11,39 @@
   },
   "categories": {
     "finance": [],
-    "industry": [],
-    "tech": [
+    "industry": [
       {
-        "title": "对话Google Labs负责人：大团队正在拖垮AI产品创新",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899762.html",
+        "title": "手机大洗牌：华为苹果守住了，小米OV在失血",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899854.html",
         "source": "虎嗅",
-        "time": "2026-10-23 02:06"
+        "time": "2026-10-23 07:44"
       }
     ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "中国亿万富豪，有点不一样了……",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899764.html",
+        "title": "单季卖出864亿元，欧莱雅猛踩油门",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899842.html",
         "source": "虎嗅",
-        "time": "2026-10-23 02:06"
+        "time": "2026-10-23 07:44"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "中国亿万富豪，有点不一样了……",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899764.html",
+      "title": "手机大洗牌：华为苹果守住了，小米OV在失血",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899854.html",
       "source": "虎嗅",
-      "time": "2026-10-23 02:06"
+      "time": "2026-10-23 07:44"
     },
     {
-      "title": "对话Google Labs负责人：大团队正在拖垮AI产品创新",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899762.html",
+      "title": "单季卖出864亿元，欧莱雅猛踩油门",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899842.html",
       "source": "虎嗅",
-      "time": "2026-10-23 02:06"
+      "time": "2026-10-23 07:44"
     }
   ]
 }
