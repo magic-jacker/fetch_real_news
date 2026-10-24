@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-24T12:06:32.478577",
+  "timestamp": "2026-10-24T16:05:56.789005",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -12,38 +12,37 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "华为想再从博世手里抢块肉",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899629.html",
-        "source": "虎嗅",
-        "time": "2026-10-24 12:06"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "一位开发者让电视服用了Claude，这是它系统发生的变化",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900161.html",
+        "title": "Kimi最大迷思是，它什么都想要，但卡是有限的",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900185.html",
         "source": "虎嗅",
-        "time": "2026-10-24 12:06"
+        "time": "2026-10-24 16:05"
+      },
+      {
+        "title": "亚马逊CEO 深度访谈：一年砸下2200亿美元，为什么算力依然不够用？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900187.html",
+        "source": "虎嗅",
+        "time": "2026-10-24 16:05"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "一位开发者让电视服用了Claude，这是它系统发生的变化",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900161.html",
+      "title": "Kimi最大迷思是，它什么都想要，但卡是有限的",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900185.html",
       "source": "虎嗅",
-      "time": "2026-10-24 12:06"
+      "time": "2026-10-24 16:05"
     },
     {
-      "title": "华为想再从博世手里抢块肉",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899629.html",
+      "title": "亚马逊CEO 深度访谈：一年砸下2200亿美元，为什么算力依然不够用？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900187.html",
       "source": "虎嗅",
-      "time": "2026-10-24 12:06"
+      "time": "2026-10-24 16:05"
     }
   ]
 }
