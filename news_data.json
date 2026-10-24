@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-24T07:26:09.409119",
+  "timestamp": "2026-10-24T12:06:32.478577",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -14,35 +14,36 @@
     "industry": [],
     "tech": [
       {
-        "title": "史无前例的万亿投资，赢家只有英伟达？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900111.html",
-        "source": "虎嗅",
-        "time": "2026-10-24 07:26"
-      },
-      {
         "title": "华为想再从博世手里抢块肉",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899629.html",
         "source": "虎嗅",
-        "time": "2026-10-24 07:26"
+        "time": "2026-10-24 12:06"
       }
     ],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "一位开发者让电视服用了Claude，这是它系统发生的变化",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900161.html",
+        "source": "虎嗅",
+        "time": "2026-10-24 12:06"
+      }
+    ]
   },
   "raw_news": [
     {
-      "title": "史无前例的万亿投资，赢家只有英伟达？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900111.html",
+      "title": "一位开发者让电视服用了Claude，这是它系统发生的变化",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900161.html",
       "source": "虎嗅",
-      "time": "2026-10-24 07:26"
+      "time": "2026-10-24 12:06"
     },
     {
       "title": "华为想再从博世手里抢块肉",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4899629.html",
       "source": "虎嗅",
-      "time": "2026-10-24 07:26"
+      "time": "2026-10-24 12:06"
     }
   ]
 }
