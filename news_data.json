@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-10-23T23:35:30.971637",
-  "total": 1,
+  "timestamp": "2026-10-24T02:05:44.739336",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
@@ -16,21 +16,7 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "增速全国第一，老外挤爆重庆",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900025.html",
-        "source": "虎嗅",
-        "time": "2026-10-23 23:35"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "增速全国第一，老外挤爆重庆",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900025.html",
-      "source": "虎嗅",
-      "time": "2026-10-23 23:35"
-    }
-  ]
+  "raw_news": []
 }
