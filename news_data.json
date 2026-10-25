@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-25T11:49:10.895143",
-  "total": 2,
+  "timestamp": "2026-10-25T15:06:12.408082",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,33 +16,7 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "贾乃亮一天卖了5.7亿，明星带货已经卷到这一步了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900217.html",
-        "source": "虎嗅",
-        "time": "2026-10-25 11:49"
-      },
-      {
-        "title": "儿女双全是一个家庭最差的生育配置",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900248.html",
-        "source": "虎嗅",
-        "time": "2026-10-25 11:49"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "贾乃亮一天卖了5.7亿，明星带货已经卷到这一步了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900217.html",
-      "source": "虎嗅",
-      "time": "2026-10-25 11:49"
-    },
-    {
-      "title": "儿女双全是一个家庭最差的生育配置",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900248.html",
-      "source": "虎嗅",
-      "time": "2026-10-25 11:49"
-    }
-  ]
+  "raw_news": []
 }
