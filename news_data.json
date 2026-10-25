@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-10-25T01:20:54.916792",
-  "total": 1,
+  "timestamp": "2026-10-25T06:19:52.223304",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
@@ -16,21 +16,7 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "长鑫的千亿利润里，藏着第一个拐点",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900208.html",
-        "source": "虎嗅",
-        "time": "2026-10-25 01:20"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "长鑫的千亿利润里，藏着第一个拐点",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900208.html",
-      "source": "虎嗅",
-      "time": "2026-10-25 01:20"
-    }
-  ]
+  "raw_news": []
 }
