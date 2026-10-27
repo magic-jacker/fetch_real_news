@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-27T02:10:53.594438",
-  "total": 1,
+  "timestamp": "2026-10-27T08:03:09.480032",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -18,19 +18,31 @@
     "fitness": [],
     "other": [
       {
-        "title": "好工作为什么难找：从豆豉鲮鱼说起",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900648.html",
+        "title": "推特创始人做了个不需要网络的聊天App，在法国杀疯了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900717.html",
         "source": "虎嗅",
-        "time": "2026-10-27 02:10"
+        "time": "2026-10-27 08:03"
+      },
+      {
+        "title": "在华销量暴跌30%，大众还在“九子夺嫡”",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900524.html",
+        "source": "虎嗅",
+        "time": "2026-10-27 08:03"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "好工作为什么难找：从豆豉鲮鱼说起",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900648.html",
+      "title": "推特创始人做了个不需要网络的聊天App，在法国杀疯了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900717.html",
       "source": "虎嗅",
-      "time": "2026-10-27 02:10"
+      "time": "2026-10-27 08:03"
+    },
+    {
+      "title": "在华销量暴跌30%，大众还在“九子夺嫡”",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900524.html",
+      "source": "虎嗅",
+      "time": "2026-10-27 08:03"
     }
   ]
 }
