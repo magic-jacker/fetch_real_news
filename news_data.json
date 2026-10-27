@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-27T08:03:09.480032",
-  "total": 2,
+  "timestamp": "2026-10-27T14:41:41.187475",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,33 +16,7 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "推特创始人做了个不需要网络的聊天App，在法国杀疯了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900717.html",
-        "source": "虎嗅",
-        "time": "2026-10-27 08:03"
-      },
-      {
-        "title": "在华销量暴跌30%，大众还在“九子夺嫡”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900524.html",
-        "source": "虎嗅",
-        "time": "2026-10-27 08:03"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "推特创始人做了个不需要网络的聊天App，在法国杀疯了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900717.html",
-      "source": "虎嗅",
-      "time": "2026-10-27 08:03"
-    },
-    {
-      "title": "在华销量暴跌30%，大众还在“九子夺嫡”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900524.html",
-      "source": "虎嗅",
-      "time": "2026-10-27 08:03"
-    }
-  ]
+  "raw_news": []
 }
