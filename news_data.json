@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-27T23:16:11.427638",
-  "total": 2,
+  "timestamp": "2026-10-28T02:25:42.041386",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,33 +16,7 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "卤味巨头集体“返祖”：万店生意，做回20平热卤摊",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900894.html",
-        "source": "虎嗅",
-        "time": "2026-10-27 23:16"
-      },
-      {
-        "title": "巴西股市暴跌，发生了什么？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900895.html",
-        "source": "虎嗅",
-        "time": "2026-10-27 23:16"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "卤味巨头集体“返祖”：万店生意，做回20平热卤摊",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900894.html",
-      "source": "虎嗅",
-      "time": "2026-10-27 23:16"
-    },
-    {
-      "title": "巴西股市暴跌，发生了什么？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4900895.html",
-      "source": "虎嗅",
-      "time": "2026-10-27 23:16"
-    }
-  ]
+  "raw_news": []
 }
