@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-10-29T00:27:57.358436",
+  "timestamp": "2026-10-29T06:07:57.445040",
   "total": 1,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "9.5万大学生和37万高中生的使用数据，暴露了AI 时代真正的分水岭",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4901257.html",
-        "source": "虎嗅",
-        "time": "2026-10-29 00:27"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "理想i6“卸掉”宁德时代，押上六成销量",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4901360.html",
+        "source": "虎嗅",
+        "time": "2026-10-29 06:07"
+      }
+    ]
   },
   "raw_news": [
     {
-      "title": "9.5万大学生和37万高中生的使用数据，暴露了AI 时代真正的分水岭",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4901257.html",
+      "title": "理想i6“卸掉”宁德时代，押上六成销量",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4901360.html",
       "source": "虎嗅",
-      "time": "2026-10-29 00:27"
+      "time": "2026-10-29 06:07"
     }
   ]
 }
