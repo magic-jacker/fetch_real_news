@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-30T16:03:10.592747",
-  "total": 0,
+  "timestamp": "2026-10-30T20:55:04.916434",
+  "total": 1,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,7 +16,21 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "中国车主的油费痛感是美国人的6.6倍，油车彻底崩了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4901621.html",
+        "source": "虎嗅",
+        "time": "2026-10-30 20:54"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "中国车主的油费痛感是美国人的6.6倍，油车彻底崩了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4901621.html",
+      "source": "虎嗅",
+      "time": "2026-10-30 20:54"
+    }
+  ]
 }
