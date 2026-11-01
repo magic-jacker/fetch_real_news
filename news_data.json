@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-10-31T23:29:12.791146",
+  "timestamp": "2026-11-01T02:25:14.358253",
   "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
@@ -18,31 +18,31 @@
     "fitness": [],
     "other": [
       {
+        "title": "700亿市值归零，又一老牌巨头破产了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4901908.html",
+        "source": "虎嗅",
+        "time": "2026-11-01 02:25"
+      },
+      {
         "title": "优等生的补跌：杭州房价跌破“盲牤防线”",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4901984.html",
         "source": "虎嗅",
-        "time": "2026-10-31 23:29"
-      },
-      {
-        "title": "63亿美元资产异常流出，赵长鹏尴尬了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902003.html",
-        "source": "虎嗅",
-        "time": "2026-10-31 23:29"
+        "time": "2026-11-01 02:25"
       }
     ]
   },
   "raw_news": [
     {
+      "title": "700亿市值归零，又一老牌巨头破产了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4901908.html",
+      "source": "虎嗅",
+      "time": "2026-11-01 02:25"
+    },
+    {
       "title": "优等生的补跌：杭州房价跌破“盲牤防线”",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4901984.html",
       "source": "虎嗅",
-      "time": "2026-10-31 23:29"
-    },
-    {
-      "title": "63亿美元资产异常流出，赵长鹏尴尬了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902003.html",
-      "source": "虎嗅",
-      "time": "2026-10-31 23:29"
+      "time": "2026-11-01 02:25"
     }
   ]
 }
