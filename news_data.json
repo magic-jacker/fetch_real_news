@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-11-01T09:25:44.394085",
-  "total": 2,
+  "timestamp": "2026-11-01T16:09:53.262938",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,33 +16,7 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "没解约姆巴佩，昂跑进退两难",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902070.html",
-        "source": "虎嗅",
-        "time": "2026-11-01 09:25"
-      },
-      {
-        "title": "腰斩的“易中天”，别急着抄底",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902059.html",
-        "source": "虎嗅",
-        "time": "2026-11-01 09:25"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "没解约姆巴佩，昂跑进退两难",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902070.html",
-      "source": "虎嗅",
-      "time": "2026-11-01 09:25"
-    },
-    {
-      "title": "腰斩的“易中天”，别急着抄底",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902059.html",
-      "source": "虎嗅",
-      "time": "2026-11-01 09:25"
-    }
-  ]
+  "raw_news": []
 }
