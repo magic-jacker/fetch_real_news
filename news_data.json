@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-01T20:38:04.907321",
+  "timestamp": "2026-11-01T23:59:27.007329",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -11,39 +11,38 @@
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "全球买电动车最积极的地方，为什么是越南？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902065.html",
-        "source": "虎嗅",
-        "time": "2026-11-01 20:38"
-      }
-    ],
-    "tech": [
-      {
-        "title": "DeepSeek开源Agent架构，想让人少给AI打工",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902105.html",
-        "source": "虎嗅",
-        "time": "2026-11-01 20:38"
-      }
-    ],
+    "industry": [],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "信心还在路上，商场的人气回来了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902120.html",
+        "source": "虎嗅",
+        "time": "2026-11-01 23:59"
+      },
+      {
+        "title": "韩国年轻人，其实比日本人更想结婚",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902133.html",
+        "source": "虎嗅",
+        "time": "2026-11-01 23:59"
+      }
+    ]
   },
   "raw_news": [
     {
-      "title": "DeepSeek开源Agent架构，想让人少给AI打工",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902105.html",
+      "title": "信心还在路上，商场的人气回来了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902120.html",
       "source": "虎嗅",
-      "time": "2026-11-01 20:38"
+      "time": "2026-11-01 23:59"
     },
     {
-      "title": "全球买电动车最积极的地方，为什么是越南？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902065.html",
+      "title": "韩国年轻人，其实比日本人更想结婚",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902133.html",
       "source": "虎嗅",
-      "time": "2026-11-01 20:38"
+      "time": "2026-11-01 23:59"
     }
   ]
 }
