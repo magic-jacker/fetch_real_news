@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-11-01T23:59:27.007329",
-  "total": 2,
+  "timestamp": "2026-11-02T04:14:00.953388",
+  "total": 1,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
@@ -18,31 +18,19 @@
     "fitness": [],
     "other": [
       {
-        "title": "信心还在路上，商场的人气回来了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902120.html",
+        "title": "这个看似自律的好习惯，正在耗尽你的能量",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902185.html",
         "source": "虎嗅",
-        "time": "2026-11-01 23:59"
-      },
-      {
-        "title": "韩国年轻人，其实比日本人更想结婚",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902133.html",
-        "source": "虎嗅",
-        "time": "2026-11-01 23:59"
+        "time": "2026-11-02 04:13"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "信心还在路上，商场的人气回来了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902120.html",
+      "title": "这个看似自律的好习惯，正在耗尽你的能量",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902185.html",
       "source": "虎嗅",
-      "time": "2026-11-01 23:59"
-    },
-    {
-      "title": "韩国年轻人，其实比日本人更想结婚",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902133.html",
-      "source": "虎嗅",
-      "time": "2026-11-01 23:59"
+      "time": "2026-11-02 04:13"
     }
   ]
 }
