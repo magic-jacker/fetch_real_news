@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-11-02T12:41:14.123469",
+  "timestamp": "2026-11-02T21:57:51.264021",
   "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
@@ -18,31 +18,31 @@
     "fitness": [],
     "other": [
       {
-        "title": "哈佛经济学家追踪十万孩子的30年：搬家，可以“改命”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902262.html",
+        "title": "普通人的救赎不在成功里，在关系中",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902378.html",
         "source": "虎嗅",
-        "time": "2026-11-02 12:41"
+        "time": "2026-11-02 21:57"
       },
       {
         "title": "哈弗H6，耽误了魏建军？",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902359.html",
         "source": "虎嗅",
-        "time": "2026-11-02 12:41"
+        "time": "2026-11-02 21:57"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "哈佛经济学家追踪十万孩子的30年：搬家，可以“改命”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902262.html",
+      "title": "普通人的救赎不在成功里，在关系中",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902378.html",
       "source": "虎嗅",
-      "time": "2026-11-02 12:41"
+      "time": "2026-11-02 21:57"
     },
     {
       "title": "哈弗H6，耽误了魏建军？",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902359.html",
       "source": "虎嗅",
-      "time": "2026-11-02 12:41"
+      "time": "2026-11-02 21:57"
     }
   ]
 }
