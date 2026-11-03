@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-11-03T03:14:00.982435",
-  "total": 0,
+  "timestamp": "2026-11-03T11:05:28.865874",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -12,11 +12,38 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "毛利率预警，于是苹果又盯上你的钱了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902658.html",
+        "source": "虎嗅",
+        "time": "2026-11-03 11:05"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "她花3年研究40个女富豪，发现酒桌上没有大女主",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902598.html",
+        "source": "虎嗅",
+        "time": "2026-11-03 11:05"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "她花3年研究40个女富豪，发现酒桌上没有大女主",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902598.html",
+      "source": "虎嗅",
+      "time": "2026-11-03 11:05"
+    },
+    {
+      "title": "毛利率预警，于是苹果又盯上你的钱了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902658.html",
+      "source": "虎嗅",
+      "time": "2026-11-03 11:05"
+    }
+  ]
 }
