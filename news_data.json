@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-03T11:05:28.865874",
+  "timestamp": "2026-11-03T18:29:52.096750",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -12,14 +12,7 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "毛利率预警，于是苹果又盯上你的钱了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902658.html",
-        "source": "虎嗅",
-        "time": "2026-11-03 11:05"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
@@ -28,7 +21,13 @@
         "title": "她花3年研究40个女富豪，发现酒桌上没有大女主",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902598.html",
         "source": "虎嗅",
-        "time": "2026-11-03 11:05"
+        "time": "2026-11-03 18:29"
+      },
+      {
+        "title": "为什么泡面要等3分钟？40个关于时间的反常识",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902518.html",
+        "source": "虎嗅",
+        "time": "2026-11-03 18:29"
       }
     ]
   },
@@ -37,13 +36,13 @@
       "title": "她花3年研究40个女富豪，发现酒桌上没有大女主",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902598.html",
       "source": "虎嗅",
-      "time": "2026-11-03 11:05"
+      "time": "2026-11-03 18:29"
     },
     {
-      "title": "毛利率预警，于是苹果又盯上你的钱了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902658.html",
+      "title": "为什么泡面要等3分钟？40个关于时间的反常识",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902518.html",
       "source": "虎嗅",
-      "time": "2026-11-03 11:05"
+      "time": "2026-11-03 18:29"
     }
   ]
 }
