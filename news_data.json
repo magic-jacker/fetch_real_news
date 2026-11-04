@@ -1,48 +1,36 @@
 {
-  "timestamp": "2026-11-04T18:43:16.162225",
-  "total": 2,
+  "timestamp": "2026-11-04T23:59:14.225991",
+  "total": 1,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "别吹特斯拉Semi碾压了，中国重卡的护城河，根本不在车轮上",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902327.html",
-        "source": "虎嗅",
-        "time": "2026-11-04 18:43"
-      },
-      {
-        "title": "文科生在AI时代没人要？我盘了盘大厂都有哪些AI岗在招文科生",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902971.html",
-        "source": "虎嗅",
-        "time": "2026-11-04 18:43"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "币安被盗63亿美元，加密货币还能走多远？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4903089.html",
+        "source": "虎嗅",
+        "time": "2026-11-04 23:59"
+      }
+    ]
   },
   "raw_news": [
     {
-      "title": "别吹特斯拉Semi碾压了，中国重卡的护城河，根本不在车轮上",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902327.html",
+      "title": "币安被盗63亿美元，加密货币还能走多远？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4903089.html",
       "source": "虎嗅",
-      "time": "2026-11-04 18:43"
-    },
-    {
-      "title": "文科生在AI时代没人要？我盘了盘大厂都有哪些AI岗在招文科生",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4902971.html",
-      "source": "虎嗅",
-      "time": "2026-11-04 18:43"
+      "time": "2026-11-04 23:59"
     }
   ]
 }
