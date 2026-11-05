@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-11-04T23:59:14.225991",
-  "total": 1,
+  "timestamp": "2026-11-05T04:59:14.453575",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
@@ -18,19 +18,31 @@
     "fitness": [],
     "other": [
       {
-        "title": "币安被盗63亿美元，加密货币还能走多远？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4903089.html",
+        "title": "延安大学的白老师，倒在“横向科研经费”指标之下？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4903185.html",
         "source": "虎嗅",
-        "time": "2026-11-04 23:59"
+        "time": "2026-11-05 04:59"
+      },
+      {
+        "title": "Marvell：把自己买成了另一家公司",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4903138.html",
+        "source": "虎嗅",
+        "time": "2026-11-05 04:59"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "币安被盗63亿美元，加密货币还能走多远？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4903089.html",
+      "title": "延安大学的白老师，倒在“横向科研经费”指标之下？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4903185.html",
       "source": "虎嗅",
-      "time": "2026-11-04 23:59"
+      "time": "2026-11-05 04:59"
+    },
+    {
+      "title": "Marvell：把自己买成了另一家公司",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4903138.html",
+      "source": "虎嗅",
+      "time": "2026-11-05 04:59"
     }
   ]
 }
