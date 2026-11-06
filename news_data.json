@@ -1,22 +1,49 @@
 {
-  "timestamp": "2026-11-06T00:59:15.002794",
-  "total": 0,
+  "timestamp": "2026-11-06T07:38:26.095760",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "“AI教父”最新警告：AI可能撕裂整个社会",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4903532.html",
+        "source": "虎嗅",
+        "time": "2026-11-06 07:38"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "比日本车多交45%税费，中国车企被集体“噶腰子”",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4903318.html",
+        "source": "虎嗅",
+        "time": "2026-11-06 07:38"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "比日本车多交45%税费，中国车企被集体“噶腰子”",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4903318.html",
+      "source": "虎嗅",
+      "time": "2026-11-06 07:38"
+    },
+    {
+      "title": "“AI教父”最新警告：AI可能撕裂整个社会",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4903532.html",
+      "source": "虎嗅",
+      "time": "2026-11-06 07:38"
+    }
+  ]
 }
