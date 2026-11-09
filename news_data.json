@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-11-08T23:14:03.739441",
-  "total": 2,
+  "timestamp": "2026-11-09T02:46:44.963541",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,33 +16,7 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "刘强东做外卖的真正算盘浮出水面了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4903910.html",
-        "source": "虎嗅",
-        "time": "2026-11-08 23:14"
-      },
-      {
-        "title": "想建数据中心？欧洲人不同意了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4903961.html",
-        "source": "虎嗅",
-        "time": "2026-11-08 23:14"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "刘强东做外卖的真正算盘浮出水面了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4903910.html",
-      "source": "虎嗅",
-      "time": "2026-11-08 23:14"
-    },
-    {
-      "title": "想建数据中心？欧洲人不同意了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4903961.html",
-      "source": "虎嗅",
-      "time": "2026-11-08 23:14"
-    }
-  ]
+  "raw_news": []
 }
