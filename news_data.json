@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-11-10T03:00:36.431146",
-  "total": 0,
+  "timestamp": "2026-11-10T10:48:40.723153",
+  "total": 1,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
@@ -16,7 +16,21 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "越来越多的中国人，正在花钱买别人的命",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4904447.html",
+        "source": "虎嗅",
+        "time": "2026-11-10 10:48"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "越来越多的中国人，正在花钱买别人的命",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4904447.html",
+      "source": "虎嗅",
+      "time": "2026-11-10 10:48"
+    }
+  ]
 }
