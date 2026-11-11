@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-11-11T11:15:08.604171",
+  "timestamp": "2026-11-11T18:46:26.859195",
   "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
+    "finance": [],
+    "industry": [],
+    "tech": [
       {
-        "title": "每天醒来要花3亿，冲击全球最大IPO的招股书写得像恐怖小说",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4904775.html",
+        "title": "华为旧部，赚了个寂寞？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4904836.html",
         "source": "虎嗅",
-        "time": "2026-11-11 11:15"
+        "time": "2026-11-11 18:46"
       }
     ],
-    "industry": [],
-    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
@@ -28,7 +28,7 @@
         "title": "国产超豪华的路是不是走偏了",
         "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4904638.html",
         "source": "虎嗅",
-        "time": "2026-11-11 11:15"
+        "time": "2026-11-11 18:46"
       }
     ]
   },
@@ -37,13 +37,13 @@
       "title": "国产超豪华的路是不是走偏了",
       "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4904638.html",
       "source": "虎嗅",
-      "time": "2026-11-11 11:15"
+      "time": "2026-11-11 18:46"
     },
     {
-      "title": "每天醒来要花3亿，冲击全球最大IPO的招股书写得像恐怖小说",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4904775.html",
+      "title": "华为旧部，赚了个寂寞？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4904836.html",
       "source": "虎嗅",
-      "time": "2026-11-11 11:15"
+      "time": "2026-11-11 18:46"
     }
   ]
 }
