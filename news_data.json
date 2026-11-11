@@ -1,22 +1,49 @@
 {
-  "timestamp": "2026-11-10T23:34:43.982650",
-  "total": 0,
+  "timestamp": "2026-11-11T03:17:17.218858",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "加个AI功能，旧款智能手表就能测血压？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4904499.html",
+        "source": "虎嗅",
+        "time": "2026-11-11 03:17"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "为什么黄仁勋的瓜和贝佐斯、盖茨都不一样",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4904612.html",
+        "source": "虎嗅",
+        "time": "2026-11-11 03:17"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "加个AI功能，旧款智能手表就能测血压？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4904499.html",
+      "source": "虎嗅",
+      "time": "2026-11-11 03:17"
+    },
+    {
+      "title": "为什么黄仁勋的瓜和贝佐斯、盖茨都不一样",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4904612.html",
+      "source": "虎嗅",
+      "time": "2026-11-11 03:17"
+    }
+  ]
 }
