@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-11T18:46:26.859195",
+  "timestamp": "2026-11-12T01:05:29.211662",
   "total": 2,
   "sources": {
     "财联社电报": 0,
@@ -12,38 +12,37 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "华为旧部，赚了个寂寞？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4904836.html",
-        "source": "虎嗅",
-        "time": "2026-11-11 18:46"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
     "other": [
       {
-        "title": "国产超豪华的路是不是走偏了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4904638.html",
+        "title": "聪明人的8个具象化特征",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4904883.html",
         "source": "虎嗅",
-        "time": "2026-11-11 18:46"
+        "time": "2026-11-12 01:05"
+      },
+      {
+        "title": "谁在对黄仁勋进行内部调查",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4904897.html",
+        "source": "虎嗅",
+        "time": "2026-11-12 01:05"
       }
     ]
   },
   "raw_news": [
     {
-      "title": "国产超豪华的路是不是走偏了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4904638.html",
+      "title": "聪明人的8个具象化特征",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4904883.html",
       "source": "虎嗅",
-      "time": "2026-11-11 18:46"
+      "time": "2026-11-12 01:05"
     },
     {
-      "title": "华为旧部，赚了个寂寞？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4904836.html",
+      "title": "谁在对黄仁勋进行内部调查",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4904897.html",
       "source": "虎嗅",
-      "time": "2026-11-11 18:46"
+      "time": "2026-11-12 01:05"
     }
   ]
 }
