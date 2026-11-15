@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-11-15T00:27:25.690324",
-  "total": 0,
+  "timestamp": "2026-11-15T06:53:33.741916",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,7 +16,33 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "人生回报率最高的20件小事",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4905656.html",
+        "source": "虎嗅",
+        "time": "2026-11-15 06:53"
+      },
+      {
+        "title": "133亿元，“国民火腿肠”要被卖了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4905690.html",
+        "source": "虎嗅",
+        "time": "2026-11-15 06:53"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "人生回报率最高的20件小事",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4905656.html",
+      "source": "虎嗅",
+      "time": "2026-11-15 06:53"
+    },
+    {
+      "title": "133亿元，“国民火腿肠”要被卖了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4905690.html",
+      "source": "虎嗅",
+      "time": "2026-11-15 06:53"
+    }
+  ]
 }
