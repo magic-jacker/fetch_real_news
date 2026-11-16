@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-11-16T03:20:26.528016",
-  "total": 2,
+  "timestamp": "2026-11-16T11:48:35.908754",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -12,38 +12,11 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [
-      {
-        "title": "黄仁勋考虑重返英伟达，科技大佬连夜组建“作战室”",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4905788.html",
-        "source": "虎嗅",
-        "time": "2026-11-16 03:20"
-      }
-    ],
+    "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "达里奥为什么要整黄仁勋？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4905762.html",
-        "source": "虎嗅",
-        "time": "2026-11-16 03:20"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "达里奥为什么要整黄仁勋？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4905762.html",
-      "source": "虎嗅",
-      "time": "2026-11-16 03:20"
-    },
-    {
-      "title": "黄仁勋考虑重返英伟达，科技大佬连夜组建“作战室”",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4905788.html",
-      "source": "虎嗅",
-      "time": "2026-11-16 03:20"
-    }
-  ]
+  "raw_news": []
 }
