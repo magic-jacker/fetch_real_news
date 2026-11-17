@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-11-17T13:40:19.286414",
-  "total": 0,
+  "timestamp": "2026-11-17T21:56:09.816519",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -11,12 +11,39 @@
   },
   "categories": {
     "finance": [],
-    "industry": [],
+    "industry": [
+      {
+        "title": "新能源车的前脸，正在变成收费入口",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4906248.html",
+        "source": "虎嗅",
+        "time": "2026-11-17 21:56"
+      }
+    ],
     "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "独家｜对话傅利叶顾捷：我们会守住边界，不做大脑",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4906290.html",
+        "source": "虎嗅",
+        "time": "2026-11-17 21:56"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "独家｜对话傅利叶顾捷：我们会守住边界，不做大脑",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4906290.html",
+      "source": "虎嗅",
+      "time": "2026-11-17 21:56"
+    },
+    {
+      "title": "新能源车的前脸，正在变成收费入口",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4906248.html",
+      "source": "虎嗅",
+      "time": "2026-11-17 21:56"
+    }
+  ]
 }
