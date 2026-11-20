@@ -1,22 +1,49 @@
 {
-  "timestamp": "2026-11-19T18:42:31.249626",
-  "total": 0,
+  "timestamp": "2026-11-20T00:57:31.448986",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 2,
+    "虎嗅": 0,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
+    "finance": [
+      {
+        "title": "史上最大IPO开盘暴涨，市值一度逼近2万亿美元",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4907033.html",
+        "source": "虎嗅",
+        "time": "2026-11-20 00:57"
+      }
+    ],
     "industry": [],
     "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "马斯克真正的超能力，是让全世界替他付学费",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4907037.html",
+        "source": "虎嗅",
+        "time": "2026-11-20 00:57"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "马斯克真正的超能力，是让全世界替他付学费",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4907037.html",
+      "source": "虎嗅",
+      "time": "2026-11-20 00:57"
+    },
+    {
+      "title": "史上最大IPO开盘暴涨，市值一度逼近2万亿美元",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4907033.html",
+      "source": "虎嗅",
+      "time": "2026-11-20 00:57"
+    }
+  ]
 }
