@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-11-20T16:27:14.266373",
-  "total": 0,
+  "timestamp": "2026-11-20T22:43:27.953753",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -12,11 +12,38 @@
   "categories": {
     "finance": [],
     "industry": [],
-    "tech": [],
+    "tech": [
+      {
+        "title": "两天跌掉2800亿，腾讯冤么？",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4907097.html",
+        "source": "虎嗅",
+        "time": "2026-11-20 22:43"
+      }
+    ],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "余承东又喊你车上睡觉了，但是别睡死",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4907267.html",
+        "source": "虎嗅",
+        "time": "2026-11-20 22:43"
+      }
+    ]
   },
-  "raw_news": []
+  "raw_news": [
+    {
+      "title": "两天跌掉2800亿，腾讯冤么？",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4907097.html",
+      "source": "虎嗅",
+      "time": "2026-11-20 22:43"
+    },
+    {
+      "title": "余承东又喊你车上睡觉了，但是别睡死",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4907267.html",
+      "source": "虎嗅",
+      "time": "2026-11-20 22:43"
+    }
+  ]
 }
