@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-11-24T02:24:20.446583",
+  "timestamp": "2026-11-24T12:41:36.663773",
   "total": 1,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 0,
+    "虎嗅": 1,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [],
+    "finance": [
+      {
+        "title": "“AI央行”不能没了主席",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4908084.html",
+        "source": "虎嗅",
+        "time": "2026-11-24 12:41"
+      }
+    ],
     "industry": [],
     "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "特朗普一小时专访披露：黄仁勋回归内幕",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4907906.html",
-        "source": "虎嗅",
-        "time": "2026-11-24 02:24"
-      }
-    ]
+    "other": []
   },
   "raw_news": [
     {
-      "title": "特朗普一小时专访披露：黄仁勋回归内幕",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4907906.html",
+      "title": "“AI央行”不能没了主席",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4908084.html",
       "source": "虎嗅",
-      "time": "2026-11-24 02:24"
+      "time": "2026-11-24 12:41"
     }
   ]
 }
