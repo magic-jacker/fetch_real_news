@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-24T12:41:36.663773",
+  "timestamp": "2026-11-24T22:48:32.581608",
   "total": 1,
   "sources": {
     "财联社电报": 0,
@@ -10,27 +10,27 @@
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
-      {
-        "title": "“AI央行”不能没了主席",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4908084.html",
-        "source": "虎嗅",
-        "time": "2026-11-24 12:41"
-      }
-    ],
+    "finance": [],
     "industry": [],
     "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "好莱坞和Netflix，也快顶不住了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4908061.html",
+        "source": "虎嗅",
+        "time": "2026-11-24 22:48"
+      }
+    ]
   },
   "raw_news": [
     {
-      "title": "“AI央行”不能没了主席",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4908084.html",
+      "title": "好莱坞和Netflix，也快顶不住了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4908061.html",
       "source": "虎嗅",
-      "time": "2026-11-24 12:41"
+      "time": "2026-11-24 22:48"
     }
   ]
 }
