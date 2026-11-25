@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-11-24T22:48:32.581608",
-  "total": 1,
+  "timestamp": "2026-11-25T05:05:42.031359",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
@@ -16,21 +16,7 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "好莱坞和Netflix，也快顶不住了",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4908061.html",
-        "source": "虎嗅",
-        "time": "2026-11-24 22:48"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "好莱坞和Netflix，也快顶不住了",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4908061.html",
-      "source": "虎嗅",
-      "time": "2026-11-24 22:48"
-    }
-  ]
+  "raw_news": []
 }
