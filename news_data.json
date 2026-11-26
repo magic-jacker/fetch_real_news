@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-11-26T05:36:00.585707",
-  "total": 2,
+  "timestamp": "2026-11-26T15:52:42.300620",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -11,39 +11,12 @@
   },
   "categories": {
     "finance": [],
-    "industry": [
-      {
-        "title": "小鹏造机器人，没有订单也可以先量产",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4908593.html",
-        "source": "虎嗅",
-        "time": "2026-11-26 05:35"
-      }
-    ],
+    "industry": [],
     "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "欧舒丹的中国对手，一年卖了近150万瓶",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4908600.html",
-        "source": "虎嗅",
-        "time": "2026-11-26 05:35"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "小鹏造机器人，没有订单也可以先量产",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4908593.html",
-      "source": "虎嗅",
-      "time": "2026-11-26 05:35"
-    },
-    {
-      "title": "欧舒丹的中国对手，一年卖了近150万瓶",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4908600.html",
-      "source": "虎嗅",
-      "time": "2026-11-26 05:35"
-    }
-  ]
+  "raw_news": []
 }
