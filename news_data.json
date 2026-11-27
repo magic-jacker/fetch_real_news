@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-11-27T00:07:18.950676",
-  "total": 2,
+  "timestamp": "2026-11-27T08:50:50.999677",
+  "total": 0,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
@@ -16,33 +16,7 @@
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": [
-      {
-        "title": "文科最体面的职业，劝退中国年轻人",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4908607.html",
-        "source": "虎嗅",
-        "time": "2026-11-27 00:07"
-      },
-      {
-        "title": "卖挖掘机的中国厂商，为什么集体去搞电网？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4908709.html",
-        "source": "虎嗅",
-        "time": "2026-11-27 00:07"
-      }
-    ]
+    "other": []
   },
-  "raw_news": [
-    {
-      "title": "文科最体面的职业，劝退中国年轻人",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4908607.html",
-      "source": "虎嗅",
-      "time": "2026-11-27 00:07"
-    },
-    {
-      "title": "卖挖掘机的中国厂商，为什么集体去搞电网？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4908709.html",
-      "source": "虎嗅",
-      "time": "2026-11-27 00:07"
-    }
-  ]
+  "raw_news": []
 }
