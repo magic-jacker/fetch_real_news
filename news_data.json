@@ -1,36 +1,48 @@
 {
-  "timestamp": "2026-11-27T18:31:03.754316",
-  "total": 1,
+  "timestamp": "2026-11-28T01:41:36.569232",
+  "total": 2,
   "sources": {
     "财联社电报": 0,
     "财联社财经": 0,
     "36氪": 0,
     "钛媒体": 0,
-    "虎嗅": 1,
+    "虎嗅": 2,
     "华尔街见闻": 0
   },
   "categories": {
-    "finance": [
-      {
-        "title": "A股暴涨，会重演“924行情”吗？",
-        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4908953.html",
-        "source": "虎嗅",
-        "time": "2026-11-27 18:31"
-      }
-    ],
+    "finance": [],
     "industry": [],
     "tech": [],
     "byd": [],
     "tencent": [],
     "fitness": [],
-    "other": []
+    "other": [
+      {
+        "title": "一碗拉面揭开堂食店的定价死穴",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4909103.html",
+        "source": "虎嗅",
+        "time": "2026-11-28 01:41"
+      },
+      {
+        "title": "一觉醒来，西方已经连青霉素都造不出了",
+        "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4909082.html",
+        "source": "虎嗅",
+        "time": "2026-11-28 01:41"
+      }
+    ]
   },
   "raw_news": [
     {
-      "title": "A股暴涨，会重演“924行情”吗？",
-      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4908953.html",
+      "title": "一碗拉面揭开堂食店的定价死穴",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4909103.html",
       "source": "虎嗅",
-      "time": "2026-11-27 18:31"
+      "time": "2026-11-28 01:41"
+    },
+    {
+      "title": "一觉醒来，西方已经连青霉素都造不出了",
+      "url": "https://www.huxiu.comhttps://www.huxiu.com/article/4909082.html",
+      "source": "虎嗅",
+      "time": "2026-11-28 01:41"
     }
   ]
 }
